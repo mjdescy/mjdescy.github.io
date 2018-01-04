@@ -1,0 +1,32 @@
+email: your-email@domain.com
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+sass:
+  sass_dir: assets/stylesheets
+  style: :compressed
+
+title: "Michael Descy"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/mjdescy\">@mjdescy on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/mjdescy\">@mjdescy on Micro.blog</a>."
+baseurl: ""
+url: "https://mjdescy.micro.blog"
+markdown: "kramdown"
+username: "mjdescy"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Michael Descy"
+name: "Michael Descy"
+gravatar_hash: "15e0360269ca80f49dda5e1c6169226a"
+avatar: "https://micro.blog/mjdescy/avatar.jpg"
+full_name: "Michael Descy"
+bio: ""
+twitter_username: "mjdescy"
+github_username: "mjdescy"
+instagram_username: ""
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "US/Michigan"
+site_id: "2098"
