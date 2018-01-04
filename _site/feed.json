@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/04/dear-apple-music.html",
+	      	
+			"content_html": "<p>Dear Apple Music: Just because I listened to Sixpence Non The Richer’s cover of “There She Goes” (originally by the La’s, and arguably about <em>heroin</em>, for goodness sake), doesn’t mean I want to listen to Christian music in all my personalized mixes. 🙄</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/f15a2eda19.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-04T14:45:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/04/dear-apple-music.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/04/so-far-the.html",
 	      	
 			"content_html": "<p>So far the snowfall hasn’t been so bad—only a few inches so far. It is windy, though, and very cold. My daughter, home on a snow day, is watching “Frozen”, which is apt. I am turning my attention to hot tea and (less hot) database programming. </p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/f227df6316.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/01/02/things-i-wish-i-could-stop-doing-but-probably-cant/\">Things I wish I could stop doing, but probably can’t</a>, a to-<em>don’t</em> list for 2018.</p>\n",
 			"date_published": "2018-01-01T23:16:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/01/blog-post-things.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/02/i-cooked-a.html",
-	      	
-			"content_html": "<p>I cooked a New Years Day feast for my family today. I ate so much I feel <em>food drunk</em> right now. That’s probably not the wisest way to kick off a healthy new year.</p>\n",
-			"date_published": "2018-01-01T19:43:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/01/i-cooked-a.html"
 		}
 		
 	]
