@@ -1,0 +1,89 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Michael Descy",
+	"home_page_url": "https://mjdescy.micro.blog/",
+	"feed_url": "https://mjdescy.micro.blog/feed.json",
+	"items": [
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/04/i-hope-i.html",
+	      	
+			"content_html": "<p>I <em>hope</em> I set up <a href=\"http://help.micro.blog/2016/mirroring-to-github/\">mirroring to GitHub</a> correctly. It is a geeky feature, for sure, but I’m not 100% sure if I set it up correctly.</p>\n",
+			"date_published": "2018-01-03T22:31:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/03/i-hope-i.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/04/we-are-bracing.html",
+	      	
+			"content_html": "<p>We are bracing for a blizzard tonight, which is expected to snow us in all day tomorrow. School is canceled already. (Work isn’t.) I feel like it is a metaphor for what’s going on in my life right now. (Photo is historical.)</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/65f94f6882.jpg\" width=\"600\" height=\"576\" /></p>\n",
+			"date_published": "2018-01-03T21:35:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/03/we-are-bracing.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/03/it-looks-like.html",
+	      	
+			"content_html": "<p>It looks like I will be doing some C# coding for work this month. That stuff is more interesting than the database stuff I do, and far more rewarding than the VBA stuff I have to do sometimes. I wish I could use Swift instead, though.</p>\n",
+			"date_published": "2018-01-03T11:08:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/03/it-looks-like.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/03/i-like-tweetbothttpstapbotscomtweetbot.html",
+	      	
+			"content_html": "<p>I like <a href=\"https://tapbots.com/tweetbot/\">TweetBot</a> a lot more than I like Twitter.</p>\n",
+			"date_published": "2018-01-02T23:35:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/02/i-like-tweetbothttpstapbotscomtweetbot.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/02/it-must-be.html",
+	      	
+			"content_html": "<p>It must be January 2, because I just created a literal “Laundry List” in Reminders.</p>\n",
+			"date_published": "2018-01-02T13:21:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/02/it-must-be.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/02/its-back-to.html",
+	      	
+			"content_html": "<p>It’s back to work for me today, and I a digging out of my email inbox. Sometime later I will add a new “2018” folder to my “<a href=\"http://plaintext-productivity.net/3-02-file-folder-structure-for-life.html\">file system for life</a>”, the filing system I wrote about in <a href=\"http://plaintext-productivity.net\">Plaintext Productivity</a> several years ago. It feels good, each year, to marvel at how many project folders I created last year, leave them behind, and to prepare a clean space for new work.</p>\n",
+			"date_published": "2018-01-02T10:11:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/02/its-back-to.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/02/blog-post-things.html",
+	      	
+			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/01/02/things-i-wish-i-could-stop-doing-but-probably-cant/\">Things I wish I could stop doing, but probably can’t</a>, a to-<em>don’t</em> list for 2018.</p>\n",
+			"date_published": "2018-01-01T23:16:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/01/blog-post-things.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/02/i-cooked-a.html",
+	      	
+			"content_html": "<p>I cooked a New Years Day feast for my family today. I ate so much I feel <em>food drunk</em> right now. That’s probably not the wisest way to kick off a healthy new year.</p>\n",
+			"date_published": "2018-01-01T19:43:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/01/i-cooked-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/01/reading-peoples-new.html",
+	      	
+			"content_html": "<p>Reading people’s New Years Day posts has been both electrifying and chilling. 2017 a tough year for everyone’s mental health. It seems that a lot of people plan to limit Twitter and Facebook and the ridiculous daily news cycle this year. Me too.</p>\n",
+			"date_published": "2018-01-01T14:35:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/01/reading-peoples-new.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/01/we-are-at.html",
+	      	
+			"content_html": "<p>We are at my neighbors’ house for a simulated 7:30 PM ball drop. Fun NYE party!</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d1c11909a1.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-31T19:04:00-05:00",
+			"url": "https://mjdescy.micro.blog/2017/12/31/we-are-at.html"
+		}
+		
+	]
+}
