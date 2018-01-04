@@ -1,3 +1,5 @@
-# mjdescy.github.io
+# Microblog with Jekyll
 
-This is a mirror/backup of my micro blog, mjdescy.micro.blog.
+We'll add more information as it happens.
+
+A project by Garth Braithwaite and Tim Smith.
