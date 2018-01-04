@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/04/blog-post-picking.html",
+	      	
+			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/01/04/picking-a-great-writing-font/\">Picking a great writing font</a>. Do you like good writing fonts? I’m loving Plex Mono and iA Duospace right now.</p>\n",
+			"date_published": "2018-01-04T00:05:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/04/blog-post-picking.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/04/i-hope-i.html",
 	      	
 			"content_html": "<p>I <em>hope</em> I set up <a href=\"http://help.micro.blog/2016/mirroring-to-github/\">mirroring to GitHub</a> correctly. It is a geeky feature, for sure, but I’m not 100% sure if I set it up correctly.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Reading people’s New Years Day posts has been both electrifying and chilling. 2017 a tough year for everyone’s mental health. It seems that a lot of people plan to limit Twitter and Facebook and the ridiculous daily news cycle this year. Me too.</p>\n",
 			"date_published": "2018-01-01T14:35:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/01/reading-peoples-new.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/01/we-are-at.html",
-	      	
-			"content_html": "<p>We are at my neighbors’ house for a simulated 7:30 PM ball drop. Fun NYE party!</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d1c11909a1.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-31T19:04:00-05:00",
-			"url": "https://mjdescy.micro.blog/2017/12/31/we-are-at.html"
 		}
 		
 	]
