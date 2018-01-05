@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/05/i-happened-slowly.html",
+	      	
+			"content_html": "<p>I happened slowly, but preferred music playback device size and number of wires have gone up for me over time. 2010: iPod Shuffle. 2017: iPad Air 2 &amp; Oppo HA2-SE.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/8480213f4d.jpg\" width=\"600\" height=\"379\" /></p>\n",
+			"date_published": "2018-01-05T09:09:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/05/i-happened-slowly.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/05/my-wife-and.html",
 	      	
 			"content_html": "<p>My wife and I are really enjoying “The Great British Bake Off”, “The Marvelous Mrs. Mazel”, and “The Good Place” lately. It is still really hard to watch <em>anything</em> with a baby in the house, though.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>It must be January 2, because I just created a literal “Laundry List” in Reminders.</p>\n",
 			"date_published": "2018-01-02T13:21:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/02/it-must-be.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/02/its-back-to.html",
-	      	
-			"content_html": "<p>It’s back to work for me today, and I a digging out of my email inbox. Sometime later I will add a new “2018” folder to my “<a href=\"http://plaintext-productivity.net/3-02-file-folder-structure-for-life.html\">file system for life</a>”, the filing system I wrote about in <a href=\"http://plaintext-productivity.net\">Plaintext Productivity</a> several years ago. It feels good, each year, to marvel at how many project folders I created last year, leave them behind, and to prepare a clean space for new work.</p>\n",
-			"date_published": "2018-01-02T10:11:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/02/its-back-to.html"
 		}
 		
 	]
