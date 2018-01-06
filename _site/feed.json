@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/06/i-dont-even.html",
+	      	
+			"content_html": "<p>I don’t even wish I was actually this good at solving The New York Times Mini Crossword Puzzle.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d5a192e283.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-06T08:34:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/06/i-dont-even.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/05/my-prediction-for.html",
 	      	
 			"content_html": "<p>My prediction for “The Good Place” series finale (which hopefully will be several years from now): The <em>whole thing</em> is <em>Michael’s</em> “Bad Place”. <em>He’s</em> the one being tortured. Holy forking shirt balls!</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/5c584937a1.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>We are bracing for a blizzard tonight, which is expected to snow us in all day tomorrow. School is canceled already. (Work isn’t.) I feel like it is a metaphor for what’s going on in my life right now. (Photo is historical.)</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/65f94f6882.jpg\" width=\"600\" height=\"576\" /></p>\n",
 			"date_published": "2018-01-03T21:35:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/03/we-are-bracing.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/03/it-looks-like.html",
-	      	
-			"content_html": "<p>It looks like I will be doing some C# coding for work this month. That stuff is more interesting than the database stuff I do, and far more rewarding than the VBA stuff I have to do sometimes. I wish I could use Swift instead, though.</p>\n",
-			"date_published": "2018-01-03T11:08:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/03/it-looks-like.html"
 		}
 		
 	]
