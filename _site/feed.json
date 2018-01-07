@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/07/i-am-lazily.html",
+	      	
+			"content_html": "<p>I am lazily cooking salsa chicken thighs for either lunch or dinner.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/8d45cf5704.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-07T11:40:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/07/i-am-lazily.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/07/tonight-i-made.html",
 	      	
 			"content_html": "<p>Tonight I made my first commit to <a href=\"http://swiftodoapp.com\">SwiftoDo</a> since mid-December. I fell behind on development last month due to the holidays, travel, and spending a week or so of my normal coding time doing a C# project for work. Hopefully I am now getting back on track.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>So far the snowfall hasn’t been so bad—only a few inches so far. It is windy, though, and very cold. My daughter, home on a snow day, is watching “Frozen”, which is apt. I am turning my attention to hot tea and (less hot) database programming. </p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/f227df6316.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-04T10:16:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/04/so-far-the.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/04/blog-post-picking.html",
-	      	
-			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/01/04/picking-a-great-writing-font/\">Picking a great writing font</a>. Do you like good writing fonts? I’m loving Plex Mono and iA Duospace right now.</p>\n",
-			"date_published": "2018-01-04T00:05:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/04/blog-post-picking.html"
 		}
 		
 	]
