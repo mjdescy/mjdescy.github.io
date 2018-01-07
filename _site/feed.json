@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/07/my-wife-and.html",
+	      	
+			"content_html": "<p>My wife and I took my 5 year old daughter to “Disney on Ice” this afternoon. She loved it. It was worth the trek out into the cold.</p>\n",
+			"date_published": "2018-01-06T20:10:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/06/my-wife-and.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/06/i-dont-even.html",
 	      	
 			"content_html": "<p>I don’t even wish I was actually this good at solving The New York Times Mini Crossword Puzzle.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d5a192e283.jpg\" width=\"599\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I <em>hope</em> I set up <a href=\"http://help.micro.blog/2016/mirroring-to-github/\">mirroring to GitHub</a> correctly. It is a geeky feature, for sure, but I’m not 100% sure if I set it up correctly.</p>\n",
 			"date_published": "2018-01-03T22:31:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/03/i-hope-i.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/04/we-are-bracing.html",
-	      	
-			"content_html": "<p>We are bracing for a blizzard tonight, which is expected to snow us in all day tomorrow. School is canceled already. (Work isn’t.) I feel like it is a metaphor for what’s going on in my life right now. (Photo is historical.)</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/65f94f6882.jpg\" width=\"600\" height=\"576\" /></p>\n",
-			"date_published": "2018-01-03T21:35:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/03/we-are-bracing.html"
 		}
 		
 	]
