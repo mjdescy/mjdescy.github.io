@@ -4,8 +4,19 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Mon, 08 Jan 2018 15:34:18 -0500</pubDate>
-    <lastBuildDate>Mon, 08 Jan 2018 15:34:18 -0500</lastBuildDate>
+    <pubDate>Mon, 08 Jan 2018 17:34:53 -0500</pubDate>
+    <lastBuildDate>Mon, 08 Jan 2018 17:34:53 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I posted some photos I took in my son’s room. I hope he likes flowers. (He’s a baby.)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mjdescy.micro.blog/uploads/2018/e7e3b446ac.jpg&quot; width=&quot;600&quot; height=&quot;599&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Jan 2018 17:34:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/01/08/i-posted-some.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/08/i-posted-some.html</guid>
+      </item>
     
       <item>
       	
@@ -489,15 +500,6 @@ All is not lost, no all is not lost at all&lt;/p&gt;
         <pubDate>Wed, 20 Dec 2017 22:06:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2017/12/20/i-spent-some.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2017/12/21/i-spent-some.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Twitter is abuzz about &lt;a href=&quot;https://www.bloomberg.com/news/articles/2017-12-20/apple-is-said-to-have-plan-to-combine-iphone-ipad-and-mac-apps&quot;&gt;UIKit, perhaps, going to the Mac late next year&lt;/a&gt;. We’ll see. I would love to code a new version of my todo.txt app, SwiftoDo Desktop, in UIKit rather than AppKit. The different table view model is a big factor in that, though UIKit’s window and split view controls are, of course, different, too. WWDC will be especially interesting next year.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 20 Dec 2017 14:11:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2017/12/20/twitter-is-abuzz.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2017/12/20/twitter-is-abuzz.html</guid>
       </item>
     
   </channel>
