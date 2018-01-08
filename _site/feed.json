@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/08/i-posted-some.html",
+	      	
+			"content_html": "<p>I posted some photos I took in my son’s room. I hope he likes flowers. (He’s a baby.)</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/e7e3b446ac.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-01-08T17:34:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/08/i-posted-some.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/08/i-am-righting.html",
 	      	
 			"content_html": "<p>I am righting the ship, compared to this morning. I scrapped my C# solution and started fresh. I won’t be happy with it until I’ve coded the entire thing. Maybe not even then.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>It happened slowly, but preferred music playback device size and wire count have gone up for me over time. 2010: iPod Shuffle. 2017: iPad Air 2 &amp; Oppo HA2-SE.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/8480213f4d.jpg\" width=\"600\" height=\"379\" /></p>\n",
 			"date_published": "2018-01-05T09:09:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/05/i-happened-slowly.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/05/my-wife-and.html",
-	      	
-			"content_html": "<p>My wife and I are really enjoying “The Great British Bake Off”, “The Marvelous Mrs. Mazel”, and “The Good Place” lately. It is still really hard to watch <em>anything</em> with a baby in the house, though.</p>\n",
-			"date_published": "2018-01-04T23:38:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/04/my-wife-and.html"
 		}
 		
 	]
