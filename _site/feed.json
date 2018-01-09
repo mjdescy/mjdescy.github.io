@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/09/the-dining-room.html",
+	      	
+			"content_html": "<p>The dining room is looking better now, too. I can’t believe we didn’t put anything up on that wall for 7 years.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/809e854066.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-01-09T12:01:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/09/the-dining-room.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/09/blog-post-plaintext.html",
 	      	
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/01/09/plaintext-productivity-still-productive-after-all-these-years/\">Plaintext Productivity: Still productive after all these years</a>, a status update to my <a href=\"http://plaintext-productivity.net\">Plaintext Productivity</a> system.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I don’t even wish I was actually this good at solving The New York Times Mini Crossword Puzzle.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d5a192e283.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-06T08:34:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/06/i-dont-even.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/05/my-prediction-for.html",
-	      	
-			"content_html": "<p>My prediction for “The Good Place” series finale (which hopefully will be several years from now): The <em>whole thing</em> is <em>Michael’s</em> “Bad Place”. <em>He’s</em> the one being tortured. Holy forking shirt balls!</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/5c584937a1.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-01-05T16:47:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/05/my-prediction-for.html"
 		}
 		
 	]
