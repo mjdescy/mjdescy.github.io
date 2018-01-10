@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/10/the-performance-enhancements.html",
+	      	
+			"content_html": "<p>The performance enhancements I coded for <a href=\"http://swiftodoapp.com\">SwiftoDo</a> this week required me to replace some clean, clever code with some far less clever, but far more performant, code. All the unit tests pass, and scrolling is smoother, so I guess it’s an OK trade-off.</p>\n",
+			"date_published": "2018-01-10T10:20:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/10/the-performance-enhancements.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/09/ready-player-one.html",
 	      	
 			"title": "Ready Player One",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Tonight I made my first commit to <a href=\"http://swiftodoapp.com\">SwiftoDo</a> since mid-December. I fell behind on development last month due to the holidays, travel, and spending a week or so of my normal coding time doing a C# project for work. Hopefully I am now getting back on track.</p>\n",
 			"date_published": "2018-01-06T23:56:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/06/tonight-i-made.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/07/my-wife-and.html",
-	      	
-			"content_html": "<p>My wife and I took my 5 year old daughter to “Disney on Ice” this afternoon. She loved it. It was worth the trek out into the cold.</p>\n",
-			"date_published": "2018-01-06T20:10:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/06/my-wife-and.html"
 		}
 		
 	]
