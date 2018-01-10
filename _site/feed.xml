@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Tue, 09 Jan 2018 18:42:39 -0500</pubDate>
-    <lastBuildDate>Tue, 09 Jan 2018 18:42:39 -0500</lastBuildDate>
+    <pubDate>Wed, 10 Jan 2018 10:20:30 -0500</pubDate>
+    <lastBuildDate>Wed, 10 Jan 2018 10:20:30 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;The performance enhancements I coded for &lt;a href=&quot;http://swiftodoapp.com&quot;&gt;SwiftoDo&lt;/a&gt; this week required me to replace some clean, clever code with some far less clever, but far more performant, code. All the unit tests pass, and scrolling is smoother, so I guess it’s an OK trade-off.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 Jan 2018 10:20:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/01/10/the-performance-enhancements.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/10/the-performance-enhancements.html</guid>
+      </item>
     
       <item>
       	
@@ -497,15 +506,6 @@ All is not lost, no all is not lost at all&lt;/p&gt;
         <pubDate>Fri, 22 Dec 2017 00:13:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2017/12/22/i-am-up.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2017/12/22/i-am-up.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;According to Dark Sky, a Christmas morning snowstorm may interfere with my holday travel plans. I am crossing my fingers that it doesn’t happen.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 21 Dec 2017 19:54:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2017/12/21/according-to-dark.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2017/12/22/according-to-dark.html</guid>
       </item>
     
   </channel>
