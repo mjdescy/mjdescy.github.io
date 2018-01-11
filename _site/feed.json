@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/11/i-feel-like.html",
+	      	
+			"content_html": "<p>I feel like I’ve been editing and formatting this Excel budget spreadsheet since the beginning of time.</p>\n",
+			"date_published": "2018-01-11T16:40:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/11/i-feel-like.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/11/when-i-woke.html",
 	      	
 			"content_html": "<p>When I woke up today, the TestFlight version of the app I’ve been working on all week didn’t work at all for some reason. Hastily, I rejected the Developer Build in iTunes Connect, so it wouldn’t go out to customers. Rebooting my iPhone reboot fixed all the problems, though.</p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>I am righting the ship, compared to this morning. I scrapped my C# solution and started fresh. I won’t be happy with it until I’ve coded the entire thing. Maybe not even then.</p>\n",
 			"date_published": "2018-01-08T15:34:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/08/i-am-righting.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/08/i-am-getting.html",
-	      	
-			"content_html": "<p>I am getting that sinking feeling again that I have overthought <em>everything</em>. I get this a lot while coding, especially because my work-related coding should be <em>time efficient</em> above other considerations. That requirement often forces me to revert to simpler, less reusable code.</p>\n",
-			"date_published": "2018-01-08T10:07:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/08/i-am-getting.html"
 		}
 		
 	]
