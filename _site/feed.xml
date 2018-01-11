@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Wed, 10 Jan 2018 17:06:13 -0500</pubDate>
-    <lastBuildDate>Wed, 10 Jan 2018 17:06:13 -0500</lastBuildDate>
+    <pubDate>Thu, 11 Jan 2018 10:46:04 -0500</pubDate>
+    <lastBuildDate>Thu, 11 Jan 2018 10:46:04 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;When I woke up today, the TestFlight version of the app I’ve been working on all week didn’t work at all for some reason. Hastily, I rejected the Developer Build in iTunes Connect, so it wouldn’t go out to customers. Rebooting my iPhone reboot fixed all the problems, though.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Jan 2018 10:46:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/01/11/when-i-woke.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/11/when-i-woke.html</guid>
+      </item>
     
       <item>
       	
@@ -499,15 +508,6 @@ All is not lost, no all is not lost at all&lt;/p&gt;
         <pubDate>Fri, 22 Dec 2017 14:18:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2017/12/22/a-long-lunch.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2017/12/22/a-long-lunch.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;So much of all programming, and really all work in general, is developing a common vocabulary, and after that, common goals. That is &lt;em&gt;most&lt;/em&gt; of the work in a lot of the projects I work on.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 22 Dec 2017 11:16:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2017/12/22/so-much-of.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2017/12/22/so-much-of.html</guid>
       </item>
     
   </channel>
