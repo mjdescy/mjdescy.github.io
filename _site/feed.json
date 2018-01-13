@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/13/in-my-s.html",
+	      	
+			"content_html": "<p>In my 20s I only drank Manhattans straight up. Now, deep into my 30s, I prefer them on the rocks—but only when homemade. It’s been quite a week for me and now it is time to unwind. Cheers!</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/7b76a40bbf.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-12T21:09:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/12/in-my-s.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/12/every-few-days.html",
 	      	
 			"content_html": "<p>Every few days I have to talk myself out of buying another pair of headphones. I don’t need the HifiMan HE-400i, and their sound leakage probably wouldn’t suit my listening needs at all, but I can’t stop thinking about adding an open-backed headphone to my meager collection.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/6cc2d36edd.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>The dining room is looking better now, too. I can’t believe we didn’t put anything up on that wall for 7 years.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/809e854066.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-01-09T12:01:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/09/the-dining-room.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/09/blog-post-plaintext.html",
-	      	
-			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/01/09/plaintext-productivity-still-productive-after-all-these-years/\">Plaintext Productivity: Still productive after all these years</a>, a status update to my <a href=\"http://plaintext-productivity.net\">Plaintext Productivity</a> system.</p>\n",
-			"date_published": "2018-01-09T07:53:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/09/blog-post-plaintext.html"
 		}
 		
 	]
