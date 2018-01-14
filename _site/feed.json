@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/14/what-a-clinic.html",
+	      	
+			"content_html": "<p>What a clinic the Patriots ran against the Titans tonight. 🏈</p>\n",
+			"date_published": "2018-01-13T23:48:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/13/what-a-clinic.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/14/the-crayola-experience.html",
 	      	
 			"content_html": "<p>The Crayola Experience was…OK, I guess. My daughter said she liked it. The rest of the day was a lot more fun, I think.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/7bfbf1a0e7.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I submitted a new <a href=\"http://swiftodoapp.com\">SwiftoDo</a> build to the App Store for a “Bug Fixes and Performance Improvements” update. Now I can move on to more important things.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/243371c849.jpg\" width=\"600\" height=\"47\" /></p>\n",
 			"date_published": "2018-01-10T17:06:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/10/i-submitted-a.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/10/the-performance-enhancements.html",
-	      	
-			"content_html": "<p>The performance enhancements I coded for <a href=\"http://swiftodoapp.com\">SwiftoDo</a> this week required me to replace some clean, clever code with some far less clever, but far more performant, code. All the unit tests pass, and scrolling is smoother, so I guess it’s an OK trade-off.</p>\n",
-			"date_published": "2018-01-10T10:20:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/10/the-performance-enhancements.html"
 		}
 		
 	]
