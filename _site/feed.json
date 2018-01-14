@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/14/the-crayola-experience.html",
+	      	
+			"content_html": "<p>The Crayola Experience was…OK, I guess. My daughter said she liked it. The rest of the day was a lot more fun, I think.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/7bfbf1a0e7.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-13T20:44:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/13/the-crayola-experience.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/13/its-a-road.html",
 	      	
 			"content_html": "<p>It’s a road trip day for me and my family. Picking the driving music 🎵 is the hardest part. We mostly stick to Laurie Berliner Band and Hamilton. I’d love it if we could branch out more from there.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/0ade6348ae.jpg\" width=\"599\" height=\"600\" /></p>\n",
@@ -75,16 +83,6 @@
 			"content_html": "<p>The performance enhancements I coded for <a href=\"http://swiftodoapp.com\">SwiftoDo</a> this week required me to replace some clean, clever code with some far less clever, but far more performant, code. All the unit tests pass, and scrolling is smoother, so I guess it’s an OK trade-off.</p>\n",
 			"date_published": "2018-01-10T10:20:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/10/the-performance-enhancements.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/09/ready-player-one.html",
-	      	
-			"title": "Ready Player One",
-			
-			"content_html": "<p>I just finished <em>Ready Player One</em> by Ernest Cline 📚 . It was light and enjoyable the whole way through. I’m not sure just how much I liked it, as reading it was a little like watching somebody else play video games, which is not really my thing, but I did like it. I’m glad the author addressed the isolation of all the main characters in real life, at least a little. It could have had more depth in that area, but that might have diminished its charm.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/94ab55d10a.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-09T18:42:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/09/ready-player-one.html"
 		}
 		
 	]
