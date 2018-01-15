@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/15/its-a-quiet.html",
+	      	
+			"content_html": "<p>It’s a quiet workday. I am coding and debugging in C# once again, at least until more audit work rolls in. I’m listening to the Cranberries <a href=\"https://www.nytimes.com/2018/01/15/obituaries/dolores-oriordan-dead.html\">for a sad reason</a>, too 🎵.</p>\n",
+			"date_published": "2018-01-15T15:26:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/15/its-a-quiet.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/15/we-had-a.html",
 	      	
 			"content_html": "<p>We had a good friend over for dinner tonight, which we don’t do as often as we should. It was really nice. It seems so hard to do, but it doesn’t really have to be.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>The budget I was working on is complete, and soup I made on my lunch break is cooling in the kitchen. Phew! I am looking forward to the weekend.</p>\n",
 			"date_published": "2018-01-12T13:35:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/12/the-budget-i.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/12/i-think-it.html",
-	      	
-			"content_html": "<p>I think it is really cool how many people are hacking away at projects to integrate their sites with micro.blog. I am happy, too, to have <a href=\"https://micro.blog/manton\">@manton</a> handle hosting for me, so I can concentrate on writing.</p>\n",
-			"date_published": "2018-01-11T21:10:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/11/i-think-it.html"
 		}
 		
 	]
