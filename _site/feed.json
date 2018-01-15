@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/15/micro-monday-the.html",
+	      	
+			"content_html": "<p>Micro Monday: The “🙌 likes” that <a href=\"https://micro.blog/eli\">@eli</a> shares are a nice addition to my usual RSS feeds.</p>\n",
+			"date_published": "2018-01-15T18:46:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/15/micro-monday-the.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/15/its-a-quiet.html",
 	      	
 			"content_html": "<p>It’s a quiet workday. I am coding and debugging in C# once again, at least until more audit work rolls in. I’m listening to the Cranberries <a href=\"https://www.nytimes.com/2018/01/15/obituaries/dolores-oriordan-dead.html\">for a sad reason</a>, too 🎵.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Every few days I have to talk myself out of buying another pair of headphones. I don’t need the HifiMan HE-400i, and their sound leakage probably wouldn’t suit my listening needs at all, but I can’t stop thinking about adding an open-backed headphone to my meager collection.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/6cc2d36edd.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-12T16:25:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/12/every-few-days.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/12/the-budget-i.html",
-	      	
-			"content_html": "<p>The budget I was working on is complete, and soup I made on my lunch break is cooling in the kitchen. Phew! I am looking forward to the weekend.</p>\n",
-			"date_published": "2018-01-12T13:35:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/12/the-budget-i.html"
 		}
 		
 	]
