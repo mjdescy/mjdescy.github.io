@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/16/slate-pushed-a.html",
+	      	
+			"content_html": "<p><a href=\"https://slate.com/briefing/2018/01/why-we-redesigned-slate.html\">Slate pushed a redesign today</a>. I used to love Slate, but I’m afraid I aged out of its target audience or it drifted away from me, because it doesn’t seem as smart to me anymore. I still love the <a href=\"http://www.slate.com/articles/podcasts/gabfest.html\">Political Gabfest</a> though.</p>\n",
+			"date_published": "2018-01-16T09:59:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/16/slate-pushed-a.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/16/blog-post-chicken.html",
 	      	
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/01/16/chicken-sausage-and-escarole-soup-recipe/\">Chicken sausage and escarole soup recipe</a></p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/e69ffab93a.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>What a clinic the Patriots ran against the Titans tonight. 🏈</p>\n",
 			"date_published": "2018-01-13T23:48:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/13/what-a-clinic.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/14/the-crayola-experience.html",
-	      	
-			"content_html": "<p>The Crayola Experience was…OK, I guess. My daughter said she liked it. The rest of the day was a lot more fun, I think.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/7bfbf1a0e7.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-13T20:44:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/13/the-crayola-experience.html"
 		}
 		
 	]
