@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Mon, 15 Jan 2018 23:53:52 -0500</pubDate>
-    <lastBuildDate>Mon, 15 Jan 2018 23:53:52 -0500</lastBuildDate>
+    <pubDate>Tue, 16 Jan 2018 09:59:03 -0500</pubDate>
+    <lastBuildDate>Tue, 16 Jan 2018 09:59:03 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://slate.com/briefing/2018/01/why-we-redesigned-slate.html&quot;&gt;Slate pushed a redesign today&lt;/a&gt;. I used to love Slate, but I’m afraid I aged out of its target audience or it drifted away from me, because it doesn’t seem as smart to me anymore. I still love the &lt;a href=&quot;http://www.slate.com/articles/podcasts/gabfest.html&quot;&gt;Political Gabfest&lt;/a&gt; though.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 16 Jan 2018 09:59:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/01/16/slate-pushed-a.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/16/slate-pushed-a.html</guid>
+      </item>
     
       <item>
       	
@@ -502,15 +511,6 @@
         <pubDate>Sat, 30 Dec 2017 23:13:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2017/12/30/blog-post-top.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2017/12/31/blog-post-top.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I don’t love how en-dashes (–) and em-dashes (—) look identical in Ulysses. I &lt;em&gt;know&lt;/em&gt; it is because I use monospace fonts. I just wish Ulysses did something to differentiate them. I don’t know/trust that macOS is inserting the correct symbol when I type (dash) (dash) (dash).&lt;/p&gt;
-</description>
-        <pubDate>Sat, 30 Dec 2017 22:37:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2017/12/30/i-dont-love.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2017/12/31/i-dont-love.html</guid>
       </item>
     
   </channel>
