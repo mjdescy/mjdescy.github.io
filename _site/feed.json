@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/17/swiftodo-is-now.html",
+	      	
+			"content_html": "<p><a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">SwiftoDo 2.6.3 is now available in the App Store</a> 📱. It fixes a couple bugs and improves scrolling performance of the task list.</p>\n",
+			"date_published": "2018-01-17T15:01:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/17/swiftodo-is-now.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/17/blog-post-eye.html",
 	      	
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/01/17/eye-round-roast-recipe/\">Eye round roast recipe</a></p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/b03b63a254.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>We had a good friend over for dinner tonight, which we don’t do as often as we should. It was really nice. It seems so hard to do, but it doesn’t really have to be.</p>\n",
 			"date_published": "2018-01-14T22:01:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/14/we-had-a.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/15/this-eye-round.html",
-	      	
-			"content_html": "<p>This eye round roast came out magnificently, too. Am I starting a food blog now? (Is that annoying?)</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d406d39a03.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-14T19:58:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/14/this-eye-round.html"
 		}
 		
 	]
