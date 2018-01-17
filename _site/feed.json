@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/17/i-resubmitted-swiftodohttpswiftodoappcom.html",
+	      	
+			"content_html": "<p>I resubmitted <a href=\"http://swiftodoapp.com\">SwiftoDo</a> 2.6.3 to the App Store after several more days of testing. It looks good to go.</p>\n",
+			"date_published": "2018-01-16T22:36:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/16/i-resubmitted-swiftodohttpswiftodoappcom.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/16/slate-pushed-a.html",
 	      	
 			"content_html": "<p><a href=\"https://slate.com/briefing/2018/01/why-we-redesigned-slate.html\">Slate pushed a redesign today</a>. I used to love Slate, but I’m afraid I aged out of its target audience or it drifted away from me, because it doesn’t seem as smart to me anymore. I still love the <a href=\"http://www.slate.com/articles/podcasts/gabfest.html\">Political Gabfest</a> though.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>My chicken sausage escarole soup came out so delicious that I’m thinking of posting my recipe. Do people still post recipes to their personal blogs? I originally did not want to start doing that again, but now I feel like I might as well.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/08c509965c.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-14T14:11:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/14/my-chicken-sausage.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/14/what-a-clinic.html",
-	      	
-			"content_html": "<p>What a clinic the Patriots ran against the Titans tonight. 🏈</p>\n",
-			"date_published": "2018-01-13T23:48:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/13/what-a-clinic.html"
 		}
 		
 	]
