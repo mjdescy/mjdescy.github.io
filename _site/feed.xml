@@ -4,8 +4,19 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Wed, 17 Jan 2018 15:02:00 -0500</pubDate>
-    <lastBuildDate>Wed, 17 Jan 2018 15:02:00 -0500</lastBuildDate>
+    <pubDate>Wed, 17 Jan 2018 22:45:47 -0500</pubDate>
+    <lastBuildDate>Wed, 17 Jan 2018 22:45:47 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’m adding some very basic URL handling support to &lt;a href=&quot;http://swiftodoapp.com&quot;&gt;SwiftoDo&lt;/a&gt; tonight, based on a user request. I almost never put URLs into my task list, so I never thought to add it, but of course it makes sense.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mjdescy.micro.blog/uploads/2018/50a95dbe70.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Jan 2018 22:45:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/01/17/im-adding-some.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/18/im-adding-some.html</guid>
+      </item>
     
       <item>
       	
@@ -500,15 +511,6 @@
         <pubDate>Mon, 01 Jan 2018 19:43:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2018/01/01/i-cooked-a.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/02/i-cooked-a.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Reading people’s New Years Day posts has been both electrifying and chilling. 2017 a tough year for everyone’s mental health. It seems that a lot of people plan to limit Twitter and Facebook and the ridiculous daily news cycle this year. Me too.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 01 Jan 2018 14:35:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2018/01/01/reading-peoples-new.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/01/reading-peoples-new.html</guid>
       </item>
     
   </channel>
