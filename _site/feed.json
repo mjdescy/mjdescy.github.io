@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/18/unpopular-opinion-calendars.html",
+	      	
+			"content_html": "<p>Unpopular opinion: <a href=\"https://readdle.com/products/calendars5\">Calendars 5</a> is better than <a href=\"https://flexibits.com/fantastical-iphone\">Fantastical</a>. I have had both on my iOS devices for years and finally chose <em>just one</em> today. I prefer how Calendars 5 handles tasks and how it displays the results of natural language parsing, which is just as good as Fantastical’s.</p>\n",
+			"date_published": "2018-01-18T10:15:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/18/unpopular-opinion-calendars.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/18/im-adding-some.html",
 	      	
 			"content_html": "<p>I’m adding some very basic URL handling support to <a href=\"http://swiftodoapp.com\">SwiftoDo</a> tonight, based on a user request. I almost never put URLs into my task list, so I never thought to add it, but of course it makes sense.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/50a95dbe70.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Micro Monday: The “🙌 likes” that <a href=\"https://micro.blog/eli\">@eli</a> shares are a nice addition to my usual RSS feeds.</p>\n",
 			"date_published": "2018-01-15T18:46:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/15/micro-monday-the.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/15/its-a-quiet.html",
-	      	
-			"content_html": "<p>It’s a quiet workday. I am coding and debugging in C# once again, at least until more audit work rolls in. I’m listening to the Cranberries <a href=\"https://www.nytimes.com/2018/01/15/obituaries/dolores-oriordan-dead.html\">for a sad reason</a>, too 🎵.</p>\n",
-			"date_published": "2018-01-15T15:26:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/15/its-a-quiet.html"
 		}
 		
 	]
