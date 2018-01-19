@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/19/for-some-reason.html",
+	      	
+			"content_html": "<p>For some reason I am really nervous about my ENT appointment today. Hearing tests are nerve wracking for me, due to a bad experience several years back.</p>\n",
+			"date_published": "2018-01-19T11:18:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/19/for-some-reason.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/19/i-brought-my.html",
 	      	
 			"content_html": "<p>I brought my daughter out to the school bus today, which I don’t normally do, due to my work schedule. We shared a nice little moment in the bracing cold.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/01/16/chicken-sausage-and-escarole-soup-recipe/\">Chicken sausage and escarole soup recipe</a></p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/e69ffab93a.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-01-15T23:53:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/15/blog-post-chicken.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/16/my-wifes-and.html",
-	      	
-			"content_html": "<p>My wife’s and daughter’s strawberry swirl mini muffins turned out nicely, but bedtime had to be pushed back quite a bit. It’s a fair trade-off, I suppose.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/fea82b1239.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-01-15T21:32:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/15/my-wifes-and.html"
 		}
 		
 	]
