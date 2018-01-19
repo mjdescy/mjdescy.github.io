@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/19/i-brought-my.html",
+	      	
+			"content_html": "<p>I brought my daughter out to the school bus today, which I don’t normally do, due to my work schedule. We shared a nice little moment in the bracing cold.</p>\n",
+			"date_published": "2018-01-19T09:08:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/19/i-brought-my.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/19/i-pulled-a.html",
 	      	
 			"content_html": "<p>I pulled a bunch of samples in ACL today for work, and have to do it again tomorrow. I caught up on podcast listening all the while (<a href=\"https://www.relay.fm/rd\">Reconcilable Differences</a> and <a href=\"https://twit.tv/shows/security-now\">Security Now</a>). It is nice to have a normal workday sometimes.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>My wife’s and daughter’s strawberry swirl mini muffins turned out nicely, but bedtime had to be pushed back quite a bit. It’s a fair trade-off, I suppose.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/fea82b1239.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-01-15T21:32:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/15/my-wifes-and.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/15/its-a-speed.html",
-	      	
-			"content_html": "<p>It’s a speed run in our kitchen tonight. My wife and daughter are rushing to make mini muffin batter and put it in the oven before bath time—in 20 minutes total. That would be a speed record for them. 🏁 And…the <a href=\"https://pastrychefonline.com/2009/01/27/the-muffin-method/\">muffin mixing method</a> just got kicked by the wayside. 😂</p>\n",
-			"date_published": "2018-01-15T18:53:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/15/its-a-speed.html"
 		}
 		
 	]
