@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/20/i-made-another.html",
+	      	
+			"content_html": "<p>I made another change to <a href=\"http:/swiftodoapp.com\">SwiftoDo</a> to help a user with an abnormally large task list load their file faster. Now loading a big list is <em>way</em> faster, but table view scrolling stutters once again. Performance tuning is full of trade-offs.</p>\n",
+			"date_published": "2018-01-19T22:16:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/19/i-made-another.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/20/good-news-i.html",
 	      	
 			"content_html": "<p>Good news! I can hear as well as I ought to at my age. I just hear a ringing that isn’t there: my own, one-note personal soundtrack. I was cleared to listen to music or white noise to drown it out. That’s OK, I guess.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I resubmitted <a href=\"http://swiftodoapp.com\">SwiftoDo</a> 2.6.3 to the App Store after several more days of testing. It looks good to go.</p>\n",
 			"date_published": "2018-01-16T22:36:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/16/i-resubmitted-swiftodohttpswiftodoappcom.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/16/slate-pushed-a.html",
-	      	
-			"content_html": "<p><a href=\"https://slate.com/briefing/2018/01/why-we-redesigned-slate.html\">Slate pushed a redesign today</a>. I used to love Slate, but I’m afraid I aged out of its target audience or it drifted away from me, because it doesn’t seem as smart to me anymore. I still love the <a href=\"http://www.slate.com/articles/podcasts/gabfest.html\">Political Gabfest</a> though.</p>\n",
-			"date_published": "2018-01-16T09:59:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/16/slate-pushed-a.html"
 		}
 		
 	]
