@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/20/good-news-i.html",
+	      	
+			"content_html": "<p>Good news! I can hear as well as I ought to at my age. I just hear a ringing that isn’t there: my own, one-note personal soundtrack. I was cleared to listen to music or white noise to drown it out. That’s OK, I guess.</p>\n",
+			"date_published": "2018-01-19T19:08:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/19/good-news-i.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/19/for-some-reason.html",
 	      	
 			"content_html": "<p>For some reason I am really nervous about my ENT appointment today. Hearing tests are nerve wracking for me, due to a bad experience several years back.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"https://slate.com/briefing/2018/01/why-we-redesigned-slate.html\">Slate pushed a redesign today</a>. I used to love Slate, but I’m afraid I aged out of its target audience or it drifted away from me, because it doesn’t seem as smart to me anymore. I still love the <a href=\"http://www.slate.com/articles/podcasts/gabfest.html\">Political Gabfest</a> though.</p>\n",
 			"date_published": "2018-01-16T09:59:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/16/slate-pushed-a.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/16/blog-post-chicken.html",
-	      	
-			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/01/16/chicken-sausage-and-escarole-soup-recipe/\">Chicken sausage and escarole soup recipe</a></p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/e69ffab93a.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-01-15T23:53:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/15/blog-post-chicken.html"
 		}
 		
 	]
