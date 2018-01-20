@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/20/is-it-awful.html",
+	      	
+			"content_html": "<p>Is it awful that I kind of want a <a href=\"https://www.macrumors.com/2018/01/19/apple-homepod-fcc-approval/\">HomePod</a>? When I first watched the product announcement, my impression was “too expensive: hard pass” but now I kind of want something that sounds really good and <em>just works</em> with my iPhone.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/7eafcf55d3.jpg\" width=\"600\" height=\"338\" /></p>\n",
+			"date_published": "2018-01-20T00:11:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/20/is-it-awful.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/20/i-made-another.html",
 	      	
 			"content_html": "<p>I made another change to <a href=\"http:/swiftodoapp.com\">SwiftoDo</a> to help a user with an abnormally large task list load their file faster. Now loading a big list is <em>way</em> faster, but table view scrolling stutters once again. Performance tuning is full of trade-offs.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/01/17/eye-round-roast-recipe/\">Eye round roast recipe</a></p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/b03b63a254.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-16T23:14:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/16/blog-post-eye.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/17/i-resubmitted-swiftodohttpswiftodoappcom.html",
-	      	
-			"content_html": "<p>I resubmitted <a href=\"http://swiftodoapp.com\">SwiftoDo</a> 2.6.3 to the App Store after several more days of testing. It looks good to go.</p>\n",
-			"date_published": "2018-01-16T22:36:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/16/i-resubmitted-swiftodohttpswiftodoappcom.html"
 		}
 		
 	]
