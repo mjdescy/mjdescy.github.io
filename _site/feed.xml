@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Fri, 19 Jan 2018 19:08:39 -0500</pubDate>
-    <lastBuildDate>Fri, 19 Jan 2018 19:08:39 -0500</lastBuildDate>
+    <pubDate>Fri, 19 Jan 2018 22:16:29 -0500</pubDate>
+    <lastBuildDate>Fri, 19 Jan 2018 22:16:29 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I made another change to &lt;a href=&quot;http:/swiftodoapp.com&quot;&gt;SwiftoDo&lt;/a&gt; to help a user with an abnormally large task list load their file faster. Now loading a big list is &lt;em&gt;way&lt;/em&gt; faster, but table view scrolling stutters once again. Performance tuning is full of trade-offs.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 19 Jan 2018 22:16:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/01/19/i-made-another.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/20/i-made-another.html</guid>
+      </item>
     
       <item>
       	
@@ -502,15 +511,6 @@
         <pubDate>Wed, 03 Jan 2018 21:35:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2018/01/03/we-are-bracing.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/04/we-are-bracing.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;It looks like I will be doing some C# coding for work this month. That stuff is more interesting than the database stuff I do, and far more rewarding than the VBA stuff I have to do sometimes. I wish I could use Swift instead, though.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 03 Jan 2018 11:08:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2018/01/03/it-looks-like.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/03/it-looks-like.html</guid>
       </item>
     
   </channel>
