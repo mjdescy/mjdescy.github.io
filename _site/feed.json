@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/22/am-i-the.html",
+	      	
+			"content_html": "<p>Am I the only one who kept thinking “Jake Jortles”* during the Pats/Jags game tonight? 🏈 (* Jason Mendoza’s assumes identity in the latest episode of “The Good Place”)</p>\n",
+			"date_published": "2018-01-21T19:43:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/21/am-i-the.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/21/cleaning-the-house.html",
 	      	
 			"content_html": "<p>Cleaning the house for a 2-hour play date is very intense and takes about 3 hours!</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I pulled a bunch of samples in ACL today for work, and have to do it again tomorrow. I caught up on podcast listening all the while (<a href=\"https://www.relay.fm/rd\">Reconcilable Differences</a> and <a href=\"https://twit.tv/shows/security-now\">Security Now</a>). It is nice to have a normal workday sometimes.</p>\n",
 			"date_published": "2018-01-18T19:55:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/18/i-pulled-a.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/18/unpopular-opinion-calendars.html",
-	      	
-			"content_html": "<p>Unpopular opinion: <a href=\"https://readdle.com/products/calendars5\">Calendars 5</a> is better than <a href=\"https://flexibits.com/fantastical-iphone\">Fantastical</a>. I have had both on my iOS devices for years and finally chose <em>just one</em> today. I prefer how Calendars 5 handles tasks and how it displays the results of natural language parsing, which is just as good as Fantastical’s.</p>\n",
-			"date_published": "2018-01-18T10:15:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/18/unpopular-opinion-calendars.html"
 		}
 		
 	]
