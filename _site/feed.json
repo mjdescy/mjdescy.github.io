@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/23/oh-thank-goodness.html",
+	      	
+			"content_html": "<p>Oh, thank goodness for ☕️. I’ve got 15 minutes to down another cup before I head over to the office. It is nice to have a later start than usual today.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/35cd4ac162.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-23T08:18:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/23/oh-thank-goodness.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/23/baltimores-inner-harbor.html",
 	      	
 			"content_html": "<p>Baltimore’s Inner Harbor is nice. I’m glad I recognize the area in which I’m staying. My morning destination is a short walk away.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/91610af115.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Is it awful that I kind of want a <a href=\"https://www.macrumors.com/2018/01/19/apple-homepod-fcc-approval/\">HomePod</a>? When I first watched the product announcement, my impression was “too expensive: hard pass” but now I kind of want something that sounds really good and <em>just works</em> with my iPhone.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/7eafcf55d3.jpg\" width=\"600\" height=\"338\" /></p>\n",
 			"date_published": "2018-01-20T00:11:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/20/is-it-awful.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/20/i-made-another.html",
-	      	
-			"content_html": "<p>I made another change to <a href=\"http:/swiftodoapp.com\">SwiftoDo</a> to help a user with an abnormally large task list load their file faster. Now loading a big list is <em>way</em> faster, but table view scrolling stutters once again. Performance tuning is full of trade-offs.</p>\n",
-			"date_published": "2018-01-19T22:16:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/19/i-made-another.html"
 		}
 		
 	]
