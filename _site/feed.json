@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/23/baltimores-inner-harbor.html",
+	      	
+			"content_html": "<p>Baltimore’s Inner Harbor is nice. I’m glad I recognize the area in which I’m staying. My morning destination is a short walk away.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/91610af115.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-22T23:12:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/22/baltimores-inner-harbor.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/23/im-on-my.html",
 	      	
 			"content_html": "<p>I’m on my first Amtrak ride in about five years. I forgot how much lateral motion there is as you go. My iPad is bouncing back and forth on the tray table as I watch TV on it. It’s nice to not be driving, though.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I made another change to <a href=\"http:/swiftodoapp.com\">SwiftoDo</a> to help a user with an abnormally large task list load their file faster. Now loading a big list is <em>way</em> faster, but table view scrolling stutters once again. Performance tuning is full of trade-offs.</p>\n",
 			"date_published": "2018-01-19T22:16:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/19/i-made-another.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/20/good-news-i.html",
-	      	
-			"content_html": "<p>Good news! I can hear as well as I ought to at my age. I just hear a ringing that isn’t there: my own, one-note personal soundtrack. I was cleared to listen to music or white noise to drown it out. That’s OK, I guess.</p>\n",
-			"date_published": "2018-01-19T19:08:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/19/good-news-i.html"
 		}
 		
 	]
