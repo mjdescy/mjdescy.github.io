@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/24/im-heading-home.html",
+	      	
+			"content_html": "<p>I’m heading home after two good, productive, and ultimately exhausting days in Baltimore. It will be great to be home, but I think working alone in my home office tomorrow will feel a little strange after so long with my team.</p>\n",
+			"date_published": "2018-01-24T18:47:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/24/im-heading-home.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/24/we-had-a.html",
 	      	
 			"content_html": "<p>We had a nice team dinner at Aldo’s in Baltimore last night. They have the best limoncello I’ve ever had. And cannoli. And great entrées. 🍴 </p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/4d3e01d00c.jpg\" width=\"599\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>We had a fun weekend, full of <em>seeing actual people</em>, either at our home or theirs. I should remember this kind of thing, as it goes against my general nature, but is good for me and the whole family.</p>\n",
 			"date_published": "2018-01-21T22:08:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/21/we-had-a.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/22/am-i-the.html",
-	      	
-			"content_html": "<p>Am I the only one who kept thinking “Jake Jortles”* during the Pats/Jags game tonight? 🏈 (* Jason Mendoza’s assumed identity in the latest episode of “The Good Place”)</p>\n",
-			"date_published": "2018-01-21T19:43:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/21/am-i-the.html"
 		}
 		
 	]
