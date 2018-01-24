@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/24/i-was-not.html",
+	      	
+			"content_html": "<p>I was <em>not</em> thrilled that today’s <a href=\"https://www.nytimes.com/crosswords/game/mini\">New York Times mini crossword’s</a> first word contained numbers. I didn’t know crosswords puzzles <em>could</em> contain numbers. It bamboozled me completely! 😅</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/07c4709f14.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-23T21:51:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/23/i-was-not.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/24/people-on-reddit.html",
 	      	
 			"content_html": "<p>People on Reddit are bitching tonight about Apple’s “bug fixes and improvements” iOS and watchOS updates. I must be uncool or something because those kinds of updates are my favorite kind.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/1f9c065d4e.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Cleaning the house for a 2-hour play date is very intense and takes about 3 hours!</p>\n",
 			"date_published": "2018-01-21T10:54:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/21/cleaning-the-house.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/20/i-drew-and.html",
-	      	
-			"content_html": "<p>I drew and colored this under the expert tutelage of my 5-year-old daughter, just before we played together with Wellie-Wishers. 🎨</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/ce86c63be4.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-01-20T14:52:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/20/i-drew-and.html"
 		}
 		
 	]
