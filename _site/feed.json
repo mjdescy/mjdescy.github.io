@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/25/im-back-to.html",
+	      	
+			"content_html": "<p>I’m back to Access database work today. It looks like I will have to do even more Access work for exam procedure automation in the future, because the work will be portable and transferable to our clients that way. It’s kind of a bummer, though, because VBA is terrible.   Native Python support in Office can’t come soon enough for me.</p>\n",
+			"date_published": "2018-01-25T09:32:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/25/im-back-to.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/24/im-heading-home.html",
 	      	
 			"content_html": "<p>I’m heading home after two good, productive, and ultimately exhausting days in Baltimore. It will be great to be home, but I think working alone in my home office tomorrow will feel a little strange after so long with my team.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I’m all packed for my business trip to training in Baltimore. It’s been a while since I’ve had to overnight apart from my family. At least I don’t have to fly, and can take the train there.</p>\n",
 			"date_published": "2018-01-22T16:46:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/22/im-all-packed.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/22/we-had-a.html",
-	      	
-			"content_html": "<p>We had a fun weekend, full of <em>seeing actual people</em>, either at our home or theirs. I should remember this kind of thing, as it goes against my general nature, but is good for me and the whole family.</p>\n",
-			"date_published": "2018-01-21T22:08:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/21/we-had-a.html"
 		}
 		
 	]
