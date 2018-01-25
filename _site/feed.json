@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/25/i-resumed-reading.html",
+	      	
+			"content_html": "<p>📚 I resumed reading <a href=\"https://en.m.wikipedia.org/wiki/Team_of_Rivals\">Team of Rivals: The Political Genius of Abraham Lincoln</a> last night. It’s an incredibly well-written and well-researched book. I had stopped reading it because I thought its subject matter—the break-up of the United States due to intractable racial prejudice—hit a little too close to home for 2017-18. Regardless, I am now continuing.</p>\n",
+			"date_published": "2018-01-25T16:47:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/25/i-resumed-reading.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/25/im-back-to.html",
 	      	
 			"content_html": "<p>I’m back to Access database work today. It looks like I will have to do even more Access work for exam procedure automation in the future, because the work will be portable and transferable to our clients that way. It’s kind of a bummer, though, because VBA is terrible.   Native Python support in Office can’t come soon enough for me.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I’m on my first Amtrak ride in about five years. I forgot how much lateral motion there is as you go. My iPad is bouncing back and forth on the tray table as I watch TV on it. It’s nice to not be driving, though.</p>\n",
 			"date_published": "2018-01-22T19:41:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/22/im-on-my.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/22/im-all-packed.html",
-	      	
-			"content_html": "<p>I’m all packed for my business trip to training in Baltimore. It’s been a while since I’ve had to overnight apart from my family. At least I don’t have to fly, and can take the train there.</p>\n",
-			"date_published": "2018-01-22T16:46:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/22/im-all-packed.html"
 		}
 		
 	]
