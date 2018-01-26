@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/26/i-diagnosed-and.html",
+	      	
+			"content_html": "<p>I diagnosed and fixed a memory leak in my iOS app using Instruments and Xcode’s memory debugger for the first time tonight. It <em>almost</em> made sense to me. My fix involved removing retain cycles by getting rid of a closure and turning one of my classes into a struct.</p>\n",
+			"date_published": "2018-01-25T23:37:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/25/i-diagnosed-and.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/25/i-resumed-reading.html",
 	      	
 			"content_html": "<p>📚 I resumed reading <a href=\"https://en.m.wikipedia.org/wiki/Team_of_Rivals\">Team of Rivals: The Political Genius of Abraham Lincoln</a> last night. It’s an incredibly well-written and well-researched book. I had stopped reading it because I thought its subject matter—the break-up of the United States due to intractable racial prejudice—hit a little too close to home for 2017-18. Regardless, I am now continuing.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Baltimore’s Inner Harbor is nice. I’m glad I recognize the area in which I’m staying. My morning destination is a short walk away.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/91610af115.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-22T23:12:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/22/baltimores-inner-harbor.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/23/im-on-my.html",
-	      	
-			"content_html": "<p>I’m on my first Amtrak ride in about five years. I forgot how much lateral motion there is as you go. My iPad is bouncing back and forth on the tray table as I watch TV on it. It’s nice to not be driving, though.</p>\n",
-			"date_published": "2018-01-22T19:41:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/22/im-on-my.html"
 		}
 		
 	]
