@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/26/i-did-some.html",
+	      	
+			"content_html": "<p>I did some complicated sampling today. \n<a href=\"https://www.acl.com\">ACL</a>’s new APPEND command made short work of combining 4 tables, which sounds like nothing, but it has <em>long</em> been a weak point in ACL’s functionality. It’s a welcome improvement.</p>\n",
+			"date_published": "2018-01-26T14:28:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/26/i-did-some.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/26/i-diagnosed-and.html",
 	      	
 			"content_html": "<p>I diagnosed and fixed a memory leak in my iOS app using Instruments and Xcode’s memory debugger for the first time tonight. It <em>almost</em> made sense to me. My fix involved removing retain cycles by getting rid of a closure and turning one of my classes into a struct.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Oh, thank goodness for ☕️. I’ve got 15 minutes to down another cup before I head over to the office. It is nice to have a later start than usual today.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/35cd4ac162.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-23T08:18:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/23/oh-thank-goodness.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/23/baltimores-inner-harbor.html",
-	      	
-			"content_html": "<p>Baltimore’s Inner Harbor is nice. I’m glad I recognize the area in which I’m staying. My morning destination is a short walk away.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/91610af115.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-22T23:12:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/22/baltimores-inner-harbor.html"
 		}
 		
 	]
