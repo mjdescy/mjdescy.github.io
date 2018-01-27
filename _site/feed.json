@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/27/i-am-too.html",
+	      	
+			"content_html": "<p>I am too busy coding tonight to order a <a href=\"https://www.apple.com/homepod/\">HomePod</a>. The audiophile part of me really wants one, though. I have a fancy <a href=\"https://www.beoplay.com/landingpages/beoplaym3#introducing\">BeoPlay M3</a> speaker already, but I think the HomePod has cooler tech and is <em>just</em> large enough to sound a whole lot better.</p>\n",
+			"date_published": "2018-01-26T21:59:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/26/i-am-too.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/26/i-did-some.html",
 	      	
 			"content_html": "<p>I did some complicated sampling today. \n<a href=\"https://www.acl.com\">ACL</a>’s new APPEND command made short work of combining 4 tables, which sounds like nothing, but it has <em>long</em> been a weak point in ACL’s functionality. It’s a welcome improvement.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I’m heading out for a team dinner. Maybe I would loosen my belt now rather than later. 😀</p>\n",
 			"date_published": "2018-01-23T17:17:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/23/im-heading-out.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/23/oh-thank-goodness.html",
-	      	
-			"content_html": "<p>Oh, thank goodness for ☕️. I’ve got 15 minutes to down another cup before I head over to the office. It is nice to have a later start than usual today.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/35cd4ac162.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-23T08:18:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/23/oh-thank-goodness.html"
 		}
 		
 	]
