@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/27/f-and-mph.html",
+	      	
+			"content_html": "<p>60° F and 20 MPH winds have made it both too warm and too cold for a proper Winterfest for us today.</p>\n",
+			"date_published": "2018-01-27T15:26:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/27/f-and-mph.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/27/i-submitted-swiftodohttpsswiftodoappcom.html",
 	      	
 			"content_html": "<p>I submitted <a href=\"https://swiftodoapp.com\">SwiftoDo</a> 2.7.0 to the App Store earlier today, and tonight I made enough bug fixes and library updates to warrant a version 2.7.1 soon thereafter.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I was <em>not</em> thrilled that today’s <a href=\"https://www.nytimes.com/crosswords/game/mini\">New York Times mini crossword’s</a> first word contained numbers. I didn’t know crosswords puzzles <em>could</em> contain numbers. It bamboozled me completely! 😅</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/07c4709f14.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-23T21:51:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/23/i-was-not.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/24/people-on-reddit.html",
-	      	
-			"content_html": "<p>People on Reddit are bitching tonight about Apple’s “bug fixes and improvements” iOS and watchOS updates. I must be uncool or something because those kinds of updates are my favorite kind.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/1f9c065d4e.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-23T21:45:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/23/people-on-reddit.html"
 		}
 		
 	]
