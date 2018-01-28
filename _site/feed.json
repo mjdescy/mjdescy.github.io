@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/28/swiftodo-is-now.html",
+	      	
+			"content_html": "<p><a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">SwiftoDo 2.7.0 is now available in the App Store</a>. It vastly improves the loading speed for huge task lists, and adds URL support (long-press a task to open any URL it contains).</p>\n",
+			"date_published": "2018-01-27T22:09:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/27/swiftodo-is-now.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/27/f-and-mph.html",
 	      	
 			"content_html": "<p>60° F and 20 MPH winds have made it both too warm and too cold for a proper Winterfest for us today.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>We had a nice team dinner at Aldo’s in Baltimore last night. They have the best limoncello I’ve ever had. And cannoli. And great entrées. 🍴 </p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/4d3e01d00c.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-24T08:17:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/24/we-had-a.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/24/i-was-not.html",
-	      	
-			"content_html": "<p>I was <em>not</em> thrilled that today’s <a href=\"https://www.nytimes.com/crosswords/game/mini\">New York Times mini crossword’s</a> first word contained numbers. I didn’t know crosswords puzzles <em>could</em> contain numbers. It bamboozled me completely! 😅</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/07c4709f14.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-23T21:51:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/23/i-was-not.html"
 		}
 		
 	]
