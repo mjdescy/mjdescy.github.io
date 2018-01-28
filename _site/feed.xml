@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Sat, 27 Jan 2018 22:14:40 -0500</pubDate>
-    <lastBuildDate>Sat, 27 Jan 2018 22:14:40 -0500</lastBuildDate>
+    <pubDate>Sun, 28 Jan 2018 15:09:52 -0500</pubDate>
+    <lastBuildDate>Sun, 28 Jan 2018 15:09:52 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I really liked &lt;a href=&quot;https://www.swiftbysundell.com/posts/composing-types-in-swift&quot;&gt;this back-to-basics post by John Sundell&lt;/a&gt; about type composition in Swift. I think lots of programming tutorial writers—and readers—fail to focus on fundamentals. John does not.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 28 Jan 2018 15:09:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/01/28/i-really-liked.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/28/i-really-liked.html</guid>
+      </item>
     
       <item>
       	
@@ -481,15 +490,6 @@
         <pubDate>Thu, 11 Jan 2018 21:10:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2018/01/11/i-think-it.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/12/i-think-it.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I feel like I’ve been editing and formatting this Excel budget spreadsheet since the beginning of time.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 11 Jan 2018 16:40:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2018/01/11/i-feel-like.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/11/i-feel-like.html</guid>
       </item>
     
   </channel>
