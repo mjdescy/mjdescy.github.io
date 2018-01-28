@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Sat, 27 Jan 2018 15:26:52 -0500</pubDate>
-    <lastBuildDate>Sat, 27 Jan 2018 15:26:52 -0500</lastBuildDate>
+    <pubDate>Sat, 27 Jan 2018 22:09:38 -0500</pubDate>
+    <lastBuildDate>Sat, 27 Jan 2018 22:09:38 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;amp;mt=8&quot;&gt;SwiftoDo 2.7.0 is now available in the App Store&lt;/a&gt;. It vastly improves the loading speed for huge task lists, and adds URL support (long-press a task to open any URL it contains).&lt;/p&gt;
+</description>
+        <pubDate>Sat, 27 Jan 2018 22:09:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/01/27/swiftodo-is-now.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/28/swiftodo-is-now.html</guid>
+      </item>
     
       <item>
       	
@@ -481,15 +490,6 @@
         <pubDate>Thu, 11 Jan 2018 16:40:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2018/01/11/i-feel-like.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/11/i-feel-like.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;When I woke up today, the TestFlight version of the app I’ve been working on all week didn’t work at all for some reason. Hastily, I rejected the Developer Build in iTunes Connect, so it wouldn’t go out to customers. Rebooting my iPhone reboot fixed all the problems, though.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 11 Jan 2018 10:46:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2018/01/11/when-i-woke.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/11/when-i-woke.html</guid>
       </item>
     
   </channel>
