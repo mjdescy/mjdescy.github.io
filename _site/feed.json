@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/29/the-new-york.html",
+	      	
+			"content_html": "<p>The New York Times crossword puzzle app and, of course, Micro.blog, have now taken over the time I had previously allotted to Twitter. My mental state is much better, though I am starting think of all words in terms of how many letters are in them.</p>\n",
+			"date_published": "2018-01-28T21:11:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/28/the-new-york.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/28/i-really-liked.html",
 	      	
 			"content_html": "<p>I really liked <a href=\"https://www.swiftbysundell.com/posts/composing-types-in-swift\">this back-to-basics post by John Sundell</a> about type composition in Swift. I think lots of programming tutorial writers—and readers—fail to focus on fundamentals. John does not.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I’m back to Access database work today. It looks like I will have to do even more Access work for exam procedure automation in the future, because the work will be portable and transferable to our clients that way. It’s kind of a bummer, though, because VBA is terrible.   Native Python support in Office can’t come soon enough for me.</p>\n",
 			"date_published": "2018-01-25T09:32:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/25/im-back-to.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/24/im-heading-home.html",
-	      	
-			"content_html": "<p>I’m heading home after two good, productive, and ultimately exhausting days in Baltimore. It will be great to be home, but I think working alone in my home office tomorrow will feel a little strange after so long with my team.</p>\n",
-			"date_published": "2018-01-24T18:47:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/24/im-heading-home.html"
 		}
 		
 	]
