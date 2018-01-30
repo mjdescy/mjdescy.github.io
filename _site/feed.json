@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/01/30/every-font-on.html",
+	      	
+			"content_html": "<p>Every font on all my devices somehow looks different to me today. What the heck happened to my eyes?</p>\n",
+			"date_published": "2018-01-29T22:09:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/01/29/every-font-on.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/01/29/today-was-unexpectedly.html",
 	      	
 			"content_html": "<p>Today was unexpectedly full of proposal work for me. I think I need to help revamp how we write proposals at my firm. It was <em>so</em> hectic and we could have done better if we had more time.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I diagnosed and fixed a memory leak in my iOS app using Instruments and Xcode’s memory debugger for the first time tonight. It <em>almost</em> made sense to me. My fix involved removing retain cycles by getting rid of a closure and turning one of my classes into a struct.</p>\n",
 			"date_published": "2018-01-25T23:37:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/25/i-diagnosed-and.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/25/i-resumed-reading.html",
-	      	
-			"content_html": "<p>📚 I resumed reading <a href=\"https://en.m.wikipedia.org/wiki/Team_of_Rivals\">Team of Rivals: The Political Genius of Abraham Lincoln</a> last night. It’s an incredibly well-written and well-researched book. I had stopped reading it because I thought its subject matter—the break-up of the United States due to intractable racial prejudice—hit a little too close to home for 2017-18. Regardless, I am now continuing.</p>\n",
-			"date_published": "2018-01-25T16:47:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/25/i-resumed-reading.html"
 		}
 		
 	]
