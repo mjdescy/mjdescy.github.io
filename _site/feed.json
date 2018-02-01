@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/01/im-thoroughly-enjoying.html",
+	      	
+			"content_html": "<p>I’m thoroughly enjoying Matt Birchler’s <a href=\"https://itunes.apple.com/us/playlist/homepod-testing/pl.u-qpZDJs2RG247\">“HomePod Testing” playlist</a> on Apple Music 🎵. Each track is well produced and interesting. It’s great music to work to.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/390bb06eb4.jpg\" width=\"600\" height=\"462\" /></p>\n",
+			"date_published": "2018-02-01T11:04:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/01/im-thoroughly-enjoying.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/01/i-spent-my.html",
 	      	
 			"content_html": "<p>I spent my evening figuring out how to transfer an 18-year-old domain name and several personal websites to new hosting providers. It’s not something I do every day, so I won’t be surprised if something gets screwed up—not that it matters too much.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">SwiftoDo 2.7.0 is now available in the App Store</a>. It vastly improves the loading speed for huge task lists, and adds URL support (long-press a task to open any URL it contains).</p>\n",
 			"date_published": "2018-01-27T22:09:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/27/swiftodo-is-now.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/27/f-and-mph.html",
-	      	
-			"content_html": "<p>60° F and 20 MPH winds have made it both too warm and too cold for a proper Winterfest for us today.</p>\n",
-			"date_published": "2018-01-27T15:26:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/27/f-and-mph.html"
 		}
 		
 	]
