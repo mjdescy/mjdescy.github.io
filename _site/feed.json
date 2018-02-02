@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/02/based-on-my.html",
+	      	
+			"content_html": "<p>Based on my podcast listening for the week, I’ve concluded (and I’m being half serious here) that Amazon Alexa’s key feature, and Siri’s key shortcoming, is support for multiple named kitchen timers. That seems like an easy gap to fill. When Apple will finally ship that feature?</p>\n",
+			"date_published": "2018-02-02T11:34:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/02/based-on-my.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/02/ive-got-a.html",
 	      	
 			"content_html": "<p>I’ve got a couple releases lined up for my iOS app, and need to think about a total rewrite for its macOS counterpart. So, instead of doing anything constructive tonight, I am watching “Supergirl”. Rest is good sometimes, no?</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>The New York Times crossword puzzle app and, of course, Micro.blog, have now taken over the time I had previously allotted to Twitter. My mental state is much better, though I am starting think of all words in terms of how many letters are in them.</p>\n",
 			"date_published": "2018-01-28T21:11:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/28/the-new-york.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/28/i-really-liked.html",
-	      	
-			"content_html": "<p>I really liked <a href=\"https://www.swiftbysundell.com/posts/composing-types-in-swift\">this back-to-basics post by John Sundell</a> about type composition in Swift. I think lots of programming tutorial writers—and readers—fail to focus on fundamentals. John does not.</p>\n",
-			"date_published": "2018-01-28T15:09:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/28/i-really-liked.html"
 		}
 		
 	]
