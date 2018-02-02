@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/02/swiftodo-is-now.html",
+	      	
+			"content_html": "<p><a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">SwiftoDo 2.7.1 is now available in the App Store</a>. It includes minor updates and bug fixes. </p>\n",
+			"date_published": "2018-02-02T14:44:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/02/swiftodo-is-now.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/02/based-on-my.html",
 	      	
 			"content_html": "<p>Based on my podcast listening for the week, I’ve concluded (and I’m being half serious here) that Amazon Alexa’s key feature, and Siri’s key shortcoming, is support for multiple named kitchen timers. That seems like an easy gap to fill. When Apple will finally ship that feature?</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Today was unexpectedly full of proposal work for me. I think I need to help revamp how we write proposals at my firm. It was <em>so</em> hectic and we could have done better if we had more time.</p>\n",
 			"date_published": "2018-01-29T18:58:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/29/today-was-unexpectedly.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/29/the-new-york.html",
-	      	
-			"content_html": "<p>The New York Times crossword puzzle app and, of course, Micro.blog, have now taken over the time I had previously allotted to Twitter. My mental state is much better, though I am starting think of all words in terms of how many letters are in them.</p>\n",
-			"date_published": "2018-01-28T21:11:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/28/the-new-york.html"
 		}
 		
 	]
