@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/03/i-realized-recently.html",
+	      	
+			"content_html": "<p>I realized recently that Google’s killing of Google Reader made me never trust them again as a customer. They launch and then kill too many products. I still use Search, Gmail, and AdWords, but when it to comes to Android, Home, Assistant, and so on, I am out.</p>\n",
+			"date_published": "2018-02-02T23:33:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/02/i-realized-recently.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/02/swiftodo-is-now.html",
 	      	
 			"content_html": "<p><a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">SwiftoDo 2.7.1 is now available in the App Store</a>. It includes minor updates and bug fixes. </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Every font on all my devices somehow looks different to me today. What the heck happened to my eyes?</p>\n",
 			"date_published": "2018-01-29T22:09:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/29/every-font-on.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/29/today-was-unexpectedly.html",
-	      	
-			"content_html": "<p>Today was unexpectedly full of proposal work for me. I think I need to help revamp how we write proposals at my firm. It was <em>so</em> hectic and we could have done better if we had more time.</p>\n",
-			"date_published": "2018-01-29T18:58:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/29/today-was-unexpectedly.html"
 		}
 		
 	]
