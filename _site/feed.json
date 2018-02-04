@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/04/i-am-excited.html",
+	      	
+			"content_html": "<p>🏈 I am excited about the Super Bowl but I am feeling very conflicted about football in general now. I skipped the entire regular season because I think the sport is dangerous and unethical. So I have a strange mixture of excitement and disgust today. 🤷‍♂️</p>\n",
+			"date_published": "2018-02-04T11:04:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/04/i-am-excited.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/04/aint-misbehavin-at.html",
 	      	
 			"content_html": "<p><em>Ain’t Misbehavin’</em> at NJPAC was absolutely wonderful tonight. The performers were excellent and the audience got really loose and into it after itermission. It was great fun to watch. My wife and I loved it and had a lovely time together.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>The program I wrote yesterday has been running, with no output whatsoever, for over 12 hours now, and is nowhere near done. So, how do you, time- and space- efficiently, search for 60,000 strings within 20 million lines of text? 😅 </p>\n",
 			"date_published": "2018-01-31T08:16:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/31/the-program-i.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/30/it-looks-like.html",
-	      	
-			"content_html": "<p>It looks like I will be working overtime this week. Things are crazy. I think I am involved in getting two or three new practice lines off the ground.</p>\n",
-			"date_published": "2018-01-30T17:09:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/30/it-looks-like.html"
 		}
 		
 	]
