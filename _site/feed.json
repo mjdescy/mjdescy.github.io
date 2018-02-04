@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/04/my-super-bowl.html",
+	      	
+			"content_html": "<p>🏈 My Super Bowl menu: sirloin steak, caramelized onions, garden salad, French bread with brie or honey butter, as well as tortilla chips, pita chips, hummus, and salsa. Food is the best part of the game!</p>\n",
+			"date_published": "2018-02-04T11:42:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/04/my-super-bowl.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/04/i-am-excited.html",
 	      	
 			"content_html": "<p>🏈 I am excited about the Super Bowl but I am feeling very conflicted about football in general now. I skipped the entire regular season because I think the sport is dangerous and unethical. So I have a strange mixture of excitement and disgust today. 🤷‍♂️</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I spent my evening figuring out how to transfer an 18-year-old domain name and several personal websites to new hosting providers. It’s not something I do every day, so I won’t be surprised if something gets screwed up—not that it matters too much.</p>\n",
 			"date_published": "2018-01-31T22:58:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/01/31/i-spent-my.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/01/31/the-program-i.html",
-	      	
-			"content_html": "<p>The program I wrote yesterday has been running, with no output whatsoever, for over 12 hours now, and is nowhere near done. So, how do you, time- and space- efficiently, search for 60,000 strings within 20 million lines of text? 😅 </p>\n",
-			"date_published": "2018-01-31T08:16:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/31/the-program-i.html"
 		}
 		
 	]
