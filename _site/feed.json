@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/05/fact-decaf-coffee.html",
+	      	
+			"content_html": "<p>Fact: Decaf coffee does <em>not</em> count as real coffee!</p>\n",
+			"date_published": "2018-02-05T18:47:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/05/fact-decaf-coffee.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/05/goal-for-the.html",
 	      	
 			"content_html": "<p>Goal #1 for the week: Reduce coffee consumption to one cup per day. But…does decaf count? Perhaps I am not off to a good start.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I’ve got a couple releases lined up for my iOS app, and need to think about a total rewrite for its macOS counterpart. So, instead of doing anything constructive tonight, I am watching “Supergirl”. Rest is good sometimes, no?</p>\n",
 			"date_published": "2018-02-01T22:39:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/01/ive-got-a.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/01/im-thoroughly-enjoying.html",
-	      	
-			"content_html": "<p>I’m thoroughly enjoying Matt Birchler’s <a href=\"https://itunes.apple.com/us/playlist/homepod-testing/pl.u-qpZDJs2RG247\">“HomePod Testing” playlist</a> on Apple Music 🎵. Each track is well produced and interesting. It’s great music to work to.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/390bb06eb4.jpg\" width=\"600\" height=\"462\" /></p>\n",
-			"date_published": "2018-02-01T11:04:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/01/im-thoroughly-enjoying.html"
 		}
 		
 	]
