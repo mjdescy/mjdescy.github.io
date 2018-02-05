@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/05/goal-for-the.html",
+	      	
+			"content_html": "<p>Goal #1 for the week: Reduce coffee consumption to one cup per day. But…does decaf count? Perhaps I am not off to a good start.</p>\n",
+			"date_published": "2018-02-05T11:07:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/05/goal-for-the.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/04/my-super-bowl.html",
 	      	
 			"content_html": "<p>🏈 My Super Bowl menu: sirloin steak, caramelized onions, garden salad, French bread with brie or honey butter, as well as tortilla chips, pita chips, hummus, and salsa. Food is the best part of the game!</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I’m thoroughly enjoying Matt Birchler’s <a href=\"https://itunes.apple.com/us/playlist/homepod-testing/pl.u-qpZDJs2RG247\">“HomePod Testing” playlist</a> on Apple Music 🎵. Each track is well produced and interesting. It’s great music to work to.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/390bb06eb4.jpg\" width=\"600\" height=\"462\" /></p>\n",
 			"date_published": "2018-02-01T11:04:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/01/im-thoroughly-enjoying.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/01/i-spent-my.html",
-	      	
-			"content_html": "<p>I spent my evening figuring out how to transfer an 18-year-old domain name and several personal websites to new hosting providers. It’s not something I do every day, so I won’t be surprised if something gets screwed up—not that it matters too much.</p>\n",
-			"date_published": "2018-01-31T22:58:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/01/31/i-spent-my.html"
 		}
 		
 	]
