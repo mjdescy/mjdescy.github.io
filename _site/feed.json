@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/06/i-have-been.html",
+	      	
+			"content_html": "<p>I have been enjoying the <a href=\"https://itunes.apple.com/us/app/roughly-the-approximate-time-in-words/id1086283722?mt=8\">Roughly app</a>’s complication (on the bottom, in the picture) for the Apple Watch. It’s a little frivolous to display the approximate time in words, but it’s also a little frivolous to use analog watch faces on a digital device.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/3411540050.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-05T21:48:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/05/i-have-been.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/05/fact-decaf-coffee.html",
 	      	
 			"content_html": "<p>Fact: Decaf coffee does <em>not</em> count as real coffee!</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Based on my podcast listening for the week, I’ve concluded (and I’m being half serious here) that Amazon Alexa’s key feature, and Siri’s key shortcoming, is support for multiple named kitchen timers. That seems like an easy gap to fill. When Apple will finally ship that feature?</p>\n",
 			"date_published": "2018-02-02T11:34:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/02/based-on-my.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/02/ive-got-a.html",
-	      	
-			"content_html": "<p>I’ve got a couple releases lined up for my iOS app, and need to think about a total rewrite for its macOS counterpart. So, instead of doing anything constructive tonight, I am watching “Supergirl”. Rest is good sometimes, no?</p>\n",
-			"date_published": "2018-02-01T22:39:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/01/ive-got-a.html"
 		}
 		
 	]
