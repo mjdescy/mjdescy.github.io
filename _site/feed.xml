@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Mon, 05 Feb 2018 21:49:00 -0500</pubDate>
-    <lastBuildDate>Mon, 05 Feb 2018 21:49:00 -0500</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2018 10:51:29 -0500</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2018 10:51:29 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Work today is more about juggling priorities than anything else: data mining, sampling, database development, calls and meetings, and so on.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Feb 2018 10:51:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/02/06/work-today-is.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/06/work-today-is.html</guid>
+      </item>
     
       <item>
       	
@@ -465,17 +474,6 @@
         <pubDate>Thu, 18 Jan 2018 10:15:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2018/01/18/unpopular-opinion-calendars.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/18/unpopular-opinion-calendars.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’m adding some very basic URL handling support to &lt;a href=&quot;http://swiftodoapp.com&quot;&gt;SwiftoDo&lt;/a&gt; tonight, based on a user request. I almost never put URLs into my task list, so I never thought to add it, but of course it makes sense.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://mjdescy.micro.blog/uploads/2018/50a95dbe70.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 17 Jan 2018 22:45:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2018/01/17/im-adding-some.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/18/im-adding-some.html</guid>
       </item>
     
   </channel>
