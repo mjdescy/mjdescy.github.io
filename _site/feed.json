@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/06/on-my-lunch.html",
+	      	
+			"content_html": "<p>On my lunch break I submitted a new build of <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">SwiftoDo</a> to the App Store. My release philosophy has changed this year. I’m leaning toward releasing smaller updates, more frequently.</p>\n",
+			"date_published": "2018-02-06T13:51:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/06/on-my-lunch.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/06/work-today-is.html",
 	      	
 			"content_html": "<p>Work today is more about juggling priorities than anything else: data mining, sampling, database development, calls and meetings, and so on.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I realized recently that Google’s killing of Google Reader made me never trust them again as a customer. They launch and then kill too many products. I still use Search, Gmail, and AdWords, but when it to comes to Android, Home, Assistant, and so on, I am out.</p>\n",
 			"date_published": "2018-02-02T23:33:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/02/i-realized-recently.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/02/swiftodo-is-now.html",
-	      	
-			"content_html": "<p><a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">SwiftoDo 2.7.1 is now available in the App Store</a>. It includes minor updates and bug fixes. </p>\n",
-			"date_published": "2018-02-02T14:44:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/02/swiftodo-is-now.html"
 		}
 		
 	]
