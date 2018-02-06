@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Tue, 06 Feb 2018 10:51:29 -0500</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2018 10:51:29 -0500</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2018 13:51:09 -0500</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2018 13:51:09 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;On my lunch break I submitted a new build of &lt;a href=&quot;https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;amp;mt=8&quot;&gt;SwiftoDo&lt;/a&gt; to the App Store. My release philosophy has changed this year. I’m leaning toward releasing smaller updates, more frequently.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Feb 2018 13:51:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/02/06/on-my-lunch.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/06/on-my-lunch.html</guid>
+      </item>
     
       <item>
       	
@@ -465,15 +474,6 @@
         <pubDate>Thu, 18 Jan 2018 19:55:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2018/01/18/i-pulled-a.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/19/i-pulled-a.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Unpopular opinion: &lt;a href=&quot;https://readdle.com/products/calendars5&quot;&gt;Calendars 5&lt;/a&gt; is better than &lt;a href=&quot;https://flexibits.com/fantastical-iphone&quot;&gt;Fantastical&lt;/a&gt;. I have had both on my iOS devices for years and finally chose &lt;em&gt;just one&lt;/em&gt; today. I prefer how Calendars 5 handles tasks and how it displays the results of natural language parsing, which is just as good as Fantastical’s.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 18 Jan 2018 10:15:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2018/01/18/unpopular-opinion-calendars.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/18/unpopular-opinion-calendars.html</guid>
       </item>
     
   </channel>
