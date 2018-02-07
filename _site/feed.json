@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/07/after-reading-all.html",
+	      	
+			"content_html": "<p>After reading all the reviews, (like <a href=\"https://daringfireball.net/2018/02/homepod\">this one</a>) I really want <em>two</em> HomePods with AirPlay 2 working. (Oh, god, what is <em>wrong</em> with me?! 😂)</p>\n",
+			"date_published": "2018-02-06T21:22:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/06/after-reading-all.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/06/today-at-work.html",
 	      	
 			"content_html": "<p>Today at work I thought: “I wish I was better at Awk”. The last time I thought that was 5 years ago…which is why I am not better at Awk. </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><em>Ain’t Misbehavin’</em> at NJPAC was absolutely wonderful tonight. The performers were excellent and the audience got really loose and into it after itermission. It was great fun to watch. My wife and I loved it and had a lovely time together.</p>\n",
 			"date_published": "2018-02-03T23:31:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/03/aint-misbehavin-at.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/03/im-not-sure.html",
-	      	
-			"content_html": "<p>I’m not sure what the biggest headache was for me today: my actual migraine, or my trip to Wegmans the day before the Super Bowl.</p>\n",
-			"date_published": "2018-02-03T16:04:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/03/im-not-sure.html"
 		}
 		
 	]
