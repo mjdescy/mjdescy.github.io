@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Wed, 07 Feb 2018 10:52:27 -0500</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2018 10:52:27 -0500</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2018 21:45:37 -0500</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2018 21:45:37 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;UITableView &lt;code&gt;moveRow(at: IndexPath, to: IndexPath)&lt;/code&gt; works differently when &lt;code&gt;tableView.dragInteractionEnabled = true&lt;/code&gt;, and causes my (dev) app to crash when a move (even when &lt;em&gt;not&lt;/em&gt; issued by drag-and-drop) completely empties a section of my table view. It’s been frustrating!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Feb 2018 21:45:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/02/07/uitableview-moverowat-indexpath.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/08/uitableview-moverowat-indexpath.html</guid>
+      </item>
     
       <item>
       	
@@ -465,15 +474,6 @@
         <pubDate>Fri, 19 Jan 2018 22:16:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2018/01/19/i-made-another.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/20/i-made-another.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Good news! I can hear as well as I ought to at my age. I just hear a ringing that isn’t there: my own, one-note personal soundtrack. I was cleared to listen to music or white noise to drown it out. That’s OK, I guess.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 19 Jan 2018 19:08:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2018/01/19/good-news-i.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/20/good-news-i.html</guid>
       </item>
     
   </channel>
