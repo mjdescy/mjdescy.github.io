@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Wed, 07 Feb 2018 21:45:37 -0500</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2018 21:45:37 -0500</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2018 09:41:41 -0500</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2018 09:41:41 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;🎵 In high school and college, I used to measure how long it took me to write a paper by the number of CDs I listened to while working on it. I think a normal high school paper was 4 albums (R.E.M., Beatles, U2, Pink Floyd) or about 3 hours. I should do that again with my 🎧.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 08 Feb 2018 09:41:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/02/08/in-high-school.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/08/in-high-school.html</guid>
+      </item>
     
       <item>
       	
@@ -465,15 +474,6 @@
         <pubDate>Sat, 20 Jan 2018 00:11:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2018/01/20/is-it-awful.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/20/is-it-awful.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I made another change to &lt;a href=&quot;http:/swiftodoapp.com&quot;&gt;SwiftoDo&lt;/a&gt; to help a user with an abnormally large task list load their file faster. Now loading a big list is &lt;em&gt;way&lt;/em&gt; faster, but table view scrolling stutters once again. Performance tuning is full of trade-offs.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 19 Jan 2018 22:16:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2018/01/19/i-made-another.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/20/i-made-another.html</guid>
       </item>
     
   </channel>
