@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/08/uitableview-moverowat-indexpath.html",
+	      	
+			"content_html": "<p>UITableView <code>moveRow(at: IndexPath, to: IndexPath)</code> works differently when <code>tableView.dragInteractionEnabled = true</code>, and causes my (dev) app to crash when a move (even when <em>not</em> issued by drag-and-drop) completely empties a section of my table view. It’s been frustrating!</p>\n",
+			"date_published": "2018-02-07T21:45:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/07/uitableview-moverowat-indexpath.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/07/i-have-fallen.html",
 	      	
 			"content_html": "<p>🎤 I have fallen 15 episodes behind in my “<a href=\"https://twit.tv/shows/security-now\">Security Now</a>” listening. I do like the podcast, but listening to it <em>is</em> a little like “eating my vegetables” sometimes. I’m trying to catch up somewhat today.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🏈 My Super Bowl menu: sirloin steak, caramelized onions, garden salad, French bread with brie or honey butter, as well as tortilla chips, pita chips, hummus, and salsa. Food is the best part of the game!</p>\n",
 			"date_published": "2018-02-04T11:42:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/04/my-super-bowl.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/04/i-am-excited.html",
-	      	
-			"content_html": "<p>🏈 I am excited about the Super Bowl but I am feeling very conflicted about football in general now. I skipped the entire regular season because I think the sport is dangerous and unethical. So I have a strange mixture of excitement and disgust today. 🤷‍♂️</p>\n",
-			"date_published": "2018-02-04T11:04:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/04/i-am-excited.html"
 		}
 		
 	]
