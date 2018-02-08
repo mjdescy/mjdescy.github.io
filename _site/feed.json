@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/08/in-high-school.html",
+	      	
+			"content_html": "<p>🎵 In high school and college, I used to measure how long it took me to write a paper by the number of CDs I listened to while working on it. I think a normal high school paper was 4 albums (R.E.M., Beatles, U2, Pink Floyd) or about 3 hours. I should do that again with my 🎧.</p>\n",
+			"date_published": "2018-02-08T09:41:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/08/in-high-school.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/08/uitableview-moverowat-indexpath.html",
 	      	
 			"content_html": "<p>UITableView <code>moveRow(at: IndexPath, to: IndexPath)</code> works differently when <code>tableView.dragInteractionEnabled = true</code>, and causes my (dev) app to crash when a move (even when <em>not</em> issued by drag-and-drop) completely empties a section of my table view. It’s been frustrating!</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Goal #1 for the week: Reduce coffee consumption to one cup per day. But…does decaf count? Perhaps I am not off to a good start.</p>\n",
 			"date_published": "2018-02-05T11:07:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/05/goal-for-the.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/04/my-super-bowl.html",
-	      	
-			"content_html": "<p>🏈 My Super Bowl menu: sirloin steak, caramelized onions, garden salad, French bread with brie or honey butter, as well as tortilla chips, pita chips, hummus, and salsa. Food is the best part of the game!</p>\n",
-			"date_published": "2018-02-04T11:42:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/04/my-super-bowl.html"
 		}
 		
 	]
