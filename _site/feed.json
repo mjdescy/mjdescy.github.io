@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/08/my-wife-inspired.html",
+	      	
+			"content_html": "<p>My wife inspired me to cook apple &amp; sweet potato mash for my son this evening.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/f9d4f88773.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-02-08T18:00:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/08/my-wife-inspired.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/08/im-on-hour.html",
 	      	
 			"content_html": "<p>I’m on hour 7 of writing data database loading routines. Writing queries in Access is uniquely disappointing. The syntax for joins is awful, the lack of case statements is unfortunate, and the query editor is primitive. I vastly prefer SQL Server, and MySQL is OK as well.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I have been enjoying the <a href=\"https://itunes.apple.com/us/app/roughly-the-approximate-time-in-words/id1086283722?mt=8\">Roughly app</a>’s complication (on the bottom, in the picture) for the Apple Watch. It’s a little frivolous to display the approximate time in words, but it’s also a little frivolous to use analog watch faces on a digital device.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/3411540050.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2018-02-05T21:48:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/05/i-have-been.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/05/fact-decaf-coffee.html",
-	      	
-			"content_html": "<p>Fact: Decaf coffee does <em>not</em> count as real coffee!</p>\n",
-			"date_published": "2018-02-05T18:47:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/05/fact-decaf-coffee.html"
 		}
 		
 	]
