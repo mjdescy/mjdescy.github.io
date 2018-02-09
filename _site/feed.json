@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/09/i-have-finally.html",
+	      	
+			"content_html": "<p>I have finally switched over from Drafts 4 to Drafts 5 (beta) as my daily driver. Its such a cool app, with tons of customizability and depth. I might try to create some JavaScript actions next, but the built in actions do just about everything I want.</p>\n",
+			"date_published": "2018-02-08T20:54:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/08/i-have-finally.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/08/my-wife-inspired.html",
 	      	
 			"content_html": "<p>My wife inspired me to cook apple &amp; sweet potato mash for my son this evening.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/f9d4f88773.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Work today is more about juggling priorities than anything else: data mining, sampling, database development, calls and meetings, and so on.</p>\n",
 			"date_published": "2018-02-06T10:51:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/06/work-today-is.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/06/i-have-been.html",
-	      	
-			"content_html": "<p>I have been enjoying the <a href=\"https://itunes.apple.com/us/app/roughly-the-approximate-time-in-words/id1086283722?mt=8\">Roughly app</a>’s complication (on the bottom, in the picture) for the Apple Watch. It’s a little frivolous to display the approximate time in words, but it’s also a little frivolous to use analog watch faces on a digital device.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/3411540050.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-05T21:48:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/05/i-have-been.html"
 		}
 		
 	]
