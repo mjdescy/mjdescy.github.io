@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/09/swiftodo-is-now.html",
+	      	
+			"content_html": "<p><a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">SwiftoDo 2.7.2 is now available in the App Store</a>. It adds the ability to drag tasks to new priorities, projects, contexts, tasks, and dates, while in “edit” node, depending on sort order.</p>\n",
+			"date_published": "2018-02-09T16:53:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/09/swiftodo-is-now.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/09/replacing-keyboard-with.html",
 	      	
 			"content_html": "<p>Replacing “Keyboard-“ with the keyboard emoji (⌨️) solves a minor problem I have in the Drafts 5 beta: You can’t sort or hide action groups, and the keyboard-related groups, while useful, are not ones I open from the action groups menu. The ⌨️ emoji sorts them below normal letters.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/e40c5ec598.jpg\" width=\"504\" height=\"503\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>After reading all the reviews, (like <a href=\"https://daringfireball.net/2018/02/homepod\">this one</a>) I really want <em>two</em> HomePods with AirPlay 2 working. (Oh, god, what is <em>wrong</em> with me?! 😂)</p>\n",
 			"date_published": "2018-02-06T21:22:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/06/after-reading-all.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/06/today-at-work.html",
-	      	
-			"content_html": "<p>Today at work I thought: “I wish I was better at Awk”. The last time I thought that was 5 years ago…which is why I am not better at Awk. </p>\n",
-			"date_published": "2018-02-06T17:19:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/06/today-at-work.html"
 		}
 		
 	]
