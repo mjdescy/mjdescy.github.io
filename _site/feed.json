@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/09/replacing-keyboard-with.html",
+	      	
+			"content_html": "<p>Replacing “Keyboard-“ with the keyboard emoji (⌨️) solves a minor problem I have in the Drafts 5 beta: You can’t sort or hide action groups, and the keyboard-related groups, while useful, are not ones I open from the action groups menu. The ⌨️ emoji sorts them below normal letters.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/e40c5ec598.jpg\" width=\"504\" height=\"503\" /></p>\n",
+			"date_published": "2018-02-09T09:38:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/09/replacing-keyboard-with.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/09/blog-post-swiftodo.html",
 	      	
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/02/09/swiftodo-developer-notes-february-2018/\">SwiftoDo Developer Notes, February 2018</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Today at work I thought: “I wish I was better at Awk”. The last time I thought that was 5 years ago…which is why I am not better at Awk. </p>\n",
 			"date_published": "2018-02-06T17:19:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/06/today-at-work.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/06/on-my-lunch.html",
-	      	
-			"content_html": "<p>On my lunch break I submitted a new build of <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">SwiftoDo</a> to the App Store. My release philosophy has changed this year. I’m leaning toward releasing smaller updates, more frequently.</p>\n",
-			"date_published": "2018-02-06T13:51:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/06/on-my-lunch.html"
 		}
 		
 	]
