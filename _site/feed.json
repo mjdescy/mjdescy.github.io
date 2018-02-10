@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/10/blog-post-strategies.html",
+	      	
+			"content_html": "<p>Blog post*: <a href=\"https://mjdescy.me/2018/02/09/strategies-to-increase-diversity-on-microblog/\">Strategies to increase diversity on Micro.blog</a> </p>\n\n<p>*(repost because this link didn’t appear on my micro blog, only in my timeline)</p>\n",
+			"date_published": "2018-02-09T21:20:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/09/blog-post-strategies.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/09/swiftodo-is-now.html",
 	      	
 			"content_html": "<p><a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">SwiftoDo 2.7.2 is now available in the App Store</a>. It adds the ability to drag tasks to new priorities, projects, contexts, tasks, and dates, while in “edit” node, depending on sort order.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🎤 I have fallen 15 episodes behind in my “<a href=\"https://twit.tv/shows/security-now\">Security Now</a>” listening. I do like the podcast, but listening to it <em>is</em> a little like “eating my vegetables” sometimes. I’m trying to catch up somewhat today.</p>\n",
 			"date_published": "2018-02-07T10:52:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/07/i-have-fallen.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/07/after-reading-all.html",
-	      	
-			"content_html": "<p>After reading all the reviews, (like <a href=\"https://daringfireball.net/2018/02/homepod\">this one</a>) I really want <em>two</em> HomePods with AirPlay 2 working. (Oh, god, what is <em>wrong</em> with me?! 😂)</p>\n",
-			"date_published": "2018-02-06T21:22:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/06/after-reading-all.html"
 		}
 		
 	]
