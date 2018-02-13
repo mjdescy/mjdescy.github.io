@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Mon, 12 Feb 2018 23:49:06 -0500</pubDate>
-    <lastBuildDate>Mon, 12 Feb 2018 23:49:06 -0500</lastBuildDate>
+    <pubDate>Tue, 13 Feb 2018 09:37:16 -0500</pubDate>
+    <lastBuildDate>Tue, 13 Feb 2018 09:37:16 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;If Apple really is &lt;a href=&quot;http://www.businessinsider.com/apple-slowing-down-iphone-features-and-fixing-bugs-2018-2&quot;&gt;slowing down and fixing bugs&lt;/a&gt;, rather than adding features, I wish they would work more on  Xcode 9, which is still a mess for me for Swift development.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 13 Feb 2018 09:37:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/02/13/if-apple-really.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/13/if-apple-really.html</guid>
+      </item>
     
       <item>
       	
@@ -459,15 +468,6 @@
         <pubDate>Thu, 25 Jan 2018 16:47:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2018/01/25/i-resumed-reading.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/25/i-resumed-reading.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’m back to Access database work today. It looks like I will have to do even more Access work for exam procedure automation in the future, because the work will be portable and transferable to our clients that way. It’s kind of a bummer, though, because VBA is terrible.   Native Python support in Office can’t come soon enough for me.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 25 Jan 2018 09:32:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2018/01/25/im-back-to.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/25/im-back-to.html</guid>
       </item>
     
   </channel>
