@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/13/if-apple-really.html",
+	      	
+			"content_html": "<p>If Apple really is <a href=\"http://www.businessinsider.com/apple-slowing-down-iphone-features-and-fixing-bugs-2018-2\">slowing down and fixing bugs</a>, rather than adding features, I wish they would work more on  Xcode 9, which is still a mess for me for Swift development.</p>\n",
+			"date_published": "2018-02-13T09:37:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/13/if-apple-really.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/13/im-coding-a.html",
 	      	
 			"content_html": "<p>I’m coding a user-requested feature this evening. I started really late after a 2-hour trip to Wegmans. I stayed up to do a particularly satisfying refactor.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Blog post*: <a href=\"https://mjdescy.me/2018/02/09/strategies-to-increase-diversity-on-microblog/\">Strategies to increase diversity on Micro.blog</a> </p>\n\n<p>*(repost because this link didn’t appear on my micro blog, only in my timeline)</p>\n",
 			"date_published": "2018-02-09T21:20:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/09/blog-post-strategies.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/09/swiftodo-is-now.html",
-	      	
-			"content_html": "<p><a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">SwiftoDo 2.7.2 is now available in the App Store</a>. It adds the ability to drag tasks to new priorities, projects, contexts, tasks, and dates, while in “edit” node, depending on sort order.</p>\n",
-			"date_published": "2018-02-09T16:53:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/09/swiftodo-is-now.html"
 		}
 		
 	]
