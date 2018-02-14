@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Tue, 13 Feb 2018 23:49:05 -0500</pubDate>
-    <lastBuildDate>Tue, 13 Feb 2018 23:49:05 -0500</lastBuildDate>
+    <pubDate>Wed, 14 Feb 2018 09:25:09 -0500</pubDate>
+    <lastBuildDate>Wed, 14 Feb 2018 09:25:09 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Blog post: &lt;a href=&quot;https://mjdescy.me/2018/02/14/my-slide-into-audiophile-territory-part-1/&quot;&gt;My Slide into Audiophile Territory, Part 1&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Feb 2018 09:25:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/02/14/blog-post-my.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/14/blog-post-my.html</guid>
+      </item>
     
       <item>
       	
@@ -459,15 +468,6 @@
         <pubDate>Fri, 26 Jan 2018 14:28:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2018/01/26/i-did-some.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/26/i-did-some.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I diagnosed and fixed a memory leak in my iOS app using Instruments and Xcode’s memory debugger for the first time tonight. It &lt;em&gt;almost&lt;/em&gt; made sense to me. My fix involved removing retain cycles by getting rid of a closure and turning one of my classes into a struct.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 25 Jan 2018 23:37:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2018/01/25/i-diagnosed-and.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/26/i-diagnosed-and.html</guid>
       </item>
     
   </channel>
