@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/14/tonight-i-set.html",
+	      	
+			"content_html": "<p>Tonight I set up <a href=\"https://github.com/nfarina/homebridge\">HomeBridge</a> on an otherwise unused Raspberry Pi to control my Nest thermostat via Siri and HomeKit. The hardest part for me was getting it set up as a service, because I hadn’t used <a href=\"https://en.wikipedia.org/wiki/Systemd\">systemd</a> before. I blame/thank FreeBSD for that!</p>\n",
+			"date_published": "2018-02-13T23:49:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/13/tonight-i-set.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/13/if-apple-really.html",
 	      	
 			"content_html": "<p>If Apple really is <a href=\"http://www.businessinsider.com/apple-slowing-down-iphone-features-and-fixing-bugs-2018-2\">slowing down and fixing bugs</a>, rather than adding features, I wish they would work more on  Xcode 9, which is still a mess for me for Swift development.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Looking forward to seeing Roger’s &amp; Hammerstein’s “Cinderella” soon. I hope my daughter enjoys it!</p>\n",
 			"date_published": "2018-02-10T13:47:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/10/looking-forward-to.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/10/blog-post-strategies.html",
-	      	
-			"content_html": "<p>Blog post*: <a href=\"https://mjdescy.me/2018/02/09/strategies-to-increase-diversity-on-microblog/\">Strategies to increase diversity on Micro.blog</a> </p>\n\n<p>*(repost because this link didn’t appear on my micro blog, only in my timeline)</p>\n",
-			"date_published": "2018-02-09T21:20:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/09/blog-post-strategies.html"
 		}
 		
 	]
