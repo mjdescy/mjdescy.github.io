@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Tue, 13 Feb 2018 09:37:16 -0500</pubDate>
-    <lastBuildDate>Tue, 13 Feb 2018 09:37:16 -0500</lastBuildDate>
+    <pubDate>Tue, 13 Feb 2018 23:49:05 -0500</pubDate>
+    <lastBuildDate>Tue, 13 Feb 2018 23:49:05 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Tonight I set up &lt;a href=&quot;https://github.com/nfarina/homebridge&quot;&gt;HomeBridge&lt;/a&gt; on an otherwise unused Raspberry Pi to control my Nest thermostat via Siri and HomeKit. The hardest part for me was getting it set up as a service, because I hadn’t used &lt;a href=&quot;https://en.wikipedia.org/wiki/Systemd&quot;&gt;systemd&lt;/a&gt; before. I blame/thank FreeBSD for that!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 13 Feb 2018 23:49:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/02/13/tonight-i-set.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/14/tonight-i-set.html</guid>
+      </item>
     
       <item>
       	
@@ -459,15 +468,6 @@
         <pubDate>Thu, 25 Jan 2018 23:37:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2018/01/25/i-diagnosed-and.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/26/i-diagnosed-and.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;📚 I resumed reading &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Team_of_Rivals&quot;&gt;Team of Rivals: The Political Genius of Abraham Lincoln&lt;/a&gt; last night. It’s an incredibly well-written and well-researched book. I had stopped reading it because I thought its subject matter—the break-up of the United States due to intractable racial prejudice—hit a little too close to home for 2017-18. Regardless, I am now continuing.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 25 Jan 2018 16:47:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2018/01/25/i-resumed-reading.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/25/i-resumed-reading.html</guid>
       </item>
     
   </channel>
