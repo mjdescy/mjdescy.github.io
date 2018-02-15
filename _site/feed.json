@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/15/i-am-listening.html",
+	      	
+			"content_html": "<p>I am listening to music from my MacBook Pro today, via the <a href=\"https://www.oppodigital.com/headphone-amplifier-ha-2SE/\">Oppo HA-2SE</a>. One benefit is that it charges through its micro USB input, so playtime is unlimited. iTunes is slower and buggier than the iOS Music app, though.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/1cf4df3302.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-02-15T14:20:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/15/i-am-listening.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/15/adding-my-nest.html",
 	      	
 			"content_html": "<p>Adding my <a href=\"https://nest.com/thermostats/\">Nest thermostat</a> to <a href=\"https://www.apple.com/ios/home/\">HomeKit</a> via <a href=\"https://github.com/nfarina/homebridge\">HomeBridge</a> has made my life a little better. I do have a suggestion for Apple, though: “Hey Siri, set thermostat to 70º F and let no one in my family change it, <em>ever</em>, for any reason.” Maybe I don’t need a smart thermostat after all.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/1642f56be2.jpg\" width=\"599\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>🎙 It’s Monday morning, so I am listening to “This Week in Tech”.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/1b771af0d7.jpg\" width=\"600\" height=\"598\" /></p>\n",
 			"date_published": "2018-02-12T09:49:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/12/its-monday-morning.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/12/i-just-preordered.html",
-	      	
-			"content_html": "<p>I just pre-ordered <a href=\"https://itunes.apple.com/us/app/altos-odyssey/id1182456409?mt=8\">Alto’s Odyssey</a> even though I think preordering apps is stupid, because Alto’s Adventure is one of my all-time favorite iOS games, and I’ve been eagerly awaiting its sequel for a long time.</p>\n",
-			"date_published": "2018-02-12T00:06:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/12/i-just-preordered.html"
 		}
 		
 	]
