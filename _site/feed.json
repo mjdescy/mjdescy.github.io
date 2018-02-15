@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/15/i-downloaded-visual.html",
+	      	
+			"content_html": "<p>I downloaded Visual Studio Code on my Windows work machine today. I don’t see how it will be better than Sublime Text <em>for me</em> however. I mostly need <em>speed</em> and some extensibility, and don’t need to compile or debug so much.</p>\n",
+			"date_published": "2018-02-14T20:20:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/14/i-downloaded-visual.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/15/my-wife-baked.html",
 	      	
 			"content_html": "<p>My wife baked a delicious Valentine’s Day treat. ❤️😄</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/7c8bb906e5.jpg\" width=\"599\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I don’t watch the Winter Olympics. It is not for me. Enjoy it, everybody else!</p>\n",
 			"date_published": "2018-02-11T23:25:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/11/i-dont-watch.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/11/my-wife-daughter.html",
-	      	
-			"content_html": "<p>My wife, daughter, and I enjoyed the Purim-related children’s activities at the temple this morning. </p>\n",
-			"date_published": "2018-02-11T13:16:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/11/my-wife-daughter.html"
 		}
 		
 	]
