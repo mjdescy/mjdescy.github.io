@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/15/adding-my-nest.html",
+	      	
+			"content_html": "<p>Adding my <a href=\"https://nest.com/thermostats/\">Nest thermostat</a> to <a href=\"https://www.apple.com/ios/home/\">HomeKit</a> via <a href=\"https://github.com/nfarina/homebridge\">HomeBridge</a> has made my life a little better. I do have a suggestion for Apple, though: “Hey Siri, set thermostat to 70º F and let no one in my family change it, <em>ever</em>, for any reason.” Maybe I don’t need a smart thermostat after all.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/1642f56be2.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-15T10:09:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/15/adding-my-nest.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/15/i-downloaded-visual.html",
 	      	
 			"content_html": "<p>I downloaded Visual Studio Code on my Windows work machine today. I don’t see how it will be better than Sublime Text <em>for me</em> however. I mostly need <em>speed</em> and some extensibility, and don’t need to compile or debug so much.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I just pre-ordered <a href=\"https://itunes.apple.com/us/app/altos-odyssey/id1182456409?mt=8\">Alto’s Odyssey</a> even though I think preordering apps is stupid, because Alto’s Adventure is one of my all-time favorite iOS games, and I’ve been eagerly awaiting its sequel for a long time.</p>\n",
 			"date_published": "2018-02-12T00:06:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/12/i-just-preordered.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/12/i-dont-watch.html",
-	      	
-			"content_html": "<p>I don’t watch the Winter Olympics. It is not for me. Enjoy it, everybody else!</p>\n",
-			"date_published": "2018-02-11T23:25:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/11/i-dont-watch.html"
 		}
 		
 	]
