@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Thu, 15 Feb 2018 14:20:46 -0500</pubDate>
-    <lastBuildDate>Thu, 15 Feb 2018 14:20:46 -0500</lastBuildDate>
+    <pubDate>Fri, 16 Feb 2018 12:13:53 -0500</pubDate>
+    <lastBuildDate>Fri, 16 Feb 2018 12:13:53 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;amp;mt=8&quot;&gt;SwiftoDo 2.8.0 is now available in the App Store&lt;/a&gt;. It adds a picker to make adding recurrence pattern tags (for daily, weekly, monthly, etc.) to tasks easier. It also lets you drop tasks onto the task list from other apps (iPad only).&lt;/p&gt;
+</description>
+        <pubDate>Fri, 16 Feb 2018 12:13:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/02/16/swiftodo-is-now.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/16/swiftodo-is-now.html</guid>
+      </item>
     
       <item>
       	
@@ -464,15 +473,6 @@
         <pubDate>Sun, 28 Jan 2018 15:09:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2018/01/28/i-really-liked.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/28/i-really-liked.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;amp;mt=8&quot;&gt;SwiftoDo 2.7.0 is now available in the App Store&lt;/a&gt;. It vastly improves the loading speed for huge task lists, and adds URL support (long-press a task to open any URL it contains).&lt;/p&gt;
-</description>
-        <pubDate>Sat, 27 Jan 2018 22:09:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2018/01/27/swiftodo-is-now.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/28/swiftodo-is-now.html</guid>
       </item>
     
   </channel>
