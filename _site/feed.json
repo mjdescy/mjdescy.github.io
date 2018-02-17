@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/17/i-saw-thor.html",
+	      	
+			"content_html": "<p>🎬 I saw “Thor: Ragnarok” today and thoroughly enjoyed it. The “Thor” and “Captain America” series started off a little weak but ended up much stronger than the “Iron Man” series, which had the opposite trajectory. It’s upsetting that they never made a “Black Widow” movie series.</p>\n",
+			"date_published": "2018-02-16T22:20:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/16/i-saw-thor.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/17/another-swiftodo-update.html",
 	      	
 			"content_html": "<p>Another SwiftoDo update will come at the end of next week, as long as I can get the timing right with App Store review. I cannot promise weekly updates forever, but right now I am trying to release the best version possible to my users, as soon as possible.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>If Apple really is <a href=\"http://www.businessinsider.com/apple-slowing-down-iphone-features-and-fixing-bugs-2018-2\">slowing down and fixing bugs</a>, rather than adding features, I wish they would work more on  Xcode 9, which is still a mess for me for Swift development.</p>\n",
 			"date_published": "2018-02-13T09:37:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/13/if-apple-really.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/13/im-coding-a.html",
-	      	
-			"content_html": "<p>I’m coding a user-requested feature this evening. I started really late after a 2-hour trip to Wegmans. I stayed up to do a particularly satisfying refactor.</p>\n",
-			"date_published": "2018-02-12T23:49:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/12/im-coding-a.html"
 		}
 		
 	]
