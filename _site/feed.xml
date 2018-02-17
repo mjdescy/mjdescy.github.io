@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Fri, 16 Feb 2018 12:13:53 -0500</pubDate>
-    <lastBuildDate>Fri, 16 Feb 2018 12:13:53 -0500</lastBuildDate>
+    <pubDate>Fri, 16 Feb 2018 21:35:40 -0500</pubDate>
+    <lastBuildDate>Fri, 16 Feb 2018 21:35:40 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Another SwiftoDo update will come at the end of next week, as long as I can get the timing right with App Store review. I cannot promise weekly updates forever, but right now I am trying to release the best version possible to my users, as soon as possible.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 16 Feb 2018 21:35:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/02/16/another-swiftodo-update.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/17/another-swiftodo-update.html</guid>
+      </item>
     
       <item>
       	
@@ -464,15 +473,6 @@
         <pubDate>Sun, 28 Jan 2018 21:11:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2018/01/28/the-new-york.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/29/the-new-york.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I really liked &lt;a href=&quot;https://www.swiftbysundell.com/posts/composing-types-in-swift&quot;&gt;this back-to-basics post by John Sundell&lt;/a&gt; about type composition in Swift. I think lots of programming tutorial writers—and readers—fail to focus on fundamentals. John does not.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 28 Jan 2018 15:09:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2018/01/28/i-really-liked.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/28/i-really-liked.html</guid>
       </item>
     
   </channel>
