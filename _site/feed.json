@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/18/if-you-like.html",
+	      	
+			"content_html": "<p>🎵 If you like <a href=\"https://itunes.apple.com/us/artist/the-weakerthans/2987439\">The Weakerthans</a> as much as I do, you will find <a href=\"https://www.youtube.com/watch?v=iW3buuhnRlU\">this interview with their singer, John K. Samson</a>, fascinating.</p>\n",
+			"date_published": "2018-02-17T23:46:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/17/if-you-like.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/18/we-had-an.html",
 	      	
 			"content_html": "<p>We had an enormous house party today. It was a lot of fun, but boy are we wiped out! 🎈 </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/02/14/my-slide-into-audiophile-territory-part-1/\">My Slide into Audiophile Territory, Part 1</a></p>\n",
 			"date_published": "2018-02-14T09:25:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/14/blog-post-my.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/14/tonight-i-set.html",
-	      	
-			"content_html": "<p>Tonight I set up <a href=\"https://github.com/nfarina/homebridge\">HomeBridge</a> on an otherwise unused Raspberry Pi to control my Nest thermostat via Siri and HomeKit. The hardest part for me was getting it set up as a service, because I hadn’t used <a href=\"https://en.wikipedia.org/wiki/Systemd\">systemd</a> before. I blame/thank FreeBSD for that!</p>\n",
-			"date_published": "2018-02-13T23:49:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/13/tonight-i-set.html"
 		}
 		
 	]
