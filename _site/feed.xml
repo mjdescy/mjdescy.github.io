@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Sat, 17 Feb 2018 23:46:04 -0500</pubDate>
-    <lastBuildDate>Sat, 17 Feb 2018 23:46:04 -0500</lastBuildDate>
+    <pubDate>Mon, 19 Feb 2018 08:59:02 -0500</pubDate>
+    <lastBuildDate>Mon, 19 Feb 2018 08:59:02 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Blog post: &lt;a href=&quot;https://mjdescy.me/2018/02/19/abc-testing-august-and-everything-after-in-24-bit-96khz-flac-vs-16-bit-441khz-alac-vs-256-kbps-aac/&quot;&gt;A/B/C testing: “August and Everything After”, in 24-bit, 96kHz FLAC vs. 16-bit, 44.1kHz ALAC vs. 256 kbps AAC&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Feb 2018 08:59:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/02/19/blog-post-abc.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/19/blog-post-abc.html</guid>
+      </item>
     
       <item>
       	
@@ -464,15 +473,6 @@
         <pubDate>Tue, 30 Jan 2018 17:09:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2018/01/30/it-looks-like.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/30/it-looks-like.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’m coding something new for work today, mostly because ACL can’t read my enormous data files correctly all the way through.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 30 Jan 2018 12:58:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2018/01/30/im-coding-something.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/30/im-coding-something.html</guid>
       </item>
     
   </channel>
