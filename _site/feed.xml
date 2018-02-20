@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Mon, 19 Feb 2018 13:53:58 -0500</pubDate>
-    <lastBuildDate>Mon, 19 Feb 2018 13:53:58 -0500</lastBuildDate>
+    <pubDate>Mon, 19 Feb 2018 23:47:21 -0500</pubDate>
+    <lastBuildDate>Mon, 19 Feb 2018 23:47:21 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;🚀 I finally installed &lt;a href=&quot;http://rocket.wolves.fm/r/SJ8HO7KDM&quot;&gt;Rocket&lt;/a&gt; on my Mac. It’s a lot nicer to use than Character Viewer (Control+Command+Space) to drop emoji into text boxes.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Feb 2018 23:45:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/02/19/i-finally-installed.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/20/i-finally-installed.html</guid>
+      </item>
     
       <item>
       	
@@ -466,15 +475,6 @@
         <pubDate>Wed, 31 Jan 2018 22:58:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2018/01/31/i-spent-my.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/01/i-spent-my.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;The program I wrote yesterday has been running, with no output whatsoever, for over 12 hours now, and is nowhere near done. So, how do you, time- and space- efficiently, search for 60,000 strings within 20 million lines of text? 😅 &lt;/p&gt;
-</description>
-        <pubDate>Wed, 31 Jan 2018 08:16:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2018/01/31/the-program-i.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/01/31/the-program-i.html</guid>
       </item>
     
   </channel>
