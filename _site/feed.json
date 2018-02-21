@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/21/current-mood.html",
+	      	
+			"content_html": "<p>Current mood.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/efdbd39fce.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-21T12:04:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/21/current-mood.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/21/im-coding-a.html",
 	      	
 			"content_html": "<p>I’m coding a nice new feature for <a href=\"https://swiftodoapp.com\">SwiftoDo</a> tonight. Hopefully it will be done tomorrow or Thursday, and I can get it in users hands by next weekend. Line 8 in the screenshot is new.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/2cd259489d.jpg\" width=\"600\" height=\"298\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Looking forward to seeing Roger’s &amp; Hammerstein’s “Cinderella” soon. I hope my daughter enjoys it!</p>\n",
 			"date_published": "2018-02-10T13:47:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/10/looking-forward-to.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/10/blog-post-strategies.html",
-	      	
-			"content_html": "<p>Blog post*: <a href=\"https://mjdescy.me/2018/02/09/strategies-to-increase-diversity-on-microblog/\">Strategies to increase diversity on Micro.blog</a> </p>\n\n<p>*(repost because this link didn’t appear on my micro blog, only in my timeline)</p>\n",
-			"date_published": "2018-02-09T21:20:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/09/blog-post-strategies.html"
 		}
 		
 	]
