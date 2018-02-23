@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/23/swiftodohttpsswiftodoappcom-is-now.html",
+	      	
+			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo</a> 2.8.1 is now <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">available in the App Store</a>. It adds a Solarized Light and Solarized Dark themes, fixes bugs, and changes opening the URL menu from a long press to a slide gesture. </p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/ed7fb344be.jpg\" width=\"337\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-23T09:07:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/23/swiftodohttpsswiftodoappcom-is-now.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/23/i-would-never.html",
 	      	
 			"content_html": "<p>I would never replace my AirPods with <a href=\"https://www.bloomberg.com/news/articles/2018-02-22/apple-is-said-to-plan-upgrades-to-popular-airpods-headphones\">the new ones rumored today</a> just to <em>upgrade</em> them, but if I broke or lost mine, I would buy them in a second.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d547e9d7ae.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>🎙 It’s Monday morning, so I am listening to “This Week in Tech”.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/1b771af0d7.jpg\" width=\"600\" height=\"598\" /></p>\n",
 			"date_published": "2018-02-12T09:49:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/12/its-monday-morning.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/12/i-just-preordered.html",
-	      	
-			"content_html": "<p>I just pre-ordered <a href=\"https://itunes.apple.com/us/app/altos-odyssey/id1182456409?mt=8\">Alto’s Odyssey</a> even though I think preordering apps is stupid, because Alto’s Adventure is one of my all-time favorite iOS games, and I’ve been eagerly awaiting its sequel for a long time.</p>\n",
-			"date_published": "2018-02-12T00:06:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/12/i-just-preordered.html"
 		}
 		
 	]
