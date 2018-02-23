@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/23/i-would-never.html",
+	      	
+			"content_html": "<p>I would never replace my AirPods with <a href=\"https://www.bloomberg.com/news/articles/2018-02-22/apple-is-said-to-plan-upgrades-to-popular-airpods-headphones\">the new ones rumored today</a> just to <em>upgrade</em> them, but if I broke or lost mine, I would buy them in a second.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d547e9d7ae.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-02-22T23:41:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/22/i-would-never.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/23/altos-odyssey-has.html",
 	      	
 			"content_html": "<p>Alto’s Odyssey has, predictably, lowered my productivity the past two days. Still, there are two updates to SwiftoDo in the hopper. The first will be released tomorrow.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I just pre-ordered <a href=\"https://itunes.apple.com/us/app/altos-odyssey/id1182456409?mt=8\">Alto’s Odyssey</a> even though I think preordering apps is stupid, because Alto’s Adventure is one of my all-time favorite iOS games, and I’ve been eagerly awaiting its sequel for a long time.</p>\n",
 			"date_published": "2018-02-12T00:06:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/12/i-just-preordered.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/12/i-dont-watch.html",
-	      	
-			"content_html": "<p>I don’t watch the Winter Olympics. It is not for me. Enjoy it, everybody else!</p>\n",
-			"date_published": "2018-02-11T23:25:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/11/i-dont-watch.html"
 		}
 		
 	]
