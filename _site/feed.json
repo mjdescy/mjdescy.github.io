@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/24/today-i-am.html",
+	      	
+			"content_html": "<p>Today I am grateful for Spring Training and the return of Major League Baseball. ⚾️ I watched two exposition games, which was fun and relaxing.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/da896dc443.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-23T20:08:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/23/today-i-am.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/23/swiftodohttpsswiftodoappcom-is-now.html",
 	      	
 			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo</a> 2.8.1 is now <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">available in the App Store</a>. It adds a Solarized Light and Solarized Dark themes, fixes bugs, and changes opening the URL menu from a long press to a slide gesture. </p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/ed7fb344be.jpg\" width=\"337\" height=\"600\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I <em>may</em> be helping out my employer with podcasting in the next few months. It is surprising to me that they are interested in podcasting. For them, it’s about owning content, and about it being evergreen, rather than ephemeral, like webinars. It would be fun to help out with it.</p>\n",
 			"date_published": "2018-02-12T13:10:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/12/i-may-be.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/12/its-monday-morning.html",
-	      	
-			"content_html": "<p>🎙 It’s Monday morning, so I am listening to “This Week in Tech”.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/1b771af0d7.jpg\" width=\"600\" height=\"598\" /></p>\n",
-			"date_published": "2018-02-12T09:49:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/12/its-monday-morning.html"
 		}
 		
 	]
