@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/25/saturday-has-become.html",
+	      	
+			"content_html": "<p>Saturday has become my day to eat way too much food, which is not a good development. Hopefully I can sort this out before it becomes a big problem.</p>\n",
+			"date_published": "2018-02-24T21:33:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/24/saturday-has-become.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/24/today-i-am.html",
 	      	
 			"content_html": "<p>Today I am grateful for Spring Training and the return of Major League Baseball. ⚾️ I watched two exposition games, which was fun and relaxing.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/da896dc443.jpg\" width=\"599\" height=\"600\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I’m coding a user-requested feature this evening. I started really late after a 2-hour trip to Wegmans. I stayed up to do a particularly satisfying refactor.</p>\n",
 			"date_published": "2018-02-12T23:49:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/12/im-coding-a.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/12/i-may-be.html",
-	      	
-			"content_html": "<p>I <em>may</em> be helping out my employer with podcasting in the next few months. It is surprising to me that they are interested in podcasting. For them, it’s about owning content, and about it being evergreen, rather than ephemeral, like webinars. It would be fun to help out with it.</p>\n",
-			"date_published": "2018-02-12T13:10:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/12/i-may-be.html"
 		}
 		
 	]
