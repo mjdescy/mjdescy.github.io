@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/26/here-we-go.html",
+	      	
+			"content_html": "<p>Here we go again!</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/e50732b571.jpg\" width=\"370\" height=\"160\" /></p>\n",
+			"date_published": "2018-02-25T23:11:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/25/here-we-go.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/26/dear-apple-i.html",
 	      	
 			"content_html": "<p>Dear Apple: I do not <em>want</em> to upload <a href=\"https://developer.apple.com/news/?id=02212018a\">10 screenshots</a>. Sigh. 😅</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/02/14/my-slide-into-audiophile-territory-part-1/\">My Slide into Audiophile Territory, Part 1</a></p>\n",
 			"date_published": "2018-02-14T09:25:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/14/blog-post-my.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/14/tonight-i-set.html",
-	      	
-			"content_html": "<p>Tonight I set up <a href=\"https://github.com/nfarina/homebridge\">HomeBridge</a> on an otherwise unused Raspberry Pi to control my Nest thermostat via Siri and HomeKit. The hardest part for me was getting it set up as a service, because I hadn’t used <a href=\"https://en.wikipedia.org/wiki/Systemd\">systemd</a> before. I blame/thank FreeBSD for that!</p>\n",
-			"date_published": "2018-02-13T23:49:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/13/tonight-i-set.html"
 		}
 		
 	]
