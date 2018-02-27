@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/27/my-daughter-is.html",
+	      	
+			"content_html": "<p>My daughter is <em>far</em> more excited than is absolutely necessary at the mere prospect of visiting the American Girl Doll store in Manhattan. 😂</p>\n",
+			"date_published": "2018-02-27T11:07:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/27/my-daughter-is.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/27/if-i-had.html",
 	      	
 			"content_html": "<p>If I had my gumption, I would convert SwiftoDo to the <a href=\"https://medium.com/@dkw5877/flow-coordinators-333ed64f3dd\">Coordinator pattern</a> and get rid of (actually, completely reimplement) all those messy segues. If I had my gumption, though, I would do a lot of things.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Adding my <a href=\"https://nest.com/thermostats/\">Nest thermostat</a> to <a href=\"https://www.apple.com/ios/home/\">HomeKit</a> via <a href=\"https://github.com/nfarina/homebridge\">HomeBridge</a> has made my life a little better. I do have a suggestion for Apple, though: “Hey Siri, set thermostat to 70º F and let no one in my family change it, <em>ever</em>, for any reason.” Maybe I don’t need a smart thermostat after all.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/1642f56be2.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2018-02-15T10:09:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/15/adding-my-nest.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/15/i-downloaded-visual.html",
-	      	
-			"content_html": "<p>I downloaded Visual Studio Code on my Windows work machine today. I don’t see how it will be better than Sublime Text <em>for me</em> however. I mostly need <em>speed</em> and some extensibility, and don’t need to compile or debug so much.</p>\n",
-			"date_published": "2018-02-14T20:20:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/14/i-downloaded-visual.html"
 		}
 		
 	]
