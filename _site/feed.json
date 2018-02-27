@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/27/if-i-had.html",
+	      	
+			"content_html": "<p>If I had my gumption, I would convert SwiftoDo to the <a href=\"https://medium.com/@dkw5877/flow-coordinators-333ed64f3dd\">Coordinator pattern</a> and get rid of (actually, completely reimplement) all those messy segues. If I had my gumption, though, I would do a lot of things.</p>\n",
+			"date_published": "2018-02-26T23:21:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/26/if-i-had.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/27/015820.html",
 	      	
 			"content_html": "<p><a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">SwiftoDo 2.9.0</a> is now available in the App Store. It adds an edit mode for your todo.txt file, opens URL schemes for apps <em>other</em> than Safari, and fixes more bugs. I pushed it out a bit early because I’m working on a fix for a longstanding bug that I’d love to get out at the end of the week.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I downloaded Visual Studio Code on my Windows work machine today. I don’t see how it will be better than Sublime Text <em>for me</em> however. I mostly need <em>speed</em> and some extensibility, and don’t need to compile or debug so much.</p>\n",
 			"date_published": "2018-02-14T20:20:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/14/i-downloaded-visual.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/15/my-wife-baked.html",
-	      	
-			"content_html": "<p>My wife baked a delicious Valentine’s Day treat. ❤️😄</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/7c8bb906e5.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-14T19:44:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/14/my-wife-baked.html"
 		}
 		
 	]
