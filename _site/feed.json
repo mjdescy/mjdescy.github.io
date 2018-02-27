@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/27/015820.html",
+	      	
+			"content_html": "<p><a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">SwiftoDo 2.9.0</a> is now available in the App Store. It adds an edit mode for your todo.txt file, opens URL schemes for apps <em>other</em> than Safari, and fixes more bugs. I pushed it out a bit early because I’m working on a fix for a longstanding bug that I’d love to get out at the end of the week.</p>\n",
+			"date_published": "2018-02-26T20:58:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/26/015820.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/26/here-we-go.html",
 	      	
 			"content_html": "<p>Here we go again!</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/e50732b571.jpg\" width=\"370\" height=\"160\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>My wife baked a delicious Valentine’s Day treat. ❤️😄</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/7c8bb906e5.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2018-02-14T19:44:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/14/my-wife-baked.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/14/blog-post-my.html",
-	      	
-			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/02/14/my-slide-into-audiophile-territory-part-1/\">My Slide into Audiophile Territory, Part 1</a></p>\n",
-			"date_published": "2018-02-14T09:25:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/14/blog-post-my.html"
 		}
 		
 	]
