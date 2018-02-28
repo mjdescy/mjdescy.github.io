@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Tue, 27 Feb 2018 22:27:41 -0500</pubDate>
-    <lastBuildDate>Tue, 27 Feb 2018 22:27:41 -0500</lastBuildDate>
+    <pubDate>Wed, 28 Feb 2018 10:56:34 -0500</pubDate>
+    <lastBuildDate>Wed, 28 Feb 2018 10:56:34 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://peltiertech.com/bar-chart-categories-backwards/&quot;&gt;This is the best explanation I’ve found&lt;/a&gt; for why Excel outputs my graph series in the opposite order I want them, every time I create a sideways bar chart. It’s an insane default. Typical Microsoft brutalist design!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Feb 2018 10:56:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/02/28/this-is-the.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/28/this-is-the.html</guid>
+      </item>
     
       <item>
       	
@@ -480,15 +489,6 @@
         <pubDate>Wed, 07 Feb 2018 21:45:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2018/02/07/uitableview-moverowat-indexpath.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/08/uitableview-moverowat-indexpath.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;🎤 I have fallen 15 episodes behind in my “&lt;a href=&quot;https://twit.tv/shows/security-now&quot;&gt;Security Now&lt;/a&gt;” listening. I do like the podcast, but listening to it &lt;em&gt;is&lt;/em&gt; a little like “eating my vegetables” sometimes. I’m trying to catch up somewhat today.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 07 Feb 2018 10:52:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2018/02/07/i-have-fallen.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/07/i-have-fallen.html</guid>
       </item>
     
   </channel>
