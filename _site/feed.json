@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/28/the-lighttodark-progression.html",
+	      	
+			"content_html": "<p>The light-to-dark progression in my app screenshots is oddly satisfying to me tonight.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/9ba3260601.jpg\" width=\"600\" height=\"298\" /></p>\n",
+			"date_published": "2018-02-27T22:27:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/27/the-lighttodark-progression.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/28/this-article-about.html",
 	      	
 			"content_html": "<p><a href=\"https://www.washingtonpost.com/news/voraciously/wp/2018/02/26/thanks-to-jane-walker-ladies-can-finally-drink-scotch/?utm_term=.89044419905e\">This article about “Jane Walker” scotch</a> is hilarious. As ham-handed as Johnny Walker’s marketing campaign is, I think that more women <em>should</em> drink scotch, because scotch is great. 🏴🥃 The Jane Walker logo looks great, too.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">SwiftoDo 2.8.0 is now available in the App Store</a>. It adds a picker to make adding recurrence pattern tags (for daily, weekly, monthly, etc.) to tasks easier. It also lets you drop tasks onto the task list from other apps (iPad only).</p>\n",
 			"date_published": "2018-02-16T12:13:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/16/swiftodo-is-now.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/15/i-am-listening.html",
-	      	
-			"content_html": "<p>I am listening to music from my MacBook Pro today, via the <a href=\"https://www.oppodigital.com/headphone-amplifier-ha-2SE/\">Oppo HA-2SE</a>. One benefit is that it charges through its micro USB input, so playtime is unlimited. iTunes is slower and buggier than the iOS Music app, though.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/1cf4df3302.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-02-15T14:20:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/15/i-am-listening.html"
 		}
 		
 	]
