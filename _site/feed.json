@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/02/28/this-is-the.html",
+	      	
+			"content_html": "<p><a href=\"https://peltiertech.com/bar-chart-categories-backwards/\">This is the best explanation I’ve found</a> for why Excel outputs my graph series in the opposite order I want them, every time I create a sideways bar chart. It’s an insane default. Typical Microsoft brutalist design!</p>\n",
+			"date_published": "2018-02-28T10:56:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/28/this-is-the.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/28/the-lighttodark-progression.html",
 	      	
 			"content_html": "<p>The light-to-dark progression in my app screenshots is oddly satisfying to me tonight.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/9ba3260601.jpg\" width=\"600\" height=\"298\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Another SwiftoDo update will come at the end of next week, as long as I can get the timing right with App Store review. I cannot promise weekly updates forever, but right now I am trying to release the best version possible to my users, as soon as possible.</p>\n",
 			"date_published": "2018-02-16T21:35:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/16/another-swiftodo-update.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/16/swiftodo-is-now.html",
-	      	
-			"content_html": "<p><a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">SwiftoDo 2.8.0 is now available in the App Store</a>. It adds a picker to make adding recurrence pattern tags (for daily, weekly, monthly, etc.) to tasks easier. It also lets you drop tasks onto the task list from other apps (iPad only).</p>\n",
-			"date_published": "2018-02-16T12:13:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/16/swiftodo-is-now.html"
 		}
 		
 	]
