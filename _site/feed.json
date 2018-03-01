@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/01/swiftodohttpsswiftodoappcom-is-now.html",
+	      	
+			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo</a> 2.9.1 is <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">now available in the App Store</a>. It fixes a longstanding Dropbox-related bug that caused a crash on startup for some users. Bonus feature: the task editor now recognizes new projects and contexts and adds them to their respective pickers.</p>\n",
+			"date_published": "2018-02-28T21:21:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/02/28/swiftodohttpsswiftodoappcom-is-now.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/02/28/this-is-the.html",
 	      	
 			"content_html": "<p><a href=\"https://peltiertech.com/bar-chart-categories-backwards/\">This is the best explanation I’ve found</a> for why Excel outputs my graph series in the opposite order I want them, every time I create a sideways bar chart. It’s an insane default. Typical Microsoft brutalist design!</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>🎬 I saw “Thor: Ragnarok” today and thoroughly enjoyed it. The “Thor” and “Captain America” series started off a little weak but ended up much stronger than the “Iron Man” series, which had the opposite trajectory. It’s upsetting that they never made a “Black Widow” movie series.</p>\n",
 			"date_published": "2018-02-16T22:20:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/16/i-saw-thor.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/17/another-swiftodo-update.html",
-	      	
-			"content_html": "<p>Another SwiftoDo update will come at the end of next week, as long as I can get the timing right with App Store review. I cannot promise weekly updates forever, but right now I am trying to release the best version possible to my users, as soon as possible.</p>\n",
-			"date_published": "2018-02-16T21:35:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/16/another-swiftodo-update.html"
 		}
 		
 	]
