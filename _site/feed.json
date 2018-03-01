@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/01/i-actually-solved.html",
+	      	
+			"content_html": "<p>I actually solved a user’s problem with my iOS app today by asking “have you tried turning it off and on again?” 😅.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/8202915f7a.jpg\" width=\"500\" height=\"275\" /></p>\n",
+			"date_published": "2018-03-01T15:50:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/03/01/i-actually-solved.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/01/swiftodohttpsswiftodoappcom-is-now.html",
 	      	
 			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo</a> 2.9.1 is <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">now available in the App Store</a>. It fixes a longstanding Dropbox-related bug that caused a crash on startup for some users. Bonus feature: the task editor now recognizes new projects and contexts and adds them to their respective pickers.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>We had an enormous house party today. It was a lot of fun, but boy are we wiped out! 🎈 </p>\n",
 			"date_published": "2018-02-17T19:48:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/17/we-had-an.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/17/i-saw-thor.html",
-	      	
-			"content_html": "<p>🎬 I saw “Thor: Ragnarok” today and thoroughly enjoyed it. The “Thor” and “Captain America” series started off a little weak but ended up much stronger than the “Iron Man” series, which had the opposite trajectory. It’s upsetting that they never made a “Black Widow” movie series.</p>\n",
-			"date_published": "2018-02-16T22:20:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/16/i-saw-thor.html"
 		}
 		
 	]
