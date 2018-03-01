@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Wed, 28 Feb 2018 10:56:34 -0500</pubDate>
-    <lastBuildDate>Wed, 28 Feb 2018 10:56:34 -0500</lastBuildDate>
+    <pubDate>Wed, 28 Feb 2018 21:21:21 -0500</pubDate>
+    <lastBuildDate>Wed, 28 Feb 2018 21:21:21 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://swiftodoapp.com&quot;&gt;SwiftoDo&lt;/a&gt; 2.9.1 is &lt;a href=&quot;https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;amp;mt=8&quot;&gt;now available in the App Store&lt;/a&gt;. It fixes a longstanding Dropbox-related bug that caused a crash on startup for some users. Bonus feature: the task editor now recognizes new projects and contexts and adds them to their respective pickers.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Feb 2018 21:21:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/02/28/swiftodohttpsswiftodoappcom-is-now.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/03/01/swiftodohttpsswiftodoappcom-is-now.html</guid>
+      </item>
     
       <item>
       	
@@ -480,15 +489,6 @@
         <pubDate>Thu, 08 Feb 2018 09:41:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2018/02/08/in-high-school.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/08/in-high-school.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;UITableView &lt;code&gt;moveRow(at: IndexPath, to: IndexPath)&lt;/code&gt; works differently when &lt;code&gt;tableView.dragInteractionEnabled = true&lt;/code&gt;, and causes my (dev) app to crash when a move (even when &lt;em&gt;not&lt;/em&gt; issued by drag-and-drop) completely empties a section of my table view. It’s been frustrating!&lt;/p&gt;
-</description>
-        <pubDate>Wed, 07 Feb 2018 21:45:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2018/02/07/uitableview-moverowat-indexpath.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/08/uitableview-moverowat-indexpath.html</guid>
       </item>
     
   </channel>
