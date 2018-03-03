@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/03/hi-orionphttpsmicroblogorionp-i.html",
+	      	
+			"content_html": "<p>Hi, <a href=\"https://micro.blog/orionp\">@orionp</a>. I heard your interview on <a href=\"https://theomnishow.omnigroup.com/\">The Omni Show</a>. You are a very interesting fellow!</p>\n",
+			"date_published": "2018-03-03T12:01:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/03/03/hi-orionphttpsmicroblogorionp-i.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/03/we-all-survived.html",
 	      	
 			"content_html": "<p>We all survived the six hour blackout tonight. It was cold but we were able to get pizza delivered and to spend a couple hours with nearby friends how have a generator. Still, we are grateful for lights and a warm house.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/02/19/abc-testing-august-and-everything-after-in-24-bit-96khz-flac-vs-16-bit-441khz-alac-vs-256-kbps-aac/\">A/B/C testing: “August and Everything After”, in 24-bit, 96kHz FLAC vs. 16-bit, 44.1kHz ALAC vs. 256 kbps AAC</a></p>\n",
 			"date_published": "2018-02-19T08:59:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/19/blog-post-abc.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/18/if-you-like.html",
-	      	
-			"content_html": "<p>🎵 If you like <a href=\"https://itunes.apple.com/us/artist/the-weakerthans/2987439\">The Weakerthans</a> as much as I do, you will find <a href=\"https://www.youtube.com/watch?v=iW3buuhnRlU\">this interview with their singer, John K. Samson</a>, fascinating.</p>\n",
-			"date_published": "2018-02-17T23:46:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/17/if-you-like.html"
 		}
 		
 	]
