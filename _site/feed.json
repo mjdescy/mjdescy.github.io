@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/03/we-all-survived.html",
+	      	
+			"content_html": "<p>We all survived the six hour blackout tonight. It was cold but we were able to get pizza delivered and to spend a couple hours with nearby friends how have a generator. Still, we are grateful for lights and a warm house.</p>\n",
+			"date_published": "2018-03-02T22:00:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/03/02/we-all-survived.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/01/i-actually-solved.html",
 	      	
 			"content_html": "<p>I actually solved a user’s problem with my iOS app today by asking “have you tried turning it off and on again?” 😅.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/8202915f7a.jpg\" width=\"500\" height=\"275\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>🎵 If you like <a href=\"https://itunes.apple.com/us/artist/the-weakerthans/2987439\">The Weakerthans</a> as much as I do, you will find <a href=\"https://www.youtube.com/watch?v=iW3buuhnRlU\">this interview with their singer, John K. Samson</a>, fascinating.</p>\n",
 			"date_published": "2018-02-17T23:46:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/17/if-you-like.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/18/we-had-an.html",
-	      	
-			"content_html": "<p>We had an enormous house party today. It was a lot of fun, but boy are we wiped out! 🎈 </p>\n",
-			"date_published": "2018-02-17T19:48:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/17/we-had-an.html"
 		}
 		
 	]
