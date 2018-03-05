@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Sun, 04 Mar 2018 21:36:49 -0500</pubDate>
-    <lastBuildDate>Sun, 04 Mar 2018 21:36:49 -0500</lastBuildDate>
+    <pubDate>Mon, 05 Mar 2018 09:52:47 -0500</pubDate>
+    <lastBuildDate>Mon, 05 Mar 2018 09:52:47 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I have to create dozens of Active Directory user accounts on a domain controller today, and the PowerShell cmdlets to help with that are somehow not installed. Time to get some ☕️ and power through it.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Mar 2018 09:52:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/03/05/i-have-to.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/03/05/i-have-to.html</guid>
+      </item>
     
       <item>
       	
@@ -480,15 +489,6 @@
         <pubDate>Fri, 09 Feb 2018 09:38:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2018/02/09/replacing-keyboard-with.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/09/replacing-keyboard-with.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Blog post: &lt;a href=&quot;https://mjdescy.me/2018/02/09/swiftodo-developer-notes-february-2018/&quot;&gt;SwiftoDo Developer Notes, February 2018&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 09 Feb 2018 09:17:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2018/02/09/blog-post-swiftodo.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/09/blog-post-swiftodo.html</guid>
       </item>
     
   </channel>
