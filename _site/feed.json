@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/07/swift-multithreading-closures.html",
+	      	
+			"content_html": "<p>Swift, multi-threading, closures, callbacks, and UI-blocking alert controllers are colliding in unexpected ways and kicking my ass this week. I’m stashing my latest bug fix, which isn’t finished, and building a new SwiftoDo release from my prior commit.</p>\n",
+			"date_published": "2018-03-06T21:20:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/03/06/swift-multithreading-closures.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/05/google-voices-voicemail.html",
 	      	
 			"content_html": "<p>Google Voice’s voicemail transcriptions can be chilling sometimes.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/1cb3be8d51.jpg\" width=\"599\" height=\"600\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Current mood.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/efdbd39fce.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-02-21T12:04:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/21/current-mood.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/21/im-coding-a.html",
-	      	
-			"content_html": "<p>I’m coding a nice new feature for <a href=\"https://swiftodoapp.com\">SwiftoDo</a> tonight. Hopefully it will be done tomorrow or Thursday, and I can get it in users hands by next weekend. Line 8 in the screenshot is new.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/2cd259489d.jpg\" width=\"600\" height=\"298\" /></p>\n",
-			"date_published": "2018-02-20T23:37:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/20/im-coding-a.html"
 		}
 		
 	]
