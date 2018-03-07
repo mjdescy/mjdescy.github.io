@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Mon, 05 Mar 2018 10:51:06 -0500</pubDate>
-    <lastBuildDate>Mon, 05 Mar 2018 10:51:06 -0500</lastBuildDate>
+    <pubDate>Tue, 06 Mar 2018 21:20:27 -0500</pubDate>
+    <lastBuildDate>Tue, 06 Mar 2018 21:20:27 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Swift, multi-threading, closures, callbacks, and UI-blocking alert controllers are colliding in unexpected ways and kicking my ass this week. I’m stashing my latest bug fix, which isn’t finished, and building a new SwiftoDo release from my prior commit.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Mar 2018 21:20:00 -0500</pubDate>
+        <link>https://mjdescy.micro.blog/2018/03/06/swift-multithreading-closures.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/03/07/swift-multithreading-closures.html</guid>
+      </item>
     
       <item>
       	
@@ -480,15 +489,6 @@
         <pubDate>Fri, 09 Feb 2018 21:20:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2018/02/09/blog-post-strategies.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/10/blog-post-strategies.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;amp;mt=8&quot;&gt;SwiftoDo 2.7.2 is now available in the App Store&lt;/a&gt;. It adds the ability to drag tasks to new priorities, projects, contexts, tasks, and dates, while in “edit” node, depending on sort order.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 09 Feb 2018 16:53:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2018/02/09/swiftodo-is-now.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/09/swiftodo-is-now.html</guid>
       </item>
     
   </channel>
