@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/07/judging-by-the.html",
+	      	
+			"content_html": "<p>Judging by the <em>nearly</em> mashed-up news headlines, I think that The Weather Channel missed an opportunity to name today’s storm “Winter Stormy Daniels”.</p>\n",
+			"date_published": "2018-03-07T09:34:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/03/07/judging-by-the.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/07/swift-multithreading-closures.html",
 	      	
 			"content_html": "<p>Swift, multi-threading, closures, callbacks, and UI-blocking alert controllers are colliding in unexpected ways and kicking my ass this week. I’m stashing my latest bug fix, which isn’t finished, and building a new SwiftoDo release from my prior commit.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>The weather was unusually warm today. I spent some of my lunch break walking outside.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d5bfaa92e1.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-02-21T17:28:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/21/the-weather-was.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/21/current-mood.html",
-	      	
-			"content_html": "<p>Current mood.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/efdbd39fce.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-21T12:04:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/21/current-mood.html"
 		}
 		
 	]
