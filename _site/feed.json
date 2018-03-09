@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/09/i-have-become.html",
+	      	
+			"content_html": "<p>🎵 I have become a huge <a href=\"https://itunes.apple.com/us/album/lust-for-life/1256684768\">Lana Del Rey</a> fan recently. I can’t get enough of her lushly produced dream pop. (Maybe I’m depressed or something. 😂)</p>\n",
+			"date_published": "2018-03-09T16:59:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/03/09/i-have-become.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/09/040729.html",
 	      	
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/03/09/swiftodo-development-notes-march-2018/\">SwiftoDo Development Notes, March 2018</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Saturday has become my day to eat way too much food, which is not a good development. Hopefully I can sort this out before it becomes a big problem.</p>\n",
 			"date_published": "2018-02-24T21:33:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/24/saturday-has-become.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/24/today-i-am.html",
-	      	
-			"content_html": "<p>Today I am grateful for Spring Training and the return of Major League Baseball. ⚾️ I watched two exposition games, which was fun and relaxing.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/da896dc443.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-23T20:08:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/23/today-i-am.html"
 		}
 		
 	]
