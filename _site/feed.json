@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/09/004415.html",
+	      	
+			"content_html": "<p>🎵 “<a href=\"https://itunes.apple.com/us/album/if-i-had-my-time-again/1215389487?i=1215389792\">If I had my time again</a>” is my favorite song from Tim Minchin’s “Groundhog Day” musical. I love how it flips the premise of the show on its head for a bit and lets the female lead shine.</p>\n",
+			"date_published": "2018-03-08T19:44:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/03/08/004415.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/08/swiftodo-httpsswiftodoappcom-is.html",
 	      	
 			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.9.2</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. It adds a filter option for prioritized or non-prioritized tasks, optimizes app startup, and fixes some minor bugs.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I would never replace my AirPods with <a href=\"https://www.bloomberg.com/news/articles/2018-02-22/apple-is-said-to-plan-upgrades-to-popular-airpods-headphones\">the new ones rumored today</a> just to <em>upgrade</em> them, but if I broke or lost mine, I would buy them in a second.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d547e9d7ae.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-02-22T23:41:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/22/i-would-never.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/23/altos-odyssey-has.html",
-	      	
-			"content_html": "<p>Alto’s Odyssey has, predictably, lowered my productivity the past two days. Still, there are two updates to SwiftoDo in the hopper. The first will be released tomorrow.</p>\n",
-			"date_published": "2018-02-22T23:34:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/22/altos-odyssey-has.html"
 		}
 		
 	]
