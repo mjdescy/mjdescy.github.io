@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/09/040729.html",
+	      	
+			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/03/09/swiftodo-development-notes-march-2018/\">SwiftoDo Development Notes, March 2018</a></p>\n",
+			"date_published": "2018-03-08T23:07:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/03/08/040729.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/09/based-on-the.html",
 	      	
 			"content_html": "<p>Based on the MacBook Pro keyboard-related gripes of <a href=\"https://coreint.org/2018/03/episode-318-kind-of-a-litmus-test/\">Daniel Jalkut</a> and the guys on the <a href=\"http://atp.fm\">ATP podcast</a>, I’m considering buying an iMac instead of a new MacBook Pro next year. 🤷🏻‍♂️</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Today I am grateful for Spring Training and the return of Major League Baseball. ⚾️ I watched two exposition games, which was fun and relaxing.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/da896dc443.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2018-02-23T20:08:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/23/today-i-am.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/23/swiftodohttpsswiftodoappcom-is-now.html",
-	      	
-			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo</a> 2.8.1 is now <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">available in the App Store</a>. It adds a Solarized Light and Solarized Dark themes, fixes bugs, and changes opening the URL menu from a long press to a slide gesture. </p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/ed7fb344be.jpg\" width=\"337\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-23T09:07:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/23/swiftodohttpsswiftodoappcom-is-now.html"
 		}
 		
 	]
