@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/11/my-wife-let.html",
+	      	
+			"content_html": "<p>My wife let me sleep in today. 🙏😀👍❤️</p>\n",
+			"date_published": "2018-03-11T10:38:00-05:00",
+			"url": "https://mjdescy.micro.blog/2018/03/11/my-wife-let.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/10/145538.html",
 	      	
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/03/10/my-slide-into-audiophile-territory-part-2/\">My slide into audiophile territory, Part 2</a>—What does it mean, to me, to be an audiophile?</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Dear Apple: I do not <em>want</em> to upload <a href=\"https://developer.apple.com/news/?id=02212018a\">10 screenshots</a>. Sigh. 😅</p>\n",
 			"date_published": "2018-02-25T22:41:00-05:00",
 			"url": "https://mjdescy.micro.blog/2018/02/25/dear-apple-i.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/26/i-finally-got.html",
-	      	
-			"content_html": "<p>I finally got my app to crash tonight…and that’s actually a good thing.</p>\n",
-			"date_published": "2018-02-25T21:27:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/25/i-finally-got.html"
 		}
 		
 	]
