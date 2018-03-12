@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-16 23:14 -0500
+date: 2018-01-17 00:14 -0400
 guid: http://mjdescy.micro.blog/2018/01/17/blog-post-eye.html
 ---
 Blog post: [Eye round roast recipe](https://mjdescy.me/2018/01/17/eye-round-roast-recipe/)
