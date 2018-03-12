@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-08 18:00 -0500
+date: 2018-02-08 19:00 -0400
 guid: http://mjdescy.micro.blog/2018/02/08/my-wife-inspired.html
 ---
 My wife inspired me to cook apple & sweet potato mash for my son this evening.
