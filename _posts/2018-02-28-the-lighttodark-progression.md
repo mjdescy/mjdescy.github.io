@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-27 22:27 -0500
+date: 2018-02-27 23:27 -0400
 guid: http://mjdescy.micro.blog/2018/02/28/the-lighttodark-progression.html
 ---
 The light-to-dark progression in my app screenshots is oddly satisfying to me tonight.
