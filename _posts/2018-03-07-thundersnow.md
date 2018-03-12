@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-03-07 14:33 -0500
+date: 2018-03-07 15:33 -0400
 guid: http://mjdescy.micro.blog/2018/03/07/thundersnow.html
 ---
 Thundersnow!
