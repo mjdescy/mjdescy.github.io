@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-19 10:08 -0400
 guid: http://mjdescy.micro.blog/2018/01/19/i-brought-my.html
 ---
