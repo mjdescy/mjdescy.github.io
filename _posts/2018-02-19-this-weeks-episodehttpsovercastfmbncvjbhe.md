@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-19 13:53 -0500
+date: 2018-02-19 14:53 -0400
 guid: http://mjdescy.micro.blog/2018/02/19/this-weeks-episodehttpsovercastfmbncvjbhe.html
 ---
 🎙 [This week’s episode](https://overcast.fm/+B7NCVjBHE) had me Googling for ‘longest episode of “The Talk Show” with John Gruber ever’.
