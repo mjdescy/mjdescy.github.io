@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-22 23:12 -0500
+date: 2018-01-23 00:12 -0400
 guid: http://mjdescy.micro.blog/2018/01/23/baltimores-inner-harbor.html
 ---
 Baltimore's Inner Harbor is nice. I'm glad I recognize the area in which I'm staying. My morning destination is a short walk away.
