@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-21 00:37 -0400
 guid: http://mjdescy.micro.blog/2018/02/21/im-coding-a.html
 ---
