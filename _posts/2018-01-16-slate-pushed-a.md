@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-16 10:59 -0400
 guid: http://mjdescy.micro.blog/2018/01/16/slate-pushed-a.html
 ---
