@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-12-27 12:07 -0400
 guid: http://mjdescy.micro.blog/2017/12/27/after-an-eventful.html
 ---
