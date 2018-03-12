@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-03-05 10:51 -0500
+date: 2018-03-05 11:51 -0400
 guid: http://mjdescy.micro.blog/2018/03/05/google-voices-voicemail.html
 ---
 Google Voice’s voicemail transcriptions can be chilling sometimes.
