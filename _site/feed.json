@@ -6,10 +6,18 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/12/i-realized-this.html",
+	      	
+			"content_html": "<p>I realized this morning that what I was coding last night was an implementation of the <a href=\"https://en.m.wikipedia.org/wiki/Strategy_pattern\">Strategy pattern</a>. And I thought I had just made it up myself. 😂</p>\n",
+			"date_published": "2018-03-12T11:45:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/03/12/i-realized-this.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/11/my-son-has.html",
 	      	
 			"content_html": "<p>My son has figured out how to turn on the flashlight of my Apple Watch. No wonder battery life took a hit lately. 😀</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d20a816b7a.jpg\" width=\"579\" height=\"579\" /></p>\n",
-			"date_published": "2018-03-11T11:52:00-05:00",
+			"date_published": "2018-03-11T12:52:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/11/my-son-has.html"
 		},
 		
@@ -17,7 +25,7 @@
 			"id": "http://mjdescy.micro.blog/2018/03/11/my-wife-let.html",
 	      	
 			"content_html": "<p>My wife let me sleep in today. 🙏😀👍❤️</p>\n",
-			"date_published": "2018-03-11T10:38:00-05:00",
+			"date_published": "2018-03-11T11:38:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/11/my-wife-let.html"
 		},
 		
@@ -25,7 +33,7 @@
 			"id": "http://mjdescy.micro.blog/2018/03/10/145538.html",
 	      	
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/03/10/my-slide-into-audiophile-territory-part-2/\">My slide into audiophile territory, Part 2</a>—What does it mean, to me, to be an audiophile?</p>\n",
-			"date_published": "2018-03-10T09:55:00-05:00",
+			"date_published": "2018-03-10T10:55:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/10/145538.html"
 		},
 		
@@ -33,7 +41,7 @@
 			"id": "http://mjdescy.micro.blog/2018/03/09/i-have-become.html",
 	      	
 			"content_html": "<p>🎵 I have become a huge <a href=\"https://itunes.apple.com/us/album/lust-for-life/1256684768\">Lana Del Rey</a> fan recently. I can’t get enough of her lushly produced dream pop. (Maybe I’m depressed or something. 😂)</p>\n",
-			"date_published": "2018-03-09T16:59:00-05:00",
+			"date_published": "2018-03-09T17:59:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/09/i-have-become.html"
 		},
 		
@@ -41,15 +49,15 @@
 			"id": "http://mjdescy.micro.blog/2018/03/09/040729.html",
 	      	
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/03/09/swiftodo-development-notes-march-2018/\">SwiftoDo Development Notes, March 2018</a></p>\n",
-			"date_published": "2018-03-08T23:07:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/03/08/040729.html"
+			"date_published": "2018-03-09T00:07:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/03/09/040729.html"
 		},
 		
 		{
 			"id": "http://mjdescy.micro.blog/2018/03/09/based-on-the.html",
 	      	
 			"content_html": "<p>Based on the MacBook Pro keyboard-related gripes of <a href=\"https://coreint.org/2018/03/episode-318-kind-of-a-litmus-test/\">Daniel Jalkut</a> and the guys on the <a href=\"http://atp.fm\">ATP podcast</a>, I’m considering buying an iMac instead of a new MacBook Pro next year. 🤷🏻‍♂️</p>\n",
-			"date_published": "2018-03-08T21:55:00-05:00",
+			"date_published": "2018-03-08T22:55:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/08/based-on-the.html"
 		},
 		
@@ -57,7 +65,7 @@
 			"id": "http://mjdescy.micro.blog/2018/03/09/004415.html",
 	      	
 			"content_html": "<p>🎵 “<a href=\"https://itunes.apple.com/us/album/if-i-had-my-time-again/1215389487?i=1215389792\">If I had my time again</a>” is my favorite song from Tim Minchin’s “Groundhog Day” musical. I love how it flips the premise of the show on its head for a bit and lets the female lead shine.</p>\n",
-			"date_published": "2018-03-08T19:44:00-05:00",
+			"date_published": "2018-03-08T20:44:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/08/004415.html"
 		},
 		
@@ -65,7 +73,7 @@
 			"id": "http://mjdescy.micro.blog/2018/03/08/swiftodo-httpsswiftodoappcom-is.html",
 	      	
 			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.9.2</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. It adds a filter option for prioritized or non-prioritized tasks, optimizes app startup, and fixes some minor bugs.</p>\n",
-			"date_published": "2018-03-08T09:50:00-05:00",
+			"date_published": "2018-03-08T10:50:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/08/swiftodo-httpsswiftodoappcom-is.html"
 		},
 		
@@ -73,7 +81,7 @@
 			"id": "http://mjdescy.micro.blog/2018/03/07/thundersnow.html",
 	      	
 			"content_html": "<p>Thundersnow!</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/3c3309622a.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-07T14:33:00-05:00",
+			"date_published": "2018-03-07T15:33:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/07/thundersnow.html"
 		},
 		
@@ -81,7 +89,7 @@
 			"id": "http://mjdescy.micro.blog/2018/03/07/judging-by-the.html",
 	      	
 			"content_html": "<p>Judging by the <em>nearly</em> mashed-up news headlines, I think that The Weather Channel missed an opportunity to name today’s storm “Winter Stormy Daniels”.</p>\n",
-			"date_published": "2018-03-07T09:34:00-05:00",
+			"date_published": "2018-03-07T10:34:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/07/judging-by-the.html"
 		},
 		
@@ -89,7 +97,7 @@
 			"id": "http://mjdescy.micro.blog/2018/03/07/swift-multithreading-closures.html",
 	      	
 			"content_html": "<p>Swift, multi-threading, closures, callbacks, and UI-blocking alert controllers are colliding in unexpected ways and kicking my ass this week. I’m stashing my latest bug fix, which isn’t finished, and building a new SwiftoDo release from my prior commit.</p>\n",
-			"date_published": "2018-03-06T21:20:00-05:00",
+			"date_published": "2018-03-06T22:20:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/06/swift-multithreading-closures.html"
 		},
 		
@@ -97,7 +105,7 @@
 			"id": "http://mjdescy.micro.blog/2018/03/05/google-voices-voicemail.html",
 	      	
 			"content_html": "<p>Google Voice’s voicemail transcriptions can be chilling sometimes.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/1cb3be8d51.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-05T10:51:00-05:00",
+			"date_published": "2018-03-05T11:51:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/05/google-voices-voicemail.html"
 		},
 		
@@ -105,7 +113,7 @@
 			"id": "http://mjdescy.micro.blog/2018/03/05/i-have-to.html",
 	      	
 			"content_html": "<p>I have to create dozens of Active Directory user accounts on a domain controller today, and the PowerShell cmdlets to help with that are somehow not installed. Time to get some ☕️ and power through it.</p>\n",
-			"date_published": "2018-03-05T09:52:00-05:00",
+			"date_published": "2018-03-05T10:52:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/05/i-have-to.html"
 		},
 		
@@ -113,7 +121,7 @@
 			"id": "http://mjdescy.micro.blog/2018/03/05/my-daughter-has.html",
 	      	
 			"content_html": "<p>My daughter has trouble falling asleep. This past week she has started to complain about noise outside. It turns out you can hear airplane noise from her room constantly. We live 30 miles from the airport, so this is a bit surprising to me. I wonder if flight paths have been changed or something.</p>\n",
-			"date_published": "2018-03-04T21:36:00-05:00",
+			"date_published": "2018-03-04T22:36:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/04/my-daughter-has.html"
 		},
 		
@@ -121,7 +129,7 @@
 			"id": "http://mjdescy.micro.blog/2018/03/03/hi-orionphttpsmicroblogorionp-i.html",
 	      	
 			"content_html": "<p>Hi, <a href=\"https://micro.blog/orionp\">@orionp</a>. I heard your interview on <a href=\"https://theomnishow.omnigroup.com/\">The Omni Show</a>. You are a very interesting fellow!</p>\n",
-			"date_published": "2018-03-03T12:01:00-05:00",
+			"date_published": "2018-03-03T13:01:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/03/hi-orionphttpsmicroblogorionp-i.html"
 		},
 		
@@ -129,7 +137,7 @@
 			"id": "http://mjdescy.micro.blog/2018/03/03/we-all-survived.html",
 	      	
 			"content_html": "<p>We all survived the six hour blackout tonight. It was cold but we were able to get pizza delivered and to spend a couple hours with nearby friends how have a generator. Still, we are grateful for lights and a warm house.</p>\n",
-			"date_published": "2018-03-02T22:00:00-05:00",
+			"date_published": "2018-03-02T23:00:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/02/we-all-survived.html"
 		},
 		
@@ -137,7 +145,7 @@
 			"id": "http://mjdescy.micro.blog/2018/03/01/i-actually-solved.html",
 	      	
 			"content_html": "<p>I actually solved a user’s problem with my iOS app today by asking “have you tried turning it off and on again?” 😅.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/8202915f7a.jpg\" width=\"500\" height=\"275\" /></p>\n",
-			"date_published": "2018-03-01T15:50:00-05:00",
+			"date_published": "2018-03-01T16:50:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/01/i-actually-solved.html"
 		},
 		
@@ -145,7 +153,7 @@
 			"id": "http://mjdescy.micro.blog/2018/03/01/swiftodohttpsswiftodoappcom-is-now.html",
 	      	
 			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo</a> 2.9.1 is <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">now available in the App Store</a>. It fixes a longstanding Dropbox-related bug that caused a crash on startup for some users. Bonus feature: the task editor now recognizes new projects and contexts and adds them to their respective pickers.</p>\n",
-			"date_published": "2018-02-28T21:21:00-05:00",
+			"date_published": "2018-02-28T22:21:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/02/28/swiftodohttpsswiftodoappcom-is-now.html"
 		},
 		
@@ -153,7 +161,7 @@
 			"id": "http://mjdescy.micro.blog/2018/02/28/this-is-the.html",
 	      	
 			"content_html": "<p><a href=\"https://peltiertech.com/bar-chart-categories-backwards/\">This is the best explanation I’ve found</a> for why Excel outputs my graph series in the opposite order I want them, every time I create a sideways bar chart. It’s an insane default. Typical Microsoft brutalist design!</p>\n",
-			"date_published": "2018-02-28T10:56:00-05:00",
+			"date_published": "2018-02-28T11:56:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/02/28/this-is-the.html"
 		},
 		
@@ -161,7 +169,7 @@
 			"id": "http://mjdescy.micro.blog/2018/02/28/the-lighttodark-progression.html",
 	      	
 			"content_html": "<p>The light-to-dark progression in my app screenshots is oddly satisfying to me tonight.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/9ba3260601.jpg\" width=\"600\" height=\"298\" /></p>\n",
-			"date_published": "2018-02-27T22:27:00-05:00",
+			"date_published": "2018-02-27T23:27:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/02/27/the-lighttodark-progression.html"
 		},
 		
@@ -169,7 +177,7 @@
 			"id": "http://mjdescy.micro.blog/2018/02/28/this-article-about.html",
 	      	
 			"content_html": "<p><a href=\"https://www.washingtonpost.com/news/voraciously/wp/2018/02/26/thanks-to-jane-walker-ladies-can-finally-drink-scotch/?utm_term=.89044419905e\">This article about “Jane Walker” scotch</a> is hilarious. As ham-handed as Johnny Walker’s marketing campaign is, I think that more women <em>should</em> drink scotch, because scotch is great. 🏴🥃 The Jane Walker logo looks great, too.</p>\n",
-			"date_published": "2018-02-27T21:45:00-05:00",
+			"date_published": "2018-02-27T22:45:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/02/27/this-article-about.html"
 		},
 		
@@ -177,7 +185,7 @@
 			"id": "http://mjdescy.micro.blog/2018/02/27/my-daughter-is.html",
 	      	
 			"content_html": "<p>My daughter is <em>far</em> more excited than is absolutely necessary at the mere prospect of visiting the American Girl Doll store in Manhattan. 😂</p>\n",
-			"date_published": "2018-02-27T11:07:00-05:00",
+			"date_published": "2018-02-27T12:07:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/02/27/my-daughter-is.html"
 		},
 		
@@ -185,24 +193,16 @@
 			"id": "http://mjdescy.micro.blog/2018/02/27/if-i-had.html",
 	      	
 			"content_html": "<p>If I had my gumption, I would convert SwiftoDo to the <a href=\"https://medium.com/@dkw5877/flow-coordinators-333ed64f3dd\">Coordinator pattern</a> and get rid of (actually, completely reimplement) all those messy segues. If I had my gumption, though, I would do a lot of things.</p>\n",
-			"date_published": "2018-02-26T23:21:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/26/if-i-had.html"
+			"date_published": "2018-02-27T00:21:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/02/27/if-i-had.html"
 		},
 		
 		{
 			"id": "http://mjdescy.micro.blog/2018/02/27/015820.html",
 	      	
 			"content_html": "<p><a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">SwiftoDo 2.9.0</a> is now available in the App Store. It adds an edit mode for your todo.txt file, opens URL schemes for apps <em>other</em> than Safari, and fixes more bugs. I pushed it out a bit early because I’m working on a fix for a longstanding bug that I’d love to get out at the end of the week.</p>\n",
-			"date_published": "2018-02-26T20:58:00-05:00",
+			"date_published": "2018-02-26T21:58:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/02/26/015820.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/26/here-we-go.html",
-	      	
-			"content_html": "<p>Here we go again!</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/e50732b571.jpg\" width=\"370\" height=\"160\" /></p>\n",
-			"date_published": "2018-02-25T23:11:00-05:00",
-			"url": "https://mjdescy.micro.blog/2018/02/25/here-we-go.html"
 		}
 		
 	]
