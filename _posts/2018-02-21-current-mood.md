@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-21 12:04 -0500
+date: 2018-02-21 13:04 -0400
 guid: http://mjdescy.micro.blog/2018/02/21/current-mood.html
 ---
 Current mood.
