@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-23 08:18 -0500
+date: 2018-01-23 09:18 -0400
 guid: http://mjdescy.micro.blog/2018/01/23/oh-thank-goodness.html
 ---
 Oh, thank goodness for ☕️. I’ve got 15 minutes to down another cup before I head over to the office. It is nice to have a later start than usual today.
