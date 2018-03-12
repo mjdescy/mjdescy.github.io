@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-20 01:11 -0400
 guid: http://mjdescy.micro.blog/2018/01/20/is-it-awful.html
 ---
