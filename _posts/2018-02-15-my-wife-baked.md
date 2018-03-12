@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-14 19:44 -0500
+date: 2018-02-14 20:44 -0400
 guid: http://mjdescy.micro.blog/2018/02/15/my-wife-baked.html
 ---
 My wife baked a delicious Valentine’s Day treat. ❤️😄
