@@ -2,6 +2,7 @@
 layout: post
 title: "Ready Player One"
 microblog: false
+audio: 
 date: 2018-01-09 19:42 -0400
 guid: http://mjdescy.micro.blog/2018/01/09/ready-player-one.html
 ---
