@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-21 17:28 -0500
+date: 2018-02-21 18:28 -0400
 guid: http://mjdescy.micro.blog/2018/02/21/the-weather-was.html
 ---
 The weather was unusually warm today. I spent some of my lunch break walking outside.
