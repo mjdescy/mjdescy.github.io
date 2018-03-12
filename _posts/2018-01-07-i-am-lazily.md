@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-07 11:40 -0500
+date: 2018-01-07 12:40 -0400
 guid: http://mjdescy.micro.blog/2018/01/07/i-am-lazily.html
 ---
 I am lazily cooking salsa chicken thighs for either lunch or dinner.
