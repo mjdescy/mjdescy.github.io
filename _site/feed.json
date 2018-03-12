@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/12/apple-buying-texture.html",
+	      	
+			"title": "Apple buying Texture",
+			
+			"content_html": "<p><a href=\"https://512pixels.net/2018/03/apple-buys-texture-the-digital-magazine-service/\">Apple buying Texture</a> is interesting and unexpected to me. I subscribed to Texture for a couple weeks and did not like it because I found it too hard to read on my iPad and iPhone. Basically, for most of the magazines it offers, it provides you <em>images</em> of magazines, with their crazy layouts and scads of advertisements, rather than access to the magazine’s website content. It was like reading a PDF rather than a webpage. The small text size, traditional print magazine layout, and the need to pan around the page made the reading experience very poor. Since it <em>looked good</em>, I am not sure if Apple will spend much time improving it, even though it was impossible to use.</p>\n",
+			"date_published": "2018-03-12T19:34:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/03/12/apple-buying-texture.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/12/i-realized-this.html",
 	      	
 			"content_html": "<p>I realized this morning that what I was coding last night was an implementation of the <a href=\"https://en.m.wikipedia.org/wiki/Strategy_pattern\">Strategy pattern</a>. And I thought I had just made it up myself. 😂</p>\n",
@@ -195,14 +205,6 @@
 			"content_html": "<p>If I had my gumption, I would convert SwiftoDo to the <a href=\"https://medium.com/@dkw5877/flow-coordinators-333ed64f3dd\">Coordinator pattern</a> and get rid of (actually, completely reimplement) all those messy segues. If I had my gumption, though, I would do a lot of things.</p>\n",
 			"date_published": "2018-02-27T00:21:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/02/27/if-i-had.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/27/015820.html",
-	      	
-			"content_html": "<p><a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">SwiftoDo 2.9.0</a> is now available in the App Store. It adds an edit mode for your todo.txt file, opens URL schemes for apps <em>other</em> than Safari, and fixes more bugs. I pushed it out a bit early because I’m working on a fix for a longstanding bug that I’d love to get out at the end of the week.</p>\n",
-			"date_published": "2018-02-26T21:58:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/02/26/015820.html"
 		}
 		
 	]
