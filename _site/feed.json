@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/13/the-third-noreaster.html",
+	      	
+			"content_html": "<p>The third nor’easter in three weeks has screwed up our plans yet again.</p>\n",
+			"date_published": "2018-03-13T09:02:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/03/13/the-third-noreaster.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/12/apple-buying-texture.html",
 	      	
 			"title": "Apple buying Texture",
@@ -197,14 +205,6 @@
 			"content_html": "<p>My daughter is <em>far</em> more excited than is absolutely necessary at the mere prospect of visiting the American Girl Doll store in Manhattan. 😂</p>\n",
 			"date_published": "2018-02-27T12:07:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/02/27/my-daughter-is.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/27/if-i-had.html",
-	      	
-			"content_html": "<p>If I had my gumption, I would convert SwiftoDo to the <a href=\"https://medium.com/@dkw5877/flow-coordinators-333ed64f3dd\">Coordinator pattern</a> and get rid of (actually, completely reimplement) all those messy segues. If I had my gumption, though, I would do a lot of things.</p>\n",
-			"date_published": "2018-02-27T00:21:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/02/27/if-i-had.html"
 		}
 		
 	]
