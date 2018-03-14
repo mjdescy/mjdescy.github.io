@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/14/happy-pi-dayhttpwwwpidayorg.html",
+	      	
+			"content_html": "<p>Happy <a href=\"http://www.piday.org\">Pi Day</a>, everyone! I told my daughter to tell her kindergarten class that this morning, and she was very perplexed. I guess I need to teach her geometry. 😀</p>\n",
+			"date_published": "2018-03-14T09:03:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/03/14/happy-pi-dayhttpwwwpidayorg.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/14/stephen-hawkings-deathhttpsnytimstkrhql.html",
 	      	
 			"content_html": "<p><a href=\"https://nyti.ms/2tKRHQL\">Stephen Hawking’s death</a> was the first notable death since 2009 that I did not learn first about on Twitter. I’m relying on The NY Times and WaPo for news now. I didn’t have to figure out from hearsay and later research who it was and whether it was true.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p><a href=\"https://peltiertech.com/bar-chart-categories-backwards/\">This is the best explanation I’ve found</a> for why Excel outputs my graph series in the opposite order I want them, every time I create a sideways bar chart. It’s an insane default. Typical Microsoft brutalist design!</p>\n",
 			"date_published": "2018-02-28T11:56:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/02/28/this-is-the.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/28/the-lighttodark-progression.html",
-	      	
-			"content_html": "<p>The light-to-dark progression in my app screenshots is oddly satisfying to me tonight.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/9ba3260601.jpg\" width=\"600\" height=\"298\" /></p>\n",
-			"date_published": "2018-02-27T23:27:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/02/27/the-lighttodark-progression.html"
 		}
 		
 	]
