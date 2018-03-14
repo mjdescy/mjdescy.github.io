@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Tue, 13 Mar 2018 19:02:56 -0400</pubDate>
-    <lastBuildDate>Tue, 13 Mar 2018 19:02:56 -0400</lastBuildDate>
+    <pubDate>Wed, 14 Mar 2018 07:58:05 -0400</pubDate>
+    <lastBuildDate>Wed, 14 Mar 2018 07:58:05 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://nyti.ms/2tKRHQL&quot;&gt;Stephen Hawking’s death&lt;/a&gt; was the first notable death since 2009 that I did not learn first about on Twitter. I’m relying on The NY Times and WaPo for news now. I didn’t have to figure out from hearsay and later research who it was and whether it was true.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Mar 2018 07:58:00 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/03/14/stephen-hawkings-deathhttpsnytimstkrhql.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/03/14/stephen-hawkings-deathhttpsnytimstkrhql.html</guid>
+      </item>
     
       <item>
       	
@@ -478,17 +487,6 @@
         <pubDate>Thu, 15 Feb 2018 15:20:00 -0400</pubDate>
         <link>https://mjdescy.micro.blog/2018/02/15/i-am-listening.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/15/i-am-listening.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Adding my &lt;a href=&quot;https://nest.com/thermostats/&quot;&gt;Nest thermostat&lt;/a&gt; to &lt;a href=&quot;https://www.apple.com/ios/home/&quot;&gt;HomeKit&lt;/a&gt; via &lt;a href=&quot;https://github.com/nfarina/homebridge&quot;&gt;HomeBridge&lt;/a&gt; has made my life a little better. I do have a suggestion for Apple, though: “Hey Siri, set thermostat to 70º F and let no one in my family change it, &lt;em&gt;ever&lt;/em&gt;, for any reason.” Maybe I don’t need a smart thermostat after all.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://mjdescy.micro.blog/uploads/2018/1642f56be2.jpg&quot; width=&quot;599&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 15 Feb 2018 11:09:00 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/02/15/adding-my-nest.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/15/adding-my-nest.html</guid>
       </item>
     
   </channel>
