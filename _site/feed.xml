@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Wed, 14 Mar 2018 09:03:10 -0400</pubDate>
-    <lastBuildDate>Wed, 14 Mar 2018 09:03:10 -0400</lastBuildDate>
+    <pubDate>Wed, 14 Mar 2018 16:31:28 -0400</pubDate>
+    <lastBuildDate>Wed, 14 Mar 2018 16:31:28 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.raspberrypi.org/blog/raspberry-pi-3-model-bplus-sale-now-35/&quot;&gt;Raspberry Pi’s new model&lt;/a&gt; is an unexpected Pi Day treat. I use two older Pis as specialized servers in my home: one for &lt;a href=&quot;https://github.com/nfarina/homebridge/&quot;&gt;Homebridge&lt;/a&gt; and one for &lt;a href=&quot;https://pi-hole.net&quot;&gt;Pi-hole&lt;/a&gt;. They are inexpensive and amazing. I’m not sure I will get the new one, though—I need even faster network speeds.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Mar 2018 16:31:00 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/03/14/raspberry-pis-new.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/03/14/raspberry-pis-new.html</guid>
+      </item>
     
       <item>
       	
@@ -476,15 +485,6 @@
         <pubDate>Fri, 16 Feb 2018 22:35:00 -0400</pubDate>
         <link>https://mjdescy.micro.blog/2018/02/16/another-swiftodo-update.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/17/another-swiftodo-update.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;amp;mt=8&quot;&gt;SwiftoDo 2.8.0 is now available in the App Store&lt;/a&gt;. It adds a picker to make adding recurrence pattern tags (for daily, weekly, monthly, etc.) to tasks easier. It also lets you drop tasks onto the task list from other apps (iPad only).&lt;/p&gt;
-</description>
-        <pubDate>Fri, 16 Feb 2018 13:13:00 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/02/16/swiftodo-is-now.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/16/swiftodo-is-now.html</guid>
       </item>
     
   </channel>
