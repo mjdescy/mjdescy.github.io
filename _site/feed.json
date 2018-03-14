@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/14/stephen-hawkings-deathhttpsnytimstkrhql.html",
+	      	
+			"content_html": "<p><a href=\"https://nyti.ms/2tKRHQL\">Stephen Hawking’s death</a> was the first notable death since 2009 that I did not learn first about on Twitter. I’m relying on The NY Times and WaPo for news now. I didn’t have to figure out from hearsay and later research who it was and whether it was true.</p>\n",
+			"date_published": "2018-03-14T07:58:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/03/14/stephen-hawkings-deathhttpsnytimstkrhql.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/13/230227.html",
 	      	
 			"content_html": "<p>I feel like hardly any apps use the iOS 11 Files app integration that Apple introduced last year. Google searches haven’t yielded much information on any limitations of the API that are of interest to me. I guess I have to try to do what I want and see if it works.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>The light-to-dark progression in my app screenshots is oddly satisfying to me tonight.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/9ba3260601.jpg\" width=\"600\" height=\"298\" /></p>\n",
 			"date_published": "2018-02-27T23:27:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/02/27/the-lighttodark-progression.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/02/28/this-article-about.html",
-	      	
-			"content_html": "<p><a href=\"https://www.washingtonpost.com/news/voraciously/wp/2018/02/26/thanks-to-jane-walker-ladies-can-finally-drink-scotch/?utm_term=.89044419905e\">This article about “Jane Walker” scotch</a> is hilarious. As ham-handed as Johnny Walker’s marketing campaign is, I think that more women <em>should</em> drink scotch, because scotch is great. 🏴🥃 The Jane Walker logo looks great, too.</p>\n",
-			"date_published": "2018-02-27T22:45:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/02/27/this-article-about.html"
 		}
 		
 	]
