@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/15/correction-excel-is.html",
+	      	
+			"content_html": "<p>Correction: Excel is making <em>me</em> hurt today.</p>\n",
+			"date_published": "2018-03-15T11:52:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/03/15/correction-excel-is.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/15/i-am-making.html",
 	      	
 			"content_html": "<p>I am making Excel <em>hurt</em> today.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>Hi, <a href=\"https://micro.blog/orionp\">@orionp</a>. I heard your interview on <a href=\"https://theomnishow.omnigroup.com/\">The Omni Show</a>. You are a very interesting fellow!</p>\n",
 			"date_published": "2018-03-03T13:01:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/03/hi-orionphttpsmicroblogorionp-i.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/03/we-all-survived.html",
-	      	
-			"content_html": "<p>We all survived the six hour blackout tonight. It was cold but we were able to get pizza delivered and to spend a couple hours with nearby friends how have a generator. Still, we are grateful for lights and a warm house.</p>\n",
-			"date_published": "2018-03-02T23:00:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/02/we-all-survived.html"
 		}
 		
 	]
