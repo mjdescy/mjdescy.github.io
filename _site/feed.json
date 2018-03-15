@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/15/justice-league.html",
+	      	
+			"title": "📽️ Justice League",
+			
+			"content_html": "<p>📽️ I saw “<a href=\"http://www.justiceleaguethemovie.com\">Justice League</a>” last night and really enjoyed it. I had very low expectations, due to its grim, overly macho <a href=\"https://www.youtube.com/watch?v=r9-DM9uBtVI\">preview</a> and <a href=\"http://batmanvsuperman.dccomics.com\">predecessor</a>. I’m a comic book fan, though, and “Justice League” felt like the sort of story i’ve seen many times before, but, of course, filmed in live action with tons of special effects. I thought that the film <em>did</em> have problems, but it was obviously made for comic book fans—who have read and seen the save-the-world story many times before, and want to see an even bigger version of it—and it succeeded more than all the negative reviews suggested. Yes, I could quibble about a dozen things, and I think the movie would have been even better with just Wonder Woman, Batman, and Superman in it, but I enjoyed it quite a bit, and hope they make a sequel in a couple years.</p>\n",
+			"date_published": "2018-03-14T22:29:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/03/14/justice-league.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/14/raspberry-pis-new.html",
 	      	
 			"content_html": "<p><a href=\"https://www.raspberrypi.org/blog/raspberry-pi-3-model-bplus-sale-now-35/\">Raspberry Pi’s new model</a> is an unexpected Pi Day treat. I use two older Pis as specialized servers in my home: one for <a href=\"https://github.com/nfarina/homebridge/\">Homebridge</a> and one for <a href=\"https://pi-hole.net\">Pi-hole</a>. They are inexpensive and amazing. I’m not sure I will get the new one, though—I need even faster network speeds.</p>\n",
@@ -197,14 +207,6 @@
 			"content_html": "<p>I actually solved a user’s problem with my iOS app today by asking “have you tried turning it off and on again?” 😅.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/8202915f7a.jpg\" width=\"500\" height=\"275\" /></p>\n",
 			"date_published": "2018-03-01T16:50:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/01/i-actually-solved.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/01/swiftodohttpsswiftodoappcom-is-now.html",
-	      	
-			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo</a> 2.9.1 is <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">now available in the App Store</a>. It fixes a longstanding Dropbox-related bug that caused a crash on startup for some users. Bonus feature: the task editor now recognizes new projects and contexts and adds them to their respective pickers.</p>\n",
-			"date_published": "2018-02-28T22:21:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/02/28/swiftodohttpsswiftodoappcom-is-now.html"
 		}
 		
 	]
