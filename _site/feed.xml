@@ -4,8 +4,19 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Thu, 15 Mar 2018 11:52:32 -0400</pubDate>
-    <lastBuildDate>Thu, 15 Mar 2018 11:52:32 -0400</lastBuildDate>
+    <pubDate>Thu, 15 Mar 2018 19:44:39 -0400</pubDate>
+    <lastBuildDate>Thu, 15 Mar 2018 19:44:39 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <title>The Nest temperature sensor</title>
+        
+        <description>&lt;p&gt;I wanted a &lt;a href=&quot;https://www.theverge.com/circuitbreaker/2018/3/15/17123822/nest-temperature-sensor-video-doorbell-smart-lock-price-features&quot;&gt;remote temperature sensor for my Nest&lt;/a&gt; &lt;em&gt;six years ago&lt;/em&gt;. I’ve lived too long without it to feel like it is necessary now. The Nest has not noticeably improved since I got it. The best thing I did with it is set it up with Homebridge to use with Siri. It works faster and more reliably through that hack than through the official iOS and watchOS apps. I wish Neat, the company, had done better with it, but they seem to have lost interest in their initial product years ago. &lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Mar 2018 19:44:00 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/03/15/the-nest-temperature.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/03/15/the-nest-temperature.html</guid>
+      </item>
     
       <item>
       	
@@ -478,15 +489,6 @@
         <pubDate>Mon, 19 Feb 2018 09:59:00 -0400</pubDate>
         <link>https://mjdescy.micro.blog/2018/02/19/blog-post-abc.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/19/blog-post-abc.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;🎵 If you like &lt;a href=&quot;https://itunes.apple.com/us/artist/the-weakerthans/2987439&quot;&gt;The Weakerthans&lt;/a&gt; as much as I do, you will find &lt;a href=&quot;https://www.youtube.com/watch?v=iW3buuhnRlU&quot;&gt;this interview with their singer, John K. Samson&lt;/a&gt;, fascinating.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 18 Feb 2018 00:46:00 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/02/18/if-you-like.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/18/if-you-like.html</guid>
       </item>
     
   </channel>
