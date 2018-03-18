@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/18/021905.html",
+	      	
+			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.10.1</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. It adds tons of hardware keyboard shortcuts and fixes some bugs. </p>\n",
+			"date_published": "2018-03-17T22:19:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/03/17/021905.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/16/i-kicked-my.html",
 	      	
 			"content_html": "<p>I kicked my Twitter addiction this year, but how do I kick my Google News addiction? It is a frequent time waster for me. Deleting my bookmark to it didn’t help.</p>\n",
@@ -201,14 +209,6 @@
 			"content_html": "<p>Swift, multi-threading, closures, callbacks, and UI-blocking alert controllers are colliding in unexpected ways and kicking my ass this week. I’m stashing my latest bug fix, which isn’t finished, and building a new SwiftoDo release from my prior commit.</p>\n",
 			"date_published": "2018-03-06T22:20:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/06/swift-multithreading-closures.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/05/google-voices-voicemail.html",
-	      	
-			"content_html": "<p>Google Voice’s voicemail transcriptions can be chilling sometimes.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/1cb3be8d51.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-05T11:51:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/05/google-voices-voicemail.html"
 		}
 		
 	]
