@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/19/the-menu-bar.html",
+	      	
+			"content_html": "<p>🎙 “The Menu Bar” is a surprisingly good podcast. <a href=\"https://overcast.fm/+LrZv4Cdww\">Episode 8</a> shifts drastically from contrarian Apple/tech topics to an interview with director Alex Proyas. Great stuff!</p>\n",
+			"date_published": "2018-03-19T08:51:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/03/19/the-menu-bar.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/18/021905.html",
 	      	
 			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.10.1</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. It adds tons of hardware keyboard shortcuts and fixes some bugs. </p>\n",
@@ -201,14 +209,6 @@
 			"content_html": "<p>Judging by the <em>nearly</em> mashed-up news headlines, I think that The Weather Channel missed an opportunity to name today’s storm “Winter Stormy Daniels”.</p>\n",
 			"date_published": "2018-03-07T10:34:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/07/judging-by-the.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/07/swift-multithreading-closures.html",
-	      	
-			"content_html": "<p>Swift, multi-threading, closures, callbacks, and UI-blocking alert controllers are colliding in unexpected ways and kicking my ass this week. I’m stashing my latest bug fix, which isn’t finished, and building a new SwiftoDo release from my prior commit.</p>\n",
-			"date_published": "2018-03-06T22:20:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/06/swift-multithreading-closures.html"
 		}
 		
 	]
