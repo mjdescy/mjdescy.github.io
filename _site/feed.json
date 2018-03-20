@@ -6,6 +6,24 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/20/rewatching-the-last.html",
+	      	
+			"title": "🎬 Rewatching “The Last Jedi”",
+			
+			"content_html": "<p>I am enjoying “The Last Jedi” a lot more on the second viewing. I didn’t like it when I first saw it in the theatre, for a dozen different reasons. But now I get it in a way I hadn’t. Some things I thought were annoying, like Po’s actions, were <em>supposed</em> to be. The whole movie is about learning from failure, and is well structured around that theme.</p>\n",
+			"date_published": "2018-03-20T00:26:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/03/20/rewatching-the-last.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/20/im-trying-to.html",
+	      	
+			"content_html": "<p>🎵 I’m trying to form an opinion of The Decemberists’ new album, “<a href=\"https://itunes.apple.com/us/album/ill-be-your-girl/1333620066\">I’ll Be Your Girl</a>”. I haven’t gotten my mind around it quite yet. Has it really been 7 years since “<a href=\"https://itunes.apple.com/us/album/the-king-is-dead/715554884\">The King Is Dead</a>”!?</p>\n",
+			"date_published": "2018-03-19T22:18:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/03/19/im-trying-to.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/19/the-menu-bar.html",
 	      	
 			"content_html": "<p>🎙 “The Menu Bar” is a surprisingly good podcast. <a href=\"https://overcast.fm/+LrZv4Cdww\">Episode 8</a> shifts drastically from contrarian Apple/tech topics to an interview with director Alex Proyas. Great stuff!</p>\n",
@@ -193,22 +211,6 @@
 			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.9.2</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. It adds a filter option for prioritized or non-prioritized tasks, optimizes app startup, and fixes some minor bugs.</p>\n",
 			"date_published": "2018-03-08T10:50:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/08/swiftodo-httpsswiftodoappcom-is.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/07/thundersnow.html",
-	      	
-			"content_html": "<p>Thundersnow!</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/3c3309622a.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-07T15:33:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/07/thundersnow.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/07/judging-by-the.html",
-	      	
-			"content_html": "<p>Judging by the <em>nearly</em> mashed-up news headlines, I think that The Weather Channel missed an opportunity to name today’s storm “Winter Stormy Daniels”.</p>\n",
-			"date_published": "2018-03-07T10:34:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/07/judging-by-the.html"
 		}
 		
 	]
