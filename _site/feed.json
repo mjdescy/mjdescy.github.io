@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/22/i-missed-om.html",
+	      	
+			"content_html": "<p>🎙 I missed <a href=\"https://overcast.fm/+HRuoucwWM\">Om Malik’s spot-on take on Facebook</a> from February, before the Cambridge Analytics fiasco. It’s worth a listen if you’re still interested in the Facebook mess.</p>\n",
+			"date_published": "2018-03-22T14:03:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/03/22/i-missed-om.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/21/the-main-reason.html",
+	      	
+			"content_html": "<p>The main reason that I still have my Facebook account is that potential employers view people without Facebook accounts as <em>weird</em>. Unfair, I know. I just don’t use it anymore. Whatever data I surrendered to them is already lost, so deleting my account won’t make much difference.</p>\n",
+			"date_published": "2018-03-21T10:19:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/03/21/the-main-reason.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/20/rewatching-the-last.html",
 	      	
 			"title": "🎬 Rewatching “The Last Jedi”",
@@ -195,22 +211,6 @@
 			"content_html": "<p>Based on the MacBook Pro keyboard-related gripes of <a href=\"https://coreint.org/2018/03/episode-318-kind-of-a-litmus-test/\">Daniel Jalkut</a> and the guys on the <a href=\"http://atp.fm\">ATP podcast</a>, I’m considering buying an iMac instead of a new MacBook Pro next year. 🤷🏻‍♂️</p>\n",
 			"date_published": "2018-03-08T22:55:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/08/based-on-the.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/09/004415.html",
-	      	
-			"content_html": "<p>🎵 “<a href=\"https://itunes.apple.com/us/album/if-i-had-my-time-again/1215389487?i=1215389792\">If I had my time again</a>” is my favorite song from Tim Minchin’s “Groundhog Day” musical. I love how it flips the premise of the show on its head for a bit and lets the female lead shine.</p>\n",
-			"date_published": "2018-03-08T20:44:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/08/004415.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/08/swiftodo-httpsswiftodoappcom-is.html",
-	      	
-			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.9.2</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. It adds a filter option for prioritized or non-prioritized tasks, optimizes app startup, and fixes some minor bugs.</p>\n",
-			"date_published": "2018-03-08T10:50:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/08/swiftodo-httpsswiftodoappcom-is.html"
 		}
 		
 	]
