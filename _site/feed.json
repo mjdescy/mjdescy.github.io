@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/24/last-night-my.html",
+	      	
+			"content_html": "<p>🎭 Last night my wife and I saw “Motown: The Musical”. We enjoyed it but thought it was too sanitized and limited in viewpoint to be interesting. I would have liked to hear more (any?) complete songs. The music is fantastic, of course. We’ll be listening to those records today.</p>\n",
+			"date_published": "2018-03-24T10:02:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/03/24/last-night-my.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/23/131331.html",
 	      	
 			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.11.0</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. It adds a URL scheme to add task (x-callback-url), a network activity indicator, and fixes a major hanging bug.</p>\n",
@@ -203,14 +211,6 @@
 			"content_html": "<p>🎵 I have become a huge <a href=\"https://itunes.apple.com/us/album/lust-for-life/1256684768\">Lana Del Rey</a> fan recently. I can’t get enough of her lushly produced dream pop. (Maybe I’m depressed or something. 😂)</p>\n",
 			"date_published": "2018-03-09T17:59:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/09/i-have-become.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/09/040729.html",
-	      	
-			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/03/09/swiftodo-development-notes-march-2018/\">SwiftoDo Development Notes, March 2018</a></p>\n",
-			"date_published": "2018-03-09T00:07:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/09/040729.html"
 		}
 		
 	]
