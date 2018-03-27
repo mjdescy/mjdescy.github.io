@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/27/presuming-i-trade.html",
+	      	
+			"content_html": "<p>Presuming I trade in my iPad Air 2, the new iPad looks pretty compelling to me. I’m not sure it is worth giving up the non-glare coated, fully laminated display, however. I do feel like the Air 2 only has about one good year left in it, and 1-2 not so good years after that.</p>\n",
+			"date_published": "2018-03-27T18:59:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/03/27/presuming-i-trade.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/27/do-any-micro.html",
 	      	
 			"content_html": "<p>Do any Micro Bloggers host their own RSS feed reader back-end? I’ve been curious about Tiny Tiny RSS and other competitors over the years, but I’m not sure it is worth it.</p>\n",
@@ -205,14 +213,6 @@
 			"content_html": "<p>I realized this morning that what I was coding last night was an implementation of the <a href=\"https://en.m.wikipedia.org/wiki/Strategy_pattern\">Strategy pattern</a>. And I thought I had just made it up myself. 😂</p>\n",
 			"date_published": "2018-03-12T11:45:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/12/i-realized-this.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/11/my-son-has.html",
-	      	
-			"content_html": "<p>My son has figured out how to turn on the flashlight of my Apple Watch. No wonder battery life took a hit lately. 😀</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d20a816b7a.jpg\" width=\"579\" height=\"579\" /></p>\n",
-			"date_published": "2018-03-11T12:52:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/11/my-son-has.html"
 		}
 		
 	]
