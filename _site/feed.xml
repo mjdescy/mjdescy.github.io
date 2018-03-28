@@ -4,8 +4,26 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Tue, 27 Mar 2018 18:59:33 -0400</pubDate>
-    <lastBuildDate>Tue, 27 Mar 2018 18:59:33 -0400</lastBuildDate>
+    <pubDate>Tue, 27 Mar 2018 22:31:14 -0400</pubDate>
+    <lastBuildDate>Tue, 27 Mar 2018 22:31:14 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I just signed up for the &lt;a href=&quot;https://www.git-tower.com/blog/tower-public-beta-2018-starts/&quot;&gt;Git Tower Version 2 Public Beta&lt;/a&gt;. I’m not sure if I want to pay so much for a Git client (after the beta expires), when &lt;a href=&quot;https://www.sourcetreeapp.com&quot;&gt;SourceTree&lt;/a&gt; is free, but SourceTree has been so buggy recently I am getting sick of it.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 Mar 2018 22:31:00 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/03/27/i-just-signed.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/03/28/i-just-signed.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I am fixing more bugs in my iOS app this week. The bugs are mostly related to navigating a table view via the keyboard. It worked better under the iOS 10 SDK. It’s pretty clear that Apple cares very little about &lt;em&gt;full&lt;/em&gt; hardware keyboard support on iOS. It &lt;em&gt;can be&lt;/em&gt; awesome, though.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 Mar 2018 22:23:00 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/03/27/i-am-fixing.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/03/28/i-am-fixing.html</guid>
+      </item>
     
       <item>
       	
@@ -457,26 +475,6 @@
         <pubDate>Tue, 27 Feb 2018 00:21:00 -0400</pubDate>
         <link>https://mjdescy.micro.blog/2018/02/27/if-i-had.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/27/if-i-had.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;amp;mt=8&quot;&gt;SwiftoDo 2.9.0&lt;/a&gt; is now available in the App Store. It adds an edit mode for your todo.txt file, opens URL schemes for apps &lt;em&gt;other&lt;/em&gt; than Safari, and fixes more bugs. I pushed it out a bit early because I’m working on a fix for a longstanding bug that I’d love to get out at the end of the week.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 26 Feb 2018 21:58:00 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/02/26/015820.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/27/015820.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Here we go again!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://mjdescy.micro.blog/uploads/2018/e50732b571.jpg&quot; width=&quot;370&quot; height=&quot;160&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 26 Feb 2018 00:11:00 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/02/26/here-we-go.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/26/here-we-go.html</guid>
       </item>
     
   </channel>
