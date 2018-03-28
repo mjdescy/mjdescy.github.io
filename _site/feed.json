@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/28/i-just-signed.html",
+	      	
+			"content_html": "<p>I just signed up for the <a href=\"https://www.git-tower.com/blog/tower-public-beta-2018-starts/\">Git Tower Version 2 Public Beta</a>. I’m not sure if I want to pay so much for a Git client (after the beta expires), when <a href=\"https://www.sourcetreeapp.com\">SourceTree</a> is free, but SourceTree has been so buggy recently I am getting sick of it.</p>\n",
+			"date_published": "2018-03-27T22:31:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/03/27/i-just-signed.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/28/i-am-fixing.html",
+	      	
+			"content_html": "<p>I am fixing more bugs in my iOS app this week. The bugs are mostly related to navigating a table view via the keyboard. It worked better under the iOS 10 SDK. It’s pretty clear that Apple cares very little about <em>full</em> hardware keyboard support on iOS. It <em>can be</em> awesome, though.</p>\n",
+			"date_published": "2018-03-27T22:23:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/03/27/i-am-fixing.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/27/presuming-i-trade.html",
 	      	
 			"content_html": "<p>Presuming I trade in my iPad Air 2, the new iPad looks pretty compelling to me. I’m not sure it is worth giving up the non-glare coated, fully laminated display, however. I do feel like the Air 2 only has about one good year left in it, and 1-2 not so good years after that.</p>\n",
@@ -195,24 +211,6 @@
 			"content_html": "<p>The third nor’easter in three weeks has screwed up our plans yet again.</p>\n",
 			"date_published": "2018-03-13T09:02:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/13/the-third-noreaster.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/12/apple-buying-texture.html",
-	      	
-			"title": "Apple buying Texture",
-			
-			"content_html": "<p><a href=\"https://512pixels.net/2018/03/apple-buys-texture-the-digital-magazine-service/\">Apple buying Texture</a> is interesting and unexpected to me. I subscribed to Texture for a couple weeks and did not like it because I found it too hard to read on my iPad and iPhone. Basically, for most of the magazines it offers, it provides you <em>images</em> of magazines, with their crazy layouts and scads of advertisements, rather than access to the magazine’s website content. It was like reading a PDF rather than a webpage. The small text size, traditional print magazine layout, and the need to pan around the page made the reading experience very poor. Since it <em>looked good</em>, I am not sure if Apple will spend much time improving it, even though it was impossible to use.</p>\n",
-			"date_published": "2018-03-12T19:34:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/12/apple-buying-texture.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/12/i-realized-this.html",
-	      	
-			"content_html": "<p>I realized this morning that what I was coding last night was an implementation of the <a href=\"https://en.m.wikipedia.org/wiki/Strategy_pattern\">Strategy pattern</a>. And I thought I had just made it up myself. 😂</p>\n",
-			"date_published": "2018-03-12T11:45:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/12/i-realized-this.html"
 		}
 		
 	]
