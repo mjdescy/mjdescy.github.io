@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/29/its-a-big.html",
+	      	
+			"content_html": "<p>It’s a big Apple software update day today! iOS 11.3 and Xcode 9.3 <em>finally</em> were released. I hope the new Xcode works out more of the Swift-related kinks. Xcode 9.2 still can’t jump to many of my method definitions, and I’ve never understood why.</p>\n",
+			"date_published": "2018-03-29T14:18:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/03/29/its-a-big.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/29/theres-nothing-quite.html",
 	      	
 			"content_html": "<p>There’s nothing quite like learning new T-SQL commands. I’m learning more about window functions, such as <a href=\"https://docs.microsoft.com/en-us/sql/t-sql/functions/last-value-transact-sql\">LAST VALUE</a> today. The reason? Messed up data that we are dealing with.</p>\n",
@@ -203,14 +211,6 @@
 			"content_html": "<p><a href=\"https://nyti.ms/2tKRHQL\">Stephen Hawking’s death</a> was the first notable death since 2009 that I did not learn first about on Twitter. I’m relying on The NY Times and WaPo for news now. I didn’t have to figure out from hearsay and later research who it was and whether it was true.</p>\n",
 			"date_published": "2018-03-14T07:58:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/14/stephen-hawkings-deathhttpsnytimstkrhql.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/13/230227.html",
-	      	
-			"content_html": "<p>I feel like hardly any apps use the iOS 11 Files app integration that Apple introduced last year. Google searches haven’t yielded much information on any limitations of the API that are of interest to me. I guess I have to try to do what I want and see if it works.</p>\n",
-			"date_published": "2018-03-13T19:02:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/13/230227.html"
 		}
 		
 	]
