@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Tue, 27 Mar 2018 22:31:14 -0400</pubDate>
-    <lastBuildDate>Tue, 27 Mar 2018 22:31:14 -0400</lastBuildDate>
+    <pubDate>Thu, 29 Mar 2018 10:09:33 -0400</pubDate>
+    <lastBuildDate>Thu, 29 Mar 2018 10:09:33 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;There’s nothing quite like learning new T-SQL commands. I’m learning more about window functions, such as &lt;a href=&quot;https://docs.microsoft.com/en-us/sql/t-sql/functions/last-value-transact-sql&quot;&gt;LAST VALUE&lt;/a&gt; today. The reason? Messed up data that we are dealing with.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Mar 2018 10:09:00 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/03/29/theres-nothing-quite.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/03/29/theres-nothing-quite.html</guid>
+      </item>
     
       <item>
       	
@@ -466,15 +475,6 @@
         <pubDate>Tue, 27 Feb 2018 12:07:00 -0400</pubDate>
         <link>https://mjdescy.micro.blog/2018/02/27/my-daughter-is.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/27/my-daughter-is.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;If I had my gumption, I would convert SwiftoDo to the &lt;a href=&quot;https://medium.com/@dkw5877/flow-coordinators-333ed64f3dd&quot;&gt;Coordinator pattern&lt;/a&gt; and get rid of (actually, completely reimplement) all those messy segues. If I had my gumption, though, I would do a lot of things.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 27 Feb 2018 00:21:00 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/02/27/if-i-had.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/02/27/if-i-had.html</guid>
       </item>
     
   </channel>
