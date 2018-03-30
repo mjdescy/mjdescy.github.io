@@ -4,8 +4,19 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Fri, 30 Mar 2018 09:36:57 -0400</pubDate>
-    <lastBuildDate>Fri, 30 Mar 2018 09:36:57 -0400</lastBuildDate>
+    <pubDate>Fri, 30 Mar 2018 15:18:25 -0400</pubDate>
+    <lastBuildDate>Fri, 30 Mar 2018 15:18:25 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;My Mac came back from the stalled OS update, but I decided to nuke the hard drive and reinstall macOS anyway. Too many little things have been broken lately. It’s the first time I have done so on this machine ever. I’ve had it almost 5 years. 🤞&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mjdescy.micro.blog/uploads/2018/42e19f53ae.jpg&quot; width=&quot;600&quot; height=&quot;599&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Mar 2018 15:18:00 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/03/30/my-mac-came.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/03/30/my-mac-came.html</guid>
+      </item>
     
       <item>
       	
@@ -464,15 +475,6 @@
         <pubDate>Thu, 01 Mar 2018 15:50:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2018/03/01/i-actually-solved.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/03/01/i-actually-solved.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://swiftodoapp.com&quot;&gt;SwiftoDo&lt;/a&gt; 2.9.1 is &lt;a href=&quot;https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;amp;mt=8&quot;&gt;now available in the App Store&lt;/a&gt;. It fixes a longstanding Dropbox-related bug that caused a crash on startup for some users. Bonus feature: the task editor now recognizes new projects and contexts and adds them to their respective pickers.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 28 Feb 2018 21:21:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2018/02/28/swiftodohttpsswiftodoappcom-is-now.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/03/01/swiftodohttpsswiftodoappcom-is-now.html</guid>
       </item>
     
   </channel>
