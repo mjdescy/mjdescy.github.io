@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/03/30/once-again-a.html",
+	      	
+			"content_html": "<p>Once again, a macOS point update has stalled on my old MacBook Pro. It has been stuck for nearly 8 hours. I guess I will force reboot (later) and cross my fingers that it comes back to life.</p>\n",
+			"date_published": "2018-03-30T08:22:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/03/30/once-again-a.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/03/30/hot-take-swift.html",
 	      	
 			"content_html": "<p>Hot take: Swift 4.1 is .1 better than Swift 4.</p>\n",
@@ -140,7 +148,7 @@
 		{
 			"id": "http://mjdescy.micro.blog/2018/03/18/021905.html",
 	      	
-			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.10.1</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. It adds tons of hardware keyboard shortcuts and fixes some bugs. </p>\n",
+			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.10.1</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. It adds tons of hardware keyboard shortcuts and fixes some bugs.</p>\n",
 			"date_published": "2018-03-17T22:19:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/17/021905.html"
 		},
@@ -156,7 +164,7 @@
 		{
 			"id": "http://mjdescy.micro.blog/2018/03/16/152545.html",
 	      	
-			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.10.0</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. It changes how the Postpone function works, improves network connectivity warnings, and fixes bugs. </p>\n",
+			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.10.0</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. It changes how the Postpone function works, improves network connectivity warnings, and fixes bugs.</p>\n",
 			"date_published": "2018-03-16T11:25:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/16/152545.html"
 		},
@@ -166,7 +174,7 @@
 	      	
 			"title": "The Nest temperature sensor",
 			
-			"content_html": "<p>I wanted a <a href=\"https://www.theverge.com/circuitbreaker/2018/3/15/17123822/nest-temperature-sensor-video-doorbell-smart-lock-price-features\">remote temperature sensor for my Nest</a> <em>six years ago</em>. I’ve lived too long without it to feel like it is necessary now. The Nest has not noticeably improved since I got it. The best thing I did with it is set it up with Homebridge to use with Siri. It works faster and more reliably through that hack than through the official iOS and watchOS apps. I wish Nest, the company, had done better with it, but they seem to have lost interest in their initial product years ago. </p>\n",
+			"content_html": "<p>I wanted a <a href=\"https://www.theverge.com/circuitbreaker/2018/3/15/17123822/nest-temperature-sensor-video-doorbell-smart-lock-price-features\">remote temperature sensor for my Nest</a> <em>six years ago</em>. I’ve lived too long without it to feel like it is necessary now. The Nest has not noticeably improved since I got it. The best thing I did with it is set it up with Homebridge to use with Siri. It works faster and more reliably through that hack than through the official iOS and watchOS apps. I wish Nest, the company, had done better with it, but they seem to have lost interest in their initial product years ago.</p>\n",
 			"date_published": "2018-03-15T19:44:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/15/the-nest-temperature.html"
 		},
@@ -203,14 +211,6 @@
 			"content_html": "<p><a href=\"https://www.raspberrypi.org/blog/raspberry-pi-3-model-bplus-sale-now-35/\">Raspberry Pi’s new model</a> is an unexpected Pi Day treat. I use two older Pis as specialized servers in my home: one for <a href=\"https://github.com/nfarina/homebridge/\">Homebridge</a> and one for <a href=\"https://pi-hole.net\">Pi-hole</a>. They are inexpensive and amazing. I’m not sure I will get the new one, though—I need even faster network speeds.</p>\n",
 			"date_published": "2018-03-14T16:31:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/14/raspberry-pis-new.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/14/happy-pi-dayhttpwwwpidayorg.html",
-	      	
-			"content_html": "<p>Happy <a href=\"http://www.piday.org\">Pi Day</a>, everyone! I told my daughter to tell her kindergarten class that this morning, and she was very perplexed. I guess I need to teach her geometry. 😀</p>\n",
-			"date_published": "2018-03-14T09:03:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/14/happy-pi-dayhttpwwwpidayorg.html"
 		}
 		
 	]
