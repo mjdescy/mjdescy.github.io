@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/04/03/did-you-know.html",
+	      	
+			"content_html": "<p>Did you know you can filter Excel spreadsheet columns by <em>color</em>? <a href=\"https://support.office.com/en-us/article/filter-data-in-a-range-or-table-01832226-31b5-4568-8806-38c37dcc180e\">You sure can</a>! It came in handy today.</p>\n",
+			"date_published": "2018-04-03T15:00:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/03/did-you-know.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/02/someone-just-tried.html",
 	      	
 			"content_html": "<p>Someone just tried to hack into my Apple account. Scary! I’m glad I have two factor authentication turned on. I got notifications on all my devices and quickly changed my password for the first time in a couple years. I wonder what happened.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>I kicked my Twitter addiction this year, but how do I kick my Google News addiction? It is a frequent time waster for me. Deleting my bookmark to it didn’t help.</p>\n",
 			"date_published": "2018-03-16T19:54:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/16/i-kicked-my.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/16/152545.html",
-	      	
-			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.10.0</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. It changes how the Postpone function works, improves network connectivity warnings, and fixes bugs.</p>\n",
-			"date_published": "2018-03-16T11:25:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/16/152545.html"
 		}
 		
 	]
