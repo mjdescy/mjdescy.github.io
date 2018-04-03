@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Tue, 03 Apr 2018 15:01:00 -0400</pubDate>
-    <lastBuildDate>Tue, 03 Apr 2018 15:01:00 -0400</lastBuildDate>
+    <pubDate>Tue, 03 Apr 2018 16:43:13 -0400</pubDate>
+    <lastBuildDate>Tue, 03 Apr 2018 16:43:13 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;🎵 I re-listened to The Decemberists’ &lt;a href=&quot;https://itunes.apple.com/us/album/ill-be-your-girl/1333620066&quot;&gt;I’ll Be Your Girl&lt;/a&gt; today, and was surprised that all the songs sounded like I had always known them. I enjoyed the album a lot more today than on my first listen.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Apr 2018 16:42:00 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/04/03/i-relistened-to.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/04/03/i-relistened-to.html</guid>
+      </item>
     
       <item>
       	
@@ -464,15 +473,6 @@
         <pubDate>Mon, 05 Mar 2018 10:51:00 -0500</pubDate>
         <link>https://mjdescy.micro.blog/2018/03/05/google-voices-voicemail.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/03/05/google-voices-voicemail.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I have to create dozens of Active Directory user accounts on a domain controller today, and the PowerShell cmdlets to help with that are somehow not installed. Time to get some ☕️ and power through it.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 05 Mar 2018 09:52:00 -0500</pubDate>
-        <link>https://mjdescy.micro.blog/2018/03/05/i-have-to.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/03/05/i-have-to.html</guid>
       </item>
     
   </channel>
