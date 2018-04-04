@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/04/04/it-may-be.html",
+	      	
+			"content_html": "<p>It may be too soon to tell, but I’m afraid <a href=\"https://itunes.apple.com/us/app/digby-forever/id1143705385?mt=8\">Digby Forever</a> has ruined my life.</p>\n",
+			"date_published": "2018-04-03T20:27:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/03/it-may-be.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/03/i-relistened-to.html",
 	      	
 			"content_html": "<p>🎵 I re-listened to The Decemberists’ <a href=\"https://itunes.apple.com/us/album/ill-be-your-girl/1333620066\">I’ll Be Your Girl</a> today, and was surprised that all the songs sounded like I had always known them. I enjoyed the album a lot more today than on my first listen.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>🎙 “The Menu Bar” is a surprisingly good podcast. <a href=\"https://overcast.fm/+LrZv4Cdww\">Episode 8</a> shifts drastically from contrarian Apple/tech topics to an interview with director Alex Proyas. Great stuff!</p>\n",
 			"date_published": "2018-03-19T08:51:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/19/the-menu-bar.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/18/021905.html",
-	      	
-			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.10.1</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. It adds tons of hardware keyboard shortcuts and fixes some bugs.</p>\n",
-			"date_published": "2018-03-17T22:19:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/17/021905.html"
 		}
 		
 	]
