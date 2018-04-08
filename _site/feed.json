@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/04/08/today-is-a.html",
+	      	
+			"content_html": "<p>Today is a rebuilding day after 2 days in NYC. The city is fun but we are all happy to be back at home.</p>\n",
+			"date_published": "2018-04-08T12:04:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/08/today-is-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/04/225406.html",
+	      	
+			"content_html": "<p>I was not happy to learn today that <a href=\"https://www.oppodigital.com/farewell.aspx\">OPPO Digital is going out of business</a>. They make my absolute favorite headphones, the OPPO PM-3. 🎧😥</p>\n",
+			"date_published": "2018-04-04T18:54:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/04/225406.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/04/it-may-be.html",
 	      	
 			"content_html": "<p>It may be too soon to tell, but I’m afraid <a href=\"https://itunes.apple.com/us/app/digby-forever/id1143705385?mt=8\">Digby Forever</a> has ruined my life.</p>\n",
@@ -191,22 +207,6 @@
 			"content_html": "<p>I am enjoying “The Last Jedi” a lot more on the second viewing. I didn’t like it when I first saw it in the theatre, for a dozen different reasons. But now I get it in a way I hadn’t. Some things I thought were annoying, like Po’s actions, were <em>supposed</em> to be. The whole movie is about learning from failure, and is well structured around that theme.</p>\n",
 			"date_published": "2018-03-20T00:26:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/20/rewatching-the-last.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/20/im-trying-to.html",
-	      	
-			"content_html": "<p>🎵 I’m trying to form an opinion of The Decemberists’ new album, “<a href=\"https://itunes.apple.com/us/album/ill-be-your-girl/1333620066\">I’ll Be Your Girl</a>”. I haven’t gotten my mind around it quite yet. Has it really been 7 years since “<a href=\"https://itunes.apple.com/us/album/the-king-is-dead/715554884\">The King Is Dead</a>”!?</p>\n",
-			"date_published": "2018-03-19T22:18:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/19/im-trying-to.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/19/the-menu-bar.html",
-	      	
-			"content_html": "<p>🎙 “The Menu Bar” is a surprisingly good podcast. <a href=\"https://overcast.fm/+LrZv4Cdww\">Episode 8</a> shifts drastically from contrarian Apple/tech topics to an interview with director Alex Proyas. Great stuff!</p>\n",
-			"date_published": "2018-03-19T08:51:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/19/the-menu-bar.html"
 		}
 		
 	]
