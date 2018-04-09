@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/04/09/im-getting-back.html",
+	      	
+			"content_html": "<p>I’m getting back in the swing of things at work now. I’m in the groove. Here’s to a productive week.</p>\n",
+			"date_published": "2018-04-09T14:07:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/09/im-getting-back.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/09/132809.html",
 	      	
 			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.11.2</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. No new features this time, but the code has been updated to Swift 4.1.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>🎙 I missed <a href=\"https://overcast.fm/+HRuoucwWM\">Om Malik’s spot-on take on Facebook</a> from February, before the Cambridge Analytics fiasco. It’s worth a listen if you’re still interested in the Facebook mess.</p>\n",
 			"date_published": "2018-03-22T14:03:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/22/i-missed-om.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/21/the-main-reason.html",
-	      	
-			"content_html": "<p>The main reason that I still have my Facebook account is that potential employers view people without Facebook accounts as <em>weird</em>. Unfair, I know. I just don’t use it anymore. Whatever data I surrendered to them is already lost, so deleting my account won’t make much difference.</p>\n",
-			"date_published": "2018-03-21T10:19:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/21/the-main-reason.html"
 		}
 		
 	]
