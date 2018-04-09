@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/04/09/132809.html",
+	      	
+			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.11.2</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. No new features this time, but the code has been updated to Swift 4.1.</p>\n",
+			"date_published": "2018-04-09T09:28:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/09/132809.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/08/today-is-a.html",
 	      	
 			"content_html": "<p>Today is a rebuilding day after 2 days in NYC. The city is fun but we are all happy to be back at home.</p>\n",
@@ -197,16 +205,6 @@
 			"content_html": "<p>The main reason that I still have my Facebook account is that potential employers view people without Facebook accounts as <em>weird</em>. Unfair, I know. I just don’t use it anymore. Whatever data I surrendered to them is already lost, so deleting my account won’t make much difference.</p>\n",
 			"date_published": "2018-03-21T10:19:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/21/the-main-reason.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/20/rewatching-the-last.html",
-	      	
-			"title": "🎬 Rewatching “The Last Jedi”",
-			
-			"content_html": "<p>I am enjoying “The Last Jedi” a lot more on the second viewing. I didn’t like it when I first saw it in the theatre, for a dozen different reasons. But now I get it in a way I hadn’t. Some things I thought were annoying, like Po’s actions, were <em>supposed</em> to be. The whole movie is about learning from failure, and is well structured around that theme.</p>\n",
-			"date_published": "2018-03-20T00:26:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/20/rewatching-the-last.html"
 		}
 		
 	]
