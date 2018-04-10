@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/04/10/sometimes-you-can.html",
+	      	
+			"content_html": "<p>Sometimes you can program on your hobby projects after work, but sometimes you have to clean house. April is a clean-house kind of month for me.</p>\n",
+			"date_published": "2018-04-09T20:49:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/09/sometimes-you-can.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/09/im-really-digging.html",
+	      	
+			"content_html": "<p>🎵 I’m really digging Bleachers’ “<a href=\"https://itunes.apple.com/us/album/gone-now/1225759934\">Gone Now</a>” right now. I like everything that Jack Antonoff does.</p>\n",
+			"date_published": "2018-04-09T16:42:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/09/im-really-digging.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/09/im-getting-back.html",
 	      	
 			"content_html": "<p>I’m getting back in the swing of things at work now. I’m in the groove. Here’s to a productive week.</p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p>🎭 Last night my wife and I saw “Motown: The Musical”. We enjoyed it but thought it was too sanitized and limited in viewpoint to be interesting. I would have liked to hear more (any?) complete songs. The music is fantastic, of course. We’ll be listening to those records today.</p>\n",
 			"date_published": "2018-03-24T10:02:00-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/24/last-night-my.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/23/131331.html",
-	      	
-			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.11.0</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. It adds a URL scheme to add task (x-callback-url), a network activity indicator, and fixes a major hanging bug.</p>\n",
-			"date_published": "2018-03-23T09:13:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/23/131331.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/22/i-missed-om.html",
-	      	
-			"content_html": "<p>🎙 I missed <a href=\"https://overcast.fm/+HRuoucwWM\">Om Malik’s spot-on take on Facebook</a> from February, before the Cambridge Analytics fiasco. It’s worth a listen if you’re still interested in the Facebook mess.</p>\n",
-			"date_published": "2018-03-22T14:03:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/22/i-missed-om.html"
 		}
 		
 	]
