@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-25 21:40 -0400
+date: 2017-12-25 21:40:36 -0400
 guid: http://mjdescy.micro.blog/2017/12/26/and-when-they.html
 ---
 And when they say that all is lost
