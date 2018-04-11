@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-17 23:45 -0400
+date: 2018-01-17 23:45:46 -0400
 guid: http://mjdescy.micro.blog/2018/01/18/im-adding-some.html
 ---
 I'm adding some very basic URL handling support to [SwiftoDo](http://swiftodoapp.com) tonight, based on a user request. I almost never put URLs into my task list, so I never thought to add it, but of course it makes sense.
