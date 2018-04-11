@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-23 20:50 -0400
+date: 2017-12-23 20:50:40 -0400
 guid: http://mjdescy.micro.blog/2017/12/24/i-made-banana.html
 ---
 I made banana bread, too.
