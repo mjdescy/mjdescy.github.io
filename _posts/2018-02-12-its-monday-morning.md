@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-12 10:49 -0400
+date: 2018-02-12 10:49:21 -0400
 guid: http://mjdescy.micro.blog/2018/02/12/its-monday-morning.html
 ---
 🎙 It’s Monday morning, so I am listening to “This Week in Tech”.
