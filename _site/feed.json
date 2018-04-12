@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/04/12/132245.html",
+	      	
+			"content_html": "<p>I’m trying to catch up to current Red Sox games on MLB At Bat. I’m still a few days behind. It’s a losing battle every baseball season, because the games are so long.</p>\n",
+			"date_published": "2018-04-12T09:22:45-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/12/132245.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/12/somehow-my-simple.html",
 	      	
 			"content_html": "<p>Somehow my simple feature update in my app ballooned to a 38-file refactor. 😳 I’m in a better position now for a number of additional little updates now, thanks to the the extra work.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I am fixing more bugs in my iOS app this week. The bugs are mostly related to navigating a table view via the keyboard. It worked better under the iOS 10 SDK. It’s pretty clear that Apple cares very little about <em>full</em> hardware keyboard support on iOS. It <em>can be</em> awesome, though.</p>\n",
 			"date_published": "2018-03-27T22:23:38-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/27/i-am-fixing.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/27/presuming-i-trade.html",
-	      	
-			"content_html": "<p>Presuming I trade in my iPad Air 2, the new iPad looks pretty compelling to me. I’m not sure it is worth giving up the non-glare coated, fully laminated display, however. I do feel like the Air 2 only has about one good year left in it, and 1-2 not so good years after that.</p>\n",
-			"date_published": "2018-03-27T18:59:31-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/27/presuming-i-trade.html"
 		}
 		
 	]
