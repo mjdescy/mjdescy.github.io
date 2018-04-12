@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/04/12/somehow-my-simple.html",
+	      	
+			"content_html": "<p>Somehow my simple feature update in my app ballooned to a 38-file refactor. 😳 I’m in a better position now for a number of additional little updates now, thanks to the the extra work.</p>\n",
+			"date_published": "2018-04-11T20:53:42-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/11/somehow-my-simple.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/11/the-spring-cleanup.html",
 	      	
 			"content_html": "<p>The spring cleanup landscaping quotes I got this week have a range of $1,400 for the same work. It really pays to shop around, I guess.  Fortunately, my current lawnmowing company put in the lowest quote and can do the work the soonest.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Presuming I trade in my iPad Air 2, the new iPad looks pretty compelling to me. I’m not sure it is worth giving up the non-glare coated, fully laminated display, however. I do feel like the Air 2 only has about one good year left in it, and 1-2 not so good years after that.</p>\n",
 			"date_published": "2018-03-27T18:59:31-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/27/presuming-i-trade.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/27/do-any-micro.html",
-	      	
-			"content_html": "<p>Do any Micro Bloggers host their own RSS feed reader back-end? I’ve been curious about Tiny Tiny RSS and other competitors over the years, but I’m not sure it is worth it.</p>\n",
-			"date_published": "2018-03-26T20:57:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/26/do-any-micro.html"
 		}
 		
 	]
