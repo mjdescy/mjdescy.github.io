@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/04/12/i-deactivated-by.html",
+	      	
+			"content_html": "<p>I deactivated by Facebook account today. I can’t muster up the gumption to delete it, and don’t know why. But it’s a start.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/5e23a06a8b.jpg\" width=\"600\" height=\"203\" /></p>\n",
+			"date_published": "2018-04-12T16:10:03-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/12/i-deactivated-by.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/12/132245.html",
 	      	
 			"content_html": "<p>I’m trying to catch up to current Red Sox games on MLB At Bat. I’m still a few days behind. It’s a losing battle every baseball season, because the games are so long.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I just signed up for the <a href=\"https://www.git-tower.com/blog/tower-public-beta-2018-starts/\">Git Tower Version 2 Public Beta</a>. I’m not sure if I want to pay so much for a Git client (after the beta expires), when <a href=\"https://www.sourcetreeapp.com\">SourceTree</a> is free, but SourceTree has been so buggy recently I am getting sick of it.</p>\n",
 			"date_published": "2018-03-27T22:31:12-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/27/i-just-signed.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/28/i-am-fixing.html",
-	      	
-			"content_html": "<p>I am fixing more bugs in my iOS app this week. The bugs are mostly related to navigating a table view via the keyboard. It worked better under the iOS 10 SDK. It’s pretty clear that Apple cares very little about <em>full</em> hardware keyboard support on iOS. It <em>can be</em> awesome, though.</p>\n",
-			"date_published": "2018-03-27T22:23:38-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/27/i-am-fixing.html"
 		}
 		
 	]
