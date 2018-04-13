@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/04/13/i-must-be.html",
+	      	
+			"content_html": "<p>I must be perverse or something, but one of my favorite apps on iOS is Apple’s Mail app. I tried several alternatives over the years, but Mail caught up to what I need from an email client a few years ago. I like how clean and simple it is, and rely on its unified inbox feature.</p>\n",
+			"date_published": "2018-04-13T09:26:11-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/13/i-must-be.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/13/i-excitedly-signed.html",
 	      	
 			"content_html": "<p>I excitedly signed up for the <a href=\"https://ulyssesapp.com/beta\">Ulysses 13 beta</a> today. The feature I am most looking forward to is “improved code blocks with syntax highlighting”. If they provide Swift syntax highlighting in code blocks, I can finally use it for a <em>proper</em> developer’s log.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>It’s a big Apple software update day today! iOS 11.3 and Xcode 9.3 <em>finally</em> were released. I hope the new Xcode works out more of the Swift-related kinks. Xcode 9.2 still can’t jump to many of my method definitions, and I’ve never understood why.</p>\n",
 			"date_published": "2018-03-29T14:18:13-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/29/its-a-big.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/29/theres-nothing-quite.html",
-	      	
-			"content_html": "<p>There’s nothing quite like learning new T-SQL commands. I’m learning more about window functions, such as <a href=\"https://docs.microsoft.com/en-us/sql/t-sql/functions/last-value-transact-sql\">LAST VALUE</a> today. The reason? Messed up data that we are dealing with.</p>\n",
-			"date_published": "2018-03-29T10:09:32-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/29/theres-nothing-quite.html"
 		}
 		
 	]
