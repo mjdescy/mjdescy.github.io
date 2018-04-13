@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/04/13/i-excitedly-signed.html",
+	      	
+			"content_html": "<p>I excitedly signed up for the <a href=\"https://ulyssesapp.com/beta\">Ulysses 13 beta</a> today. The feature I am most looking forward to is “improved code blocks with syntax highlighting”. If they provide Swift syntax highlighting in code blocks, I can finally use it for a <em>proper</em> developer’s log.</p>\n",
+			"date_published": "2018-04-12T22:39:24-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/12/i-excitedly-signed.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/12/i-deactivated-by.html",
 	      	
 			"content_html": "<p>I deactivated by Facebook account today. I can’t muster up the gumption to delete it, and don’t know why. But it’s a start.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/5e23a06a8b.jpg\" width=\"600\" height=\"203\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>There’s nothing quite like learning new T-SQL commands. I’m learning more about window functions, such as <a href=\"https://docs.microsoft.com/en-us/sql/t-sql/functions/last-value-transact-sql\">LAST VALUE</a> today. The reason? Messed up data that we are dealing with.</p>\n",
 			"date_published": "2018-03-29T10:09:32-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/29/theres-nothing-quite.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/28/i-just-signed.html",
-	      	
-			"content_html": "<p>I just signed up for the <a href=\"https://www.git-tower.com/blog/tower-public-beta-2018-starts/\">Git Tower Version 2 Public Beta</a>. I’m not sure if I want to pay so much for a Git client (after the beta expires), when <a href=\"https://www.sourcetreeapp.com\">SourceTree</a> is free, but SourceTree has been so buggy recently I am getting sick of it.</p>\n",
-			"date_published": "2018-03-27T22:31:12-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/27/i-just-signed.html"
 		}
 		
 	]
