@@ -15,6 +15,7 @@ baseurl: ""
 url: "https://mjdescy.micro.blog"
 markdown: "kramdown"
 username: "mjdescy"
+microblog_user: "mjdescy"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "Michael Descy"
