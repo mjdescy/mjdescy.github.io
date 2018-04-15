@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/04/15/at-long-last.html",
+	      	
+			"content_html": "<p>📚 At long last, I have finished reading <em><a href=\"https://en.m.wikipedia.org/wiki/Team_of_Rivals\">Team of Rivals</a></em> by Doris Kearns Goodwin. It (the last chapter and epilogue especially) has overwhelmed me with a sense of love and sadness, which is why it took me so long to read their whole thing. The book is a monumental achievement.</p>\n",
+			"date_published": "2018-04-15T14:38:48-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/15/at-long-last.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/13/i-am-grateful.html",
 	      	
 			"content_html": "<p>I am grateful that the grounds crew I hired cleaned up my yard today. The constant noise from their machines is really driving me nuts, though. They are at a house across the street now, so it has been seven hours of power tool noise for me today.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Once again, a macOS point update has stalled on my old MacBook Pro. It has been stuck for nearly 8 hours. I guess I will force reboot (later) and cross my fingers that it comes back to life.</p>\n",
 			"date_published": "2018-03-30T08:22:23-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/30/once-again-a.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/30/hot-take-swift.html",
-	      	
-			"content_html": "<p>Hot take: Swift 4.1 is .1 better than Swift 4.</p>\n",
-			"date_published": "2018-03-29T21:06:13-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/29/hot-take-swift.html"
 		}
 		
 	]
