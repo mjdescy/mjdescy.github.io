@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/04/16/145601.html",
+	      	
+			"content_html": "<p>This <a href=\"https://www.beoplay.com/en/landingpages/beoplaym3#introducing\">BeoPlay M3</a> speaker is a better fit in my kitchen than two feet away from me at my office desk. We got a lot of use out of it yesterday, Airplaying from iPhones and our Apple TV. It sounds better when played more loudly, in a larger room.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/06393dee79.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-04-16T10:56:01-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/16/145601.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/15/im-feeling-pumped.html",
 	      	
 			"content_html": "<p>I’m feeling pumped for work tomorrow, which is…12 hours too early. 🤷‍♂️</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>My Mac came back from the stalled OS update, but I decided to nuke the hard drive and reinstall macOS anyway. Too many little things have been broken lately. It’s the first time I have done so on this machine ever. I’ve had it almost 5 years. 🤞</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/42e19f53ae.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-03-30T15:18:24-04:00",
 			"url": "https://mjdescy.micro.blog/2018/03/30/my-mac-came.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/30/133656.html",
-	      	
-			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.11.1</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. It improves hardware keyboard support in the task list and task editor. Now you can type the first character to make picking priority, project, and context faster.</p>\n",
-			"date_published": "2018-03-30T09:36:56-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/30/133656.html"
 		}
 		
 	]
