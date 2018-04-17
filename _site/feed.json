@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/04/17/taking-a-trip.html",
+	      	
+			"content_html": "<p>🎵 Taking a trip down memory lane with Guster’s <a href=\"https://itunes.apple.com/us/album/keep-it-together/1586602\">Keep It Together</a> this evening, on my MacBook Pro and Oppo PM-3’s 🎧. Their records are cleanly produced, tightly written, and tastefully played. When I saw them <em>live</em>, though, they absolutely shredded their way through their songs. They were freaking amazing.</p>\n",
+			"date_published": "2018-04-16T22:22:09-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/16/taking-a-trip.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/16/im-starting-to.html",
+	      	
+			"content_html": "<p>I’m starting to write the import routine I should have written when I first imported the data. Ain’t that always the way?</p>\n",
+			"date_published": "2018-04-16T16:05:13-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/16/im-starting-to.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/16/145601.html",
 	      	
 			"content_html": "<p>This <a href=\"https://www.beoplay.com/en/landingpages/beoplaym3#introducing\">BeoPlay M3</a> speaker is a better fit in my kitchen than two feet away from me at my office desk. We got a lot of use out of it yesterday, Airplaying from iPhones and our Apple TV. It sounds better when played more loudly, in a larger room.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/06393dee79.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>Our plans today include Easter egg dying and a Passover Seder with family. I prefer brisket to Easter ham any day.</p>\n",
 			"date_published": "2018-04-01T11:53:01-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/01/our-plans-today.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/31/were-going-to.html",
-	      	
-			"content_html": "<p>We’re going to Six Flags Great Adventure today on the first warm-ish day of spring. I’m excited. We’ll see how it is. I’ve never gone there before.</p>\n",
-			"date_published": "2018-03-31T10:19:38-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/31/were-going-to.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/03/30/my-mac-came.html",
-	      	
-			"content_html": "<p>My Mac came back from the stalled OS update, but I decided to nuke the hard drive and reinstall macOS anyway. Too many little things have been broken lately. It’s the first time I have done so on this machine ever. I’ve had it almost 5 years. 🤞</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/42e19f53ae.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-03-30T15:18:24-04:00",
-			"url": "https://mjdescy.micro.blog/2018/03/30/my-mac-came.html"
 		}
 		
 	]
