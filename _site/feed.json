@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/04/18/coding-on-my.html",
+	      	
+			"content_html": "<p>Coding on my late 2013 15” MacBook Pro while watching MLB.TV at 60 FPS on the biggest TV in the house is a quite relaxing combo.</p>\n",
+			"date_published": "2018-04-17T23:23:14-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/17/coding-on-my.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/17/taking-a-trip.html",
 	      	
 			"content_html": "<p>🎵 Taking a trip down memory lane with Guster’s <a href=\"https://itunes.apple.com/us/album/keep-it-together/1586602\">Keep It Together</a> this evening, on my MacBook Pro and Oppo PM-3’s 🎧. Their records are cleanly produced, tightly written, and tastefully played. When I saw them <em>live</em>, though, they absolutely shredded their way through their songs. They were freaking amazing.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Someone just tried to hack into my Apple account. Scary! I’m glad I have two factor authentication turned on. I got notifications on all my devices and quickly changed my password for the first time in a couple years. I wonder what happened.</p>\n",
 			"date_published": "2018-04-01T21:23:41-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/01/someone-just-tried.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/01/our-plans-today.html",
-	      	
-			"content_html": "<p>Our plans today include Easter egg dying and a Passover Seder with family. I prefer brisket to Easter ham any day.</p>\n",
-			"date_published": "2018-04-01T11:53:01-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/01/our-plans-today.html"
 		}
 		
 	]
