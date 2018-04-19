@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/04/19/git-tower-vs.html",
+	      	
+			"title": "Git Tower vs. Atlassian SourceTree",
+			
+			"content_html": "<p>I am enjoying using <a href=\"https://www.git-tower.com/mac/\">Tower</a> over Atlassian SourceTree. <a href=\"https://www.sourcetreeapp.com\">SourceTree</a> has many, many features, and is free to use, but it has some puzzling bugs that never seem to get fixed. For example, it never deletes branches via Git Flow, not matter how many times I try to reconfigure it.</p>\n\n<p>Tower is faster, works better, and has a clean UI that fits in on the Mac very well. When I emailed Tower support about something, they responded almost instantly. That sold it for me. When the Tower 3 beta expires, I will be purchasing a license.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/108abb4d9a.jpg\" width=\"600\" height=\"339\" /></p>\n",
+			"date_published": "2018-04-18T21:54:47-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/18/git-tower-vs.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/18/coding-on-my.html",
 	      	
 			"content_html": "<p>Coding on my late 2013 15” MacBook Pro while watching MLB.TV at 60 FPS on the biggest TV in the house is a quite relaxing combo.</p>\n",
@@ -195,14 +205,6 @@
 			"content_html": "<p>Did you know you can filter Excel spreadsheet columns by <em>color</em>? <a href=\"https://support.office.com/en-us/article/filter-data-in-a-range-or-table-01832226-31b5-4568-8806-38c37dcc180e\">You sure can</a>! It came in handy today.</p>\n",
 			"date_published": "2018-04-03T15:00:58-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/03/did-you-know.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/02/someone-just-tried.html",
-	      	
-			"content_html": "<p>Someone just tried to hack into my Apple account. Scary! I’m glad I have two factor authentication turned on. I got notifications on all my devices and quickly changed my password for the first time in a couple years. I wonder what happened.</p>\n",
-			"date_published": "2018-04-01T21:23:41-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/01/someone-just-tried.html"
 		}
 		
 	]
