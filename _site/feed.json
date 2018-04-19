@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/04/19/i-am-coding.html",
+	      	
+			"content_html": "<p>I am coding VBA and ripping CDs like it’s the year 2000 today.</p>\n",
+			"date_published": "2018-04-19T11:38:06-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/19/i-am-coding.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/19/git-tower-vs.html",
 	      	
 			"title": "Git Tower vs. Atlassian SourceTree",
@@ -197,14 +205,6 @@
 			"content_html": "<p>🎵 I re-listened to The Decemberists’ <a href=\"https://itunes.apple.com/us/album/ill-be-your-girl/1333620066\">I’ll Be Your Girl</a> today, and was surprised that all the songs sounded like I had always known them. I enjoyed the album a lot more today than on my first listen.</p>\n",
 			"date_published": "2018-04-03T16:42:41-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/03/i-relistened-to.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/03/did-you-know.html",
-	      	
-			"content_html": "<p>Did you know you can filter Excel spreadsheet columns by <em>color</em>? <a href=\"https://support.office.com/en-us/article/filter-data-in-a-range-or-table-01832226-31b5-4568-8806-38c37dcc180e\">You sure can</a>! It came in handy today.</p>\n",
-			"date_published": "2018-04-03T15:00:58-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/03/did-you-know.html"
 		}
 		
 	]
