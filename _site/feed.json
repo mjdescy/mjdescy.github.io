@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/04/23/airpods-batteries-drain.html",
+	      	
+			"title": "AirPods batteries drain much faster on phone calls",
+			
+			"content_html": "<p>I thought my AirPods batteries were already aging out of their useful life span, due to quick draining on numerous hour long phone calls today and last week. It turns out, talk time is only “up to 2 hours”, while listening time (my main use case) is 2 1/2 times that.</p>\n\n<p><a href=\"https://www.apple.com/shop/product/mmef2am/a/airpods\">Per Apple</a>:</p>\n\n<blockquote>\n  <p>AirPods (single charge): Up to 5 hours listening time,(2) Up to 2 hours talk time(5)</p>\n</blockquote>\n\n<p>So…phew! I’m more worried about having to replace them after less than two years due to a battery issue than about shorter battery life on calls.</p>\n",
+			"date_published": "2018-04-23T10:56:09-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/23/airpods-batteries-drain.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/22/i-had-a.html",
 	      	
 			"content_html": "<p>🎧 I had a lot of fun testing out the V-Moda Crossfade 2 headphones last night. <a href=\"https://www.amazon.com/gp/aw/review/B06XX2TJSD/R1ZK34Q1MXP0I8?ref_=glimp_1rv_cl\">My review is on Amazon</a>.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/b50778f79d.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -197,14 +207,6 @@
 			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.11.2</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. No new features this time, but the code has been updated to Swift 4.1.</p>\n",
 			"date_published": "2018-04-09T09:28:09-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/09/132809.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/08/today-is-a.html",
-	      	
-			"content_html": "<p>Today is a rebuilding day after 2 days in NYC. The city is fun but we are all happy to be back at home.</p>\n",
-			"date_published": "2018-04-08T12:04:39-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/08/today-is-a.html"
 		}
 		
 	]
