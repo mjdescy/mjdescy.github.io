@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Mon, 23 Apr 2018 10:56:11 -0400</pubDate>
-    <lastBuildDate>Mon, 23 Apr 2018 10:56:11 -0400</lastBuildDate>
+    <pubDate>Tue, 24 Apr 2018 14:30:24 -0400</pubDate>
+    <lastBuildDate>Tue, 24 Apr 2018 14:30:24 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I got to be reminded today just how long VBA takes to run when used inside SQL Queries in Microsoft Access. I wish I could always use SQL Server, which is faster and better in every respect, but in my Company’s distributed environment, it’s always Access.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Apr 2018 14:30:21 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/04/24/i-got-to.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/04/24/i-got-to.html</guid>
+      </item>
     
       <item>
       	
@@ -476,17 +485,6 @@
         <pubDate>Wed, 21 Mar 2018 10:19:58 -0400</pubDate>
         <link>https://mjdescy.micro.blog/2018/03/21/the-main-reason.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/03/21/the-main-reason.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>🎬 Rewatching “The Last Jedi”</title>
-        
-        <description>&lt;p&gt;I am enjoying “The Last Jedi” a lot more on the second viewing. I didn’t like it when I first saw it in the theatre, for a dozen different reasons. But now I get it in a way I hadn’t. Some things I thought were annoying, like Po’s actions, were &lt;em&gt;supposed&lt;/em&gt; to be. The whole movie is about learning from failure, and is well structured around that theme.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 20 Mar 2018 00:26:56 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/03/20/rewatching-the-last.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/03/20/rewatching-the-last.html</guid>
       </item>
     
   </channel>
