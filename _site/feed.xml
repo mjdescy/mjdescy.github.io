@@ -4,8 +4,29 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Thu, 26 Apr 2018 10:52:06 -0400</pubDate>
-    <lastBuildDate>Thu, 26 Apr 2018 10:52:06 -0400</lastBuildDate>
+    <pubDate>Thu, 26 Apr 2018 13:42:24 -0400</pubDate>
+    <lastBuildDate>Thu, 26 Apr 2018 13:42:24 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <title>Mac apps are harder than iOS apps</title>
+        
+        <description>&lt;p&gt;I agree with Matt Ronge’s article “&lt;a href=&quot;https://medium.com/astro-hq/mac-apps-are-harder-than-ios-apps-614338e2e470&quot;&gt;Mac apps are harder than iOS apps&lt;/a&gt;”.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I was surprised when a recent project brought me back to the Mac and I discovered how finicky Cocoa really is. I was particularly shocked because I always remembered Cocoa as a particularly nice set of APIs.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In my experience, a &lt;em&gt;big&lt;/em&gt; problem that Mr. Ronge does not mention is that there is very little information available online to help a macOS developer work through anything but the most basic situations. Sure, you can find some tutorials on &lt;a href=&quot;https://www.raywenderlich.com/category/macos&quot;&gt;raywenderlich.com&lt;/a&gt; or &lt;a href=&quot;https://www.youtube.com/channel/UCDg-YmnNehm3KB0BpytkUJg&quot;&gt;YouTube&lt;/a&gt;, but once you go beyond the basics, good information is hard to find.&lt;/p&gt;
+
+&lt;p&gt;If you search for “How do I do X? on iOS” you will likely find dozens or hundreds of hits, including numerous tutorials, open source libraries, and Stack Overflow questions. Conversely, you will be lucky to find one or two resources for the query “How do I do X? on macOS” (or OS X).&lt;/p&gt;
+
+&lt;p&gt;It is understandable, because iOS is such a huge platform, but it is also quite frustrating, at least to a solo developer like me. If Apple creates &lt;a href=&quot;https://www.bloomberg.com/news/articles/2017-12-20/apple-is-said-to-have-plan-to-combine-iphone-ipad-and-mac-apps&quot;&gt;a new framework&lt;/a&gt; or shim layer to let us use iOS frameworks on macOS, I think it would make making Mac apps a lot easier for predominantly iOS-oriented developers like me..&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Apr 2018 13:42:22 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/04/26/mac-apps-are.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/04/26/mac-apps-are.html</guid>
+      </item>
     
       <item>
       	
@@ -494,15 +515,6 @@
         <pubDate>Sat, 24 Mar 2018 22:28:04 -0400</pubDate>
         <link>https://mjdescy.micro.blog/2018/03/24/im-not-so.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/03/25/im-not-so.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;🎭 Last night my wife and I saw “Motown: The Musical”. We enjoyed it but thought it was too sanitized and limited in viewpoint to be interesting. I would have liked to hear more (any?) complete songs. The music is fantastic, of course. We’ll be listening to those records today.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 24 Mar 2018 10:02:39 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/03/24/last-night-my.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/03/24/last-night-my.html</guid>
       </item>
     
   </channel>
