@@ -6,7 +6,7 @@ audio:
 date: 2018-04-18 21:54:47 -0400
 guid: http://mjdescy.micro.blog/2018/04/19/git-tower-vs.html
 ---
-I am enjoying using [Tower](https://www.git-tower.com/mac/) over Atlassian SourceTree. [SourceTree](https://www.sourcetreeapp.com) has many, many features, and is free to use, but it has some puzzling bugs that never seem to get fixed. For example, it never deletes branches via Git Flow, not matter how many times I try to reconfigure it.
+I am enjoying using [Tower](https://www.git-tower.com/mac/) over Atlassian SourceTree. [SourceTree](https://www.sourcetreeapp.com) has many, many features, and is free to use, but it has some puzzling bugs that never seem to get fixed. For example, it never deletes branches via Git Flow, no matter how many times I try to reconfigure it.
 
 Tower is faster, works better, and has a clean UI that fits in on the Mac very well. When I emailed Tower support about something, they responded almost instantly. That sold it for me. When the Tower 3 beta expires, I will be purchasing a license.
 
