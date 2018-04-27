@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Fri, 27 Apr 2018 17:04:01 -0400</pubDate>
-    <lastBuildDate>Fri, 27 Apr 2018 17:04:01 -0400</lastBuildDate>
+    <pubDate>Fri, 27 Apr 2018 19:02:31 -0400</pubDate>
+    <lastBuildDate>Fri, 27 Apr 2018 19:02:31 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;🎬 &lt;a href=&quot;https://m.imdb.com/title/tt7451284/&quot;&gt;Batman Ninja&lt;/a&gt; is easily one of the weirdest movies I have seen—and that includes actual anime. I am still a bit puzzled why I watched it. I guess I’m a sucker for Batman and for animation.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Apr 2018 19:02:29 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/04/27/batman-ninjahttpsmimdbcomtitlett-is.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/04/27/batman-ninjahttpsmimdbcomtitlett-is.html</guid>
+      </item>
     
       <item>
       	
@@ -528,15 +537,6 @@
         <pubDate>Tue, 27 Mar 2018 22:31:12 -0400</pubDate>
         <link>https://mjdescy.micro.blog/2018/03/27/i-just-signed.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/03/28/i-just-signed.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I am fixing more bugs in my iOS app this week. The bugs are mostly related to navigating a table view via the keyboard. It worked better under the iOS 10 SDK. It’s pretty clear that Apple cares very little about &lt;em&gt;full&lt;/em&gt; hardware keyboard support on iOS. It &lt;em&gt;can be&lt;/em&gt; awesome, though.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 27 Mar 2018 22:23:38 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/03/27/i-am-fixing.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/03/28/i-am-fixing.html</guid>
       </item>
     
   </channel>
