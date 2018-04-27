@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/04/27/how-we-got.html",
+	      	
+			"title": "📚 How We Got To Now",
+			
+			"content_html": "<p>I recently finished reading Steen Johnson’s <a href=\"https://www.nytimes.com/2014/12/28/books/review/how-we-got-to-now-by-steven-johnson.html\">How We Got to Now: Six Innovations That Made the Modern World</a>. It was a breezy and pleasurable read, full of interesting information. Johnson’s writing is clear, concise, and engaging throughout.</p>\n\n<p>As a huge nerd who spent a lot of time in childhood perusing a science and technology encyclopedia, and a lot of time in my teens watching tech-related documentaries on Discovery and TLC (before those networks drifted to reality TV), I already knew a lot of the material. Still, it’s a wonderful read to anyone who loves the “history of ideas course” way of looking at disparate, seemingly unrelated things in everyday life, and drawing a through line that connects them all. Plus I learned new phrases that describe these unintended and intended technological and cultural developments—“hummingbird effects” and “the adjacent possible”—that I particularly like.</p>\n",
+			"date_published": "2018-04-27T17:03:58-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/27/how-we-got.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/27/finland-has-second.html",
 	      	
 			"title": "Finland Has Second Thoughts About Giving Free Money to Jobless People",
@@ -207,14 +217,6 @@
 			"content_html": "<p>I deactivated by Facebook account today. I can’t muster up the gumption to delete it, and don’t know why. But it’s a start.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/5e23a06a8b.jpg\" width=\"600\" height=\"203\" /></p>\n",
 			"date_published": "2018-04-12T16:10:03-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/12/i-deactivated-by.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/12/132245.html",
-	      	
-			"content_html": "<p>I’m trying to catch up to current Red Sox games on MLB At Bat. I’m still a few days behind. It’s a losing battle every baseball season, because the games are so long.</p>\n",
-			"date_published": "2018-04-12T09:22:45-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/12/132245.html"
 		}
 		
 	]
