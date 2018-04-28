@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Fri, 27 Apr 2018 21:35:41 -0400</pubDate>
-    <lastBuildDate>Fri, 27 Apr 2018 21:35:41 -0400</lastBuildDate>
+    <pubDate>Fri, 27 Apr 2018 23:05:14 -0400</pubDate>
+    <lastBuildDate>Fri, 27 Apr 2018 23:05:14 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Blog post: &lt;a href=&quot;https://mjdescy.me/2018/04/28/swiftodo-development-notes-april-2018/&quot;&gt;SwiftoDo Development Notes, April 2018&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Apr 2018 23:05:06 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/04/27/030506.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/04/28/030506.html</guid>
+      </item>
     
       <item>
       	
@@ -544,15 +553,6 @@
         <pubDate>Thu, 29 Mar 2018 14:18:13 -0400</pubDate>
         <link>https://mjdescy.micro.blog/2018/03/29/its-a-big.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/03/29/its-a-big.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;There’s nothing quite like learning new T-SQL commands. I’m learning more about window functions, such as &lt;a href=&quot;https://docs.microsoft.com/en-us/sql/t-sql/functions/last-value-transact-sql&quot;&gt;LAST VALUE&lt;/a&gt; today. The reason? Messed up data that we are dealing with.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 29 Mar 2018 10:09:32 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/03/29/theres-nothing-quite.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/03/29/theres-nothing-quite.html</guid>
       </item>
     
   </channel>
