@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/04/28/030506.html",
+	      	
+			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/04/28/swiftodo-development-notes-april-2018/\">SwiftoDo Development Notes, April 2018</a></p>\n",
+			"date_published": "2018-04-27T23:05:06-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/27/030506.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/28/i-miss-caesar.html",
 	      	
 			"title": "I miss Caesar salad",
@@ -211,14 +219,6 @@
 			"content_html": "<p>I am grateful that the grounds crew I hired cleaned up my yard today. The constant noise from their machines is really driving me nuts, though. They are at a house across the street now, so it has been seven hours of power tool noise for me today.</p>\n",
 			"date_published": "2018-04-13T15:07:08-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/13/i-am-grateful.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/13/i-must-be.html",
-	      	
-			"content_html": "<p>I must be perverse or something, but one of my favorite apps on iOS is Apple’s Mail app. I tried several alternatives over the years, but Mail caught up to what I need from an email client a few years ago. I like how clean and simple it is, and rely on its unified inbox feature.</p>\n",
-			"date_published": "2018-04-13T09:26:11-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/13/i-must-be.html"
 		}
 		
 	]
