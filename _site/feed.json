@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/04/29/i-started-using.html",
+	      	
+			"content_html": "<p>I started using the Activity Digital face today. I never liked it before, but I’m trying to exercise more and it has been useful.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/99a8238f7f.jpg\" width=\"312\" height=\"313\" /></p>\n",
+			"date_published": "2018-04-28T23:44:27-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/28/i-started-using.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/28/030506.html",
 	      	
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/04/28/swiftodo-development-notes-april-2018/\">SwiftoDo Development Notes, April 2018</a></p>\n",
@@ -211,14 +219,6 @@
 			"content_html": "<p>📚 At long last, I have finished reading <em><a href=\"https://en.m.wikipedia.org/wiki/Team_of_Rivals\">Team of Rivals</a></em> by Doris Kearns Goodwin. It (the last chapter and epilogue especially) has overwhelmed me with a sense of love and sadness, which is why it took me so long to read their whole thing. The book is a monumental achievement.</p>\n",
 			"date_published": "2018-04-15T14:38:48-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/15/at-long-last.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/13/i-am-grateful.html",
-	      	
-			"content_html": "<p>I am grateful that the grounds crew I hired cleaned up my yard today. The constant noise from their machines is really driving me nuts, though. They are at a house across the street now, so it has been seven hours of power tool noise for me today.</p>\n",
-			"date_published": "2018-04-13T15:07:08-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/13/i-am-grateful.html"
 		}
 		
 	]
