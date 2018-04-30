@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/04/30/031528.html",
+	      	
+			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/04/30/my-slide-into-audiophile-territory-part-3/\">My slide into audiophile territory, Part 3</a></p>\n",
+			"date_published": "2018-04-29T23:15:28-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/29/031528.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/30/om-maliks-shinola.html",
 	      	
 			"title": "Om Malik's Shinola Canfield headphone review",
@@ -213,14 +221,6 @@
 			"content_html": "<p>This <a href=\"https://www.beoplay.com/en/landingpages/beoplaym3#introducing\">BeoPlay M3</a> speaker is a better fit in my kitchen than two feet away from me at my office desk. We got a lot of use out of it yesterday, Airplaying from iPhones and our Apple TV. It sounds better when played more loudly, in a larger room.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/06393dee79.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-04-16T10:56:01-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/16/145601.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/15/im-feeling-pumped.html",
-	      	
-			"content_html": "<p>I’m feeling pumped for work tomorrow, which is…12 hours too early. 🤷‍♂️</p>\n",
-			"date_published": "2018-04-15T19:34:57-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/15/im-feeling-pumped.html"
 		}
 		
 	]
