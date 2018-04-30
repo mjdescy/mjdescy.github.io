@@ -12,6 +12,6 @@ guid: http://mjdescy.micro.blog/2018/04/30/introducing-the-new.html
 
 I am a daily crossword puzzle player. I enjoy them, though I am not terribly good at them, because I love word games and have read that crosswords help keep your mind sharp into old age.
 
-The New Yorker puzzle is a _tiny_ bit more challenging than I would like (as I said, I’m not a strong player), but I’m happy there’s another source of crossword puzzles (beyond the New York Times, which I also subscribe to) coming may way.
+The New Yorker puzzle is a _tiny_ bit more challenging than I would like (as I said, I’m not a strong player), but I’m happy there’s another source of crossword puzzles (beyond the New York Times, which I also subscribe to) coming my way.
 
 I hope they will someday move it into their iOS app. The scrolling behavior, which affects the on-page keyboard, is annoying on mobile.
