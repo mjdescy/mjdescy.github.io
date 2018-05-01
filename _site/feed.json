@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/01/the-best-part.html",
+	      	
+			"content_html": "<p>The best part of working from home is the ability to take a nice walk after lunch. Spring weather was finally here at lunchtime, and I thoroughly enjoyed it. Summer temperatures will follow by dinner time and last for the foreseeable future. So, that was spring!</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/0efce021cd.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-05-01T14:27:03-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/01/the-best-part.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/01/i-quit-my.html",
 	      	
 			"title": "I quit my iPhone for a basic Nokia and it was hard but worth it",
@@ -217,16 +225,6 @@
 			"content_html": "<p>I am coding VBA and ripping CDs like it’s the year 2000 today.</p>\n",
 			"date_published": "2018-04-19T11:38:06-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/19/i-am-coding.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/19/git-tower-vs.html",
-	      	
-			"title": "Git Tower vs. Atlassian SourceTree",
-			
-			"content_html": "<p>I am enjoying using <a href=\"https://www.git-tower.com/mac/\">Tower</a> over Atlassian SourceTree. <a href=\"https://www.sourcetreeapp.com\">SourceTree</a> has many, many features, and is free to use, but it has some puzzling bugs that never seem to get fixed. For example, it never deletes branches via Git Flow, no matter how many times I try to reconfigure it.</p>\n\n<p>Tower is faster, works better, and has a clean UI that fits in on the Mac very well. When I emailed Tower support about something, they responded almost instantly. That sold it for me. When the Tower 3 beta expires, I will be purchasing a license.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/108abb4d9a.jpg\" width=\"600\" height=\"339\" /></p>\n",
-			"date_published": "2018-04-18T21:54:47-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/18/git-tower-vs.html"
 		}
 		
 	]
