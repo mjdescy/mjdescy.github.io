@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/01/blog-post-premature.html",
+	      	
+			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/04/30/premature-optimization/\">Premature Optimization</a></p>\n",
+			"date_published": "2018-04-30T23:15:43-04:00",
+			"url": "https://mjdescy.micro.blog/2018/04/30/blog-post-premature.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/04/30/introducing-the-new.html",
 	      	
 			"title": "Introducing The New Yorker Crossword Puzzle",
@@ -217,14 +225,6 @@
 			"content_html": "<p>Coding on my late 2013 15” MacBook Pro while watching MLB.TV at 60 FPS on the biggest TV in the house is a quite relaxing combo.</p>\n",
 			"date_published": "2018-04-17T23:23:14-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/17/coding-on-my.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/17/taking-a-trip.html",
-	      	
-			"content_html": "<p>🎵 Taking a trip down memory lane with Guster’s <a href=\"https://itunes.apple.com/us/album/keep-it-together/1586602\">Keep It Together</a> this evening, on my MacBook Pro and Oppo PM-3’s 🎧. Their records are cleanly produced, tightly written, and tastefully played. When I saw them <em>live</em>, though, they absolutely shredded their way through their songs. They were freaking amazing.</p>\n",
-			"date_published": "2018-04-16T22:22:09-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/16/taking-a-trip.html"
 		}
 		
 	]
