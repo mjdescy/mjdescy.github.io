@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/02/two-of-the.html",
+	      	
+			"title": "Two of the best platformers I've played on iOS are getting their due today from Apple",
+			
+			"content_html": "<p>Today, Apple’s US App Store is highlighting two great games that are among the best on the platform:</p>\n\n<ul>\n  <li><a href=\"https://itunes.apple.com/us/story/id1356375657\">Game of the Day: Goblin Sword</a>. Goblin Sword plays like a AAA title from the 16-bit days, and has great play control, difficulty, and variety. It’s fantastic.</li>\n  <li><a href=\"https://itunes.apple.com/us/story/id1369365671\">Games Are Art: The Beauty of Oddmar</a>. I learned about Oddmar from someone else on micro.blog, and have only played through a handful of levels. The play controls are unique and well suited for the iPhone, and the graphics and sound are amazing. It’s a fun and funny game.</li>\n</ul>\n",
+			"date_published": "2018-05-02T14:07:59-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/02/two-of-the.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/02/remote-login-inception.html",
 	      	
 			"title": "Remote login Inception",
@@ -223,14 +233,6 @@
 			"content_html": "<p>I thought my AirPods batteries were already aging out of their useful life span, due to quick draining on numerous hour long phone calls today and last week. It turns out, talk time is only “up to 2 hours”, while listening time (my main use case) is 2 1/2 times that.</p>\n\n<p><a href=\"https://www.apple.com/shop/product/mmef2am/a/airpods\">Per Apple</a>:</p>\n\n<blockquote>\n  <p>AirPods (single charge): Up to 5 hours listening time,(2) Up to 2 hours talk time(5)</p>\n</blockquote>\n\n<p>So…phew! I’m more worried about having to replace them after less than two years due to a battery issue than about shorter battery life on calls.</p>\n",
 			"date_published": "2018-04-23T10:56:09-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/23/airpods-batteries-drain.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/22/i-had-a.html",
-	      	
-			"content_html": "<p>🎧 I had a lot of fun testing out the V-Moda Crossfade 2 headphones last night. <a href=\"https://www.amazon.com/gp/aw/review/B06XX2TJSD/R1ZK34Q1MXP0I8?ref_=glimp_1rv_cl\">My review is on Amazon</a>.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/b50778f79d.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-22T08:58:21-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/22/i-had-a.html"
 		}
 		
 	]
