@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/02/i-didnt-know.html",
+	      	
+			"content_html": "<p>I didn’t know about this action to post <em>directly</em> from Drafts 5 to micro.blog, with or without a title, until today. It’s a game-changer for me.</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>[Post to Micro.blog (with Title)</td>\n      <td>Drafts Action Directory](https://actions.getdrafts.com/a/1Hg)</td>\n    </tr>\n  </tbody>\n</table>\n",
+			"date_published": "2018-05-02T16:50:02-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/02/i-didnt-know.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/02/two-of-the.html",
 	      	
 			"title": "Two of the best platformers I've played on iOS are getting their due today from Apple",
@@ -223,16 +231,6 @@
 			"content_html": "<p>I got to be reminded today just how long VBA takes to run when used inside SQL Queries in Microsoft Access. I wish I could always use SQL Server, which is faster and better in every respect, but in my Company’s distributed environment, it’s always Access.</p>\n",
 			"date_published": "2018-04-24T14:30:21-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/24/i-got-to.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/23/airpods-batteries-drain.html",
-	      	
-			"title": "AirPods batteries drain much faster on phone calls",
-			
-			"content_html": "<p>I thought my AirPods batteries were already aging out of their useful life span, due to quick draining on numerous hour long phone calls today and last week. It turns out, talk time is only “up to 2 hours”, while listening time (my main use case) is 2 1/2 times that.</p>\n\n<p><a href=\"https://www.apple.com/shop/product/mmef2am/a/airpods\">Per Apple</a>:</p>\n\n<blockquote>\n  <p>AirPods (single charge): Up to 5 hours listening time,(2) Up to 2 hours talk time(5)</p>\n</blockquote>\n\n<p>So…phew! I’m more worried about having to replace them after less than two years due to a battery issue than about shorter battery life on calls.</p>\n",
-			"date_published": "2018-04-23T10:56:09-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/23/airpods-batteries-drain.html"
 		}
 		
 	]
