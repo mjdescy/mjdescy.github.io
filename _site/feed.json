@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/02/remote-login-inception.html",
+	      	
+			"title": "Remote login Inception",
+			
+			"content_html": "<p>At work, our clients are far more interested in information security than they used to be. That’s great, and I applaud them for it. Of course, as a user of their systems, there is a trade-off in terms of convenience.</p>\n\n<p>Lately, logging into remote systems seems like entering a-dream-within-a-dream-within-a-dream—a la <em><a href=\"https://www.imdb.com/title/tt1375666/\">Inception</a></em>. Instead of merely using Remote Desktop to log into systems with a single username/password, we now follow in-depth login procedures using virtualization software, RSA tokens that generate unique, one-time passwords, Remote Desktop logins, and systems logins.</p>\n",
+			"date_published": "2018-05-02T11:26:56-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/02/remote-login-inception.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/02/who-cares-about.html",
 	      	
 			"title": "Who cares about Apple earnings reports?",
@@ -221,14 +231,6 @@
 			"content_html": "<p>🎧 I had a lot of fun testing out the V-Moda Crossfade 2 headphones last night. <a href=\"https://www.amazon.com/gp/aw/review/B06XX2TJSD/R1ZK34Q1MXP0I8?ref_=glimp_1rv_cl\">My review is on Amazon</a>.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/b50778f79d.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-04-22T08:58:21-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/22/i-had-a.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/20/im-eagerly-awaiting.html",
-	      	
-			"content_html": "<p>I’m eagerly awaiting my new <a href=\"https://v-moda.com/products/crossfade2-wireless\">V-Moda Crossfade 2</a>’s to be shipped. I want something that folds up, is durable, and sounds really good. I plan to drive them wired for serious music listening, and wireless for podcasts.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/5a37ea34be.jpg\" width=\"300\" height=\"300\" /></p>\n",
-			"date_published": "2018-04-20T09:55:35-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/20/im-eagerly-awaiting.html"
 		}
 		
 	]
