@@ -4,8 +4,21 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Tue, 01 May 2018 22:59:12 -0400</pubDate>
-    <lastBuildDate>Tue, 01 May 2018 22:59:12 -0400</lastBuildDate>
+    <pubDate>Wed, 02 May 2018 11:26:57 -0400</pubDate>
+    <lastBuildDate>Wed, 02 May 2018 11:26:57 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <title>Remote login Inception</title>
+        
+        <description>&lt;p&gt;At work, our clients are far more interested in information security than they used to be. That’s great, and I applaud them for it. Of course, as a user of their systems, there is a trade-off in terms of convenience.&lt;/p&gt;
+
+&lt;p&gt;Lately, logging into remote systems seems like entering a-dream-within-a-dream-within-a-dream—a la &lt;em&gt;&lt;a href=&quot;https://www.imdb.com/title/tt1375666/&quot;&gt;Inception&lt;/a&gt;&lt;/em&gt;. Instead of merely using Remote Desktop to log into systems with a single username/password, we now follow in-depth login procedures using virtualization software, RSA tokens that generate unique, one-time passwords, Remote Desktop logins, and systems logins.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 May 2018 11:26:56 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/05/02/remote-login-inception.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/02/remote-login-inception.html</guid>
+      </item>
     
       <item>
       	
@@ -602,15 +615,6 @@
         <pubDate>Wed, 04 Apr 2018 18:54:06 -0400</pubDate>
         <link>https://mjdescy.micro.blog/2018/04/04/225406.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/04/04/225406.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;It may be too soon to tell, but I’m afraid &lt;a href=&quot;https://itunes.apple.com/us/app/digby-forever/id1143705385?mt=8&quot;&gt;Digby Forever&lt;/a&gt; has ruined my life.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 03 Apr 2018 20:27:38 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/04/03/it-may-be.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/04/04/it-may-be.html</guid>
       </item>
     
   </channel>
