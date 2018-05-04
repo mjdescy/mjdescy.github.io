@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/04/groundhog-day-the.html",
+	      	
+			"title": "🎵 Groundhog Day the Musical",
+			
+			"content_html": "<p><em><a href=\"https://itunes.apple.com/us/album/groundhog-day-musical-original-broadway-cast-recording/1215389487\">Groundhog Day</a></em> is my second favorite Broadway musical of last year (closely behind “Dear Evan Hansen”, which has more plot-related problems but really terrific music), and the only one I saw. I revisit the cast album from time to time, because it is terrific, and multiple listens reveal hidden depth in the earthy lyrics.</p>\n\n<p><a href=\"https://www.broadwayworld.com/article/BWW-CD-Review-GROUNDHOG-DAY-THE-MUSICAL-Original-Broadway-Cast-Recording-is-Charmingly-Animated-20170516\">Broadway World’s review of the cast album</a> is remarkably spot on.</p>\n\n<blockquote>\n  <p>On first listen, Minchin’s melodies are captivating. They are undeniably more poppy than his dark, moody, and undulating score for MATILDA; however, it’s obvious that he has written each of these compositions with the same consideration and care that he did with MATILDA. Despite the more simplistic sounding and pop aural soundscape, the melodies are intricately layered showing an artistry and skill that is not apparent in one listening.</p>\n</blockquote>\n\n<p>I hope Tim Minchin keeps writing musicals. His music and lyrics for his prior show, <em>Matilda</em>, are a masterpiece. (Listen to the London cast recording over the Broadway one if you can; it is a <em>far</em> better performance, though it is missing some of Matilda’s monologues.) “Groundhog Day” doesn’t quite rank as a masterpiece in my book, but it is really, really good.</p>\n\n",
+			"date_published": "2018-05-04T19:35:30-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/04/groundhog-day-the.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/04/listening-to-podcasts.html",
 	      	
 			"title": "Listening to Podcasts without Voice Boost",
@@ -225,16 +235,6 @@
 			"content_html": "<p>I agree with Matt Ronge’s article “<a href=\"https://medium.com/astro-hq/mac-apps-are-harder-than-ios-apps-614338e2e470\">Mac apps are harder than iOS apps</a>”.</p>\n\n<blockquote>\n  <p>I was surprised when a recent project brought me back to the Mac and I discovered how finicky Cocoa really is. I was particularly shocked because I always remembered Cocoa as a particularly nice set of APIs.</p>\n</blockquote>\n\n<p>In my experience, a <em>big</em> problem that Mr. Ronge does not mention is that there is very little information available online to help a macOS developer work through anything but the most basic situations. Sure, you can find some tutorials on <a href=\"https://www.raywenderlich.com/category/macos\">raywenderlich.com</a> or <a href=\"https://www.youtube.com/channel/UCDg-YmnNehm3KB0BpytkUJg\">YouTube</a>, but once you go beyond the basics, good information is hard to find.</p>\n\n<p>If you search for “How do I do X? on iOS” you will likely find dozens or hundreds of hits, including numerous tutorials, open source libraries, and Stack Overflow questions. Conversely, you will be lucky to find one or two resources for the query “How do I do X? on macOS” (or OS X).</p>\n\n<p>It is understandable, because iOS is such a huge platform, but it is also quite frustrating, at least to a solo developer like me. If Apple creates <a href=\"https://www.bloomberg.com/news/articles/2017-12-20/apple-is-said-to-have-plan-to-combine-iphone-ipad-and-mac-apps\">a new framework</a> or shim layer to let us use iOS frameworks on macOS, I think it would make making Mac apps a lot easier for predominantly iOS-oriented developers like me..</p>\n",
 			"date_published": "2018-04-26T13:42:22-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/26/mac-apps-are.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/26/blocker-x.html",
-	      	
-			"title": "1Blocker X",
-			
-			"content_html": "<p>I picked up <a href=\"https://1blocker.com/\">1Blocker X</a> based on <a href=\"https://www.macstories.net/reviews/1blocker-x-for-ios-review/\">this review from John Voorhies on MacStores</a>.</p>\n\n<blockquote>\n  <p>The first thing you will notice when you set up 1Blocker X on an iOS device is its 7 toggles in Safari’s Content Blocker section of the Settings app. It’s a bit of a head-scratcher at first until you realize that this is what allows 1Blocker X to expand beyond the confines of its predecessor.</p>\n\n  <p>You see, iOS limits the number of blocking rules that can be implemented by an app to 50,000. That’s a lot of rules, but sadly not enough given the amount of junk on the Internet these days. As a result, it’s a limit that 1Blocker began to run into not long after it launched in 2015.</p>\n\n  <p>Finding a way around that hard limit required a rewrite of 1Blocker from the ground up. The result is 1Blocker X, an app with around three times as many blocking rules, room to grow, and enhanced flexibility for applying those rules.</p>\n</blockquote>\n\n<p>I don’t think I really needed to replace the content blocker I had been using, but it hadn’t been updated in a really long time, so I’m not sure it’s blocking rules are up-to-date.</p>\n\n<p>Much of the work these things do is invisilble. It’s easy to see if ads are blocked, of course, but not so with trackers and malware, which I care more about. At home I <em>also</em> block ads at the DNS level using <a href=\"https://pi-hole.net/\">Pi-hole</a>, running on an old Raspberry Pi. I heartily recommend setting up a Pi-hole (it’s easy; there are tutorials to follow). I miss having it when I’m out of the house, which is why a content blocker is helpful, too.</p>\n\n<p>So far, 1Blocker X has been working just fine. I’ve noticed no decrease in speed from Safari, despite the crazy amount of blocking rules I have enabled.</p>\n",
-			"date_published": "2018-04-26T10:52:04-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/26/blocker-x.html"
 		}
 		
 	]
