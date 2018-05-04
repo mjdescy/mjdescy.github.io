@@ -4,8 +4,29 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Thu, 03 May 2018 20:59:34 -0400</pubDate>
-    <lastBuildDate>Thu, 03 May 2018 20:59:34 -0400</lastBuildDate>
+    <pubDate>Thu, 03 May 2018 23:40:18 -0400</pubDate>
+    <lastBuildDate>Thu, 03 May 2018 23:40:18 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <title>The 2017 Panic Report</title>
+        
+        <description>&lt;p&gt;The annual &lt;a href=&quot;https://panic.com/blog/the-2017-panic-report/&quot;&gt;Panic Report&lt;/a&gt; is always worth a read. I use a lot of their apps, and have long considered them an app studio so talented that I will buy whatever they make, so long as I can sometimes use it. They are refreshingly open and honest about their business, too. Their annual reports are especially eye opening if you are a developer and are curious about the business aspects of the App Store.&lt;/p&gt;
+
+&lt;p&gt;I thought this part, toward the end, was kind of funny.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;⑨ I’m using Transmit 5 as my primary interface to Dropbox. Am I a bad person? —Kyle&lt;/p&gt;
+
+  &lt;p&gt;Absolutely not. This is so potentially powerful, we even made a video about it!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I don’t install Dropbox on my Mac anymore. Instead, I now use iCloud Drive for cross-device sync. I use Transmit 5 to get to Dropbox, the few times I need it. It seems weird to do so at first, but it is much lighter on resources, if you don’t need file sync.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 May 2018 23:40:14 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/05/03/the-panic-report.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/04/the-panic-report.html</guid>
+      </item>
     
       <item>
       	
@@ -620,15 +641,6 @@
         <pubDate>Mon, 09 Apr 2018 16:42:27 -0400</pubDate>
         <link>https://mjdescy.micro.blog/2018/04/09/im-really-digging.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/04/09/im-really-digging.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’m getting back in the swing of things at work now. I’m in the groove. Here’s to a productive week.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 Apr 2018 14:07:57 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/04/09/im-getting-back.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/04/09/im-getting-back.html</guid>
       </item>
     
   </channel>
