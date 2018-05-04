@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/04/listening-to-podcasts.html",
+	      	
+			"title": "Listening to Podcasts without Voice Boost",
+			
+			"content_html": "<p>I am <em>so</em> accustomed to listening to Podcasts with <a href=\"https://overcast.fm\">Overcast</a>’s “Voice Boost” feature that, when I turn it off (as I’m doing today, because my Bluetooth headphones are too loud) my podcasts sound flat and lifeless.</p>\n\n<p>I wonder, though, why more podcast producers don’t run their episodes through dynamic compression and EQ filters (“Voice Boost”) prior to publishing. For that matter, why don’t they “shorten silences” on their end, too? That way, everyone could benefit from better audio quality and a shorter runtime. I suspect that some of big, radio-show-based podcasts do, but it’s obvious that most other podcasts don’t.</p>\n",
+			"date_published": "2018-05-04T09:14:54-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/04/listening-to-podcasts.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/04/the-panic-report.html",
 	      	
 			"title": "The 2017 Panic Report",
@@ -225,14 +235,6 @@
 			"content_html": "<p>I picked up <a href=\"https://1blocker.com/\">1Blocker X</a> based on <a href=\"https://www.macstories.net/reviews/1blocker-x-for-ios-review/\">this review from John Voorhies on MacStores</a>.</p>\n\n<blockquote>\n  <p>The first thing you will notice when you set up 1Blocker X on an iOS device is its 7 toggles in Safari’s Content Blocker section of the Settings app. It’s a bit of a head-scratcher at first until you realize that this is what allows 1Blocker X to expand beyond the confines of its predecessor.</p>\n\n  <p>You see, iOS limits the number of blocking rules that can be implemented by an app to 50,000. That’s a lot of rules, but sadly not enough given the amount of junk on the Internet these days. As a result, it’s a limit that 1Blocker began to run into not long after it launched in 2015.</p>\n\n  <p>Finding a way around that hard limit required a rewrite of 1Blocker from the ground up. The result is 1Blocker X, an app with around three times as many blocking rules, room to grow, and enhanced flexibility for applying those rules.</p>\n</blockquote>\n\n<p>I don’t think I really needed to replace the content blocker I had been using, but it hadn’t been updated in a really long time, so I’m not sure it’s blocking rules are up-to-date.</p>\n\n<p>Much of the work these things do is invisilble. It’s easy to see if ads are blocked, of course, but not so with trackers and malware, which I care more about. At home I <em>also</em> block ads at the DNS level using <a href=\"https://pi-hole.net/\">Pi-hole</a>, running on an old Raspberry Pi. I heartily recommend setting up a Pi-hole (it’s easy; there are tutorials to follow). I miss having it when I’m out of the house, which is why a content blocker is helpful, too.</p>\n\n<p>So far, 1Blocker X has been working just fine. I’ve noticed no decrease in speed from Safari, despite the crazy amount of blocking rules I have enabled.</p>\n",
 			"date_published": "2018-04-26T10:52:04-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/26/blocker-x.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/26/im-doing-a.html",
-	      	
-			"content_html": "<p>I’m doing a type of work I haven’t done in about a year, and am feeling…rusty this morning.</p>\n",
-			"date_published": "2018-04-26T10:05:42-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/26/im-doing-a.html"
 		}
 		
 	]
