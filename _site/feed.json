@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/04/the-panic-report.html",
+	      	
+			"title": "The 2017 Panic Report",
+			
+			"content_html": "<p>The annual <a href=\"https://panic.com/blog/the-2017-panic-report/\">Panic Report</a> is always worth a read. I use a lot of their apps, and have long considered them an app studio so talented that I will buy whatever they make, so long as I can sometimes use it. They are refreshingly open and honest about their business, too. Their annual reports are especially eye opening if you are a developer and are curious about the business aspects of the App Store.</p>\n\n<p>I thought this part, toward the end, was kind of funny.</p>\n\n<blockquote>\n  <p>⑨ I’m using Transmit 5 as my primary interface to Dropbox. Am I a bad person? —Kyle</p>\n\n  <p>Absolutely not. This is so potentially powerful, we even made a video about it!</p>\n</blockquote>\n\n<p>I don’t install Dropbox on my Mac anymore. Instead, I now use iCloud Drive for cross-device sync. I use Transmit 5 to get to Dropbox, the few times I need it. It seems weird to do so at first, but it is much lighter on resources, if you don’t need file sync.</p>\n",
+			"date_published": "2018-05-03T23:40:14-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/03/the-panic-report.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/04/note-to-past.html",
 	      	
 			"content_html": "<p>Note to past self:</p>\n\n<p>Remind me again why you decided to rewrite, yet again, the Dropbox-related code in your app? You know, the code that you may just get rid of completely a few months from now?</p>\n\n<p>Sincerely,\n🤯</p>\n",
@@ -223,14 +233,6 @@
 			"content_html": "<p>I’m doing a type of work I haven’t done in about a year, and am feeling…rusty this morning.</p>\n",
 			"date_published": "2018-04-26T10:05:42-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/26/im-doing-a.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/24/this-is-my.html",
-	      	
-			"content_html": "<p>This is my life now.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/81b387752b.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-04-24T14:52:03-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/24/this-is-my.html"
 		}
 		
 	]
