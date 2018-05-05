@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/05/google-news-is.html",
+	      	
+			"title": "Google News is getting more video",
+			
+			"content_html": "<p><a href=\"https://www.theverge.com/2018/5/4/17320190/google-news-update-video-youtube-amp\">Google News is getting a revamp with more video and faster load times - The Verge</a></p>\n\n<blockquote>\n  <p>Google is giving Google News a redesign that will bring in elements from its Newsstand app and YouTube, according to sources who spoke with AdAge.</p>\n</blockquote>\n\n<p>More video? Gee, no thanks! Maybe I should give Apple News a try again…</p>\n",
+			"date_published": "2018-05-04T20:26:48-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/04/google-news-is.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/04/groundhog-day-the.html",
 	      	
 			"title": "🎵 Groundhog Day the Musical",
@@ -225,16 +235,6 @@
 			"content_html": "<p>I would pay good money to stream “Avengers: Infinity War” to my living room, so I could watch it after my kids go to bed. At home with Bluetooth headphones after 10 PM is basically the only way I can watch blockbusters these days.</p>\n",
 			"date_published": "2018-04-26T19:48:35-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/26/i-would-pay.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/26/mac-apps-are.html",
-	      	
-			"title": "Mac apps are harder than iOS apps",
-			
-			"content_html": "<p>I agree with Matt Ronge’s article “<a href=\"https://medium.com/astro-hq/mac-apps-are-harder-than-ios-apps-614338e2e470\">Mac apps are harder than iOS apps</a>”.</p>\n\n<blockquote>\n  <p>I was surprised when a recent project brought me back to the Mac and I discovered how finicky Cocoa really is. I was particularly shocked because I always remembered Cocoa as a particularly nice set of APIs.</p>\n</blockquote>\n\n<p>In my experience, a <em>big</em> problem that Mr. Ronge does not mention is that there is very little information available online to help a macOS developer work through anything but the most basic situations. Sure, you can find some tutorials on <a href=\"https://www.raywenderlich.com/category/macos\">raywenderlich.com</a> or <a href=\"https://www.youtube.com/channel/UCDg-YmnNehm3KB0BpytkUJg\">YouTube</a>, but once you go beyond the basics, good information is hard to find.</p>\n\n<p>If you search for “How do I do X? on iOS” you will likely find dozens or hundreds of hits, including numerous tutorials, open source libraries, and Stack Overflow questions. Conversely, you will be lucky to find one or two resources for the query “How do I do X? on macOS” (or OS X).</p>\n\n<p>It is understandable, because iOS is such a huge platform, but it is also quite frustrating, at least to a solo developer like me. If Apple creates <a href=\"https://www.bloomberg.com/news/articles/2017-12-20/apple-is-said-to-have-plan-to-combine-iphone-ipad-and-mac-apps\">a new framework</a> or shim layer to let us use iOS frameworks on macOS, I think it would make making Mac apps a lot easier for predominantly iOS-oriented developers like me..</p>\n",
-			"date_published": "2018-04-26T13:42:22-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/26/mac-apps-are.html"
 		}
 		
 	]
