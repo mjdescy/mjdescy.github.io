@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/05/my-th-post.html",
+	      	
+			"title": "My 300th post on Micro.blog",
+			
+			"content_html": "<p>According to my Account page, this is my 300th post on Micro.blog. I thought I would share some stats:</p>\n\n<ul>\n  <li>Micro.blog posts: 300</li>\n  <li>Days on the platform: 136 (joined 2017-12-19)</li>\n  <li>Average posts per day: 2.2</li>\n  <li>How many people I follow: 131</li>\n  <li>How many people follow me: I have no idea, and that is fine</li>\n  <li>How much engagement I get from other users: a pleasingly good amount</li>\n  <li>How much I happily paid Manton for Micro.blog hosting thus far: $30 USD ($5/month, not including the free trial period)</li>\n  <li>How little I could have paid, if I wanted: $0 for a WordPress.com blog or $1/month for an inexpensive WordPress host, plus the free Micro.blog account</li>\n</ul>\n\n<p>Micro.blog has gotten me into blogging again after a long time away from it. I enjoy owning my own content, the focus on <em>writing</em> rather than liking or retweeting, and, most of all, the lack of <em>friction</em> in the platform.  Posting short or long form content is as simple as can be, and I don’t have a WordPress install and/or server to maintain.</p>\n\n<p>I am having fun on the platform and look forward to continuing to do so.</p>\n",
+			"date_published": "2018-05-04T21:17:27-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/04/my-th-post.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/05/google-news-is.html",
 	      	
 			"title": "Google News is getting more video",
@@ -227,14 +237,6 @@
 			"content_html": "<p><a href=\"https://www.washingtonpost.com/business/economy/amazon-doubles-its-profit---and-hikes-prime-membership-by-20/2018/04/26/31f5a14c-489a-11e8-827e-190efaf1f1ee_story.html?utm_term=.ff2227bbf7cb\">Amazon is increasing the price of Prime membership</a>:</p>\n\n<blockquote>\n  <p>Amazon also said it will hike its Prime membership fee 20 percent to $119 a year for new members beginning May 11. Existing members who renew their Prime memberships will have to pay the new rate beginning June 16.</p>\n</blockquote>\n\n<p>Perversely, this news is making me want to buy <em>more</em> from them, to get a better value on shipping. I bet Amazon is expecting that response from some of their most loyal customers.</p>\n",
 			"date_published": "2018-04-26T22:23:08-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/26/amazon-is-increasing.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/26/i-would-pay.html",
-	      	
-			"content_html": "<p>I would pay good money to stream “Avengers: Infinity War” to my living room, so I could watch it after my kids go to bed. At home with Bluetooth headphones after 10 PM is basically the only way I can watch blockbusters these days.</p>\n",
-			"date_published": "2018-04-26T19:48:35-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/26/i-would-pay.html"
 		}
 		
 	]
