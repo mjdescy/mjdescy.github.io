@@ -6,6 +6,24 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/07/google-plus-still.html",
+	      	
+			"title": "Google Plus still exists. Why?",
+			
+			"content_html": "<p>I haven’t thought about this in a long time, but I am actually surprised that <a href=\"https://plus.google.com\">Google Plus</a> still exists. Considering how many products Google launches and kills each year for practically no reason, it’s astounding that one of its monumental flops has been allowed to limp along for so many years. I think it must still be around because either it still generates signals for Google (how many though, compared to other things?), or because it was tied in, at a technical level, to more valuable and integral services like Gmail. All I know is that its continued presence in the Google portfolio serves as yet another reminder to me about how unfocused Google is as an organization.</p>\n",
+			"date_published": "2018-05-06T21:10:09-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/06/google-plus-still.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/06/im-making-bean.html",
+	      	
+			"content_html": "<p>I’m making 12-bean soup today, in an effort to get back to eating home-cooked, wholesome foods. Every few months, as work and family commitments change, my family gets off track. Hopefully we can right the ship now that is is spring.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/e977b23e44.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-06T11:12:49-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/06/im-making-bean.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/05/my-th-post.html",
 	      	
 			"title": "My 300th post on Micro.blog",
@@ -217,26 +235,6 @@
 			"content_html": "<p>I recently finished reading Steen Johnson’s <a href=\"https://www.nytimes.com/2014/12/28/books/review/how-we-got-to-now-by-steven-johnson.html\">How We Got to Now: Six Innovations That Made the Modern World</a>. It was a breezy and pleasurable read, full of interesting information. Johnson’s writing is clear, concise, and engaging throughout.</p>\n\n<p>As a huge nerd who spent a lot of time in childhood perusing a science and technology encyclopedia, and a lot of time in my teens watching tech-related documentaries on Discovery and TLC (before those networks drifted to reality TV), I already knew a lot of the material. Still, it’s a wonderful read to anyone who loves the “history of ideas course” way of looking at disparate, seemingly unrelated things in everyday life, and drawing a through line that connects them all. Plus I learned new phrases that describe these unintended and intended technological and cultural developments—“hummingbird effects” and “the adjacent possible”—that I particularly like.</p>\n",
 			"date_published": "2018-04-27T17:03:58-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/27/how-we-got.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/27/finland-has-second.html",
-	      	
-			"title": "Finland Has Second Thoughts About Giving Free Money to Jobless People",
-			
-			"content_html": "<p><a href=\"https://nyti.ms/2HpHmQE\">Finland is letting its yearlong experiment with Universal Basic Income expire</a>. It turns out giving out tax money to people with no strings attached isn’t widely popular. What is interesting to me, a US citizen, is this:</p>\n\n<blockquote>\n  <p>This may be the main reason that basic income has lost momentum in Finland: It is effectively redundant.</p>\n\n  <p>Health care is furnished by the state. University education is free. Jobless people draw generous unemployment benefits and have access to some of the most effective training programs on earth.</p>\n\n  <p>“In a sense,” said Mr. Hiilamo, the social policy professor, “Finland already has basic income.”</p>\n</blockquote>\n\n<p>I support Universal Basic Income. I think it would help the poor and would spur more people, like me, to start their own businesses. Of course, if we in the US had government provided healthcare, education, and job training programs, it might be enough to spur new business creation. I have the talent to start a consultancy, but the responsibility to pay for healthcare and my children’s education has always made me feel more secure with a normal, salaried position.</p>\n",
-			"date_published": "2018-04-27T09:08:31-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/27/finland-has-second.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/27/amazon-is-increasing.html",
-	      	
-			"title": "Amazon is increasing its Prime membership fee",
-			
-			"content_html": "<p><a href=\"https://www.washingtonpost.com/business/economy/amazon-doubles-its-profit---and-hikes-prime-membership-by-20/2018/04/26/31f5a14c-489a-11e8-827e-190efaf1f1ee_story.html?utm_term=.ff2227bbf7cb\">Amazon is increasing the price of Prime membership</a>:</p>\n\n<blockquote>\n  <p>Amazon also said it will hike its Prime membership fee 20 percent to $119 a year for new members beginning May 11. Existing members who renew their Prime memberships will have to pay the new rate beginning June 16.</p>\n</blockquote>\n\n<p>Perversely, this news is making me want to buy <em>more</em> from them, to get a better value on shipping. I bet Amazon is expecting that response from some of their most loyal customers.</p>\n",
-			"date_published": "2018-04-26T22:23:08-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/26/amazon-is-increasing.html"
 		}
 		
 	]
