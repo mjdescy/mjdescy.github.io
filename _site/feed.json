@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/08/robocalls-flooding-your.html",
+	      	
+			"title": "Robocalls Flooding Your Cellphone? Here’s How to Stop Them",
+			
+			"content_html": "<p><a href=\"https://nyti.ms/2q5d7oj\">This article</a> inspired me to install <a href=\"https://gethiya.app.link/phone-guard\">Hiya</a> on my iPhone to block spam calls. I will find out eventually how well it works. I get 5-10 robocalls per week, mostly from the same exchange as my mobile number or my Google Voice number.</p>\n\n<p>It seems to rely on a central service for all blocking rules, including an optional whitelist for your contacts and an optional rule based on your phone number for “neighbor” spam. It can identify and block a gigantic list of known spammers and robocallers, which is beyond what I need.</p>\n\n<p>Having looked at it, and its competition, it seems like there isn’t a good on-device-only call blocker for the super-privacy conscious who, like me, only want to whitelist contacts and blacklist all other numbers in a couple of area codes and exchanges. I really want to write one. It would have to be free, I think, based on the free competition out there—but it may fit a particular niche that is out there.</p>\n",
+			"date_published": "2018-05-07T20:09:55-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/07/robocalls-flooding-your.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/07/google-plus-still.html",
 	      	
 			"title": "Google Plus still exists. Why?",
@@ -225,16 +235,6 @@
 			"content_html": "<p>🎬 <a href=\"https://m.imdb.com/title/tt7451284/\">Batman Ninja</a> is easily one of the weirdest movies I have seen—and that includes actual anime. I am still a bit puzzled why I watched it. I guess I’m a sucker for Batman and for animation.</p>\n",
 			"date_published": "2018-04-27T19:02:29-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/27/batman-ninjahttpsmimdbcomtitlett-is.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/27/how-we-got.html",
-	      	
-			"title": "📚 How We Got To Now",
-			
-			"content_html": "<p>I recently finished reading Steen Johnson’s <a href=\"https://www.nytimes.com/2014/12/28/books/review/how-we-got-to-now-by-steven-johnson.html\">How We Got to Now: Six Innovations That Made the Modern World</a>. It was a breezy and pleasurable read, full of interesting information. Johnson’s writing is clear, concise, and engaging throughout.</p>\n\n<p>As a huge nerd who spent a lot of time in childhood perusing a science and technology encyclopedia, and a lot of time in my teens watching tech-related documentaries on Discovery and TLC (before those networks drifted to reality TV), I already knew a lot of the material. Still, it’s a wonderful read to anyone who loves the “history of ideas course” way of looking at disparate, seemingly unrelated things in everyday life, and drawing a through line that connects them all. Plus I learned new phrases that describe these unintended and intended technological and cultural developments—“hummingbird effects” and “the adjacent possible”—that I particularly like.</p>\n",
-			"date_published": "2018-04-27T17:03:58-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/27/how-we-got.html"
 		}
 		
 	]
