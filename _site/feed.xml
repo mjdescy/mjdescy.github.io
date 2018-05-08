@@ -4,8 +4,23 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Sun, 06 May 2018 21:10:12 -0400</pubDate>
-    <lastBuildDate>Sun, 06 May 2018 21:10:12 -0400</lastBuildDate>
+    <pubDate>Mon, 07 May 2018 20:09:58 -0400</pubDate>
+    <lastBuildDate>Mon, 07 May 2018 20:09:58 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <title>Robocalls Flooding Your Cellphone? Here’s How to Stop Them</title>
+        
+        <description>&lt;p&gt;&lt;a href=&quot;https://nyti.ms/2q5d7oj&quot;&gt;This article&lt;/a&gt; inspired me to install &lt;a href=&quot;https://gethiya.app.link/phone-guard&quot;&gt;Hiya&lt;/a&gt; on my iPhone to block spam calls. I will find out eventually how well it works. I get 5-10 robocalls per week, mostly from the same exchange as my mobile number or my Google Voice number.&lt;/p&gt;
+
+&lt;p&gt;It seems to rely on a central service for all blocking rules, including an optional whitelist for your contacts and an optional rule based on your phone number for “neighbor” spam. It can identify and block a gigantic list of known spammers and robocallers, which is beyond what I need.&lt;/p&gt;
+
+&lt;p&gt;Having looked at it, and its competition, it seems like there isn’t a good on-device-only call blocker for the super-privacy conscious who, like me, only want to whitelist contacts and blacklist all other numbers in a couple of area codes and exchanges. I really want to write one. It would have to be free, I think, based on the free competition out there—but it may fit a particular niche that is out there.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 May 2018 20:09:55 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/05/07/robocalls-flooding-your.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/08/robocalls-flooding-your.html</guid>
+      </item>
     
       <item>
       	
@@ -674,15 +689,6 @@
         <pubDate>Thu, 12 Apr 2018 16:10:03 -0400</pubDate>
         <link>https://mjdescy.micro.blog/2018/04/12/i-deactivated-by.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/04/12/i-deactivated-by.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’m trying to catch up to current Red Sox games on MLB At Bat. I’m still a few days behind. It’s a losing battle every baseball season, because the games are so long.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 12 Apr 2018 09:22:45 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/04/12/132245.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/04/12/132245.html</guid>
       </item>
     
   </channel>
