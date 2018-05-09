@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/09/improving-dropboxrelated-error.html",
+	      	
+			"title": "Improving Dropbox-related error messages in SwiftoDo",
+			
+			"content_html": "<p>I’ve done a lot of work rewriting the Dropbox code in <a href=\"https://swiftodoapp.com\">SwiftoDo</a>. At this point, any error messages it generates are a now a little less well written—they are more generic—but they will appear more quickly, with greater consistency, and will reappear (as you would expect) each time Dropbox is accessed until the problem is fixed. Plus, the new error messages will provide a <em>little</em> more information about what went wrong than they did before. I hope it’s the right tradeoff.</p>\n",
+			"date_published": "2018-05-09T00:02:45-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/09/improving-dropboxrelated-error.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/08/okkervil-rivers-back.html",
 	      	
 			"title": "🎵 Okkervil River's back catalog",
@@ -229,14 +239,6 @@
 			"content_html": "<p>Om Malik wrote <a href=\"https://om.co/2018/04/29/shinolas-canfield-headphones/\">a thoughtful review</a> of a rather high end headphone, the Shinola Canfield. He includes his philosophy on what makes good headphones, and states that you can find really good headphones between $200 and $500, which I wholeheartedly agree with. I especially enjoyed learning about which headphones he keeps around:</p>\n\n<blockquote>\n  <ol>\n    <li>\n      <p>At home, I listen to Focal Clear, probably the best and the most expensive headphones I will ever owned. I have no desire to either upgrade or change these phones. […]</p>\n    </li>\n    <li>\n      <p>For conference calls and phone conversations, I use Apple AirPods. They aren’t my choice for music, but for watching videos on my iPad, they are more than adequate.</p>\n    </li>\n    <li>\n      <p>For long-haul flights, I have a pair of beat-up Bose headphones that take AA batteries and are as low-tech as Bose can get. They sit in my luggage and will be there until Bose stops making the replacement ear pads. They are not great for music, but on a loud aircraft, they are just a way to mute everything.</p>\n    </li>\n  </ol>\n</blockquote>\n\n<p>I love knowing that he and I have a similar lineup of headphones, and we split our time between them similarly: a top end headphone (except my top end are the Oppo PM-3, which cost a <em>lot</em> less than his Focal Clear); Apple AirPods for phone calls (I use them for calls, podcasts, and TV but almost never for music); and super old, now-crummy Bose for use on airplanes only.</p>\n",
 			"date_published": "2018-04-29T20:53:33-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/29/om-maliks-shinola.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/29/i-started-using.html",
-	      	
-			"content_html": "<p>I started using the Activity Digital face today. I never liked it before, but I’m trying to exercise more and it has been useful.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/99a8238f7f.jpg\" width=\"312\" height=\"313\" /></p>\n",
-			"date_published": "2018-04-28T23:44:27-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/28/i-started-using.html"
 		}
 		
 	]
