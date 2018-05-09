@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/09/the-best-trackballs.html",
+	      	
+			"title": "The Best Trackballs according to Wirecutter",
+			
+			"content_html": "<p>Wirecutter updated its <a href=\"https://thewirecutter.com/reviews/best-trackballs/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=RSS%20Feed\">trackballs review</a> today. Their recommendations are basically unchanged, which is no surprise, because the entire trackball market has been stagnant for years.</p>\n\n<p>Despite the lack of evolution in trackballs, I am a huge fan of them. I credit swapping my mouse for a trackball with reducing, to almost nothing, repetitive stress injuries from computing. I find trackballs to be more comfortable to use and more precise than both mice and trackpads. I actually have one for each my my machines (Mac and PC), and bring the smaller one with me when I travel for work.</p>\n\n<p>I can’t quibble with WireCutter’s top pick, but I disagree with their assessment of my main trackball, the <a href=\"https://www.kensington.com/en/ae/4493/k72327eu/slimblade-trackball\">Kensington SlimBlade</a>:</p>\n\n<blockquote>\n  <p>Instead of using a hardware scroll ring as on the Kensington Expert Mouse and Orbit with Scroll Ring, with the Kensington SlimBlade Trackball you have to rotate the ball to scroll, which is tough to do without bouncing the cursor around the screen. The SlimBlade’s buttons feel hollow compared with the Expert Mouse’s, and its shiny plastic and metal surfaces attract fingerprints.</p>\n</blockquote>\n\n<p>Sure, its buttons could be a little clickier, but rotating the ball to scroll without moving the cursor is actually pretty easy. Unlike the Expert Mouse, the SlimBlade doesn’t have an unnecessarily steep angle to it, so you can use it comfortably without a wrist rest. And, honestly, saying its “surfaces attract fingerprints” is just plain stupid. My iPad Pro screen, which is the finest screen in my entire house, “attracts fingerprints” too. I think product reviewers need to strike that quibble off their list.</p>\n",
+			"date_published": "2018-05-09T13:50:14-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/09/the-best-trackballs.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/09/improving-dropboxrelated-error.html",
 	      	
 			"title": "Improving Dropbox-related error messages in SwiftoDo",
@@ -229,16 +239,6 @@
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/04/30/my-slide-into-audiophile-territory-part-3/\">My slide into audiophile territory, Part 3</a></p>\n",
 			"date_published": "2018-04-29T23:15:28-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/29/031528.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/30/om-maliks-shinola.html",
-	      	
-			"title": "Om Malik's Shinola Canfield headphone review",
-			
-			"content_html": "<p>Om Malik wrote <a href=\"https://om.co/2018/04/29/shinolas-canfield-headphones/\">a thoughtful review</a> of a rather high end headphone, the Shinola Canfield. He includes his philosophy on what makes good headphones, and states that you can find really good headphones between $200 and $500, which I wholeheartedly agree with. I especially enjoyed learning about which headphones he keeps around:</p>\n\n<blockquote>\n  <ol>\n    <li>\n      <p>At home, I listen to Focal Clear, probably the best and the most expensive headphones I will ever owned. I have no desire to either upgrade or change these phones. […]</p>\n    </li>\n    <li>\n      <p>For conference calls and phone conversations, I use Apple AirPods. They aren’t my choice for music, but for watching videos on my iPad, they are more than adequate.</p>\n    </li>\n    <li>\n      <p>For long-haul flights, I have a pair of beat-up Bose headphones that take AA batteries and are as low-tech as Bose can get. They sit in my luggage and will be there until Bose stops making the replacement ear pads. They are not great for music, but on a loud aircraft, they are just a way to mute everything.</p>\n    </li>\n  </ol>\n</blockquote>\n\n<p>I love knowing that he and I have a similar lineup of headphones, and we split our time between them similarly: a top end headphone (except my top end are the Oppo PM-3, which cost a <em>lot</em> less than his Focal Clear); Apple AirPods for phone calls (I use them for calls, podcasts, and TV but almost never for music); and super old, now-crummy Bose for use on airplanes only.</p>\n",
-			"date_published": "2018-04-29T20:53:33-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/29/om-maliks-shinola.html"
 		}
 		
 	]
