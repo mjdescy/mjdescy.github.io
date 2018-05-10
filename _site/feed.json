@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/10/i-discovered-this.html",
+	      	
+			"content_html": "<p>I discovered this great <a href=\"https://www.nytimes.com/guides/crosswords/how-to-solve-a-crossword-puzzle\">primer on the New York Times crossword puzzle</a> (and crosswords in general) today. I wish I had known earlier that the <em>Saturday</em> puzzle, not the Sunday one, is the most difficult of the week.</p>\n\n",
+			"date_published": "2018-05-10T08:47:03-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/10/i-discovered-this.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/10/i-am-finding.html",
 	      	
 			"content_html": "<p>I am finding new people to follow every day or so on Micro.blog—mainly through the Discover feature, occasionally from Mentions, and weekly through the Micro Monday podcast. It is a slow but rewarding process.</p>\n",
@@ -229,16 +237,6 @@
 			"content_html": "<p><a href=\"https://www.newyorker.com/crossword/puzzles-dept/2018/04/30\">The New Yorker just launched a crossword puzzle</a>.</p>\n\n<blockquote>\n  <p>Most of our readers have e-mail addresses now, and the Web has given us the space to try new things—and to try old things again. In that spirit, we’re launching another crossword, online this time, and in the American style. It’ll be weekly, just like the magazine: a new one every Monday morning</p>\n</blockquote>\n\n<p>I am a daily crossword puzzle player. I enjoy them, though I am not terribly good at them, because I love word games and have read that crosswords help keep your mind sharp into old age.</p>\n\n<p>The New Yorker puzzle is a <em>tiny</em> bit more challenging than I would like (as I said, I’m not a strong player), but I’m happy there’s another source of crossword puzzles (beyond the New York Times, which I also subscribe to) coming my way.</p>\n\n<p>I hope they will someday move it into their iOS app. The scrolling behavior, which affects the on-page keyboard, is annoying on mobile.</p>\n",
 			"date_published": "2018-04-30T11:43:23-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/30/introducing-the-new.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/30/prolific-apple-supply.html",
-	      	
-			"title": "Prolific Apple supply chain analyst Ming-Chi Kuo departs KGI Securities, likely to focus on companies other than Apple",
-			
-			"content_html": "<p><a href=\"https://9to5mac.com/2018/04/30/prolific-apple-supply-chain-analyst-ming-chi-kuo-departs-kgi/\">Kuo’s departure</a> comes hot off the heels of <a href=\"https://9to5mac.com/2018/04/13/apple-memo-on-leaks-leaks/\">Apple’s recent “leaked” memo</a> about leaking that threatened the leaky leaders who leak.</p>\n\n<blockquote>\n  <p>Why has Ming-Chi Kuo, arguably one of the most popular technology analysts in the world, decided to move on? One possible reason is that his sources have done likewise, or perhaps have even been removed in light of Apple’s recent memo and strong stance against leaks — supply chain or otherwise.</p>\n</blockquote>\n\n<p>I wondered why myself, and figured that Apple has either threatened him, or his sources, with criminal lawsuits. I, for one, wouldn’t mind if Apple finally closed up all the leaks in its supply chain. While these leaks may benefit Apple investors,  they don’t really benefit Apple fans that much.</p>\n",
-			"date_published": "2018-04-30T09:49:29-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/30/prolific-apple-supply.html"
 		}
 		
 	]
