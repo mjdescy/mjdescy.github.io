@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/10/i-am-finding.html",
+	      	
+			"content_html": "<p>I am finding new people to follow every day or so on Micro.blog—mainly through the Discover feature, occasionally from Mentions, and weekly through the Micro Monday podcast. It is a slow but rewarding process.</p>\n",
+			"date_published": "2018-05-09T20:02:02-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/09/i-am-finding.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/09/the-best-trackballs.html",
 	      	
 			"title": "The Best Trackballs according to Wirecutter",
@@ -231,14 +239,6 @@
 			"content_html": "<p><a href=\"https://9to5mac.com/2018/04/30/prolific-apple-supply-chain-analyst-ming-chi-kuo-departs-kgi/\">Kuo’s departure</a> comes hot off the heels of <a href=\"https://9to5mac.com/2018/04/13/apple-memo-on-leaks-leaks/\">Apple’s recent “leaked” memo</a> about leaking that threatened the leaky leaders who leak.</p>\n\n<blockquote>\n  <p>Why has Ming-Chi Kuo, arguably one of the most popular technology analysts in the world, decided to move on? One possible reason is that his sources have done likewise, or perhaps have even been removed in light of Apple’s recent memo and strong stance against leaks — supply chain or otherwise.</p>\n</blockquote>\n\n<p>I wondered why myself, and figured that Apple has either threatened him, or his sources, with criminal lawsuits. I, for one, wouldn’t mind if Apple finally closed up all the leaks in its supply chain. While these leaks may benefit Apple investors,  they don’t really benefit Apple fans that much.</p>\n",
 			"date_published": "2018-04-30T09:49:29-04:00",
 			"url": "https://mjdescy.micro.blog/2018/04/30/prolific-apple-supply.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/04/30/031528.html",
-	      	
-			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/04/30/my-slide-into-audiophile-territory-part-3/\">My slide into audiophile territory, Part 3</a></p>\n",
-			"date_published": "2018-04-29T23:15:28-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/29/031528.html"
 		}
 		
 	]
