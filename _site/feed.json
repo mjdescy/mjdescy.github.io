@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/11/pure-gold-from.html",
+	      	
+			"title": "Pure Gold from Pinboard's FAQ",
+			
+			"content_html": "<p>I came across this tonight, as I was perusing <a href=\"https://pinboard.in/faq/#cjk_search\">Pinboard’s FAQ</a>, trying to learn something different about the service that I have been ignoring for the past year or so.</p>\n\n<blockquote>\n  <p>Is it true the site admin can see private bookmarks?</p>\n\n  <p>Yes. I routinely look at raw bookmark data, which includes private bookmarks. Most of the time this means I look at URLs without any identifying context.</p>\n\n  <p>I try to avoid looking at private data on people’s individual pages. However, this is sometimes necessary in order to diagnose and fix bugs in Pinboard, such as search errors, or strange formatting in archived pages.</p>\n\n  <p>I use the metaphor of a hotel manager. I have a key that opens every room, but I try not to use it without a good reason. <strong>And I can assure everyone that five years of running this site has eliminated any trace of curiosity I might have had about what people bookmark.</strong></p>\n</blockquote>\n\n<p>(Emphasis is my own. 🤣)</p>\n",
+			"date_published": "2018-05-10T21:25:02-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/10/pure-gold-from.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/10/i-decided-to.html",
 	      	
 			"content_html": "<p>I decided to install some iOS games with MFi controller support on my iPad Pro. But…will I actually find time to play them? 🤷‍♂️</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/41dc26e584.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -227,14 +237,6 @@
 			"content_html": "<p><a href=\"https://qz.com/1264704/at-first-life-without-a-smartphone-was-terrifying-then-it-was-beautiful/\">This article on Quartz about limiting smartphone use</a> is both sublime and ridiculous.</p>\n\n<blockquote>\n  <p>I want to be present. Is that so much to ask for? Is that so odd to crave in this day and age?</p>\n\n  <p>Maybe you’re reading this thinking I’m taking it too far and being ridiculous. That it’s just a smartphone, people check them all the time and that’s just the way it is and I should get over it and get used to it. But being on it most of my free time feels wrong on every level. I don’t want to get used to it anymore. It shouldn’t be this hard to reduce the amount of time I spend looking at this damn screen instead of being with my own thoughts. It shouldn’t be this challenging. But it is. And that says tons.</p>\n</blockquote>\n\n<p>A few years ago I wanted to do the same thing this author does—downgrade from smartphone to dumbphone—but to save money rather than to improve my contact with the outside world. My plan was to replace the smartphone with an iPad Mini, which I would use only on WiFi. Back then I shuttled every article I read from my RSS app (Reeder) to my read-it-later app (Pocket) and cached them offline, so I would rarely be without an offline time waster, to fill in those dull times in waiting rooms or on trains. I didn’t go through with the plan, though. I got caught up in smartphone fever along with everyone else in my office. It was an exciting time in the development of that technology—much more exciting than today.</p>\n\n<p>I think it is interesting and admirable to try to limit your smartphone use, and it is fun to read about someone’s experience with it. I <em>also</em> think that this essay is the sort of thing my grandchildren will read in history class, perhaps on the whatever slab of glass and silicon they carry, and laugh at how silly we were to distrust the most transformative technology of our time.</p>\n",
 			"date_published": "2018-05-01T09:41:46-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/01/i-quit-my.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/01/blog-post-premature.html",
-	      	
-			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/04/30/premature-optimization/\">Premature Optimization</a></p>\n",
-			"date_published": "2018-04-30T23:15:43-04:00",
-			"url": "https://mjdescy.micro.blog/2018/04/30/blog-post-premature.html"
 		}
 		
 	]
