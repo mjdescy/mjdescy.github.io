@@ -1,12 +1,11 @@
 ---
 layout: post
-microblog: true
+title: "🎵 Frightened Rabbit singer commits suicide 😥"
+microblog: false
 audio: 
 date: 2018-05-11 09:49:38 -0400
 guid: http://mjdescy.micro.blog/2018/05/11/frightened-rabbit-singer.html
 ---
-🎵 Frightened Rabbit singer commits suicide 😥
-
 (My original title was just an expletive.)
 
 [Body confirmed as missing Frightened Rabbit singer - BBC News](http://www.bbc.com/news/uk-scotland-44079462):
