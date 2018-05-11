@@ -6,9 +6,21 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/11/from-spotify-to.html",
+	      	
+			"title": "From Spotify to Indie and Beyond: A Top Dev Interview With John Sundell",
+			
+			"content_html": "<p>I enjoyed this interview with Swift expert, blogger, and podcaster John Sundell (<a href=\"https://micro.blog/johnsundell\">@johnsundell</a>): \n<a href=\"https:/z/www.raywenderlich.com/192589/from-spotify-to-indie-and-beyond-a-top-dev-interview-with-john-sundell\">From Spotify to Indie and Beyond: A Top Dev Interview With John Sundell</a>. I have learned a lot from John’s weekly blog, <a href=\"https://www.swiftbysundell.com\">Swift by Sundell</a>, in the past year or so, and always enjoy his contributions to the Swift programming community.</p>\n",
+			"date_published": "2018-05-11T13:16:51-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/11/from-spotify-to.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/11/frightened-rabbit-singer.html",
 	      	
-			"content_html": "<p>🎵 Frightened Rabbit singer commits suicide 😥</p>\n\n<p>(My original title was just an expletive.)</p>\n\n<p><a href=\"http://www.bbc.com/news/uk-scotland-44079462\">Body confirmed as missing Frightened Rabbit singer - BBC News</a>:</p>\n\n<blockquote>\n  <p>“Depression is a horrendous illness that does not give you any alert or indication as to when it will take hold of you”, it added.</p>\n\n  <p>“Scott battled bravely with his own issues for many years and we are immensely proud of him for being so open with his struggles.</p>\n\n  <p>“His willingness to discuss these matters in the public domain undoubtedly raised awareness of mental health issues and gave others confidence and belief to discuss their own issues.”</p>\n</blockquote>\n\n<p>I’m so upset. I <em>love</em> Frightened Rabbit. It was no secret that Scott Hutchison suffered from depression, anxiety, and who knows what else—it’s <em>all over</em> his arch, wry lyrics. Go listen to “<a href=\"https://itunes.apple.com/us/album/keep-yourself-warm/917524230?i=917524306\">Keep Yourself Warm</a>” to get an idea of what a great singer/songwriter he was.</p>\n",
+			"title": "🎵 Frightened Rabbit singer commits suicide 😥",
+			
+			"content_html": "<p>(My original title was just an expletive.)</p>\n\n<p><a href=\"http://www.bbc.com/news/uk-scotland-44079462\">Body confirmed as missing Frightened Rabbit singer - BBC News</a>:</p>\n\n<blockquote>\n  <p>“Depression is a horrendous illness that does not give you any alert or indication as to when it will take hold of you”, it added.</p>\n\n  <p>“Scott battled bravely with his own issues for many years and we are immensely proud of him for being so open with his struggles.</p>\n\n  <p>“His willingness to discuss these matters in the public domain undoubtedly raised awareness of mental health issues and gave others confidence and belief to discuss their own issues.”</p>\n</blockquote>\n\n<p>I’m so upset. I <em>love</em> Frightened Rabbit. It was no secret that Scott Hutchison suffered from depression, anxiety, and who knows what else—it’s <em>all over</em> his arch, wry lyrics. Go listen to “<a href=\"https://itunes.apple.com/us/album/keep-yourself-warm/917524230?i=917524306\">Keep Yourself Warm</a>” to get an idea of what a great singer/songwriter he was.</p>\n",
 			"date_published": "2018-05-11T09:49:38-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/11/frightened-rabbit-singer.html"
 		},
@@ -227,14 +239,6 @@
 			"content_html": "<p>Earlier this year, I completed reading <em><a href=\"https://en.m.wikipedia.org/wiki/Ready_Player_One\">Ready Player One</a></em> by Ernest Cline. It was the first novel that I had read in a while, as I have been reading mostly nonfiction in recent years. I discovered the book from an <a href=\"https://twit.tv/shows/triangulation/episodes/322\">episode of the “Triangulation” podcast in which Leo Laporte interviewed author Andy Weir</a>, who enthusiastically recommended the book.</p>\n\n<p>Overall, I enjoyed the book. The prose is efficient and the pacing is swift. I thought it started out strong, and I liked the world building and the build-up of suspense in the early chapters. After a while, though, I tired of all the 1980s video game and movie references, and wanted the book to end. While I was about three quarters through the book, I referred to it as “the reading equivalent to watching somebody else play video games”. For me, the stakes felt too low, and the characterizations were too thin, to make a lasting impression. Still, I had fun reading it, at least most of the way through.</p>\n",
 			"date_published": "2018-05-01T16:13:33-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/01/201333.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/01/the-best-part.html",
-	      	
-			"content_html": "<p>The best part of working from home is the ability to take a nice walk after lunch. Spring weather was finally here at lunchtime, and I thoroughly enjoyed it. Summer temperatures will follow by dinner time and last for the foreseeable future. So, that was spring!</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/0efce021cd.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-05-01T14:27:03-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/01/the-best-part.html"
 		}
 		
 	]
