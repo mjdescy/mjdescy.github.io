@@ -4,14 +4,26 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Fri, 11 May 2018 09:50:09 -0400</pubDate>
-    <lastBuildDate>Fri, 11 May 2018 09:50:09 -0400</lastBuildDate>
+    <pubDate>Fri, 11 May 2018 13:16:54 -0400</pubDate>
+    <lastBuildDate>Fri, 11 May 2018 13:16:54 -0400</lastBuildDate>
     
       <item>
       	
-        <description>&lt;p&gt;🎵 Frightened Rabbit singer commits suicide 😥&lt;/p&gt;
-
-&lt;p&gt;(My original title was just an expletive.)&lt;/p&gt;
+        <title>From Spotify to Indie and Beyond: A Top Dev Interview With John Sundell</title>
+        
+        <description>&lt;p&gt;I enjoyed this interview with Swift expert, blogger, and podcaster John Sundell (&lt;a href=&quot;https://micro.blog/johnsundell&quot;&gt;@johnsundell&lt;/a&gt;): 
+&lt;a href=&quot;https:/z/www.raywenderlich.com/192589/from-spotify-to-indie-and-beyond-a-top-dev-interview-with-john-sundell&quot;&gt;From Spotify to Indie and Beyond: A Top Dev Interview With John Sundell&lt;/a&gt;. I have learned a lot from John’s weekly blog, &lt;a href=&quot;https://www.swiftbysundell.com&quot;&gt;Swift by Sundell&lt;/a&gt;, in the past year or so, and always enjoy his contributions to the Swift programming community.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 11 May 2018 13:16:51 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/05/11/from-spotify-to.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/11/from-spotify-to.html</guid>
+      </item>
+    
+      <item>
+      	
+        <title>🎵 Frightened Rabbit singer commits suicide 😥</title>
+        
+        <description>&lt;p&gt;(My original title was just an expletive.)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.bbc.com/news/uk-scotland-44079462&quot;&gt;Body confirmed as missing Frightened Rabbit singer - BBC News&lt;/a&gt;:&lt;/p&gt;
 
@@ -728,21 +740,6 @@
         <pubDate>Thu, 19 Apr 2018 11:38:06 -0400</pubDate>
         <link>https://mjdescy.micro.blog/2018/04/19/i-am-coding.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/04/19/i-am-coding.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>Git Tower vs. Atlassian SourceTree</title>
-        
-        <description>&lt;p&gt;I am enjoying using &lt;a href=&quot;https://www.git-tower.com/mac/&quot;&gt;Tower&lt;/a&gt; over Atlassian SourceTree. &lt;a href=&quot;https://www.sourcetreeapp.com&quot;&gt;SourceTree&lt;/a&gt; has many, many features, and is free to use, but it has some puzzling bugs that never seem to get fixed. For example, it never deletes branches via Git Flow, no matter how many times I try to reconfigure it.&lt;/p&gt;
-
-&lt;p&gt;Tower is faster, works better, and has a clean UI that fits in on the Mac very well. When I emailed Tower support about something, they responded almost instantly. That sold it for me. When the Tower 3 beta expires, I will be purchasing a license.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://mjdescy.micro.blog/uploads/2018/108abb4d9a.jpg&quot; width=&quot;600&quot; height=&quot;339&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 18 Apr 2018 21:54:47 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/04/18/git-tower-vs.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/04/19/git-tower-vs.html</guid>
       </item>
     
   </channel>
