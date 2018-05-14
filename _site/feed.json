@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/14/today-was-a.html",
+	      	
+			"content_html": "<p>Today was a great Mother’s Day. Probably the best I can remember. We just spent it at home, at at my in-laws’ home, with family.</p>\n",
+			"date_published": "2018-05-13T22:26:13-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/13/today-was-a.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/11/from-spotify-to.html",
 	      	
 			"title": "From Spotify to Indie and Beyond: A Top Dev Interview With John Sundell",
@@ -229,16 +237,6 @@
 			"content_html": "<p>Do Windows fans care about Microsoft’s earnings? Do Android fans care about Google’s? I wonder if the main reason Apple fans (non-investors) <a href=\"https://sixcolors.com/post/2018/05/apple-quarterly-results-charts-live-tweets/\">cheer on Apple’s good earnings reports</a> is that Apple almost went out of business in the 1990s. Unless the company is going out of business, or if you have tied a lot of your money up with them somehow, who cares about its quarterly earnings report?</p>\n",
 			"date_published": "2018-05-01T22:59:11-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/01/who-cares-about.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/01/201333.html",
-	      	
-			"title": "📚 Ready Player One, by Ernest Cline",
-			
-			"content_html": "<p>Earlier this year, I completed reading <em><a href=\"https://en.m.wikipedia.org/wiki/Ready_Player_One\">Ready Player One</a></em> by Ernest Cline. It was the first novel that I had read in a while, as I have been reading mostly nonfiction in recent years. I discovered the book from an <a href=\"https://twit.tv/shows/triangulation/episodes/322\">episode of the “Triangulation” podcast in which Leo Laporte interviewed author Andy Weir</a>, who enthusiastically recommended the book.</p>\n\n<p>Overall, I enjoyed the book. The prose is efficient and the pacing is swift. I thought it started out strong, and I liked the world building and the build-up of suspense in the early chapters. After a while, though, I tired of all the 1980s video game and movie references, and wanted the book to end. While I was about three quarters through the book, I referred to it as “the reading equivalent to watching somebody else play video games”. For me, the stakes felt too low, and the characterizations were too thin, to make a lasting impression. Still, I had fun reading it, at least most of the way through.</p>\n",
-			"date_published": "2018-05-01T16:13:33-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/01/201333.html"
 		}
 		
 	]
