@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/15/015943.html",
+	      	
+			"content_html": "<p>I have been testing what I thought would be SwiftoDo’s next release build all day. All day, Dropbox has been throwing error messages, making me think my code is messed up. Now, the same code is <em>not</em> throwing those error messages. It must be internet weather or something.</p>\n",
+			"date_published": "2018-05-14T21:59:43-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/14/015943.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/14/today-was-a.html",
 	      	
 			"content_html": "<p>Today was a great Mother’s Day. Probably the best I can remember. We just spent it at home, and at my in-laws’ home, with family.</p>\n",
@@ -227,16 +235,6 @@
 			"content_html": "<p>At work, our clients are far more interested in information security than they used to be. That’s great, and I applaud them for it. Of course, as a user of their systems, there is a trade-off in terms of convenience.</p>\n\n<p>Lately, logging into remote systems seems like entering a-dream-within-a-dream-within-a-dream—a la <em><a href=\"https://www.imdb.com/title/tt1375666/\">Inception</a></em>. Instead of merely using Remote Desktop to log into systems with a single username/password, we now follow in-depth login procedures using virtualization software, RSA tokens that generate unique, one-time passwords, Remote Desktop logins, and systems logins.</p>\n",
 			"date_published": "2018-05-02T11:26:56-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/02/remote-login-inception.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/02/who-cares-about.html",
-	      	
-			"title": "Who cares about Apple earnings reports?",
-			
-			"content_html": "<p>Do Windows fans care about Microsoft’s earnings? Do Android fans care about Google’s? I wonder if the main reason Apple fans (non-investors) <a href=\"https://sixcolors.com/post/2018/05/apple-quarterly-results-charts-live-tweets/\">cheer on Apple’s good earnings reports</a> is that Apple almost went out of business in the 1990s. Unless the company is going out of business, or if you have tied a lot of your money up with them somehow, who cares about its quarterly earnings report?</p>\n",
-			"date_published": "2018-05-01T22:59:11-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/01/who-cares-about.html"
 		}
 		
 	]
