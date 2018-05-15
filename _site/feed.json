@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/15/swiftodo-was-looking.html",
+	      	
+			"content_html": "<p>SwiftoDo 2.12.0 was looking pretty dire last night, but is now looking like it may be ready for release, thanks to some improvements I made today. I will do more testing this week to make sure.</p>\n",
+			"date_published": "2018-05-15T19:08:49-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/15/swiftodo-was-looking.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/15/work-has-been.html",
 	      	
 			"content_html": "<p>Work has been heating up for me lately, which is good all around, but a change nonetheless. It’s good to have lots of work to look forward to each day. It’s bad to feel like there’s so much you can’t finish each day, too.</p>\n",
@@ -223,14 +231,6 @@
 			"content_html": "<p>The annual <a href=\"https://panic.com/blog/the-2017-panic-report/\">Panic Report</a> is always worth a read. I use a lot of their apps, and have long considered them an app studio so talented that I will buy whatever they make, so long as I can sometimes use it. They are refreshingly open and honest about their business, too. Their annual reports are especially eye opening if you are a developer and are curious about the business aspects of the App Store.</p>\n\n<p>I thought this part, toward the end, was kind of funny.</p>\n\n<blockquote>\n  <p>⑨ I’m using Transmit 5 as my primary interface to Dropbox. Am I a bad person? —Kyle</p>\n\n  <p>Absolutely not. This is so potentially powerful, we even made a video about it!</p>\n</blockquote>\n\n<p>I don’t install Dropbox on my Mac anymore. Instead, I now use iCloud Drive for cross-device sync. I use Transmit 5 to get to Dropbox, the few times I need it. It seems weird to do so at first, but it is much lighter on resources, if you don’t need file sync.</p>\n",
 			"date_published": "2018-05-03T23:40:14-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/03/the-panic-report.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/04/note-to-past.html",
-	      	
-			"content_html": "<p>Note to past self:</p>\n\n<p>Remind me again why you decided to rewrite, yet again, the Dropbox-related code in your app? You know, the code that you may just get rid of completely a few months from now?</p>\n\n<p>Sincerely,\n🤯</p>\n",
-			"date_published": "2018-05-03T20:59:30-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/03/note-to-past.html"
 		}
 		
 	]
