@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/15/im-loving-the.html",
+	      	
+			"content_html": "<p>I’m loving the second season of “Westworld” so far. I can’t wait to see how it all comes together in the end.</p>\n",
+			"date_published": "2018-05-15T00:59:17-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/15/im-loving-the.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/15/015943.html",
 	      	
 			"content_html": "<p>I have been testing what I thought would be SwiftoDo’s next release build all day. All day, Dropbox has been throwing error messages, making me think my code is messed up. Now, the same code is <em>not</em> throwing those error messages. It must be internet weather or something.</p>\n",
@@ -225,16 +233,6 @@
 			"content_html": "<p>Today, Apple’s US App Store is highlighting two great games that are among the best on the platform:</p>\n\n<ul>\n  <li><a href=\"https://itunes.apple.com/us/story/id1356375657\">Game of the Day: Goblin Sword</a>. Goblin Sword plays like a AAA title from the 16-bit days, and has great play control, difficulty, and variety. It’s fantastic.</li>\n  <li><a href=\"https://itunes.apple.com/us/story/id1369365671\">Games Are Art: The Beauty of Oddmar</a>. I learned about Oddmar from someone else on micro.blog, and have only played through a handful of levels. The play controls are unique and well suited for the iPhone, and the graphics and sound are amazing. It’s a fun and funny game.</li>\n</ul>\n",
 			"date_published": "2018-05-02T14:07:59-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/02/two-of-the.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/02/remote-login-inception.html",
-	      	
-			"title": "Remote login Inception",
-			
-			"content_html": "<p>At work, our clients are far more interested in information security than they used to be. That’s great, and I applaud them for it. Of course, as a user of their systems, there is a trade-off in terms of convenience.</p>\n\n<p>Lately, logging into remote systems seems like entering a-dream-within-a-dream-within-a-dream—a la <em><a href=\"https://www.imdb.com/title/tt1375666/\">Inception</a></em>. Instead of merely using Remote Desktop to log into systems with a single username/password, we now follow in-depth login procedures using virtualization software, RSA tokens that generate unique, one-time passwords, Remote Desktop logins, and systems logins.</p>\n",
-			"date_published": "2018-05-02T11:26:56-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/02/remote-login-inception.html"
 		}
 		
 	]
