@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/15/work-has-been.html",
+	      	
+			"content_html": "<p>Work has been heating up for me lately, which is good all around, but a change nonetheless. It’s good to have lots of work to look forward to each day. It’s bad to feel like there’s so much you can’t finish each day, too.</p>\n",
+			"date_published": "2018-05-15T17:05:56-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/15/work-has-been.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/15/am-i-late.html",
 	      	
 			"content_html": "<p>Am I late to the game with using semaphores, or are all the cool (cool?) kids using them these days?</p>\n",
@@ -223,14 +231,6 @@
 			"content_html": "<p>Note to past self:</p>\n\n<p>Remind me again why you decided to rewrite, yet again, the Dropbox-related code in your app? You know, the code that you may just get rid of completely a few months from now?</p>\n\n<p>Sincerely,\n🤯</p>\n",
 			"date_published": "2018-05-03T20:59:30-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/03/note-to-past.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/02/i-didnt-know.html",
-	      	
-			"content_html": "<p>I didn’t know about this action to post <em>directly</em> from Drafts 5 to micro.blog, with or without a title, until today. It’s a game-changer for me.</p>\n\n<p><a href=\"https://actions.getdrafts.com/a/1Hg\">Post to Micro.blog (with Title) - Drafts Action Directory</a></p>\n",
-			"date_published": "2018-05-02T16:50:02-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/02/i-didnt-know.html"
 		}
 		
 	]
