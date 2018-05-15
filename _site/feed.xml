@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Tue, 15 May 2018 17:06:08 -0400</pubDate>
-    <lastBuildDate>Tue, 15 May 2018 17:06:08 -0400</lastBuildDate>
+    <pubDate>Tue, 15 May 2018 19:08:51 -0400</pubDate>
+    <lastBuildDate>Tue, 15 May 2018 19:08:51 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;SwiftoDo 2.12.0 was looking pretty dire last night, but is now looking like it may be ready for release, thanks to some improvements I made today. I will do more testing this week to make sure.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 May 2018 19:08:49 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/05/15/swiftodo-was-looking.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/15/swiftodo-was-looking.html</guid>
+      </item>
     
       <item>
       	
@@ -717,15 +726,6 @@
         <pubDate>Tue, 24 Apr 2018 14:52:03 -0400</pubDate>
         <link>https://mjdescy.micro.blog/2018/04/24/this-is-my.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/04/24/this-is-my.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I got to be reminded today just how long VBA takes to run when used inside SQL Queries in Microsoft Access. I wish I could always use SQL Server, which is faster and better in every respect, but in my Company’s distributed environment, it’s always Access.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 24 Apr 2018 14:30:21 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/04/24/i-got-to.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/04/24/i-got-to.html</guid>
       </item>
     
   </channel>
