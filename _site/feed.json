@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/16/the-cast-of.html",
+	      	
+			"content_html": "<p>The <em>cast</em> of <em>Solo</em> certainly is  appealing, even if <a href=\"https://slate.com/culture/2018/05/solo-the-new-star-wars-movie-reviewed.html\">the movie itself may be largely inconsequential</a>. To think, I used to care more about the <em>director</em> than the cast. 🎬</p>\n",
+			"date_published": "2018-05-15T20:09:50-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/15/the-cast-of.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/15/swiftodo-was-looking.html",
 	      	
 			"content_html": "<p>SwiftoDo 2.12.0 was looking pretty dire last night, but is now looking like it may be ready for release, thanks to some improvements I made today. I will do more testing this week to make sure.</p>\n",
@@ -221,16 +229,6 @@
 			"content_html": "<p>I am <em>so</em> accustomed to listening to Podcasts with <a href=\"https://overcast.fm\">Overcast</a>’s “Voice Boost” feature that, when I turn it off (as I’m doing today, because my Bluetooth headphones are too loud) my podcasts sound flat and lifeless.</p>\n\n<p>I wonder, though, why more podcast producers don’t run their episodes through dynamic compression and EQ filters (“Voice Boost”) prior to publishing. For that matter, why don’t they “shorten silences” on their end, too? That way, everyone could benefit from better audio quality and a shorter runtime. I suspect that some of big, radio-show-based podcasts do, but it’s obvious that most other podcasts don’t.</p>\n",
 			"date_published": "2018-05-04T09:14:54-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/04/listening-to-podcasts.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/04/the-panic-report.html",
-	      	
-			"title": "The 2017 Panic Report",
-			
-			"content_html": "<p>The annual <a href=\"https://panic.com/blog/the-2017-panic-report/\">Panic Report</a> is always worth a read. I use a lot of their apps, and have long considered them an app studio so talented that I will buy whatever they make, so long as I can sometimes use it. They are refreshingly open and honest about their business, too. Their annual reports are especially eye opening if you are a developer and are curious about the business aspects of the App Store.</p>\n\n<p>I thought this part, toward the end, was kind of funny.</p>\n\n<blockquote>\n  <p>⑨ I’m using Transmit 5 as my primary interface to Dropbox. Am I a bad person? —Kyle</p>\n\n  <p>Absolutely not. This is so potentially powerful, we even made a video about it!</p>\n</blockquote>\n\n<p>I don’t install Dropbox on my Mac anymore. Instead, I now use iCloud Drive for cross-device sync. I use Transmit 5 to get to Dropbox, the few times I need it. It seems weird to do so at first, but it is much lighter on resources, if you don’t need file sync.</p>\n",
-			"date_published": "2018-05-03T23:40:14-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/03/the-panic-report.html"
 		}
 		
 	]
