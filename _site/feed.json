@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/17/my-brains-bootup.html",
+	      	
+			"content_html": "<p>My brain’s boot-up time is taking longer than usual today. ☕️☕️☕️</p>\n",
+			"date_published": "2018-05-17T09:14:32-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/17/my-brains-bootup.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/16/the-cast-of.html",
 	      	
 			"content_html": "<p>The <em>cast</em> of <em>Solo</em> certainly is  appealing, even if <a href=\"https://slate.com/culture/2018/05/solo-the-new-star-wars-movie-reviewed.html\">the movie itself may be largely inconsequential</a>. To think, I used to care more about the <em>director</em> than the cast. 🎬</p>\n",
@@ -219,16 +227,6 @@
 			"content_html": "<p><em><a href=\"https://itunes.apple.com/us/album/groundhog-day-musical-original-broadway-cast-recording/1215389487\">Groundhog Day</a></em> is my second favorite Broadway musical of last year (closely behind “Dear Evan Hansen”, which has more plot-related problems but really terrific music), and the only one I saw. I revisit the cast album from time to time, because it is terrific, and multiple listens reveal hidden depth in the earthy lyrics.</p>\n\n<p><a href=\"https://www.broadwayworld.com/article/BWW-CD-Review-GROUNDHOG-DAY-THE-MUSICAL-Original-Broadway-Cast-Recording-is-Charmingly-Animated-20170516\">Broadway World’s review of the cast album</a> is remarkably spot on.</p>\n\n<blockquote>\n  <p>On first listen, Minchin’s melodies are captivating. They are undeniably more poppy than his dark, moody, and undulating score for MATILDA; however, it’s obvious that he has written each of these compositions with the same consideration and care that he did with MATILDA. Despite the more simplistic sounding and pop aural soundscape, the melodies are intricately layered showing an artistry and skill that is not apparent in one listening.</p>\n</blockquote>\n\n<p>I hope Tim Minchin keeps writing musicals. His music and lyrics for his prior show, <em>Matilda</em>, are a masterpiece. (Listen to the London cast recording over the Broadway one if you can; it is a <em>far</em> better performance, though it is missing some of Matilda’s monologues.) “Groundhog Day” doesn’t quite rank as a masterpiece in my book, but it is really, really good.</p>\n\n",
 			"date_published": "2018-05-04T19:35:30-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/04/groundhog-day-the.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/04/listening-to-podcasts.html",
-	      	
-			"title": "Listening to Podcasts without Voice Boost",
-			
-			"content_html": "<p>I am <em>so</em> accustomed to listening to Podcasts with <a href=\"https://overcast.fm\">Overcast</a>’s “Voice Boost” feature that, when I turn it off (as I’m doing today, because my Bluetooth headphones are too loud) my podcasts sound flat and lifeless.</p>\n\n<p>I wonder, though, why more podcast producers don’t run their episodes through dynamic compression and EQ filters (“Voice Boost”) prior to publishing. For that matter, why don’t they “shorten silences” on their end, too? That way, everyone could benefit from better audio quality and a shorter runtime. I suspect that some of big, radio-show-based podcasts do, but it’s obvious that most other podcasts don’t.</p>\n",
-			"date_published": "2018-05-04T09:14:54-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/04/listening-to-podcasts.html"
 		}
 		
 	]
