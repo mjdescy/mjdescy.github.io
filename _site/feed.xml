@@ -4,8 +4,23 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Thu, 17 May 2018 09:14:33 -0400</pubDate>
-    <lastBuildDate>Thu, 17 May 2018 09:14:33 -0400</lastBuildDate>
+    <pubDate>Thu, 17 May 2018 12:28:42 -0400</pubDate>
+    <lastBuildDate>Thu, 17 May 2018 12:28:42 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <title>Google's music and video streaming strategy is a mess</title>
+        
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.engadget.com/2018/05/17/google-play-youtube-music-premium-strategy/&quot;&gt;Engadget has it right&lt;/a&gt;. I have no idea what Google audio/video service I should ever consider subscribing to, and because music is tied in there, they don’t offer what I want (ad-free YouTube) at price that is reasonable to me. Maybe it doesn’t matter, because Google will just fold it and create an alternative service, with a different name, price, and product mix, in a couple years anyway.&lt;/p&gt;
+
+&lt;p&gt;As much as I rely on Google Search, and as much as I use, indifferently, Gmail, I just don’t understand Google as a company. Their central strategy appears to be “no strategy”. They try stuff out, kill it if it fails, and iterate on what succeeds. This process is fun to watch when the company is a young startup, but is a bit much to bear when they are one of the four pillars of the internet.&lt;/p&gt;
+
+&lt;p&gt;If my kids didn’t love YouTube, but hate the ads, I wouldn’t think about subscribing to YouTube Premium (or is it YouTube Red? or is it YouTube Music?) at all. If Google cared about customers like me—very light YouTube viewers who would pay a small amount of money to not be interrupted by ads—I would send them some money each month.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 May 2018 12:28:39 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/05/17/googles-music-and.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/17/googles-music-and.html</guid>
+      </item>
     
       <item>
       	
@@ -699,31 +714,6 @@
         <pubDate>Thu, 26 Apr 2018 13:42:22 -0400</pubDate>
         <link>https://mjdescy.micro.blog/2018/04/26/mac-apps-are.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/04/26/mac-apps-are.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>1Blocker X</title>
-        
-        <description>&lt;p&gt;I picked up &lt;a href=&quot;https://1blocker.com/&quot;&gt;1Blocker X&lt;/a&gt; based on &lt;a href=&quot;https://www.macstories.net/reviews/1blocker-x-for-ios-review/&quot;&gt;this review from John Voorhies on MacStores&lt;/a&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The first thing you will notice when you set up 1Blocker X on an iOS device is its 7 toggles in Safari’s Content Blocker section of the Settings app. It’s a bit of a head-scratcher at first until you realize that this is what allows 1Blocker X to expand beyond the confines of its predecessor.&lt;/p&gt;
-
-  &lt;p&gt;You see, iOS limits the number of blocking rules that can be implemented by an app to 50,000. That’s a lot of rules, but sadly not enough given the amount of junk on the Internet these days. As a result, it’s a limit that 1Blocker began to run into not long after it launched in 2015.&lt;/p&gt;
-
-  &lt;p&gt;Finding a way around that hard limit required a rewrite of 1Blocker from the ground up. The result is 1Blocker X, an app with around three times as many blocking rules, room to grow, and enhanced flexibility for applying those rules.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I don’t think I really needed to replace the content blocker I had been using, but it hadn’t been updated in a really long time, so I’m not sure it’s blocking rules are up-to-date.&lt;/p&gt;
-
-&lt;p&gt;Much of the work these things do is invisilble. It’s easy to see if ads are blocked, of course, but not so with trackers and malware, which I care more about. At home I &lt;em&gt;also&lt;/em&gt; block ads at the DNS level using &lt;a href=&quot;https://pi-hole.net/&quot;&gt;Pi-hole&lt;/a&gt;, running on an old Raspberry Pi. I heartily recommend setting up a Pi-hole (it’s easy; there are tutorials to follow). I miss having it when I’m out of the house, which is why a content blocker is helpful, too.&lt;/p&gt;
-
-&lt;p&gt;So far, 1Blocker X has been working just fine. I’ve noticed no decrease in speed from Safari, despite the crazy amount of blocking rules I have enabled.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 26 Apr 2018 10:52:04 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/04/26/blocker-x.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/04/26/blocker-x.html</guid>
       </item>
     
   </channel>
