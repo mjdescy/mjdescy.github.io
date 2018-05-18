@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/18/frozen-the-broadway.html",
+	      	
+			"title": "🎵 Frozen: The Broadway Musical",
+			
+			"content_html": "<p>Listening to the cast recording of “<a href=\"https://itunes.apple.com/us/album/frozen-broadway-musical-original-broadway-cast-recording/1378411252\">Frozen: The Broadway Musical</a>” for the first time is a bit surreal for me.  Compared to the movie, there are new songs, lyrics changes in existing songs, and, of course, different singers. I don’t think any of the changes are for the better. It’s hard to say for sure, though, because, as a parent of a little girl, I’ve heard the movie and the movie soundtrack about 1,000 times already, and it’s burned into my brain.</p>\n",
+			"date_published": "2018-05-18T15:21:01-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/18/frozen-the-broadway.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/18/while-i-think.html",
 	      	
 			"content_html": "<p>While I think I <em>want</em> a Nintendo Switch, I’m trying to make due for now with what I already have—an iPad Pro and a SteelSeries Nimbus controller—for now. I’m not sure I even want to commit the <em>time</em> to gaming, but I am curious about the latest Mario and Zelda games.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/9800db785e.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -213,16 +223,6 @@
 			"content_html": "<p><a href=\"https://nyti.ms/2q5d7oj\">This article</a> inspired me to install <a href=\"https://gethiya.app.link/phone-guard\">Hiya</a> on my iPhone to block spam calls. I will find out eventually how well it works. I get 5-10 robocalls per week, mostly from the same exchange as my mobile number or my Google Voice number.</p>\n\n<p>It seems to rely on a central service for all blocking rules, including an optional whitelist for your contacts and an optional rule based on your phone number for “neighbor” spam. It can identify and block a gigantic list of known spammers and robocallers, which is beyond what I need.</p>\n\n<p>Having looked at it, and its competition, it seems like there isn’t a good on-device-only call blocker for the super-privacy conscious who, like me, only want to whitelist contacts and blacklist all other numbers in a couple of area codes and exchanges. I really want to write one. It would have to be free, I think, based on the free competition out there—but it may fit a particular niche that is out there.</p>\n",
 			"date_published": "2018-05-07T20:09:55-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/07/robocalls-flooding-your.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/07/google-plus-still.html",
-	      	
-			"title": "Google Plus still exists. Why?",
-			
-			"content_html": "<p>I haven’t thought about this in a long time, but I am actually surprised that <a href=\"https://plus.google.com\">Google Plus</a> still exists. Considering how many products Google launches and kills each year for practically no reason, it’s astounding that one of its monumental flops has been allowed to limp along for so many years. I think it must still be around because either it still generates signals for Google (how many though, compared to other things?), or because it was tied in, at a technical level, to more valuable and integral services like Gmail. All I know is that its continued presence in the Google portfolio serves as yet another reminder to me about how unfocused Google is as an organization.</p>\n",
-			"date_published": "2018-05-06T21:10:09-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/06/google-plus-still.html"
 		}
 		
 	]
