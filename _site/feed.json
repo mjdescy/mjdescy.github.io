@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/18/while-i-think.html",
+	      	
+			"content_html": "<p>While I think I <em>want</em> a Nintendo Switch, I’m trying to make due for now with what I already have—an iPad Pro and a SteelSeries Nimbus controller—for now. I’m not sure I even want to commit the <em>time</em> to gaming, but I am curious about the latest Mario and Zelda games.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/9800db785e.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-18T10:16:15-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/18/while-i-think.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/18/blog-post-the.html",
 	      	
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/05/17/the-calm-before-the-wwdc-storm/\">The calm before the WWDC storm</a></p>\n",
@@ -215,14 +223,6 @@
 			"content_html": "<p>I haven’t thought about this in a long time, but I am actually surprised that <a href=\"https://plus.google.com\">Google Plus</a> still exists. Considering how many products Google launches and kills each year for practically no reason, it’s astounding that one of its monumental flops has been allowed to limp along for so many years. I think it must still be around because either it still generates signals for Google (how many though, compared to other things?), or because it was tied in, at a technical level, to more valuable and integral services like Gmail. All I know is that its continued presence in the Google portfolio serves as yet another reminder to me about how unfocused Google is as an organization.</p>\n",
 			"date_published": "2018-05-06T21:10:09-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/06/google-plus-still.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/06/im-making-bean.html",
-	      	
-			"content_html": "<p>I’m making 12-bean soup today, in an effort to get back to eating home-cooked, wholesome foods. Every few months, as work and family commitments change, my family gets off track. Hopefully we can right the ship now that is is spring.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/e977b23e44.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-06T11:12:49-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/06/im-making-bean.html"
 		}
 		
 	]
