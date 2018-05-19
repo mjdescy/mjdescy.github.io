@@ -6,6 +6,24 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/18/im-still-testing.html",
+	      	
+			"content_html": "<p>I’m <em>still</em> testing and fixing things in my dev build of SwiftoDo 2.12.0. It feels weird to have gone so long without issuing a release. I hope to get everything done next week. I have a very full weekend of family activities ahead of me, though, so I can’t do much till Monday.</p>\n",
+			"date_published": "2018-05-18T19:43:05-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/18/im-still-testing.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/18/carry-on-on.html",
+	      	
+			"title": "🎵 Carry On",
+			
+			"content_html": "<p>On this bad and sad news day, remember:</p>\n\n<blockquote>\n  <p>If you’re lost and alone<br />\nOr you’re sinking like a stone<br />\nCarry on<br />\nMay your past be the sound<br />\nOf your feed upon the ground and<br />\nCarry on</p>\n\n  <p>‘Cause we are, we are shining stars<br />\nWe are invincible<br />\nWe are who we are<br />\nOn our darkest day<br />\nWhen we’re miles away<br />\nSo we’ll come, we will find our way home</p>\n</blockquote>\n\n<p>Fun.’s “Carry On” works well, and feels quite different, in <a href=\"https://itunes.apple.com/us/album/carry-on-feat-shannon-purser-rise-cast-version/1382637611?i=1382638029\">this cover version by the cast of “Rise”</a>.</p>\n\n",
+			"date_published": "2018-05-18T16:31:06-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/18/carry-on-on.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/18/frozen-the-broadway.html",
 	      	
 			"title": "🎵 Frozen: The Broadway Musical",
@@ -18,7 +36,7 @@
 		{
 			"id": "http://mjdescy.micro.blog/2018/05/18/while-i-think.html",
 	      	
-			"content_html": "<p>While I think I <em>want</em> a Nintendo Switch, I’m trying to make due for now with what I already have—an iPad Pro and a SteelSeries Nimbus controller—for now. I’m not sure I even want to commit the <em>time</em> to gaming, but I am curious about the latest Mario and Zelda games.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/9800db785e.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"content_html": "<p>While I think I <em>want</em> a Nintendo Switch, I’m trying to make due for now with what I already have—an iPad Pro and a SteelSeries Nimbus controller. I’m not sure I even want to commit the <em>time</em> to gaming, but I am curious about the latest Mario and Zelda games.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/9800db785e.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-05-18T10:16:15-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/18/while-i-think.html"
 		},
@@ -205,24 +223,6 @@
 			"content_html": "<p>I am trying to get back into <a href=\"https://pinboard.in\">Pinboard</a>, the reliable and, a few years ago, faddish, “antisocial” bookmarking service.</p>\n\n<p>I had been using it as an archive of my old browser bookmarks, and as a “read it later” service to push articles to from Twitter and my RSS reader. I used to use it pretty consistently, with the help of an iOS app and a Chrome plugin for my Mac. When I went on an RSS and Twitter diet late last year, though, I kicked my Pinboard app off my phone as well. More recently, I wiped my Mac clean and reinstalled a bare minimum of apps and services, which did not include Chrome or the whatever Pinboard plugin I had been using with Safari. Since then, Safari and Google have been my bookmarking service, in that I don’t actually save any bookmarks, but rely on typing URLs or searches directly into the browser address bar most of the time.</p>\n\n<p>Recently, in part because iOS supports it in the long-press menu on every URL, I have been saving links to Apple’s built-in Safari Reading List. Saving bookmarks is as low-friction as can be, but reading them is, paradoxically, very high friction for me. I never think to dig into the second panel within Safari’s bookmarks to look for something to read. Consequently, my Safari Reading List has become a graveyard for links that I (think I) want to read but probably never will. Maybe that’s what is is actually for, and maybe that’s what I actually need.</p>\n\n<p>For fun, though, I’m going to try to use Pinboard more instead.</p>\n\n",
 			"date_published": "2018-05-08T10:44:53-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/08/trying-to-get.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/08/micro-monday-follow.html",
-	      	
-			"content_html": "<p>Micro Monday: Follow <a href=\"https://micro.blog/matigo\">@matigo</a>. He’s a lot like me, but lives halfway across the world (in Japan as opposed to New Jersey). He posts and replies to posts frequently, and is a great member of the Micro.blog community.</p>\n",
-			"date_published": "2018-05-08T00:04:36-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/08/micro-monday-follow.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/08/robocalls-flooding-your.html",
-	      	
-			"title": "Robocalls Flooding Your Cellphone? Here’s How to Stop Them",
-			
-			"content_html": "<p><a href=\"https://nyti.ms/2q5d7oj\">This article</a> inspired me to install <a href=\"https://gethiya.app.link/phone-guard\">Hiya</a> on my iPhone to block spam calls. I will find out eventually how well it works. I get 5-10 robocalls per week, mostly from the same exchange as my mobile number or my Google Voice number.</p>\n\n<p>It seems to rely on a central service for all blocking rules, including an optional whitelist for your contacts and an optional rule based on your phone number for “neighbor” spam. It can identify and block a gigantic list of known spammers and robocallers, which is beyond what I need.</p>\n\n<p>Having looked at it, and its competition, it seems like there isn’t a good on-device-only call blocker for the super-privacy conscious who, like me, only want to whitelist contacts and blacklist all other numbers in a couple of area codes and exchanges. I really want to write one. It would have to be free, I think, based on the free competition out there—but it may fit a particular niche that is out there.</p>\n",
-			"date_published": "2018-05-07T20:09:55-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/07/robocalls-flooding-your.html"
 		}
 		
 	]
