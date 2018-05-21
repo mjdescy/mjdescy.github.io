@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/21/i-took-a.html",
+	      	
+			"content_html": "<p>I took a new pair of headphones for a spin this evening. I think I may have a problem. 🎧😂</p>\n",
+			"date_published": "2018-05-20T23:50:32-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/20/i-took-a.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/20/blog-post-recess.html",
 	      	
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/05/20/recess-and-good-bones-or-selling-the-world-to-my-children/\">“Recess” and “Good Bones”, or selling the world to my children</a></p>\n",
@@ -211,16 +219,6 @@
 			"content_html": "<p>I’ve done a lot of work rewriting the Dropbox code in <a href=\"https://swiftodoapp.com\">SwiftoDo</a>. At this point, any error messages it generates are a now a little less well written—they are more generic—but they will appear more quickly, with greater consistency, and will reappear (as you would expect) each time Dropbox is accessed until the problem is fixed. Plus, the new error messages will provide a <em>little</em> more information about what went wrong than they did before. I hope it’s the right tradeoff.</p>\n",
 			"date_published": "2018-05-09T00:02:45-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/09/improving-dropboxrelated-error.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/08/okkervil-rivers-back.html",
-	      	
-			"title": "🎵 Okkervil River's back catalog",
-			
-			"content_html": "<p>Listening to Okkervil River’s new album, <em><a href=\"https://itunes.apple.com/us/album/in-the-rainbow-rain/1342462882\">In the Rainbow Rain</a></em>, today gave me an excuse to dive, once again, into their back catalog. I am a huge fan of the band’s 2005-2008 work, a trifecta of literate rock albums: <em><a href=\"https://itunes.apple.com/us/album/black-sheep-boy-10th-anniversary-edition/1036936862\">Black Sheep Boy</a></em>, <em><a href=\"https://itunes.apple.com/us/album/the-stand-ins/543561172\">The Stand Ins</a></em>, and <em><a href=\"https://itunes.apple.com/us/album/the-stage-names-bonus-track-version/453256340\">The Stage Names</a></em>. Each of these albums is a staggering artistic achievement; each song on them is an evocative short story with enough weight, depth, and maturity to reward repeated listenings.</p>\n\n<p>I haven’t spent nearly as many hours listening to their work since then, which which includes <em><a href=\"https://itunes.apple.com/us/album/the-silver-gymnasium/977288852\">The Silver Gymnasium</a></em> and <em><a href=\"https://itunes.apple.com/us/album/away/1113050258\">Away</a></em>. This, more recent, period is characterized by a darker, more somber tone. It’s easy to imagine the band’s frontman, and only consistent member now, Will Sheff, slowing down, looking back on life, and looking far forward to his eventual death. That’s way heavier stuff than what I normally listen to, but not <em>too</em> heavy to be enjoyable.</p>\n",
-			"date_published": "2018-05-08T17:01:35-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/08/okkervil-rivers-back.html"
 		}
 		
 	]
