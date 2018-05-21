@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/21/so-much-to.html",
+	      	
+			"content_html": "<p>So much to do today, I don’t even know where to begin…</p>\n",
+			"date_published": "2018-05-21T10:37:04-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/21/so-much-to.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/21/i-took-a.html",
 	      	
 			"content_html": "<p>I took a new pair of headphones for a spin this evening. I think I may have a problem. 🎧😂</p>\n",
@@ -209,16 +217,6 @@
 			"content_html": "<p>Wirecutter updated its <a href=\"https://thewirecutter.com/reviews/best-trackballs/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=RSS%20Feed\">trackballs review</a> today. Their recommendations are basically unchanged, which is no surprise, because the entire trackball market has been stagnant for years.</p>\n\n<p>Despite the lack of evolution in trackballs, I am a huge fan of them. I credit swapping my mouse for a trackball with reducing, to almost nothing, repetitive stress injuries from computing. I find trackballs to be more comfortable to use and more precise than both mice and trackpads. I actually have one for each my my machines (Mac and PC), and bring the smaller one with me when I travel for work.</p>\n\n<p>I can’t quibble with WireCutter’s top pick, but I disagree with their assessment of my main trackball, the <a href=\"https://www.kensington.com/en/ae/4493/k72327eu/slimblade-trackball\">Kensington SlimBlade</a>:</p>\n\n<blockquote>\n  <p>Instead of using a hardware scroll ring as on the Kensington Expert Mouse and Orbit with Scroll Ring, with the Kensington SlimBlade Trackball you have to rotate the ball to scroll, which is tough to do without bouncing the cursor around the screen. The SlimBlade’s buttons feel hollow compared with the Expert Mouse’s, and its shiny plastic and metal surfaces attract fingerprints.</p>\n</blockquote>\n\n<p>Sure, its buttons could be a little clickier, but rotating the ball to scroll without moving the cursor is actually pretty easy. Unlike the Expert Mouse, the SlimBlade doesn’t have an unnecessarily steep angle to it, so you can use it comfortably without a wrist rest. And, honestly, saying its “surfaces attract fingerprints” is just plain stupid. My iPad Pro screen, which is the finest screen in my entire house, “attracts fingerprints” too. I think product reviewers need to strike that quibble off their list.</p>\n",
 			"date_published": "2018-05-09T13:50:14-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/09/the-best-trackballs.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/09/improving-dropboxrelated-error.html",
-	      	
-			"title": "Improving Dropbox-related error messages in SwiftoDo",
-			
-			"content_html": "<p>I’ve done a lot of work rewriting the Dropbox code in <a href=\"https://swiftodoapp.com\">SwiftoDo</a>. At this point, any error messages it generates are a now a little less well written—they are more generic—but they will appear more quickly, with greater consistency, and will reappear (as you would expect) each time Dropbox is accessed until the problem is fixed. Plus, the new error messages will provide a <em>little</em> more information about what went wrong than they did before. I hope it’s the right tradeoff.</p>\n",
-			"date_published": "2018-05-09T00:02:45-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/09/improving-dropboxrelated-error.html"
 		}
 		
 	]
