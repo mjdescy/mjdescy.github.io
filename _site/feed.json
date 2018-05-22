@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/22/i-used-my.html",
+	      	
+			"content_html": "<p>I used my iPad Pro and Pencil to teach my (kindergarten-age) daughter (👩‍🔬) some <a href=\"http://bedtimemath.org\">bedtime math</a> for the first time tonight. She loved writing the numbers in different colors in Apple Notes. I loved writing on something I could easily erase. It was really fun.</p>\n",
+			"date_published": "2018-05-21T21:54:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/21/i-used-my.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/22/i-just-submitted.html",
+	      	
+			"content_html": "<p>I just submitted SwiftoDo 2.12.0 to the App Store. Hopefully it’s good enough! 😅 Expect a release toward the end of the week, if all goes well.</p>\n",
+			"date_published": "2018-05-21T21:26:58-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/21/i-just-submitted.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/21/so-much-to.html",
 	      	
 			"content_html": "<p>So much to do today, I don’t even know where to begin…</p>\n",
@@ -199,24 +215,6 @@
 			"content_html": "<p>I discovered this great <a href=\"https://www.nytimes.com/guides/crosswords/how-to-solve-a-crossword-puzzle\">primer on the New York Times crossword puzzle</a> (and crosswords in general) today. I wish I had known earlier that the <em>Saturday</em> puzzle, not the Sunday one, is the most difficult of the week.</p>\n\n",
 			"date_published": "2018-05-10T08:47:03-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/10/i-discovered-this.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/10/i-am-finding.html",
-	      	
-			"content_html": "<p>I am finding new people to follow every day or so on Micro.blog—mainly through the Discover feature, occasionally from Mentions, and weekly through the Micro Monday podcast. It is a slow but rewarding process.</p>\n",
-			"date_published": "2018-05-09T20:02:02-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/09/i-am-finding.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/09/the-best-trackballs.html",
-	      	
-			"title": "The Best Trackballs according to Wirecutter",
-			
-			"content_html": "<p>Wirecutter updated its <a href=\"https://thewirecutter.com/reviews/best-trackballs/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=RSS%20Feed\">trackballs review</a> today. Their recommendations are basically unchanged, which is no surprise, because the entire trackball market has been stagnant for years.</p>\n\n<p>Despite the lack of evolution in trackballs, I am a huge fan of them. I credit swapping my mouse for a trackball with reducing, to almost nothing, repetitive stress injuries from computing. I find trackballs to be more comfortable to use and more precise than both mice and trackpads. I actually have one for each my my machines (Mac and PC), and bring the smaller one with me when I travel for work.</p>\n\n<p>I can’t quibble with WireCutter’s top pick, but I disagree with their assessment of my main trackball, the <a href=\"https://www.kensington.com/en/ae/4493/k72327eu/slimblade-trackball\">Kensington SlimBlade</a>:</p>\n\n<blockquote>\n  <p>Instead of using a hardware scroll ring as on the Kensington Expert Mouse and Orbit with Scroll Ring, with the Kensington SlimBlade Trackball you have to rotate the ball to scroll, which is tough to do without bouncing the cursor around the screen. The SlimBlade’s buttons feel hollow compared with the Expert Mouse’s, and its shiny plastic and metal surfaces attract fingerprints.</p>\n</blockquote>\n\n<p>Sure, its buttons could be a little clickier, but rotating the ball to scroll without moving the cursor is actually pretty easy. Unlike the Expert Mouse, the SlimBlade doesn’t have an unnecessarily steep angle to it, so you can use it comfortably without a wrist rest. And, honestly, saying its “surfaces attract fingerprints” is just plain stupid. My iPad Pro screen, which is the finest screen in my entire house, “attracts fingerprints” too. I think product reviewers need to strike that quibble off their list.</p>\n",
-			"date_published": "2018-05-09T13:50:14-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/09/the-best-trackballs.html"
 		}
 		
 	]
