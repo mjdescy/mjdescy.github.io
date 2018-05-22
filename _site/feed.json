@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/22/first-listen-mean.html",
+	      	
+			"title": "🎵 First listen: Mean Girls (Original Broadway Cast)",
+			
+			"content_html": "<p><a href=\"https://itunes.apple.com/us/album/mean-girls-original-broadway-cast-recording/1372106911\">Mean Girls (Original Broadway Cast)</a> is up for the Tony for best musical this year, and I think it has a legitimate shot. While this <em>is</em> a weak year for the American musical, the music of “Mean Girls” is fun and catchy, and the lyrics are funny and full of wordplay. The singing and production of the cast album are top notch, too.</p>\n\n<p>I like it. The high school setting and girl-centric plot, though not the music, remind me a lot of “Bring It On”, which is another musical that has a fantastic cast album and works a lot better than you would think. I don’t know if this show will be a hit on Broadway, but I predict a long life on high school drama club stages in the future.</p>\n",
+			"date_published": "2018-05-22T16:08:22-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/22/first-listen-mean.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/22/headphones-review-sony.html",
 	      	
 			"content_html": "<p>🎧 Headphones review: <a href=\"https://www.amazon.com/review/RFS8V3M6O5RUK/\">Sony MDR-1AM2/B</a>.</p>\n",
@@ -207,14 +217,6 @@
 			"content_html": "<p>I came across this tonight, as I was perusing <a href=\"https://pinboard.in/faq/#cjk_search\">Pinboard’s FAQ</a>, trying to learn something different about the service that I have been ignoring for the past year or so.</p>\n\n<blockquote>\n  <p>Is it true the site admin can see private bookmarks?</p>\n\n  <p>Yes. I routinely look at raw bookmark data, which includes private bookmarks. Most of the time this means I look at URLs without any identifying context.</p>\n\n  <p>I try to avoid looking at private data on people’s individual pages. However, this is sometimes necessary in order to diagnose and fix bugs in Pinboard, such as search errors, or strange formatting in archived pages.</p>\n\n  <p>I use the metaphor of a hotel manager. I have a key that opens every room, but I try not to use it without a good reason. <strong>And I can assure everyone that five years of running this site has eliminated any trace of curiosity I might have had about what people bookmark.</strong></p>\n</blockquote>\n\n<p>(Emphasis is my own. 🤣)</p>\n",
 			"date_published": "2018-05-10T21:25:02-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/10/pure-gold-from.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/10/i-decided-to.html",
-	      	
-			"content_html": "<p>I decided to install some iOS games with MFi controller support on my iPad Pro. But…will I actually find time to play them? 🤷‍♂️</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/41dc26e584.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-05-10T15:48:22-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/10/i-decided-to.html"
 		}
 		
 	]
