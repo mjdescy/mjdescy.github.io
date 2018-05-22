@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/22/headphones-review-sony.html",
+	      	
+			"content_html": "<p>🎧 Headphones review: <a href=\"https://www.amazon.com/review/RFS8V3M6O5RUK/\">Sony MDR-1AM2/B</a>.</p>\n",
+			"date_published": "2018-05-22T11:14:17-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/22/headphones-review-sony.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/22/i-used-my.html",
 	      	
 			"content_html": "<p>I used my iPad Pro and Pencil to teach my (kindergarten-age) daughter (👩‍🔬) some <a href=\"http://bedtimemath.org\">bedtime math</a> for the first time tonight. She loved writing the numbers in different colors in Apple Notes. I loved writing on something I could easily erase. It was really fun.</p>\n",
@@ -207,14 +215,6 @@
 			"content_html": "<p>I decided to install some iOS games with MFi controller support on my iPad Pro. But…will I actually find time to play them? 🤷‍♂️</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/41dc26e584.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-05-10T15:48:22-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/10/i-decided-to.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/10/i-discovered-this.html",
-	      	
-			"content_html": "<p>I discovered this great <a href=\"https://www.nytimes.com/guides/crosswords/how-to-solve-a-crossword-puzzle\">primer on the New York Times crossword puzzle</a> (and crosswords in general) today. I wish I had known earlier that the <em>Saturday</em> puzzle, not the Sunday one, is the most difficult of the week.</p>\n\n",
-			"date_published": "2018-05-10T08:47:03-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/10/i-discovered-this.html"
 		}
 		
 	]
