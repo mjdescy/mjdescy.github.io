@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/24/im-enjoying-the.html",
+	      	
+			"content_html": "<p>📺 I’m enjoying the “remix” version of “Arrested Development” season 4 a lot better than the original version. I’m sure time passing and my expectations being lowered helped, but I prefer to see all (most) of the characters in the same episodes.</p>\n",
+			"date_published": "2018-05-24T12:16:47-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/24/im-enjoying-the.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/23/i-was-so.html",
 	      	
 			"content_html": "<p>I was so busy today that I forgot to blog! Hours of data analysis and database development will do that to me. It’s a beautiful sunny evening, and I’m heading off to a barbecue with my family now.</p>\n",
@@ -203,16 +211,6 @@
 			"content_html": "<p>Today was a great Mother’s Day. Probably the best I can remember. We just spent it at home, and at my in-laws’ home, with family.</p>\n",
 			"date_published": "2018-05-13T22:26:13-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/13/today-was-a.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/11/from-spotify-to.html",
-	      	
-			"title": "From Spotify to Indie and Beyond: A Top Dev Interview With John Sundell",
-			
-			"content_html": "<p>I enjoyed this interview with Swift expert, blogger, and podcaster John Sundell (<a href=\"https://micro.blog/johnsundell\">@johnsundell</a>): \n<a href=\"https:/z/www.raywenderlich.com/192589/from-spotify-to-indie-and-beyond-a-top-dev-interview-with-john-sundell\">From Spotify to Indie and Beyond: A Top Dev Interview With John Sundell</a>. I have learned a lot from John’s weekly blog, <a href=\"https://www.swiftbysundell.com\">Swift by Sundell</a>, in the past year or so, and always enjoy his contributions to the Swift programming community.</p>\n",
-			"date_published": "2018-05-11T13:16:51-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/11/from-spotify-to.html"
 		}
 		
 	]
