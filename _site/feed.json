@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/23/i-was-so.html",
+	      	
+			"content_html": "<p>I was so busy today that I forgot to blog! Hours of data analysis and database development will do that to me. It’s a beautiful sunny evening, and I’m heading off to a barbecue with my family now.</p>\n",
+			"date_published": "2018-05-23T17:02:23-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/23/i-was-so.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/23/im-pretty-proud.html",
 	      	
 			"content_html": "<p>I’m pretty proud of my Ulysses library setup—at least the top level folder structure. My subfolders need a bit more organization, though.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/1115f805e0.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -205,16 +213,6 @@
 			"content_html": "<p>I enjoyed this interview with Swift expert, blogger, and podcaster John Sundell (<a href=\"https://micro.blog/johnsundell\">@johnsundell</a>): \n<a href=\"https:/z/www.raywenderlich.com/192589/from-spotify-to-indie-and-beyond-a-top-dev-interview-with-john-sundell\">From Spotify to Indie and Beyond: A Top Dev Interview With John Sundell</a>. I have learned a lot from John’s weekly blog, <a href=\"https://www.swiftbysundell.com\">Swift by Sundell</a>, in the past year or so, and always enjoy his contributions to the Swift programming community.</p>\n",
 			"date_published": "2018-05-11T13:16:51-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/11/from-spotify-to.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/11/frightened-rabbit-singer.html",
-	      	
-			"title": "🎵 Frightened Rabbit singer commits suicide 😥",
-			
-			"content_html": "<p>(My original title was just an expletive.)</p>\n\n<p><a href=\"http://www.bbc.com/news/uk-scotland-44079462\">Body confirmed as missing Frightened Rabbit singer - BBC News</a>:</p>\n\n<blockquote>\n  <p>“Depression is a horrendous illness that does not give you any alert or indication as to when it will take hold of you”, it added.</p>\n\n  <p>“Scott battled bravely with his own issues for many years and we are immensely proud of him for being so open with his struggles.</p>\n\n  <p>“His willingness to discuss these matters in the public domain undoubtedly raised awareness of mental health issues and gave others confidence and belief to discuss their own issues.”</p>\n</blockquote>\n\n<p>I’m so upset. I <em>love</em> Frightened Rabbit. It was no secret that Scott Hutchison suffered from depression, anxiety, and who knows what else—it’s <em>all over</em> his arch, wry lyrics. Go listen to “<a href=\"https://itunes.apple.com/us/album/keep-yourself-warm/917524230?i=917524306\">Keep Yourself Warm</a>” to get an idea of what a great singer/songwriter he was.</p>\n",
-			"date_published": "2018-05-11T09:49:38-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/11/frightened-rabbit-singer.html"
 		}
 		
 	]
