@@ -4,8 +4,26 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Thu, 24 May 2018 20:18:37 -0400</pubDate>
-    <lastBuildDate>Thu, 24 May 2018 20:18:37 -0400</lastBuildDate>
+    <pubDate>Fri, 25 May 2018 14:58:29 -0400</pubDate>
+    <lastBuildDate>Fri, 25 May 2018 14:58:29 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I did &lt;em&gt;not&lt;/em&gt; expect the Red Sox to &lt;a href=&quot;http://mlb.com/r/article?ymd=20180525&amp;amp;content_id=278245918&amp;amp;vkey=news_bos&amp;amp;c_id=bos&quot;&gt;designate Hanley Ramirez for assignment&lt;/a&gt; to make room for Dustin Pedroia.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 May 2018 14:58:26 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/05/25/i-did-not.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/25/i-did-not.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://swiftodoapp.com&quot;&gt;SwiftoDo 2.12.0&lt;/a&gt; is now available &lt;a href=&quot;https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;amp;mt=8&quot;&gt;in the App Store&lt;/a&gt;.  New features include a default option for new tasks, and an option to retain priority when completing tasks. There are tons of under-the-hood improvements, too.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 May 2018 09:05:12 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/05/25/130512.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/25/130512.html</guid>
+      </item>
     
       <item>
       	
@@ -621,30 +639,6 @@ So we’ll come, we will find our way home&lt;/p&gt;
         <pubDate>Wed, 02 May 2018 14:07:59 -0400</pubDate>
         <link>https://mjdescy.micro.blog/2018/05/02/two-of-the.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/02/two-of-the.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>Remote login Inception</title>
-        
-        <description>&lt;p&gt;At work, our clients are far more interested in information security than they used to be. That’s great, and I applaud them for it. Of course, as a user of their systems, there is a trade-off in terms of convenience.&lt;/p&gt;
-
-&lt;p&gt;Lately, logging into remote systems seems like entering a-dream-within-a-dream-within-a-dream—a la &lt;em&gt;&lt;a href=&quot;https://www.imdb.com/title/tt1375666/&quot;&gt;Inception&lt;/a&gt;&lt;/em&gt;. Instead of merely using Remote Desktop to log into systems with a single username/password, we now follow in-depth login procedures using virtualization software, RSA tokens that generate unique, one-time passwords, Remote Desktop logins, and systems logins.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 02 May 2018 11:26:56 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/02/remote-login-inception.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/02/remote-login-inception.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>Who cares about Apple earnings reports?</title>
-        
-        <description>&lt;p&gt;Do Windows fans care about Microsoft’s earnings? Do Android fans care about Google’s? I wonder if the main reason Apple fans (non-investors) &lt;a href=&quot;https://sixcolors.com/post/2018/05/apple-quarterly-results-charts-live-tweets/&quot;&gt;cheer on Apple’s good earnings reports&lt;/a&gt; is that Apple almost went out of business in the 1990s. Unless the company is going out of business, or if you have tied a lot of your money up with them somehow, who cares about its quarterly earnings report?&lt;/p&gt;
-</description>
-        <pubDate>Tue, 01 May 2018 22:59:11 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/01/who-cares-about.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/02/who-cares-about.html</guid>
       </item>
     
   </channel>
