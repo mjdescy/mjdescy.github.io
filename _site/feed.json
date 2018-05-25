@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/25/001805.html",
+	      	
+			"title": "It looks like Essential is going away",
+			
+			"content_html": "<p><a href=\"https://www.bloomberg.com/news/articles/2018-05-24/andy-rubin-s-phone-maker-essential-is-said-to-consider-sale\">Android Creator Puts Essential Up for Sale, Cancels Next Phone - Bloomberg</a></p>\n\n<blockquote>\n  <p>Current discussions are focused on a sale of the entire company, including its patent portfolio, hardware products like the original smartphone, an upcoming smart home device and a camera attachment for the phone, said the people, who asked not to be identified because the talks are private.</p>\n</blockquote>\n\n<p>I got an Essential Phone in its release date, and was optimistic that the company would succeed. It looks like it hasn’t. Their first phone <em>did</em> have a bad camera experience (hardware and software-wise), which probably prevented any chance of success from the start. The Pixel and the Galaxy phones put it to shame. Plus, it must be next to impossible to make money selling Android phones. It’s not a business I would want to be in.</p>\n",
+			"date_published": "2018-05-24T20:18:05-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/24/001805.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/24/im-enjoying-the.html",
 	      	
 			"content_html": "<p>📺 I’m enjoying the “remix” version of “Arrested Development” season 4 a lot better than the original version. I’m sure time passing and my expectations being lowered helped, but I prefer to see all (most) of the characters in the same episodes.</p>\n",
@@ -203,14 +213,6 @@
 			"content_html": "<p>I have been testing what I thought would be SwiftoDo’s next release build all day. All day, Dropbox has been throwing error messages, making me think my code is messed up. Now, the same code is <em>not</em> throwing those error messages. It must be internet weather or something.</p>\n",
 			"date_published": "2018-05-14T21:59:43-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/14/015943.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/14/today-was-a.html",
-	      	
-			"content_html": "<p>Today was a great Mother’s Day. Probably the best I can remember. We just spent it at home, and at my in-laws’ home, with family.</p>\n",
-			"date_published": "2018-05-13T22:26:13-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/13/today-was-a.html"
 		}
 		
 	]
