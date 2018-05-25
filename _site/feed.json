@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/25/i-did-not.html",
+	      	
+			"content_html": "<p>I did <em>not</em> expect the Red Sox to <a href=\"http://mlb.com/r/article?ymd=20180525&amp;content_id=278245918&amp;vkey=news_bos&amp;c_id=bos\">designate Hanley Ramirez for assignment</a> to make room for Dustin Pedroia.</p>\n",
+			"date_published": "2018-05-25T14:58:26-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/25/i-did-not.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/25/130512.html",
+	      	
+			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.12.0</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>.  New features include a default option for new tasks, and an option to retain priority when completing tasks. There are tons of under-the-hood improvements, too.</p>\n",
+			"date_published": "2018-05-25T09:05:12-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/25/130512.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/25/001805.html",
 	      	
 			"title": "It looks like Essential is going away",
@@ -197,22 +213,6 @@
 			"content_html": "<p>Am I late to the game with using semaphores, or are all the cool (cool?) kids using them these days?</p>\n",
 			"date_published": "2018-05-15T10:16:27-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/15/am-i-late.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/15/im-loving-the.html",
-	      	
-			"content_html": "<p>I’m loving the second season of “Westworld” so far. I can’t wait to see how it all comes together in the end.</p>\n",
-			"date_published": "2018-05-15T00:59:17-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/15/im-loving-the.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/15/015943.html",
-	      	
-			"content_html": "<p>I have been testing what I thought would be SwiftoDo’s next release build all day. All day, Dropbox has been throwing error messages, making me think my code is messed up. Now, the same code is <em>not</em> throwing those error messages. It must be internet weather or something.</p>\n",
-			"date_published": "2018-05-14T21:59:43-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/14/015943.html"
 		}
 		
 	]
