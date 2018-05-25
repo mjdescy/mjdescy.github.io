@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/25/i-unfollowed-about.html",
+	      	
+			"content_html": "<p>I unfollowed about 275 accounts on Twitter this afternoon. My Twitter feed had started to resemble a junk drawer to me. One thing I noticed is that 90% of the accounts I followed had not posted anything in months. (Let’s not even talk about how many bots are following <em>me</em>.)</p>\n",
+			"date_published": "2018-05-25T16:34:44-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/25/i-unfollowed-about.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/25/i-did-not.html",
 	      	
 			"content_html": "<p>I did <em>not</em> expect the Red Sox to <a href=\"http://mlb.com/r/article?ymd=20180525&amp;content_id=278245918&amp;vkey=news_bos&amp;c_id=bos\">designate Hanley Ramirez for assignment</a> to make room for Dustin Pedroia.</p>\n",
@@ -205,14 +213,6 @@
 			"content_html": "<p>Work has been heating up for me lately, which is good all around, but a change nonetheless. It’s good to have lots of work to look forward to each day. It’s bad to feel like there’s so much you can’t finish each day, too.</p>\n",
 			"date_published": "2018-05-15T17:05:56-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/15/work-has-been.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/15/am-i-late.html",
-	      	
-			"content_html": "<p>Am I late to the game with using semaphores, or are all the cool (cool?) kids using them these days?</p>\n",
-			"date_published": "2018-05-15T10:16:27-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/15/am-i-late.html"
 		}
 		
 	]
