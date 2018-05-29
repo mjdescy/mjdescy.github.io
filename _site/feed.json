@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/28/i-am-a.html",
+	      	
+			"content_html": "<p>🎙 I am a sucker for an Upgrade draft episode: <a href=\"https://overcast.fm/+Fcm-3QFAw\">The WWDC keynote Draft 2018</a></p>\n",
+			"date_published": "2018-05-28T19:38:28-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/28/i-am-a.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/28/all-weekends-should.html",
 	      	
 			"content_html": "<p>All weekends should be 3 days long…if not 5! 😀</p>\n",
@@ -205,14 +213,6 @@
 			"content_html": "<p>My brain’s boot-up time is taking longer than usual today. ☕️☕️☕️</p>\n",
 			"date_published": "2018-05-17T09:14:32-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/17/my-brains-bootup.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/16/the-cast-of.html",
-	      	
-			"content_html": "<p>The <em>cast</em> of <em>Solo</em> certainly is  appealing, even if <a href=\"https://slate.com/culture/2018/05/solo-the-new-star-wars-movie-reviewed.html\">the movie itself may be largely inconsequential</a>. To think, I used to care more about the <em>director</em> than the cast. 🎬</p>\n",
-			"date_published": "2018-05-15T20:09:50-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/15/the-cast-of.html"
 		}
 		
 	]
