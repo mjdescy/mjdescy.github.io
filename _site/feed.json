@@ -6,6 +6,38 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/30/here-is-a.html",
+	      	
+			"content_html": "<p>Here is a wrapper class to hide implementation details in Microsoft Access VBA projects: <a href=\"https://gist.github.com/mjdescy/6c89c5969c3618e220814c6d04f6e449\">DAOQueryRunner.cls</a>. <a href=\"https://gist.github.com/mjdescy/621e03e8d2dd83984d83ec83ca05c6fc\">DAOTemporaryTableController.cls</a> relies on this.</p>\n",
+			"date_published": "2018-05-30T15:22:13-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/30/here-is-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/30/this-vba-class.html",
+	      	
+			"content_html": "<p>This VBA class helps you work with temporary tables in Access VBA projects: <a href=\"https://gist.github.com/mjdescy/621e03e8d2dd83984d83ec83ca05c6fc\">DAOTemporaryTableController.cls</a>. You may need to do so if you want to join using a subquery as criteria, which Access does not allow.</p>\n",
+			"date_published": "2018-05-30T15:21:21-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/30/this-vba-class.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/30/185723.html",
+	      	
+			"content_html": "<p>I decided to make use of <a href=\"https://gist.github.com/\">GitHub Gists</a> again. My first gist in several years is <a href=\"https://gist.github.com/mjdescy/5b14043d0c3f3bb1e12f4046a0eb96db\">LoggedInUserName.bas</a>: a VBA module to get logged in user name from the Windows API.</p>\n",
+			"date_published": "2018-05-30T14:57:23-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/30/185723.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/30/this-new-york.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/2018/05/29/climate/recycling-landfills-plastic-papers.html\">This New York Times article</a> comfirms some of my suspicions that a lot of what we recycle does not actually get recycled. It amazes me that we ship recyclables around the world for processing.</p>\n",
+			"date_published": "2018-05-30T09:40:58-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/30/this-new-york.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/28/i-am-a.html",
 	      	
 			"content_html": "<p>🎙 I am a sucker for an Upgrade draft episode: <a href=\"https://overcast.fm/+Fcm-3QFAw\">The WWDC keynote Draft 2018</a></p>\n",
@@ -179,40 +211,6 @@
 			"content_html": "<p>While I think I <em>want</em> a Nintendo Switch, I’m trying to make due for now with what I already have—an iPad Pro and a SteelSeries Nimbus controller. I’m not sure I even want to commit the <em>time</em> to gaming, but I am curious about the latest Mario and Zelda games.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/9800db785e.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-05-18T10:16:15-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/18/while-i-think.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/18/blog-post-the.html",
-	      	
-			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/05/17/the-calm-before-the-wwdc-storm/\">The calm before the WWDC storm</a></p>\n",
-			"date_published": "2018-05-17T23:51:49-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/17/blog-post-the.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/18/googles-attractive-by.html",
-	      	
-			"content_html": "<p>Google’s attractive but less information dense redesign of Google News may be the thing that finally breaks my addiction to it.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/c4fea0b7e1.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-17T22:00:27-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/17/googles-attractive-by.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/17/googles-music-and.html",
-	      	
-			"title": "Google's music and video streaming strategy is a mess",
-			
-			"content_html": "<p><a href=\"https://www.engadget.com/2018/05/17/google-play-youtube-music-premium-strategy/\">Engadget has it right</a>. I have no idea what Google audio/video service I should ever consider subscribing to, and because music is tied in there, they don’t offer what I want (ad-free YouTube) at price that is reasonable to me. Maybe it doesn’t matter, because Google will just fold it and create an alternative service, with a different name, price, and product mix, in a couple years anyway.</p>\n\n<p>As much as I rely on Google Search, and as much as I use, indifferently, Gmail, I just don’t understand Google as a company. Their central strategy appears to be “no strategy”. They try stuff out, kill it if it fails, and iterate on what succeeds. This process is fun to watch when the company is a young startup, but is a bit much to bear when they are one of the four pillars of the internet.</p>\n\n<p>If my kids didn’t love YouTube, but hate the ads, I wouldn’t think about subscribing to YouTube Premium (or is it YouTube Red? or is it YouTube Music?) at all. If Google cared about customers like me—very light YouTube viewers who would pay a small amount of money to not be interrupted by ads—I would send them some money each month.</p>\n",
-			"date_published": "2018-05-17T12:28:39-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/17/googles-music-and.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/17/my-brains-bootup.html",
-	      	
-			"content_html": "<p>My brain’s boot-up time is taking longer than usual today. ☕️☕️☕️</p>\n",
-			"date_published": "2018-05-17T09:14:32-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/17/my-brains-bootup.html"
 		}
 		
 	]
