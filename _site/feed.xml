@@ -4,8 +4,44 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Mon, 28 May 2018 19:38:59 -0400</pubDate>
-    <lastBuildDate>Mon, 28 May 2018 19:38:59 -0400</lastBuildDate>
+    <pubDate>Wed, 30 May 2018 15:22:16 -0400</pubDate>
+    <lastBuildDate>Wed, 30 May 2018 15:22:16 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Here is a wrapper class to hide implementation details in Microsoft Access VBA projects: &lt;a href=&quot;https://gist.github.com/mjdescy/6c89c5969c3618e220814c6d04f6e449&quot;&gt;DAOQueryRunner.cls&lt;/a&gt;. &lt;a href=&quot;https://gist.github.com/mjdescy/621e03e8d2dd83984d83ec83ca05c6fc&quot;&gt;DAOTemporaryTableController.cls&lt;/a&gt; relies on this.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 May 2018 15:22:13 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/05/30/here-is-a.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/30/here-is-a.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;This VBA class helps you work with temporary tables in Access VBA projects: &lt;a href=&quot;https://gist.github.com/mjdescy/621e03e8d2dd83984d83ec83ca05c6fc&quot;&gt;DAOTemporaryTableController.cls&lt;/a&gt;. You may need to do so if you want to join using a subquery as criteria, which Access does not allow.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 May 2018 15:21:21 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/05/30/this-vba-class.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/30/this-vba-class.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I decided to make use of &lt;a href=&quot;https://gist.github.com/&quot;&gt;GitHub Gists&lt;/a&gt; again. My first gist in several years is &lt;a href=&quot;https://gist.github.com/mjdescy/5b14043d0c3f3bb1e12f4046a0eb96db&quot;&gt;LoggedInUserName.bas&lt;/a&gt;: a VBA module to get logged in user name from the Windows API.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 May 2018 14:57:23 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/05/30/185723.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/30/185723.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2018/05/29/climate/recycling-landfills-plastic-papers.html&quot;&gt;This New York Times article&lt;/a&gt; comfirms some of my suspicions that a lot of what we recycle does not actually get recycled. It amazes me that we ship recyclables around the world for processing.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 May 2018 09:40:58 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/05/30/this-new-york.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/30/this-new-york.html</guid>
+      </item>
     
       <item>
       	
@@ -537,82 +573,6 @@ So we’ll come, we will find our way home&lt;/p&gt;
         <pubDate>Sun, 06 May 2018 11:12:49 -0400</pubDate>
         <link>https://mjdescy.micro.blog/2018/05/06/im-making-bean.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/06/im-making-bean.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>My 300th post on Micro.blog</title>
-        
-        <description>&lt;p&gt;According to my Account page, this is my 300th post on Micro.blog. I thought I would share some stats:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Micro.blog posts: 300&lt;/li&gt;
-  &lt;li&gt;Days on the platform: 136 (joined 2017-12-19)&lt;/li&gt;
-  &lt;li&gt;Average posts per day: 2.2&lt;/li&gt;
-  &lt;li&gt;How many people I follow: 131&lt;/li&gt;
-  &lt;li&gt;How many people follow me: I have no idea, and that is fine&lt;/li&gt;
-  &lt;li&gt;How much engagement I get from other users: a pleasingly good amount&lt;/li&gt;
-  &lt;li&gt;How much I happily paid Manton for Micro.blog hosting thus far: $30 USD ($5/month, not including the free trial period)&lt;/li&gt;
-  &lt;li&gt;How little I could have paid, if I wanted: $0 for a WordPress.com blog or $1/month for an inexpensive WordPress host, plus the free Micro.blog account&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Micro.blog has gotten me into blogging again after a long time away from it. I enjoy owning my own content, the focus on &lt;em&gt;writing&lt;/em&gt; rather than liking or retweeting, and, most of all, the lack of &lt;em&gt;friction&lt;/em&gt; in the platform.  Posting short or long form content is as simple as can be, and I don’t have a WordPress install and/or server to maintain.&lt;/p&gt;
-
-&lt;p&gt;I am having fun on the platform and look forward to continuing to do so.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 04 May 2018 21:17:27 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/04/my-th-post.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/05/my-th-post.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>Google News is getting more video</title>
-        
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/2018/5/4/17320190/google-news-update-video-youtube-amp&quot;&gt;Google News is getting a revamp with more video and faster load times - The Verge&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Google is giving Google News a redesign that will bring in elements from its Newsstand app and YouTube, according to sources who spoke with AdAge.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;More video? Gee, no thanks! Maybe I should give Apple News a try again…&lt;/p&gt;
-</description>
-        <pubDate>Fri, 04 May 2018 20:26:48 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/04/google-news-is.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/05/google-news-is.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>🎵 Groundhog Day the Musical</title>
-        
-        <description>&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://itunes.apple.com/us/album/groundhog-day-musical-original-broadway-cast-recording/1215389487&quot;&gt;Groundhog Day&lt;/a&gt;&lt;/em&gt; is my second favorite Broadway musical of last year (closely behind “Dear Evan Hansen”, which has more plot-related problems but really terrific music), and the only one I saw. I revisit the cast album from time to time, because it is terrific, and multiple listens reveal hidden depth in the earthy lyrics.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.broadwayworld.com/article/BWW-CD-Review-GROUNDHOG-DAY-THE-MUSICAL-Original-Broadway-Cast-Recording-is-Charmingly-Animated-20170516&quot;&gt;Broadway World’s review of the cast album&lt;/a&gt; is remarkably spot on.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;On first listen, Minchin’s melodies are captivating. They are undeniably more poppy than his dark, moody, and undulating score for MATILDA; however, it’s obvious that he has written each of these compositions with the same consideration and care that he did with MATILDA. Despite the more simplistic sounding and pop aural soundscape, the melodies are intricately layered showing an artistry and skill that is not apparent in one listening.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I hope Tim Minchin keeps writing musicals. His music and lyrics for his prior show, &lt;em&gt;Matilda&lt;/em&gt;, are a masterpiece. (Listen to the London cast recording over the Broadway one if you can; it is a &lt;em&gt;far&lt;/em&gt; better performance, though it is missing some of Matilda’s monologues.) “Groundhog Day” doesn’t quite rank as a masterpiece in my book, but it is really, really good.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 04 May 2018 19:35:30 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/04/groundhog-day-the.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/04/groundhog-day-the.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>Listening to Podcasts without Voice Boost</title>
-        
-        <description>&lt;p&gt;I am &lt;em&gt;so&lt;/em&gt; accustomed to listening to Podcasts with &lt;a href=&quot;https://overcast.fm&quot;&gt;Overcast&lt;/a&gt;’s “Voice Boost” feature that, when I turn it off (as I’m doing today, because my Bluetooth headphones are too loud) my podcasts sound flat and lifeless.&lt;/p&gt;
-
-&lt;p&gt;I wonder, though, why more podcast producers don’t run their episodes through dynamic compression and EQ filters (“Voice Boost”) prior to publishing. For that matter, why don’t they “shorten silences” on their end, too? That way, everyone could benefit from better audio quality and a shorter runtime. I suspect that some of big, radio-show-based podcasts do, but it’s obvious that most other podcasts don’t.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 04 May 2018 09:14:54 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/04/listening-to-podcasts.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/04/listening-to-podcasts.html</guid>
       </item>
     
   </channel>
