@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/31/its-silly-but.html",
+	      	
+			"content_html": "<p>It’s silly, but I am a little disappointed that AirPlay 2 will <em>not</em> be available on both Bang &amp; Olufsen and B&amp;O PLAY speakers until sometime during August or September 2018. I want multi room streaming with my BeoPlay M3 and my Apple TV <em>now</em>.</p>\n",
+			"date_published": "2018-05-31T14:10:02-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/31/its-silly-but.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/31/im-finalizing-another.html",
+	      	
+			"content_html": "<p>I’m finalizing another minor version update to SwiftoDo this week, despite <a href=\"https://mjdescy.me/2018/04/28/swiftodo-development-notes-april-2018/\">the development freeze I had promised on my blog</a>.</p>\n",
+			"date_published": "2018-05-31T13:36:31-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/31/im-finalizing-another.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/30/here-is-a.html",
 	      	
 			"content_html": "<p>Here is a wrapper class to hide implementation details in Microsoft Access VBA projects: <a href=\"https://gist.github.com/mjdescy/6c89c5969c3618e220814c6d04f6e449\">DAOQueryRunner.cls</a>. <a href=\"https://gist.github.com/mjdescy/621e03e8d2dd83984d83ec83ca05c6fc\">DAOTemporaryTableController.cls</a> relies on this.</p>\n",
@@ -193,24 +209,6 @@
 			"content_html": "<p>On this bad and sad news day, remember:</p>\n\n<blockquote>\n  <p>If you’re lost and alone<br />\nOr you’re sinking like a stone<br />\nCarry on<br />\nMay your past be the sound<br />\nOf your feed upon the ground and<br />\nCarry on</p>\n\n  <p>‘Cause we are, we are shining stars<br />\nWe are invincible<br />\nWe are who we are<br />\nOn our darkest day<br />\nWhen we’re miles away<br />\nSo we’ll come, we will find our way home</p>\n</blockquote>\n\n<p>Fun.’s “Carry On” works well, and feels quite different, in <a href=\"https://itunes.apple.com/us/album/carry-on-feat-shannon-purser-rise-cast-version/1382637611?i=1382638029\">this cover version by the cast of “Rise”</a>.</p>\n\n",
 			"date_published": "2018-05-18T16:31:06-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/18/carry-on-on.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/18/frozen-the-broadway.html",
-	      	
-			"title": "🎵 Frozen: The Broadway Musical",
-			
-			"content_html": "<p>Listening to the cast recording of “<a href=\"https://itunes.apple.com/us/album/frozen-broadway-musical-original-broadway-cast-recording/1378411252\">Frozen: The Broadway Musical</a>” for the first time is a bit surreal for me.  Compared to the movie, there are new songs, lyrics changes in existing songs, and, of course, different singers. I don’t think any of the changes are for the better. It’s hard to say for sure, though, because, as a parent of a little girl, I’ve heard the movie and the movie soundtrack about 1,000 times already, and it’s burned into my brain.</p>\n",
-			"date_published": "2018-05-18T15:21:01-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/18/frozen-the-broadway.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/18/while-i-think.html",
-	      	
-			"content_html": "<p>While I think I <em>want</em> a Nintendo Switch, I’m trying to make due for now with what I already have—an iPad Pro and a SteelSeries Nimbus controller. I’m not sure I even want to commit the <em>time</em> to gaming, but I am curious about the latest Mario and Zelda games.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/9800db785e.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-18T10:16:15-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/18/while-i-think.html"
 		}
 		
 	]
