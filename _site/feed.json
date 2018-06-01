@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/05/31/235323.html",
+	      	
+			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.13.0</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. New features include a new hardware keyboard shortcut to paste into the task list, a long-press gesture on iPad to edit tasks in the task list, and some bug fixes.</p>\n",
+			"date_published": "2018-05-31T19:53:23-04:00",
+			"url": "https://mjdescy.micro.blog/2018/05/31/235323.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/05/31/i-finally-retired.html",
 	      	
 			"content_html": "<p>I finally “retired” my 9-year-old AeroPress today, in favor of a new one. The plunger end on the old one wore down to the point where it was causing problems. It will be nice to have a spare cap and coffee measuring scoop going forward.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/05/20/recess-and-good-bones-or-selling-the-world-to-my-children/\">“Recess” and “Good Bones”, or selling the world to my children</a></p>\n",
 			"date_published": "2018-05-20T09:12:04-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/20/blog-post-recess.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/18/im-still-testing.html",
-	      	
-			"content_html": "<p>I’m <em>still</em> testing and fixing things in my dev build of SwiftoDo 2.12.0. It feels weird to have gone so long without issuing a release. I hope to get everything done next week. I have a very full weekend of family activities ahead of me, though, so I can’t do much till Monday.</p>\n",
-			"date_published": "2018-05-18T19:43:05-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/18/im-still-testing.html"
 		}
 		
 	]
