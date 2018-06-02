@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/06/02/its-a-muggy.html",
+	      	
+			"content_html": "<p>It’s a muggy day in New Jersey, which is a great excuse to go to the beach. Plus there are <em>rides</em> on the boardwalk for the kids.</p>\n",
+			"date_published": "2018-06-02T10:57:11-04:00",
+			"url": "https://mjdescy.micro.blog/2018/06/02/its-a-muggy.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/06/01/224618.html",
 	      	
 			"content_html": "<p>My wife and I are <em>way</em> back in the auditorium, waiting for “An Evening with Stephen Sondheim” to begin.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/637b3aa3c2.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>So much to do today, I don’t even know where to begin…</p>\n",
 			"date_published": "2018-05-21T10:37:04-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/21/so-much-to.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/21/i-took-a.html",
-	      	
-			"content_html": "<p>I took a new pair of headphones for a spin this evening. I think I may have a problem. 🎧😂</p>\n",
-			"date_published": "2018-05-20T23:50:32-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/20/i-took-a.html"
 		}
 		
 	]
