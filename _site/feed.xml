@@ -4,8 +4,19 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Sat, 02 Jun 2018 10:57:19 -0400</pubDate>
-    <lastBuildDate>Sat, 02 Jun 2018 10:57:19 -0400</lastBuildDate>
+    <pubDate>Sat, 02 Jun 2018 22:09:06 -0400</pubDate>
+    <lastBuildDate>Sat, 02 Jun 2018 22:09:06 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I am digging my old, blue, knockoff Apple Watch Sport Band again. I kind of wish I bought the real, fluoroelastomer band, though, because the silicone feels a little sticky and looks a little shiny.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://mjdescy.micro.blog/uploads/2018/d4b3df44f8.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Jun 2018 22:09:04 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/06/02/i-am-digging.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/03/i-am-digging.html</guid>
+      </item>
     
       <item>
       	
@@ -541,17 +552,6 @@ So we’ll come, we will find our way home&lt;/p&gt;
         <pubDate>Wed, 09 May 2018 13:50:14 -0400</pubDate>
         <link>https://mjdescy.micro.blog/2018/05/09/the-best-trackballs.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/09/the-best-trackballs.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>Improving Dropbox-related error messages in SwiftoDo</title>
-        
-        <description>&lt;p&gt;I’ve done a lot of work rewriting the Dropbox code in &lt;a href=&quot;https://swiftodoapp.com&quot;&gt;SwiftoDo&lt;/a&gt;. At this point, any error messages it generates are a now a little less well written—they are more generic—but they will appear more quickly, with greater consistency, and will reappear (as you would expect) each time Dropbox is accessed until the problem is fixed. Plus, the new error messages will provide a &lt;em&gt;little&lt;/em&gt; more information about what went wrong than they did before. I hope it’s the right tradeoff.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 09 May 2018 00:02:45 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/09/improving-dropboxrelated-error.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/09/improving-dropboxrelated-error.html</guid>
       </item>
     
   </channel>
