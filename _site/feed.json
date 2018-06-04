@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/06/03/i-love-this.html",
+	      	
+			"content_html": "<p>I love <a href=\"http://aplus.rs/2017/much-ado-about-ios-app-architecture/\">this article about iOS app architecture</a>:</p>\n\n<blockquote>\n  <p>Cocoa Touch is (I suspect) deliberately very simple: there’s Target-Action pattern, Dependency Injection, Delegate and MVC. That’s about it, really. Apparently it’s way too simple for some.</p>\n</blockquote>\n\n<p>I am working on one or two practice projects right now, and can’t think of a better way to code them than MVC with Coordinators.</p>\n\n",
+			"date_published": "2018-06-03T16:15:00-04:00",
+			"url": "https://mjdescy.micro.blog/2018/06/03/i-love-this.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/03/the-drop-shadows.html",
+	      	
+			"content_html": "<p>The drop shadows on all the WWDC promotional images and the new WWDC app icon are making me very nervous. I had to add drop shadows to everything back when I was in web development, back in 2000-2003. The effect looks so dated to me, but not so dated that it’s retro.</p>\n",
+			"date_published": "2018-06-03T15:41:04-04:00",
+			"url": "https://mjdescy.micro.blog/2018/06/03/the-drop-shadows.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/06/03/i-am-digging.html",
 	      	
 			"content_html": "<p>I am digging my old, blue, knockoff Apple Watch Sport Band again. I kind of wish I bought the real, fluoroelastomer band, though, because the silicone feels a little sticky and looks a little shiny.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d4b3df44f8.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -191,22 +207,6 @@
 			"content_html": "<p>🎧 Headphones review: <a href=\"https://www.amazon.com/review/RFS8V3M6O5RUK/\">Sony MDR-1AM2/B</a>.</p>\n",
 			"date_published": "2018-05-22T11:14:17-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/22/headphones-review-sony.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/22/i-used-my.html",
-	      	
-			"content_html": "<p>I used my iPad Pro and Pencil to teach my (kindergarten-age) daughter (👩‍🔬) some <a href=\"http://bedtimemath.org\">bedtime math</a> for the first time tonight. She loved writing the numbers in different colors in Apple Notes. I loved writing on something I could easily erase. It was really fun.</p>\n",
-			"date_published": "2018-05-21T21:54:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/21/i-used-my.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/22/i-just-submitted.html",
-	      	
-			"content_html": "<p>I just submitted SwiftoDo 2.12.0 to the App Store. Hopefully it’s good enough! 😅 Expect a release toward the end of the week, if all goes well.</p>\n",
-			"date_published": "2018-05-21T21:26:58-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/21/i-just-submitted.html"
 		}
 		
 	]
