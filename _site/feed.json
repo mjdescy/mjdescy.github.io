@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/06/04/the-transformational-siri.html",
+	      	
+			"content_html": "<p>The transformational Siri enhancements developers and pundits were hungry for were not announced at WWDC today. Apple is <em>doomed</em>! (OK, maybe not.)</p>\n",
+			"date_published": "2018-06-04T15:12:43-04:00",
+			"url": "https://mjdescy.micro.blog/2018/06/04/the-transformational-siri.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/04/if-microsoft-wanted.html",
+	      	
+			"content_html": "<p>If Microsoft wanted to scare <em>everybody</em> in the developer community, they would buy <a href=\"https://stackexchange.com/\">Stack Exchange</a> too.</p>\n",
+			"date_published": "2018-06-04T09:48:55-04:00",
+			"url": "https://mjdescy.micro.blog/2018/06/04/if-microsoft-wanted.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/04/microsoft-bought-github.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theverge.com/2018/6/4/17422788/microsoft-github-acquisition-official-deal\">Microsoft bought GitHub</a> just in time for WWDC to bury the news. I get the feeling that whatever led to GitHub’s success will soon be lost, but that it won’t matter to its profitability, and the vast majority of projects hosted there will stay. It just will never be the <em>next</em> GitHub.</p>\n",
+			"date_published": "2018-06-04T09:43:10-04:00",
+			"url": "https://mjdescy.micro.blog/2018/06/04/microsoft-bought-github.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/06/03/i-love-this.html",
 	      	
 			"content_html": "<p>I love <a href=\"http://aplus.rs/2017/much-ado-about-ios-app-architecture/\">this article about iOS app architecture</a>:</p>\n\n<blockquote>\n  <p>Cocoa Touch is (I suspect) deliberately very simple: there’s Target-Action pattern, Dependency Injection, Delegate and MVC. That’s about it, really. Apparently it’s way too simple for some.</p>\n</blockquote>\n\n<p>I am working on one or two practice projects right now, and can’t think of a better way to code them than MVC with Coordinators.</p>\n\n",
@@ -181,32 +205,6 @@
 			"content_html": "<p>I was so busy today that I forgot to blog! Hours of data analysis and database development will do that to me. It’s a beautiful sunny evening, and I’m heading off to a barbecue with my family now.</p>\n",
 			"date_published": "2018-05-23T17:02:23-04:00",
 			"url": "https://mjdescy.micro.blog/2018/05/23/i-was-so.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/23/im-pretty-proud.html",
-	      	
-			"content_html": "<p>I’m pretty proud of my Ulysses library setup—at least the top level folder structure. My subfolders need a bit more organization, though.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/1115f805e0.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-22T20:27:34-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/22/im-pretty-proud.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/22/first-listen-mean.html",
-	      	
-			"title": "🎵 First listen: Mean Girls (Original Broadway Cast)",
-			
-			"content_html": "<p><a href=\"https://itunes.apple.com/us/album/mean-girls-original-broadway-cast-recording/1372106911\">Mean Girls (Original Broadway Cast)</a> is up for the Tony for best musical this year, and I think it has a legitimate shot. While this <em>is</em> a weak year for the American musical, the music of “Mean Girls” is fun and catchy, and the lyrics are funny and full of wordplay. The singing and production of the cast album are top notch, too.</p>\n\n<p>I like it. The high school setting and girl-centric plot, though not the music, remind me a lot of “Bring It On”, which is another musical that has a fantastic cast album and works a lot better than you would think. I don’t know if this show will be a hit on Broadway, but I predict a long life on high school drama club stages in the future.</p>\n",
-			"date_published": "2018-05-22T16:08:22-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/22/first-listen-mean.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/22/headphones-review-sony.html",
-	      	
-			"content_html": "<p>🎧 Headphones review: <a href=\"https://www.amazon.com/review/RFS8V3M6O5RUK/\">Sony MDR-1AM2/B</a>.</p>\n",
-			"date_published": "2018-05-22T11:14:17-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/22/headphones-review-sony.html"
 		}
 		
 	]
