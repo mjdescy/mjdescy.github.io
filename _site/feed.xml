@@ -4,8 +4,33 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Sat, 02 Jun 2018 22:09:06 -0400</pubDate>
-    <lastBuildDate>Sat, 02 Jun 2018 22:09:06 -0400</lastBuildDate>
+    <pubDate>Sun, 03 Jun 2018 16:15:33 -0400</pubDate>
+    <lastBuildDate>Sun, 03 Jun 2018 16:15:33 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I love &lt;a href=&quot;http://aplus.rs/2017/much-ado-about-ios-app-architecture/&quot;&gt;this article about iOS app architecture&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Cocoa Touch is (I suspect) deliberately very simple: there’s Target-Action pattern, Dependency Injection, Delegate and MVC. That’s about it, really. Apparently it’s way too simple for some.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I am working on one or two practice projects right now, and can’t think of a better way to code them than MVC with Coordinators.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 03 Jun 2018 16:15:00 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/06/03/i-love-this.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/03/i-love-this.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;The drop shadows on all the WWDC promotional images and the new WWDC app icon are making me very nervous. I had to add drop shadows to everything back when I was in web development, back in 2000-2003. The effect looks so dated to me, but not so dated that it’s retro.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Jun 2018 15:41:04 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/06/03/the-drop-shadows.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/03/the-drop-shadows.html</guid>
+      </item>
     
       <item>
       	
@@ -522,36 +547,6 @@ So we’ll come, we will find our way home&lt;/p&gt;
         <pubDate>Thu, 10 May 2018 08:47:03 -0400</pubDate>
         <link>https://mjdescy.micro.blog/2018/05/10/i-discovered-this.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/10/i-discovered-this.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I am finding new people to follow every day or so on Micro.blog—mainly through the Discover feature, occasionally from Mentions, and weekly through the Micro Monday podcast. It is a slow but rewarding process.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 09 May 2018 20:02:02 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/09/i-am-finding.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/10/i-am-finding.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>The Best Trackballs according to Wirecutter</title>
-        
-        <description>&lt;p&gt;Wirecutter updated its &lt;a href=&quot;https://thewirecutter.com/reviews/best-trackballs/?utm_source=rss&amp;amp;utm_medium=feed&amp;amp;utm_campaign=RSS%20Feed&quot;&gt;trackballs review&lt;/a&gt; today. Their recommendations are basically unchanged, which is no surprise, because the entire trackball market has been stagnant for years.&lt;/p&gt;
-
-&lt;p&gt;Despite the lack of evolution in trackballs, I am a huge fan of them. I credit swapping my mouse for a trackball with reducing, to almost nothing, repetitive stress injuries from computing. I find trackballs to be more comfortable to use and more precise than both mice and trackpads. I actually have one for each my my machines (Mac and PC), and bring the smaller one with me when I travel for work.&lt;/p&gt;
-
-&lt;p&gt;I can’t quibble with WireCutter’s top pick, but I disagree with their assessment of my main trackball, the &lt;a href=&quot;https://www.kensington.com/en/ae/4493/k72327eu/slimblade-trackball&quot;&gt;Kensington SlimBlade&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Instead of using a hardware scroll ring as on the Kensington Expert Mouse and Orbit with Scroll Ring, with the Kensington SlimBlade Trackball you have to rotate the ball to scroll, which is tough to do without bouncing the cursor around the screen. The SlimBlade’s buttons feel hollow compared with the Expert Mouse’s, and its shiny plastic and metal surfaces attract fingerprints.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Sure, its buttons could be a little clickier, but rotating the ball to scroll without moving the cursor is actually pretty easy. Unlike the Expert Mouse, the SlimBlade doesn’t have an unnecessarily steep angle to it, so you can use it comfortably without a wrist rest. And, honestly, saying its “surfaces attract fingerprints” is just plain stupid. My iPad Pro screen, which is the finest screen in my entire house, “attracts fingerprints” too. I think product reviewers need to strike that quibble off their list.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 09 May 2018 13:50:14 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/09/the-best-trackballs.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/09/the-best-trackballs.html</guid>
       </item>
     
   </channel>
