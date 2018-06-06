@@ -4,8 +4,21 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Tue, 05 Jun 2018 00:45:37 -0400</pubDate>
-    <lastBuildDate>Tue, 05 Jun 2018 00:45:37 -0400</lastBuildDate>
+    <pubDate>Tue, 05 Jun 2018 12:30:01 -0400</pubDate>
+    <lastBuildDate>Tue, 05 Jun 2018 12:30:01 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <title>MacBook Pro 2013 Forever?</title>
+        
+        <description>&lt;p&gt;Reviewing &lt;a href=&quot;https://512pixels.net/2018/06/macos-10-14-mojave-system-requirements/&quot;&gt;macOS 10.14 Mojave System Requirements&lt;/a&gt; makes me think I &lt;em&gt;may&lt;/em&gt; only have one year of useful life left on my 2013 MacBook Pro. (Mid 2012 MacBook Pros are the oldest supported.)&lt;/p&gt;
+
+&lt;p&gt;If that’s true, it will be disappointing to me, because my laptop still feels fast and has plenty of computing resources. As a developer, I need to keep abreast of the current OS changes though, so I will have to upgrade when OS support is dropped.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Jun 2018 12:29:28 -0400</pubDate>
+        <link>https://mjdescy.micro.blog/2018/06/05/macbook-pro-forever.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/05/macbook-pro-forever.html</guid>
+      </item>
     
       <item>
       	
@@ -504,18 +517,6 @@ So we’ll come, we will find our way home&lt;/p&gt;
         <pubDate>Sun, 13 May 2018 22:26:13 -0400</pubDate>
         <link>https://mjdescy.micro.blog/2018/05/13/today-was-a.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/14/today-was-a.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>From Spotify to Indie and Beyond: A Top Dev Interview With John Sundell</title>
-        
-        <description>&lt;p&gt;I enjoyed this interview with Swift expert, blogger, and podcaster John Sundell (&lt;a href=&quot;https://micro.blog/johnsundell&quot;&gt;@johnsundell&lt;/a&gt;): 
-&lt;a href=&quot;https:/z/www.raywenderlich.com/192589/from-spotify-to-indie-and-beyond-a-top-dev-interview-with-john-sundell&quot;&gt;From Spotify to Indie and Beyond: A Top Dev Interview With John Sundell&lt;/a&gt;. I have learned a lot from John’s weekly blog, &lt;a href=&quot;https://www.swiftbysundell.com&quot;&gt;Swift by Sundell&lt;/a&gt;, in the past year or so, and always enjoy his contributions to the Swift programming community.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 11 May 2018 13:16:51 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/11/from-spotify-to.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/11/from-spotify-to.html</guid>
       </item>
     
   </channel>
