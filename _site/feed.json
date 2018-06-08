@@ -1,16 +1,58 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Michael Descy",
-	"home_page_url": "https://mjdescy.micro.blog/",
-	"feed_url": "https://mjdescy.micro.blog/feed.json",
+	"home_page_url": "http://micro.mjdescy.me/",
+	"feed_url": "http://micro.mjdescy.me/feed.json",
 	"items": [
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/08/034454.html",
+	      	
+			"content_html": "<p>Today was a great day. My daughter had a school concert that we all attended, my work day was light (meetings were canceled, even) and later on we all went out for a great fish dinner.</p>\n",
+			"date_published": "2018-06-07T23:44:54-04:00",
+			"url": "http://micro.mjdescy.me/2018/06/07/034454.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/07/i-finally-figured.html",
+	      	
+			"content_html": "<p>I finally figured out how to point micro.mjdescy.me to mjdescy.micro.blog. I didn’t realize that I had to set the CNAME record using my web hosting provider’s cPanel rather than through my domain registrar.</p>\n",
+			"date_published": "2018-06-07T00:42:04-04:00",
+			"url": "http://micro.mjdescy.me/2018/06/07/i-finally-figured.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/07/blog-post-what.html",
+	      	
+			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/06/06/what-would-make-me-upgrade-my-series-1-apple-watch/\">What would make me upgrade my Series 1 Apple Watch</a></p>\n",
+			"date_published": "2018-06-06T23:04:12-04:00",
+			"url": "http://micro.mjdescy.me/2018/06/06/blog-post-what.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/06/edit-for-ios.html",
+	      	
+			"title": "Edit for iOS",
+			
+			"content_html": "<p><a href=\"https://audaciousfox.net/projects/edit\">Edit for iOS</a> is the second ultra-simple text editor for iOS—that I have noticed—that has been released this year. I was working on something like this last summer, but for TaskPaper, but abandoned it due to running into some snags, and needing to tend to SwiftoDo again. I think that the iOS share extension, and the increasing complexity of Drafts, has opened a little niche for iOS scratchpad text editors once again. Maybe I will dust of my little project sometime.</p>\n",
+			"date_published": "2018-06-06T14:37:47-04:00",
+			"url": "http://micro.mjdescy.me/2018/06/06/edit-for-ios.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/06/i-wrote-a.html",
+	      	
+			"content_html": "<p>I wrote a <a href=\"https://gist.github.com/mjdescy/a805b5b4c49ed79fb240d3886815d5a2\">semantic version number struct in Swift 4.1</a> that someone might find useful.</p>\n",
+			"date_published": "2018-06-06T13:50:41-04:00",
+			"url": "http://micro.mjdescy.me/2018/06/06/i-wrote-a.html"
+		},
 		
 		{
 			"id": "http://mjdescy.micro.blog/2018/06/06/171423.html",
 	      	
 			"content_html": "<p>It looks like my career path is taking a slight turn once again. Hopefully that means good things are ahead of me.</p>\n",
 			"date_published": "2018-06-06T13:14:23-04:00",
-			"url": "https://mjdescy.micro.blog/2018/06/06/171423.html"
+			"url": "http://micro.mjdescy.me/2018/06/06/171423.html"
 		},
 		
 		{
@@ -20,7 +62,7 @@
 			
 			"content_html": "<p>Reviewing <a href=\"https://512pixels.net/2018/06/macos-10-14-mojave-system-requirements/\">macOS 10.14 Mojave System Requirements</a> makes me think I <em>may</em> only have one year of useful life left on my 2013 MacBook Pro. (Mid 2012 MacBook Pros are the oldest supported.)</p>\n\n<p>If that’s true, it will be disappointing to me, because my laptop still feels fast and has plenty of computing resources. As a developer, I need to keep abreast of the current OS changes though, so I will have to upgrade when OS support is dropped.</p>\n",
 			"date_published": "2018-06-05T12:29:28-04:00",
-			"url": "https://mjdescy.micro.blog/2018/06/05/macbook-pro-forever.html"
+			"url": "http://micro.mjdescy.me/2018/06/05/macbook-pro-forever.html"
 		},
 		
 		{
@@ -28,7 +70,7 @@
 	      	
 			"content_html": "<p>I thought I understood the delegate pattern many years ago, but I keep finding more and more uses for it. If only it applied to real life.</p>\n",
 			"date_published": "2018-06-05T00:45:23-04:00",
-			"url": "https://mjdescy.micro.blog/2018/06/05/i-thought-i.html"
+			"url": "http://micro.mjdescy.me/2018/06/05/i-thought-i.html"
 		},
 		
 		{
@@ -36,7 +78,7 @@
 	      	
 			"content_html": "<p>The transformational Siri enhancements developers and pundits were hungry for were not announced at WWDC today. Apple is <em>doomed</em>! (OK, maybe not.)</p>\n",
 			"date_published": "2018-06-04T15:12:43-04:00",
-			"url": "https://mjdescy.micro.blog/2018/06/04/the-transformational-siri.html"
+			"url": "http://micro.mjdescy.me/2018/06/04/the-transformational-siri.html"
 		},
 		
 		{
@@ -44,7 +86,7 @@
 	      	
 			"content_html": "<p>If Microsoft wanted to scare <em>everybody</em> in the developer community, they would buy <a href=\"https://stackexchange.com/\">Stack Exchange</a> too.</p>\n",
 			"date_published": "2018-06-04T09:48:55-04:00",
-			"url": "https://mjdescy.micro.blog/2018/06/04/if-microsoft-wanted.html"
+			"url": "http://micro.mjdescy.me/2018/06/04/if-microsoft-wanted.html"
 		},
 		
 		{
@@ -52,7 +94,7 @@
 	      	
 			"content_html": "<p><a href=\"https://www.theverge.com/2018/6/4/17422788/microsoft-github-acquisition-official-deal\">Microsoft bought GitHub</a> just in time for WWDC to bury the news. I get the feeling that whatever led to GitHub’s success will soon be lost, but that it won’t matter to its profitability, and the vast majority of projects hosted there will stay. It just will never be the <em>next</em> GitHub.</p>\n",
 			"date_published": "2018-06-04T09:43:10-04:00",
-			"url": "https://mjdescy.micro.blog/2018/06/04/microsoft-bought-github.html"
+			"url": "http://micro.mjdescy.me/2018/06/04/microsoft-bought-github.html"
 		},
 		
 		{
@@ -60,7 +102,7 @@
 	      	
 			"content_html": "<p>I love <a href=\"http://aplus.rs/2017/much-ado-about-ios-app-architecture/\">this article about iOS app architecture</a>:</p>\n\n<blockquote>\n  <p>Cocoa Touch is (I suspect) deliberately very simple: there’s Target-Action pattern, Dependency Injection, Delegate and MVC. That’s about it, really. Apparently it’s way too simple for some.</p>\n</blockquote>\n\n<p>I am working on one or two practice projects right now, and can’t think of a better way to code them than MVC with Coordinators.</p>\n\n",
 			"date_published": "2018-06-03T16:15:00-04:00",
-			"url": "https://mjdescy.micro.blog/2018/06/03/i-love-this.html"
+			"url": "http://micro.mjdescy.me/2018/06/03/i-love-this.html"
 		},
 		
 		{
@@ -68,7 +110,7 @@
 	      	
 			"content_html": "<p>The drop shadows on all the WWDC promotional images and the new WWDC app icon are making me very nervous. I had to add drop shadows to everything back when I was in web development, back in 2000-2003. The effect looks so dated to me, but not so dated that it’s retro.</p>\n",
 			"date_published": "2018-06-03T15:41:04-04:00",
-			"url": "https://mjdescy.micro.blog/2018/06/03/the-drop-shadows.html"
+			"url": "http://micro.mjdescy.me/2018/06/03/the-drop-shadows.html"
 		},
 		
 		{
@@ -76,7 +118,7 @@
 	      	
 			"content_html": "<p>I am digging my old, blue, knockoff Apple Watch Sport Band again. I kind of wish I bought the real, fluoroelastomer band, though, because the silicone feels a little sticky and looks a little shiny.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d4b3df44f8.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-02T22:09:04-04:00",
-			"url": "https://mjdescy.micro.blog/2018/06/02/i-am-digging.html"
+			"url": "http://micro.mjdescy.me/2018/06/02/i-am-digging.html"
 		},
 		
 		{
@@ -84,7 +126,7 @@
 	      	
 			"content_html": "<p>It’s a muggy day in New Jersey, which is a great excuse to go to the beach. Plus there are <em>rides</em> on the boardwalk for the kids.</p>\n",
 			"date_published": "2018-06-02T10:57:11-04:00",
-			"url": "https://mjdescy.micro.blog/2018/06/02/its-a-muggy.html"
+			"url": "http://micro.mjdescy.me/2018/06/02/its-a-muggy.html"
 		},
 		
 		{
@@ -92,7 +134,7 @@
 	      	
 			"content_html": "<p>My wife and I are <em>way</em> back in the auditorium, waiting for “An Evening with Stephen Sondheim” to begin.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/637b3aa3c2.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-01T18:46:18-04:00",
-			"url": "https://mjdescy.micro.blog/2018/06/01/224618.html"
+			"url": "http://micro.mjdescy.me/2018/06/01/224618.html"
 		},
 		
 		{
@@ -100,7 +142,7 @@
 	      	
 			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.13.0</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. New features include a new hardware keyboard shortcut to paste into the task list, a long-press gesture on iPad to edit tasks in the task list, and some bug fixes.</p>\n",
 			"date_published": "2018-05-31T19:53:23-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/31/235323.html"
+			"url": "http://micro.mjdescy.me/2018/05/31/235323.html"
 		},
 		
 		{
@@ -108,7 +150,7 @@
 	      	
 			"content_html": "<p>I finally “retired” my 9-year-old AeroPress today, in favor of a new one. The plunger end on the old one wore down to the point where it was causing problems. It will be nice to have a spare cap and coffee measuring scoop going forward.</p>\n",
 			"date_published": "2018-05-31T14:53:31-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/31/i-finally-retired.html"
+			"url": "http://micro.mjdescy.me/2018/05/31/i-finally-retired.html"
 		},
 		
 		{
@@ -116,7 +158,7 @@
 	      	
 			"content_html": "<p>It’s silly, but I am a little disappointed that AirPlay 2 will <em>not</em> be available on both Bang &amp; Olufsen and B&amp;O PLAY speakers until sometime during August or September 2018. I want multi room streaming with my BeoPlay M3 and my Apple TV <em>now</em>.</p>\n",
 			"date_published": "2018-05-31T14:10:02-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/31/its-silly-but.html"
+			"url": "http://micro.mjdescy.me/2018/05/31/its-silly-but.html"
 		},
 		
 		{
@@ -124,7 +166,7 @@
 	      	
 			"content_html": "<p>I’m finalizing another minor version update to SwiftoDo this week, despite <a href=\"https://mjdescy.me/2018/04/28/swiftodo-development-notes-april-2018/\">the development freeze I had promised on my blog</a>.</p>\n",
 			"date_published": "2018-05-31T13:36:31-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/31/im-finalizing-another.html"
+			"url": "http://micro.mjdescy.me/2018/05/31/im-finalizing-another.html"
 		},
 		
 		{
@@ -132,7 +174,7 @@
 	      	
 			"content_html": "<p>Here is a wrapper class to hide implementation details in Microsoft Access VBA projects: <a href=\"https://gist.github.com/mjdescy/6c89c5969c3618e220814c6d04f6e449\">DAOQueryRunner.cls</a>. <a href=\"https://gist.github.com/mjdescy/621e03e8d2dd83984d83ec83ca05c6fc\">DAOTemporaryTableController.cls</a> relies on this.</p>\n",
 			"date_published": "2018-05-30T15:22:13-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/30/here-is-a.html"
+			"url": "http://micro.mjdescy.me/2018/05/30/here-is-a.html"
 		},
 		
 		{
@@ -140,7 +182,7 @@
 	      	
 			"content_html": "<p>This VBA class helps you work with temporary tables in Access VBA projects: <a href=\"https://gist.github.com/mjdescy/621e03e8d2dd83984d83ec83ca05c6fc\">DAOTemporaryTableController.cls</a>. You may need to do so if you want to join using a subquery as criteria, which Access does not allow.</p>\n",
 			"date_published": "2018-05-30T15:21:21-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/30/this-vba-class.html"
+			"url": "http://micro.mjdescy.me/2018/05/30/this-vba-class.html"
 		},
 		
 		{
@@ -148,7 +190,7 @@
 	      	
 			"content_html": "<p>I decided to make use of <a href=\"https://gist.github.com/\">GitHub Gists</a> again. My first gist in several years is <a href=\"https://gist.github.com/mjdescy/5b14043d0c3f3bb1e12f4046a0eb96db\">LoggedInUserName.bas</a>: a VBA module to get logged in user name from the Windows API.</p>\n",
 			"date_published": "2018-05-30T14:57:23-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/30/185723.html"
+			"url": "http://micro.mjdescy.me/2018/05/30/185723.html"
 		},
 		
 		{
@@ -156,7 +198,7 @@
 	      	
 			"content_html": "<p><a href=\"https://www.nytimes.com/2018/05/29/climate/recycling-landfills-plastic-papers.html\">This New York Times article</a> comfirms some of my suspicions that a lot of what we recycle does not actually get recycled. It amazes me that we ship recyclables around the world for processing.</p>\n",
 			"date_published": "2018-05-30T09:40:58-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/30/this-new-york.html"
+			"url": "http://micro.mjdescy.me/2018/05/30/this-new-york.html"
 		},
 		
 		{
@@ -164,47 +206,7 @@
 	      	
 			"content_html": "<p>🎙 I am a sucker for an Upgrade draft episode: <a href=\"https://overcast.fm/+Fcm-3QFAw\">The WWDC keynote Draft 2018</a></p>\n",
 			"date_published": "2018-05-28T19:38:28-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/28/i-am-a.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/28/all-weekends-should.html",
-	      	
-			"content_html": "<p>All weekends should be 3 days long…if not 5! 😀</p>\n",
-			"date_published": "2018-05-27T23:49:59-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/27/all-weekends-should.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/27/yesterday-was-a.html",
-	      	
-			"content_html": "<p>Yesterday was a lot of fun. My family enjoyed great weather, and oceanside fair to attend, lots of great food. Today is a total rainout, however. Hopefully we can find some good things to do indoors.</p>\n",
-			"date_published": "2018-05-27T11:31:49-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/27/yesterday-was-a.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/25/i-unfollowed-about.html",
-	      	
-			"content_html": "<p>I unfollowed about 275 accounts on Twitter this afternoon. My Twitter feed had started to resemble a junk drawer to me. One thing I noticed is that 90% of the accounts I followed had not posted anything in months. (Let’s not even talk about how many bots are following <em>me</em>.)</p>\n",
-			"date_published": "2018-05-25T16:34:44-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/25/i-unfollowed-about.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/25/i-did-not.html",
-	      	
-			"content_html": "<p>I did <em>not</em> expect the Red Sox to <a href=\"http://mlb.com/r/article?ymd=20180525&amp;content_id=278245918&amp;vkey=news_bos&amp;c_id=bos\">designate Hanley Ramirez for assignment</a> to make room for Dustin Pedroia.</p>\n",
-			"date_published": "2018-05-25T14:58:26-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/25/i-did-not.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/25/130512.html",
-	      	
-			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.12.0</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>.  New features include a default option for new tasks, and an option to retain priority when completing tasks. There are tons of under-the-hood improvements, too.</p>\n",
-			"date_published": "2018-05-25T09:05:12-04:00",
-			"url": "https://mjdescy.micro.blog/2018/05/25/130512.html"
+			"url": "http://micro.mjdescy.me/2018/05/28/i-am-a.html"
 		}
 		
 	]
