@@ -3,16 +3,63 @@
   <channel>
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
-    <link>https://mjdescy.micro.blog/</link>
-    <pubDate>Wed, 06 Jun 2018 13:14:25 -0400</pubDate>
-    <lastBuildDate>Wed, 06 Jun 2018 13:14:25 -0400</lastBuildDate>
+    <link>http://micro.mjdescy.me/</link>
+    <pubDate>Thu, 07 Jun 2018 23:44:59 -0400</pubDate>
+    <lastBuildDate>Thu, 07 Jun 2018 23:44:59 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Today was a great day. My daughter had a school concert that we all attended, my work day was light (meetings were canceled, even) and later on we all went out for a great fish dinner.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Jun 2018 23:44:54 -0400</pubDate>
+        <link>http://micro.mjdescy.me/2018/06/07/034454.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/08/034454.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I finally figured out how to point micro.mjdescy.me to mjdescy.micro.blog. I didn’t realize that I had to set the CNAME record using my web hosting provider’s cPanel rather than through my domain registrar.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Jun 2018 00:42:04 -0400</pubDate>
+        <link>http://micro.mjdescy.me/2018/06/07/i-finally-figured.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/07/i-finally-figured.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Blog post: &lt;a href=&quot;https://mjdescy.me/2018/06/06/what-would-make-me-upgrade-my-series-1-apple-watch/&quot;&gt;What would make me upgrade my Series 1 Apple Watch&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Jun 2018 23:04:12 -0400</pubDate>
+        <link>http://micro.mjdescy.me/2018/06/06/blog-post-what.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/07/blog-post-what.html</guid>
+      </item>
+    
+      <item>
+      	
+        <title>Edit for iOS</title>
+        
+        <description>&lt;p&gt;&lt;a href=&quot;https://audaciousfox.net/projects/edit&quot;&gt;Edit for iOS&lt;/a&gt; is the second ultra-simple text editor for iOS—that I have noticed—that has been released this year. I was working on something like this last summer, but for TaskPaper, but abandoned it due to running into some snags, and needing to tend to SwiftoDo again. I think that the iOS share extension, and the increasing complexity of Drafts, has opened a little niche for iOS scratchpad text editors once again. Maybe I will dust of my little project sometime.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Jun 2018 14:37:47 -0400</pubDate>
+        <link>http://micro.mjdescy.me/2018/06/06/edit-for-ios.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/06/edit-for-ios.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I wrote a &lt;a href=&quot;https://gist.github.com/mjdescy/a805b5b4c49ed79fb240d3886815d5a2&quot;&gt;semantic version number struct in Swift 4.1&lt;/a&gt; that someone might find useful.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Jun 2018 13:50:41 -0400</pubDate>
+        <link>http://micro.mjdescy.me/2018/06/06/i-wrote-a.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/06/i-wrote-a.html</guid>
+      </item>
     
       <item>
       	
         <description>&lt;p&gt;It looks like my career path is taking a slight turn once again. Hopefully that means good things are ahead of me.&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Jun 2018 13:14:23 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/06/06/171423.html</link>
+        <link>http://micro.mjdescy.me/2018/06/06/171423.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/06/171423.html</guid>
       </item>
     
@@ -25,7 +72,7 @@
 &lt;p&gt;If that’s true, it will be disappointing to me, because my laptop still feels fast and has plenty of computing resources. As a developer, I need to keep abreast of the current OS changes though, so I will have to upgrade when OS support is dropped.&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Jun 2018 12:29:28 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/06/05/macbook-pro-forever.html</link>
+        <link>http://micro.mjdescy.me/2018/06/05/macbook-pro-forever.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/05/macbook-pro-forever.html</guid>
       </item>
     
@@ -34,7 +81,7 @@
         <description>&lt;p&gt;I thought I understood the delegate pattern many years ago, but I keep finding more and more uses for it. If only it applied to real life.&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Jun 2018 00:45:23 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/06/05/i-thought-i.html</link>
+        <link>http://micro.mjdescy.me/2018/06/05/i-thought-i.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/05/i-thought-i.html</guid>
       </item>
     
@@ -43,7 +90,7 @@
         <description>&lt;p&gt;The transformational Siri enhancements developers and pundits were hungry for were not announced at WWDC today. Apple is &lt;em&gt;doomed&lt;/em&gt;! (OK, maybe not.)&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Jun 2018 15:12:43 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/06/04/the-transformational-siri.html</link>
+        <link>http://micro.mjdescy.me/2018/06/04/the-transformational-siri.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/04/the-transformational-siri.html</guid>
       </item>
     
@@ -52,7 +99,7 @@
         <description>&lt;p&gt;If Microsoft wanted to scare &lt;em&gt;everybody&lt;/em&gt; in the developer community, they would buy &lt;a href=&quot;https://stackexchange.com/&quot;&gt;Stack Exchange&lt;/a&gt; too.&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Jun 2018 09:48:55 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/06/04/if-microsoft-wanted.html</link>
+        <link>http://micro.mjdescy.me/2018/06/04/if-microsoft-wanted.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/04/if-microsoft-wanted.html</guid>
       </item>
     
@@ -61,7 +108,7 @@
         <description>&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/2018/6/4/17422788/microsoft-github-acquisition-official-deal&quot;&gt;Microsoft bought GitHub&lt;/a&gt; just in time for WWDC to bury the news. I get the feeling that whatever led to GitHub’s success will soon be lost, but that it won’t matter to its profitability, and the vast majority of projects hosted there will stay. It just will never be the &lt;em&gt;next&lt;/em&gt; GitHub.&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Jun 2018 09:43:10 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/06/04/microsoft-bought-github.html</link>
+        <link>http://micro.mjdescy.me/2018/06/04/microsoft-bought-github.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/04/microsoft-bought-github.html</guid>
       </item>
     
@@ -77,7 +124,7 @@
 
 </description>
         <pubDate>Sun, 03 Jun 2018 16:15:00 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/06/03/i-love-this.html</link>
+        <link>http://micro.mjdescy.me/2018/06/03/i-love-this.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/03/i-love-this.html</guid>
       </item>
     
@@ -86,7 +133,7 @@
         <description>&lt;p&gt;The drop shadows on all the WWDC promotional images and the new WWDC app icon are making me very nervous. I had to add drop shadows to everything back when I was in web development, back in 2000-2003. The effect looks so dated to me, but not so dated that it’s retro.&lt;/p&gt;
 </description>
         <pubDate>Sun, 03 Jun 2018 15:41:04 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/06/03/the-drop-shadows.html</link>
+        <link>http://micro.mjdescy.me/2018/06/03/the-drop-shadows.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/03/the-drop-shadows.html</guid>
       </item>
     
@@ -97,7 +144,7 @@
 &lt;p&gt;&lt;img src=&quot;http://mjdescy.micro.blog/uploads/2018/d4b3df44f8.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Jun 2018 22:09:04 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/06/02/i-am-digging.html</link>
+        <link>http://micro.mjdescy.me/2018/06/02/i-am-digging.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/03/i-am-digging.html</guid>
       </item>
     
@@ -106,7 +153,7 @@
         <description>&lt;p&gt;It’s a muggy day in New Jersey, which is a great excuse to go to the beach. Plus there are &lt;em&gt;rides&lt;/em&gt; on the boardwalk for the kids.&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Jun 2018 10:57:11 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/06/02/its-a-muggy.html</link>
+        <link>http://micro.mjdescy.me/2018/06/02/its-a-muggy.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/02/its-a-muggy.html</guid>
       </item>
     
@@ -117,7 +164,7 @@
 &lt;p&gt;&lt;img src=&quot;http://mjdescy.micro.blog/uploads/2018/637b3aa3c2.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Jun 2018 18:46:18 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/06/01/224618.html</link>
+        <link>http://micro.mjdescy.me/2018/06/01/224618.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/01/224618.html</guid>
       </item>
     
@@ -126,7 +173,7 @@
         <description>&lt;p&gt;&lt;a href=&quot;https://swiftodoapp.com&quot;&gt;SwiftoDo 2.13.0&lt;/a&gt; is now available &lt;a href=&quot;https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;amp;mt=8&quot;&gt;in the App Store&lt;/a&gt;. New features include a new hardware keyboard shortcut to paste into the task list, a long-press gesture on iPad to edit tasks in the task list, and some bug fixes.&lt;/p&gt;
 </description>
         <pubDate>Thu, 31 May 2018 19:53:23 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/31/235323.html</link>
+        <link>http://micro.mjdescy.me/2018/05/31/235323.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/31/235323.html</guid>
       </item>
     
@@ -135,7 +182,7 @@
         <description>&lt;p&gt;I finally “retired” my 9-year-old AeroPress today, in favor of a new one. The plunger end on the old one wore down to the point where it was causing problems. It will be nice to have a spare cap and coffee measuring scoop going forward.&lt;/p&gt;
 </description>
         <pubDate>Thu, 31 May 2018 14:53:31 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/31/i-finally-retired.html</link>
+        <link>http://micro.mjdescy.me/2018/05/31/i-finally-retired.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/31/i-finally-retired.html</guid>
       </item>
     
@@ -144,7 +191,7 @@
         <description>&lt;p&gt;It’s silly, but I am a little disappointed that AirPlay 2 will &lt;em&gt;not&lt;/em&gt; be available on both Bang &amp;amp; Olufsen and B&amp;amp;O PLAY speakers until sometime during August or September 2018. I want multi room streaming with my BeoPlay M3 and my Apple TV &lt;em&gt;now&lt;/em&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 31 May 2018 14:10:02 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/31/its-silly-but.html</link>
+        <link>http://micro.mjdescy.me/2018/05/31/its-silly-but.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/31/its-silly-but.html</guid>
       </item>
     
@@ -153,7 +200,7 @@
         <description>&lt;p&gt;I’m finalizing another minor version update to SwiftoDo this week, despite &lt;a href=&quot;https://mjdescy.me/2018/04/28/swiftodo-development-notes-april-2018/&quot;&gt;the development freeze I had promised on my blog&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 31 May 2018 13:36:31 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/31/im-finalizing-another.html</link>
+        <link>http://micro.mjdescy.me/2018/05/31/im-finalizing-another.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/31/im-finalizing-another.html</guid>
       </item>
     
@@ -162,7 +209,7 @@
         <description>&lt;p&gt;Here is a wrapper class to hide implementation details in Microsoft Access VBA projects: &lt;a href=&quot;https://gist.github.com/mjdescy/6c89c5969c3618e220814c6d04f6e449&quot;&gt;DAOQueryRunner.cls&lt;/a&gt;. &lt;a href=&quot;https://gist.github.com/mjdescy/621e03e8d2dd83984d83ec83ca05c6fc&quot;&gt;DAOTemporaryTableController.cls&lt;/a&gt; relies on this.&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 May 2018 15:22:13 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/30/here-is-a.html</link>
+        <link>http://micro.mjdescy.me/2018/05/30/here-is-a.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/30/here-is-a.html</guid>
       </item>
     
@@ -171,7 +218,7 @@
         <description>&lt;p&gt;This VBA class helps you work with temporary tables in Access VBA projects: &lt;a href=&quot;https://gist.github.com/mjdescy/621e03e8d2dd83984d83ec83ca05c6fc&quot;&gt;DAOTemporaryTableController.cls&lt;/a&gt;. You may need to do so if you want to join using a subquery as criteria, which Access does not allow.&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 May 2018 15:21:21 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/30/this-vba-class.html</link>
+        <link>http://micro.mjdescy.me/2018/05/30/this-vba-class.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/30/this-vba-class.html</guid>
       </item>
     
@@ -180,7 +227,7 @@
         <description>&lt;p&gt;I decided to make use of &lt;a href=&quot;https://gist.github.com/&quot;&gt;GitHub Gists&lt;/a&gt; again. My first gist in several years is &lt;a href=&quot;https://gist.github.com/mjdescy/5b14043d0c3f3bb1e12f4046a0eb96db&quot;&gt;LoggedInUserName.bas&lt;/a&gt;: a VBA module to get logged in user name from the Windows API.&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 May 2018 14:57:23 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/30/185723.html</link>
+        <link>http://micro.mjdescy.me/2018/05/30/185723.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/30/185723.html</guid>
       </item>
     
@@ -189,7 +236,7 @@
         <description>&lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2018/05/29/climate/recycling-landfills-plastic-papers.html&quot;&gt;This New York Times article&lt;/a&gt; comfirms some of my suspicions that a lot of what we recycle does not actually get recycled. It amazes me that we ship recyclables around the world for processing.&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 May 2018 09:40:58 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/30/this-new-york.html</link>
+        <link>http://micro.mjdescy.me/2018/05/30/this-new-york.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/30/this-new-york.html</guid>
       </item>
     
@@ -198,7 +245,7 @@
         <description>&lt;p&gt;🎙 I am a sucker for an Upgrade draft episode: &lt;a href=&quot;https://overcast.fm/+Fcm-3QFAw&quot;&gt;The WWDC keynote Draft 2018&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 28 May 2018 19:38:28 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/28/i-am-a.html</link>
+        <link>http://micro.mjdescy.me/2018/05/28/i-am-a.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/28/i-am-a.html</guid>
       </item>
     
@@ -207,7 +254,7 @@
         <description>&lt;p&gt;All weekends should be 3 days long…if not 5! 😀&lt;/p&gt;
 </description>
         <pubDate>Sun, 27 May 2018 23:49:59 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/27/all-weekends-should.html</link>
+        <link>http://micro.mjdescy.me/2018/05/27/all-weekends-should.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/28/all-weekends-should.html</guid>
       </item>
     
@@ -216,7 +263,7 @@
         <description>&lt;p&gt;Yesterday was a lot of fun. My family enjoyed great weather, and oceanside fair to attend, lots of great food. Today is a total rainout, however. Hopefully we can find some good things to do indoors.&lt;/p&gt;
 </description>
         <pubDate>Sun, 27 May 2018 11:31:49 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/27/yesterday-was-a.html</link>
+        <link>http://micro.mjdescy.me/2018/05/27/yesterday-was-a.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/27/yesterday-was-a.html</guid>
       </item>
     
@@ -225,7 +272,7 @@
         <description>&lt;p&gt;I unfollowed about 275 accounts on Twitter this afternoon. My Twitter feed had started to resemble a junk drawer to me. One thing I noticed is that 90% of the accounts I followed had not posted anything in months. (Let’s not even talk about how many bots are following &lt;em&gt;me&lt;/em&gt;.)&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 May 2018 16:34:44 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/25/i-unfollowed-about.html</link>
+        <link>http://micro.mjdescy.me/2018/05/25/i-unfollowed-about.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/25/i-unfollowed-about.html</guid>
       </item>
     
@@ -234,7 +281,7 @@
         <description>&lt;p&gt;I did &lt;em&gt;not&lt;/em&gt; expect the Red Sox to &lt;a href=&quot;http://mlb.com/r/article?ymd=20180525&amp;amp;content_id=278245918&amp;amp;vkey=news_bos&amp;amp;c_id=bos&quot;&gt;designate Hanley Ramirez for assignment&lt;/a&gt; to make room for Dustin Pedroia.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 May 2018 14:58:26 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/25/i-did-not.html</link>
+        <link>http://micro.mjdescy.me/2018/05/25/i-did-not.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/25/i-did-not.html</guid>
       </item>
     
@@ -243,7 +290,7 @@
         <description>&lt;p&gt;&lt;a href=&quot;https://swiftodoapp.com&quot;&gt;SwiftoDo 2.12.0&lt;/a&gt; is now available &lt;a href=&quot;https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;amp;mt=8&quot;&gt;in the App Store&lt;/a&gt;.  New features include a default option for new tasks, and an option to retain priority when completing tasks. There are tons of under-the-hood improvements, too.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 May 2018 09:05:12 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/25/130512.html</link>
+        <link>http://micro.mjdescy.me/2018/05/25/130512.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/25/130512.html</guid>
       </item>
     
@@ -260,7 +307,7 @@
 &lt;p&gt;I got an Essential Phone in its release date, and was optimistic that the company would succeed. It looks like it hasn’t. Their first phone &lt;em&gt;did&lt;/em&gt; have a bad camera experience (hardware and software-wise), which probably prevented any chance of success from the start. The Pixel and the Galaxy phones put it to shame. Plus, it must be next to impossible to make money selling Android phones. It’s not a business I would want to be in.&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 May 2018 20:18:05 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/24/001805.html</link>
+        <link>http://micro.mjdescy.me/2018/05/24/001805.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/25/001805.html</guid>
       </item>
     
@@ -269,7 +316,7 @@
         <description>&lt;p&gt;📺 I’m enjoying the “remix” version of “Arrested Development” season 4 a lot better than the original version. I’m sure time passing and my expectations being lowered helped, but I prefer to see all (most) of the characters in the same episodes.&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 May 2018 12:16:47 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/24/im-enjoying-the.html</link>
+        <link>http://micro.mjdescy.me/2018/05/24/im-enjoying-the.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/24/im-enjoying-the.html</guid>
       </item>
     
@@ -278,7 +325,7 @@
         <description>&lt;p&gt;I was so busy today that I forgot to blog! Hours of data analysis and database development will do that to me. It’s a beautiful sunny evening, and I’m heading off to a barbecue with my family now.&lt;/p&gt;
 </description>
         <pubDate>Wed, 23 May 2018 17:02:23 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/23/i-was-so.html</link>
+        <link>http://micro.mjdescy.me/2018/05/23/i-was-so.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/23/i-was-so.html</guid>
       </item>
     
@@ -289,7 +336,7 @@
 &lt;p&gt;&lt;img src=&quot;http://mjdescy.micro.blog/uploads/2018/1115f805e0.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 22 May 2018 20:27:34 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/22/im-pretty-proud.html</link>
+        <link>http://micro.mjdescy.me/2018/05/22/im-pretty-proud.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/23/im-pretty-proud.html</guid>
       </item>
     
@@ -302,7 +349,7 @@
 &lt;p&gt;I like it. The high school setting and girl-centric plot, though not the music, remind me a lot of “Bring It On”, which is another musical that has a fantastic cast album and works a lot better than you would think. I don’t know if this show will be a hit on Broadway, but I predict a long life on high school drama club stages in the future.&lt;/p&gt;
 </description>
         <pubDate>Tue, 22 May 2018 16:08:22 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/22/first-listen-mean.html</link>
+        <link>http://micro.mjdescy.me/2018/05/22/first-listen-mean.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/22/first-listen-mean.html</guid>
       </item>
     
@@ -311,7 +358,7 @@
         <description>&lt;p&gt;🎧 Headphones review: &lt;a href=&quot;https://www.amazon.com/review/RFS8V3M6O5RUK/&quot;&gt;Sony MDR-1AM2/B&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 22 May 2018 11:14:17 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/22/headphones-review-sony.html</link>
+        <link>http://micro.mjdescy.me/2018/05/22/headphones-review-sony.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/22/headphones-review-sony.html</guid>
       </item>
     
@@ -320,7 +367,7 @@
         <description>&lt;p&gt;I used my iPad Pro and Pencil to teach my (kindergarten-age) daughter (👩‍🔬) some &lt;a href=&quot;http://bedtimemath.org&quot;&gt;bedtime math&lt;/a&gt; for the first time tonight. She loved writing the numbers in different colors in Apple Notes. I loved writing on something I could easily erase. It was really fun.&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 May 2018 21:54:00 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/21/i-used-my.html</link>
+        <link>http://micro.mjdescy.me/2018/05/21/i-used-my.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/22/i-used-my.html</guid>
       </item>
     
@@ -329,7 +376,7 @@
         <description>&lt;p&gt;I just submitted SwiftoDo 2.12.0 to the App Store. Hopefully it’s good enough! 😅 Expect a release toward the end of the week, if all goes well.&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 May 2018 21:26:58 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/21/i-just-submitted.html</link>
+        <link>http://micro.mjdescy.me/2018/05/21/i-just-submitted.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/22/i-just-submitted.html</guid>
       </item>
     
@@ -338,7 +385,7 @@
         <description>&lt;p&gt;So much to do today, I don’t even know where to begin…&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 May 2018 10:37:04 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/21/so-much-to.html</link>
+        <link>http://micro.mjdescy.me/2018/05/21/so-much-to.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/21/so-much-to.html</guid>
       </item>
     
@@ -347,7 +394,7 @@
         <description>&lt;p&gt;I took a new pair of headphones for a spin this evening. I think I may have a problem. 🎧😂&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 May 2018 23:50:32 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/20/i-took-a.html</link>
+        <link>http://micro.mjdescy.me/2018/05/20/i-took-a.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/21/i-took-a.html</guid>
       </item>
     
@@ -356,7 +403,7 @@
         <description>&lt;p&gt;Blog post: &lt;a href=&quot;https://mjdescy.me/2018/05/20/recess-and-good-bones-or-selling-the-world-to-my-children/&quot;&gt;“Recess” and “Good Bones”, or selling the world to my children&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 May 2018 09:12:04 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/20/blog-post-recess.html</link>
+        <link>http://micro.mjdescy.me/2018/05/20/blog-post-recess.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/20/blog-post-recess.html</guid>
       </item>
     
@@ -365,7 +412,7 @@
         <description>&lt;p&gt;I’m &lt;em&gt;still&lt;/em&gt; testing and fixing things in my dev build of SwiftoDo 2.12.0. It feels weird to have gone so long without issuing a release. I hope to get everything done next week. I have a very full weekend of family activities ahead of me, though, so I can’t do much till Monday.&lt;/p&gt;
 </description>
         <pubDate>Fri, 18 May 2018 19:43:05 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/18/im-still-testing.html</link>
+        <link>http://micro.mjdescy.me/2018/05/18/im-still-testing.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/18/im-still-testing.html</guid>
       </item>
     
@@ -395,7 +442,7 @@ So we’ll come, we will find our way home&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 18 May 2018 16:31:06 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/18/carry-on-on.html</link>
+        <link>http://micro.mjdescy.me/2018/05/18/carry-on-on.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/18/carry-on-on.html</guid>
       </item>
     
@@ -406,7 +453,7 @@ So we’ll come, we will find our way home&lt;/p&gt;
         <description>&lt;p&gt;Listening to the cast recording of “&lt;a href=&quot;https://itunes.apple.com/us/album/frozen-broadway-musical-original-broadway-cast-recording/1378411252&quot;&gt;Frozen: The Broadway Musical&lt;/a&gt;” for the first time is a bit surreal for me.  Compared to the movie, there are new songs, lyrics changes in existing songs, and, of course, different singers. I don’t think any of the changes are for the better. It’s hard to say for sure, though, because, as a parent of a little girl, I’ve heard the movie and the movie soundtrack about 1,000 times already, and it’s burned into my brain.&lt;/p&gt;
 </description>
         <pubDate>Fri, 18 May 2018 15:21:01 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/18/frozen-the-broadway.html</link>
+        <link>http://micro.mjdescy.me/2018/05/18/frozen-the-broadway.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/18/frozen-the-broadway.html</guid>
       </item>
     
@@ -417,7 +464,7 @@ So we’ll come, we will find our way home&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://mjdescy.micro.blog/uploads/2018/9800db785e.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 18 May 2018 10:16:15 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/18/while-i-think.html</link>
+        <link>http://micro.mjdescy.me/2018/05/18/while-i-think.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/18/while-i-think.html</guid>
       </item>
     
@@ -426,7 +473,7 @@ So we’ll come, we will find our way home&lt;/p&gt;
         <description>&lt;p&gt;Blog post: &lt;a href=&quot;https://mjdescy.me/2018/05/17/the-calm-before-the-wwdc-storm/&quot;&gt;The calm before the WWDC storm&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 17 May 2018 23:51:49 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/17/blog-post-the.html</link>
+        <link>http://micro.mjdescy.me/2018/05/17/blog-post-the.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/18/blog-post-the.html</guid>
       </item>
     
@@ -437,7 +484,7 @@ So we’ll come, we will find our way home&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://mjdescy.micro.blog/uploads/2018/c4fea0b7e1.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 17 May 2018 22:00:27 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/17/googles-attractive-by.html</link>
+        <link>http://micro.mjdescy.me/2018/05/17/googles-attractive-by.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/18/googles-attractive-by.html</guid>
       </item>
     
@@ -452,7 +499,7 @@ So we’ll come, we will find our way home&lt;/p&gt;
 &lt;p&gt;If my kids didn’t love YouTube, but hate the ads, I wouldn’t think about subscribing to YouTube Premium (or is it YouTube Red? or is it YouTube Music?) at all. If Google cared about customers like me—very light YouTube viewers who would pay a small amount of money to not be interrupted by ads—I would send them some money each month.&lt;/p&gt;
 </description>
         <pubDate>Thu, 17 May 2018 12:28:39 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/17/googles-music-and.html</link>
+        <link>http://micro.mjdescy.me/2018/05/17/googles-music-and.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/17/googles-music-and.html</guid>
       </item>
     
@@ -461,7 +508,7 @@ So we’ll come, we will find our way home&lt;/p&gt;
         <description>&lt;p&gt;My brain’s boot-up time is taking longer than usual today. ☕️☕️☕️&lt;/p&gt;
 </description>
         <pubDate>Thu, 17 May 2018 09:14:32 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/17/my-brains-bootup.html</link>
+        <link>http://micro.mjdescy.me/2018/05/17/my-brains-bootup.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/17/my-brains-bootup.html</guid>
       </item>
     
@@ -470,53 +517,8 @@ So we’ll come, we will find our way home&lt;/p&gt;
         <description>&lt;p&gt;The &lt;em&gt;cast&lt;/em&gt; of &lt;em&gt;Solo&lt;/em&gt; certainly is  appealing, even if &lt;a href=&quot;https://slate.com/culture/2018/05/solo-the-new-star-wars-movie-reviewed.html&quot;&gt;the movie itself may be largely inconsequential&lt;/a&gt;. To think, I used to care more about the &lt;em&gt;director&lt;/em&gt; than the cast. 🎬&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 May 2018 20:09:50 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/15/the-cast-of.html</link>
+        <link>http://micro.mjdescy.me/2018/05/15/the-cast-of.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/16/the-cast-of.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;SwiftoDo 2.12.0 was looking pretty dire last night, but is now looking like it may be ready for release, thanks to some improvements I made today. I will do more testing this week to make sure.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 15 May 2018 19:08:49 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/15/swiftodo-was-looking.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/15/swiftodo-was-looking.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Work has been heating up for me lately, which is good all around, but a change nonetheless. It’s good to have lots of work to look forward to each day. It’s bad to feel like there’s so much you can’t finish each day, too.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 15 May 2018 17:05:56 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/15/work-has-been.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/15/work-has-been.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Am I late to the game with using semaphores, or are all the cool (cool?) kids using them these days?&lt;/p&gt;
-</description>
-        <pubDate>Tue, 15 May 2018 10:16:27 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/15/am-i-late.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/15/am-i-late.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’m loving the second season of “Westworld” so far. I can’t wait to see how it all comes together in the end.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 15 May 2018 00:59:17 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/15/im-loving-the.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/15/im-loving-the.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I have been testing what I thought would be SwiftoDo’s next release build all day. All day, Dropbox has been throwing error messages, making me think my code is messed up. Now, the same code is &lt;em&gt;not&lt;/em&gt; throwing those error messages. It must be internet weather or something.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 14 May 2018 21:59:43 -0400</pubDate>
-        <link>https://mjdescy.micro.blog/2018/05/14/015943.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/15/015943.html</guid>
       </item>
     
   </channel>
