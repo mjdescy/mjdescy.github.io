@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/06/12/blog-post-a.html",
+	      	
+			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/06/11/a-hardware-keyboard-shortcuts-tip-for-drafts-5/\">A Hardware Keyboard Shortcuts Tip for Drafts 5</a></p>\n",
+			"date_published": "2018-06-11T23:13:54-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/11/blog-post-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/12/011117.html",
+	      	
+			"content_html": "<p>I’m not sure what to make of anything in the news these days. I’m going to pay attention to something that makes sense—like “Westworld”—for the next hour or so.</p>\n",
+			"date_published": "2018-06-11T21:11:17-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/11/011117.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/06/09/ive-been-sick.html",
 	      	
 			"content_html": "<p>I’ve been sick in bed with a cold most of the day, which has scuttled my family’s weekend plans. Why can’t I ever get sick on a weekday?</p>\n",
@@ -191,22 +207,6 @@
 			"content_html": "<p>This VBA class helps you work with temporary tables in Access VBA projects: <a href=\"https://gist.github.com/mjdescy/621e03e8d2dd83984d83ec83ca05c6fc\">DAOTemporaryTableController.cls</a>. You may need to do so if you want to join using a subquery as criteria, which Access does not allow.</p>\n",
 			"date_published": "2018-05-30T15:21:21-04:00",
 			"url": "https://micro.mjdescy.me/2018/05/30/this-vba-class.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/30/185723.html",
-	      	
-			"content_html": "<p>I decided to make use of <a href=\"https://gist.github.com/\">GitHub Gists</a> again. My first gist in several years is <a href=\"https://gist.github.com/mjdescy/5b14043d0c3f3bb1e12f4046a0eb96db\">LoggedInUserName.bas</a>: a VBA module to get logged in user name from the Windows API.</p>\n",
-			"date_published": "2018-05-30T14:57:23-04:00",
-			"url": "https://micro.mjdescy.me/2018/05/30/185723.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/30/this-new-york.html",
-	      	
-			"content_html": "<p><a href=\"https://www.nytimes.com/2018/05/29/climate/recycling-landfills-plastic-papers.html\">This New York Times article</a> comfirms some of my suspicions that a lot of what we recycle does not actually get recycled. It amazes me that we ship recyclables around the world for processing.</p>\n",
-			"date_published": "2018-05-30T09:40:58-04:00",
-			"url": "https://micro.mjdescy.me/2018/05/30/this-new-york.html"
 		}
 		
 	]
