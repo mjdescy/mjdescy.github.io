@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/06/15/142222.html",
+	      	
+			"content_html": "<p>Today is a good day for me to catch up on WWDC videos while I build databases for my real job.</p>\n",
+			"date_published": "2018-06-15T10:22:22-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/15/142222.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/06/13/apple-gave-me.html",
 	      	
 			"content_html": "<p>Apple gave me a free, full replacement for my 11-month-old iPad Pro with backlight bleed on one edge. The whole thing took about ten minutes, with no fuss whatsoever. I can’t ask for better service than that.</p>\n",
@@ -203,14 +211,6 @@
 			"content_html": "<p>I finally “retired” my 9-year-old AeroPress today, in favor of a new one. The plunger end on the old one wore down to the point where it was causing problems. It will be nice to have a spare cap and coffee measuring scoop going forward.</p>\n",
 			"date_published": "2018-05-31T14:53:31-04:00",
 			"url": "https://micro.mjdescy.me/2018/05/31/i-finally-retired.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/31/its-silly-but.html",
-	      	
-			"content_html": "<p>It’s silly, but I am a little disappointed that AirPlay 2 will <em>not</em> be available on both Bang &amp; Olufsen and B&amp;O PLAY speakers until sometime during August or September 2018. I want multi room streaming with my BeoPlay M3 and my Apple TV <em>now</em>.</p>\n",
-			"date_published": "2018-05-31T14:10:02-04:00",
-			"url": "https://micro.mjdescy.me/2018/05/31/its-silly-but.html"
 		}
 		
 	]
