@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/06/18/my-app-sales.html",
+	      	
+			"content_html": "<p>My app sales went way up this weekend, and I have no idea why. 🤷‍♂️</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/595c9bfd59.jpg\" width=\"269\" height=\"417\" /></p>\n",
+			"date_published": "2018-06-17T22:26:10-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/17/my-app-sales.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/17/happy-fathers-day.html",
+	      	
+			"content_html": "<p>Happy Father’s Day to all the dads out there. 😀</p>\n",
+			"date_published": "2018-06-17T09:20:03-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/17/happy-fathers-day.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/06/15/142222.html",
 	      	
 			"content_html": "<p>Today is a good day for me to catch up on WWDC videos while I build databases for my real job.</p>\n",
@@ -195,22 +211,6 @@
 			"content_html": "<p>My wife and I are <em>way</em> back in the auditorium, waiting for “An Evening with Stephen Sondheim” to begin.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/637b3aa3c2.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-01T18:46:18-04:00",
 			"url": "https://micro.mjdescy.me/2018/06/01/224618.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/31/235323.html",
-	      	
-			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.13.0</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. New features include a new hardware keyboard shortcut to paste into the task list, a long-press gesture on iPad to edit tasks in the task list, and some bug fixes.</p>\n",
-			"date_published": "2018-05-31T19:53:23-04:00",
-			"url": "https://micro.mjdescy.me/2018/05/31/235323.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/05/31/i-finally-retired.html",
-	      	
-			"content_html": "<p>I finally “retired” my 9-year-old AeroPress today, in favor of a new one. The plunger end on the old one wore down to the point where it was causing problems. It will be nice to have a spare cap and coffee measuring scoop going forward.</p>\n",
-			"date_published": "2018-05-31T14:53:31-04:00",
-			"url": "https://micro.mjdescy.me/2018/05/31/i-finally-retired.html"
 		}
 		
 	]
