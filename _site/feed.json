@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/06/18/im-wondering-as.html",
+	      	
+			"content_html": "<p>I’m wondering, as one of my domain names is set to auto-renew, whether domain names increase or decrease in cost over time. I used to register my domain names for ten year periods, to lock in the price, but now I’m not so sure if it is worth it. Prices seem pretty consistent now.</p>\n",
+			"date_published": "2018-06-18T10:29:03-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/18/im-wondering-as.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/18/my-work-goal.html",
+	      	
+			"content_html": "<p>My work goal for the week is to build a system to automate lots of grunt work I will otherwise have to do manually every week this summer. Fun stuff.</p>\n",
+			"date_published": "2018-06-18T10:00:23-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/18/my-work-goal.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/06/18/my-app-sales.html",
 	      	
 			"content_html": "<p>My app sales went way up this weekend, and I have no idea why. 🤷‍♂️</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/595c9bfd59.jpg\" width=\"269\" height=\"417\" /></p>\n",
@@ -195,22 +211,6 @@
 			"content_html": "<p>I am digging my old, blue, knockoff Apple Watch Sport Band again. I kind of wish I bought the real, fluoroelastomer band, though, because the silicone feels a little sticky and looks a little shiny.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d4b3df44f8.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-02T22:09:04-04:00",
 			"url": "https://micro.mjdescy.me/2018/06/02/i-am-digging.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/02/its-a-muggy.html",
-	      	
-			"content_html": "<p>It’s a muggy day in New Jersey, which is a great excuse to go to the beach. Plus there are <em>rides</em> on the boardwalk for the kids.</p>\n",
-			"date_published": "2018-06-02T10:57:11-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/02/its-a-muggy.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/01/224618.html",
-	      	
-			"content_html": "<p>My wife and I are <em>way</em> back in the auditorium, waiting for “An Evening with Stephen Sondheim” to begin.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/637b3aa3c2.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-01T18:46:18-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/01/224618.html"
 		}
 		
 	]
