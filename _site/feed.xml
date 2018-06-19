@@ -4,8 +4,45 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://micro.mjdescy.me/</link>
-    <pubDate>Mon, 18 Jun 2018 10:29:05 -0400</pubDate>
-    <lastBuildDate>Mon, 18 Jun 2018 10:29:05 -0400</lastBuildDate>
+    <pubDate>Tue, 19 Jun 2018 17:02:45 -0400</pubDate>
+    <lastBuildDate>Tue, 19 Jun 2018 17:02:45 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <title>Apple Didn't Kill Appkit...</title>
+        
+        <description>&lt;p&gt;This &lt;a href=&quot;http://subfurther.com/blog/2018/06/17/apple-didnt-kill-appkit-millenials-did/&quot;&gt;article&lt;/a&gt;, quite rightly, made me feel bad about not pushing through the troubles I had porting SwiftoDo to the Mac—a project I haven’t touched in over a year now.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Is it really that hard to share a codebase between Mac and iOS? I just sent off the “other platforms” chapter of Xcode Treasures, and one of the sections is about creating multi-platform projects. The book shows how to add tvOS to an iOS project from earlier in the book, but the idea is the same regardless of which platforms you support: portion off the code you can into cross-platform frameworks, ideally leaving only platform-specific UI code in each platform’s targets.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I modularized a lot of my code to allow it to happen someday, but found out that it would require a lot of work to ramp up my AppKit skills. All the data manipulation code is in a well-contained library. That’s just a small part of the app, though. The features are all in UI code, and porting it to AppKit resembles a 90% rewrite of my app.&lt;/p&gt;
+
+&lt;p&gt;If I was doing development professionally, I would have done it. But as a hobbyist, it’s hard to want to dive deep into AppKit when there are a million things to create or fix on iOS, which feels like Apple’s future platform anyway. Maybe I’m lazy, and maybe Apple is going to help me out with UIKit on the Mac twelve months from now.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Jun 2018 17:02:43 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/06/19/apple-didnt-kill.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/19/apple-didnt-kill.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I have been wrestling all day with an Access query with a ton of parameters that causes a crash when run via VBA, but works fine when run manually, which no one would ever do.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Jun 2018 13:30:12 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/06/19/173012.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/19/173012.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Apple’s “&lt;a href=&quot;https://developer.apple.com/wwdc18/223&quot;&gt;Embracing Algorithms&lt;/a&gt;” presentation from WWDC 2018 inspired me to try to write some algorithms for my side projects. I have re-discovered just how hard it can be to write &lt;em&gt;memory-constrained&lt;/em&gt; algorithms. Modern processor speed and memory limits have spoiled me.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Jun 2018 10:32:16 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/06/19/apples-embracing-algorithms.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/19/apples-embracing-algorithms.html</guid>
+      </item>
     
       <item>
       	
@@ -478,33 +515,6 @@
         <pubDate>Tue, 22 May 2018 11:14:17 -0400</pubDate>
         <link>https://micro.mjdescy.me/2018/05/22/headphones-review-sony.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/22/headphones-review-sony.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I used my iPad Pro and Pencil to teach my (kindergarten-age) daughter (👩‍🔬) some &lt;a href=&quot;http://bedtimemath.org&quot;&gt;bedtime math&lt;/a&gt; for the first time tonight. She loved writing the numbers in different colors in Apple Notes. I loved writing on something I could easily erase. It was really fun.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 21 May 2018 21:54:00 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/05/21/i-used-my.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/22/i-used-my.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I just submitted SwiftoDo 2.12.0 to the App Store. Hopefully it’s good enough! 😅 Expect a release toward the end of the week, if all goes well.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 21 May 2018 21:26:58 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/05/21/i-just-submitted.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/22/i-just-submitted.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;So much to do today, I don’t even know where to begin…&lt;/p&gt;
-</description>
-        <pubDate>Mon, 21 May 2018 10:37:04 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/05/21/so-much-to.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/21/so-much-to.html</guid>
       </item>
     
   </channel>
