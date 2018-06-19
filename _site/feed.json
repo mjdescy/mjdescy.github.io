@@ -6,6 +6,32 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/06/19/apple-didnt-kill.html",
+	      	
+			"title": "Apple Didn't Kill Appkit...",
+			
+			"content_html": "<p>This <a href=\"http://subfurther.com/blog/2018/06/17/apple-didnt-kill-appkit-millenials-did/\">article</a>, quite rightly, made me feel bad about not pushing through the troubles I had porting SwiftoDo to the Mac—a project I haven’t touched in over a year now.</p>\n\n<blockquote>\n  <p>Is it really that hard to share a codebase between Mac and iOS? I just sent off the “other platforms” chapter of Xcode Treasures, and one of the sections is about creating multi-platform projects. The book shows how to add tvOS to an iOS project from earlier in the book, but the idea is the same regardless of which platforms you support: portion off the code you can into cross-platform frameworks, ideally leaving only platform-specific UI code in each platform’s targets.</p>\n</blockquote>\n\n<p>I modularized a lot of my code to allow it to happen someday, but found out that it would require a lot of work to ramp up my AppKit skills. All the data manipulation code is in a well-contained library. That’s just a small part of the app, though. The features are all in UI code, and porting it to AppKit resembles a 90% rewrite of my app.</p>\n\n<p>If I was doing development professionally, I would have done it. But as a hobbyist, it’s hard to want to dive deep into AppKit when there are a million things to create or fix on iOS, which feels like Apple’s future platform anyway. Maybe I’m lazy, and maybe Apple is going to help me out with UIKit on the Mac twelve months from now.</p>\n",
+			"date_published": "2018-06-19T17:02:43-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/19/apple-didnt-kill.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/19/173012.html",
+	      	
+			"content_html": "<p>I have been wrestling all day with an Access query with a ton of parameters that causes a crash when run via VBA, but works fine when run manually, which no one would ever do.</p>\n",
+			"date_published": "2018-06-19T13:30:12-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/19/173012.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/19/apples-embracing-algorithms.html",
+	      	
+			"content_html": "<p>Apple’s “<a href=\"https://developer.apple.com/wwdc18/223\">Embracing Algorithms</a>” presentation from WWDC 2018 inspired me to try to write some algorithms for my side projects. I have re-discovered just how hard it can be to write <em>memory-constrained</em> algorithms. Modern processor speed and memory limits have spoiled me.</p>\n",
+			"date_published": "2018-06-19T10:32:16-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/19/apples-embracing-algorithms.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/06/18/im-wondering-as.html",
 	      	
 			"content_html": "<p>I’m wondering, as one of my domain names is set to auto-renew, whether domain names increase or decrease in cost over time. I used to register my domain names for ten year periods, to lock in the price, but now I’m not so sure if it is worth it. Prices seem pretty consistent now.</p>\n",
@@ -187,30 +213,6 @@
 			"content_html": "<p><a href=\"https://www.theverge.com/2018/6/4/17422788/microsoft-github-acquisition-official-deal\">Microsoft bought GitHub</a> just in time for WWDC to bury the news. I get the feeling that whatever led to GitHub’s success will soon be lost, but that it won’t matter to its profitability, and the vast majority of projects hosted there will stay. It just will never be the <em>next</em> GitHub.</p>\n",
 			"date_published": "2018-06-04T09:43:10-04:00",
 			"url": "https://micro.mjdescy.me/2018/06/04/microsoft-bought-github.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/03/i-love-this.html",
-	      	
-			"content_html": "<p>I love <a href=\"http://aplus.rs/2017/much-ado-about-ios-app-architecture/\">this article about iOS app architecture</a>:</p>\n\n<blockquote>\n  <p>Cocoa Touch is (I suspect) deliberately very simple: there’s Target-Action pattern, Dependency Injection, Delegate and MVC. That’s about it, really. Apparently it’s way too simple for some.</p>\n</blockquote>\n\n<p>I am working on one or two practice projects right now, and can’t think of a better way to code them than MVC with Coordinators.</p>\n\n",
-			"date_published": "2018-06-03T16:15:00-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/03/i-love-this.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/03/the-drop-shadows.html",
-	      	
-			"content_html": "<p>The drop shadows on all the WWDC promotional images and the new WWDC app icon are making me very nervous. I had to add drop shadows to everything back when I was in web development, back in 2000-2003. The effect looks so dated to me, but not so dated that it’s retro.</p>\n",
-			"date_published": "2018-06-03T15:41:04-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/03/the-drop-shadows.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/03/i-am-digging.html",
-	      	
-			"content_html": "<p>I am digging my old, blue, knockoff Apple Watch Sport Band again. I kind of wish I bought the real, fluoroelastomer band, though, because the silicone feels a little sticky and looks a little shiny.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d4b3df44f8.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-02T22:09:04-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/02/i-am-digging.html"
 		}
 		
 	]
