@@ -6,6 +6,24 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/06/21/to-my-surprise.html",
+	      	
+			"content_html": "<p>To my surprise, and somewhat to my dismay, I have discovered that Swift Playgrounds on iPad works better than Swift Playgrounds on Xcode. On Xcode, my playgrounds always stop working. That doesn’t happen on iPad.</p>\n",
+			"date_published": "2018-06-21T10:17:45-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/21/to-my-surprise.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/20/general-electric-dropped.html",
+	      	
+			"title": "General Electric Dropped from Dow",
+			
+			"content_html": "<p><a href=\"https://www.nytimes.com/2018/06/19/business/dealbook/general-electric-dow-jones.html\">It’s the end of an era.</a></p>\n\n<blockquote>\n  <p>General Electric, the last original member of the Dow Jones industrial average, was dropped from the blue-chip index late Tuesday and replaced by the Walgreens Boots Alliance drugstore chain.</p>\n</blockquote>\n\n<p>Now, don’t even get me started as to the idiocy of following a price-weighted stock index in the age of computers, but being part of the <a href=\"https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average\">DJIA</a> is a huge badge of honor that G.E. has now lost.</p>\n\n<blockquote>\n  <p>The decision is a fresh blow to General Electric, which has stumbled badly in recent years. Last fall, John L. Flannery, the company’s new chief executive, warned that the power-generation unit was reeling. G.E. cut its dividend for only the second time since the Great Depression. In January, G.E. surprised investors by taking a big charge and setting aside $15 billion over seven years to pay for obligations held by GE Capital, the company’s financial services unit, mainly on long-term care insurance policies.</p>\n</blockquote>\n\n<p>The recent decline of G.E. has been shocking to me. When I was at business school in Connecticut, G.E. was, rightly, considered a giant of industry and of financial services. Now it appears to be a lumbering giant, a lion in winter. I wonder what it will take to turn the company around.</p>\n",
+			"date_published": "2018-06-19T21:51:24-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/19/general-electric-dropped.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/06/19/apple-didnt-kill.html",
 	      	
 			"title": "Apple Didn't Kill Appkit...",
@@ -197,22 +215,6 @@
 			"content_html": "<p>The transformational Siri enhancements developers and pundits were hungry for were not announced at WWDC today. Apple is <em>doomed</em>! (OK, maybe not.)</p>\n",
 			"date_published": "2018-06-04T15:12:43-04:00",
 			"url": "https://micro.mjdescy.me/2018/06/04/the-transformational-siri.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/04/if-microsoft-wanted.html",
-	      	
-			"content_html": "<p>If Microsoft wanted to scare <em>everybody</em> in the developer community, they would buy <a href=\"https://stackexchange.com/\">Stack Exchange</a> too.</p>\n",
-			"date_published": "2018-06-04T09:48:55-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/04/if-microsoft-wanted.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/04/microsoft-bought-github.html",
-	      	
-			"content_html": "<p><a href=\"https://www.theverge.com/2018/6/4/17422788/microsoft-github-acquisition-official-deal\">Microsoft bought GitHub</a> just in time for WWDC to bury the news. I get the feeling that whatever led to GitHub’s success will soon be lost, but that it won’t matter to its profitability, and the vast majority of projects hosted there will stay. It just will never be the <em>next</em> GitHub.</p>\n",
-			"date_published": "2018-06-04T09:43:10-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/04/microsoft-bought-github.html"
 		}
 		
 	]
