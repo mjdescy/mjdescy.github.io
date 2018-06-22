@@ -6,6 +6,24 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/06/22/koko-the-gorilla.html",
+	      	
+			"title": "Koko the Gorilla, Who Used Sign Language and Befriended Mr. Rogers, Dies at 46",
+			
+			"content_html": "<p><a href=\"https://www.nytimes.com/2018/06/21/us/koko-gorilla-death-sign-language.html\">Koko the Gorilla</a> was a subject of fascination for me as a child. But, like many my age, I suspect, I kind of forgot about her, except for when she popped up in college psychology textbooks or NY Times crosswork clues every so often. I’m embarassed to say that I didn’t know Koko was still alive for most of my life. Rest in peace.</p>\n",
+			"date_published": "2018-06-21T22:23:00-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/21/koko-the-gorilla.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/22/the-whole-family.html",
+	      	
+			"content_html": "<p>The whole family went to the optician tonight to pick up my one-year-old son’s first pair of glasses. The next couple weeks will be all about getting him to wear them. After that, we were assured, we can begin to enjoy our summer.</p>\n",
+			"date_published": "2018-06-21T20:09:25-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/21/the-whole-family.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/06/21/to-my-surprise.html",
 	      	
 			"content_html": "<p>To my surprise, and somewhat to my dismay, I have discovered that Swift Playgrounds on iPad works better than Swift Playgrounds on Xcode. On Xcode, my playgrounds always stop working. That doesn’t happen on iPad.</p>\n",
@@ -199,22 +217,6 @@
 			"content_html": "<p>Reviewing <a href=\"https://512pixels.net/2018/06/macos-10-14-mojave-system-requirements/\">macOS 10.14 Mojave System Requirements</a> makes me think I <em>may</em> only have one year of useful life left on my 2013 MacBook Pro. (Mid 2012 MacBook Pros are the oldest supported.)</p>\n\n<p>If that’s true, it will be disappointing to me, because my laptop still feels fast and has plenty of computing resources. As a developer, I need to keep abreast of the current OS changes though, so I will have to upgrade when OS support is dropped.</p>\n",
 			"date_published": "2018-06-05T12:29:28-04:00",
 			"url": "https://micro.mjdescy.me/2018/06/05/macbook-pro-forever.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/05/i-thought-i.html",
-	      	
-			"content_html": "<p>I thought I understood the delegate pattern many years ago, but I keep finding more and more uses for it. If only it applied to real life.</p>\n",
-			"date_published": "2018-06-05T00:45:23-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/05/i-thought-i.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/04/the-transformational-siri.html",
-	      	
-			"content_html": "<p>The transformational Siri enhancements developers and pundits were hungry for were not announced at WWDC today. Apple is <em>doomed</em>! (OK, maybe not.)</p>\n",
-			"date_published": "2018-06-04T15:12:43-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/04/the-transformational-siri.html"
 		}
 		
 	]
