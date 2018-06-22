@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/06/22/i-found-the.html",
+	      	
+			"content_html": "<p>I found the article published last week that links to my iOS to-do app, <a href=\"https://swiftodoapp.com\">SwiftoDo</a>, my old todo.txt Mac client (buy <a href=\"https://swiftodoapp.com/desktop\">SwiftoDo Desktop</a> instead) and to my <a href=\"https://plaintext-productivity.net\">plaintext productivity</a> website as well: <a href=\"https://www.howtogeek.com/355890/every-to-do-list-app-sucks-switch-to-todo.txt-instead/\">Every To-Do List App Sucks, Switch To todo.txt Instead</a> 😀</p>\n",
+			"date_published": "2018-06-22T09:17:55-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/22/i-found-the.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/06/22/koko-the-gorilla.html",
 	      	
 			"title": "Koko the Gorilla, Who Used Sign Language and Befriended Mr. Rogers, Dies at 46",
@@ -207,16 +215,6 @@
 			"content_html": "<p>It looks like my career path is taking a slight turn once again. Hopefully that means good things are ahead of me.</p>\n",
 			"date_published": "2018-06-06T13:14:23-04:00",
 			"url": "https://micro.mjdescy.me/2018/06/06/171423.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/05/macbook-pro-forever.html",
-	      	
-			"title": "MacBook Pro 2013 Forever?",
-			
-			"content_html": "<p>Reviewing <a href=\"https://512pixels.net/2018/06/macos-10-14-mojave-system-requirements/\">macOS 10.14 Mojave System Requirements</a> makes me think I <em>may</em> only have one year of useful life left on my 2013 MacBook Pro. (Mid 2012 MacBook Pros are the oldest supported.)</p>\n\n<p>If that’s true, it will be disappointing to me, because my laptop still feels fast and has plenty of computing resources. As a developer, I need to keep abreast of the current OS changes though, so I will have to upgrade when OS support is dropped.</p>\n",
-			"date_published": "2018-06-05T12:29:28-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/05/macbook-pro-forever.html"
 		}
 		
 	]
