@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/06/23/020149.html",
+	      	
+			"content_html": "<p>My wife and I are going to see “<a href=\"https://www.phoenixredbank.com/in-the-heights/\">In the Heights</a>” tomorrow night, and I am super-psyched. If you only know of Lin-Manuel Miranda’s “Hamilton”, you would do well to listen to <a href=\"https://itunes.apple.com/us/album/in-the-heights-original-broadway-cast-recording/1269639900\">his <em>other</em> Best Musical Tony Award winner</a>.</p>\n",
+			"date_published": "2018-06-22T22:01:49-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/22/020149.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/23/the-last-of.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/2018/06/22/opinion/sunday/asian-american-tiger-parents.html\">The Last of the Tiger Parents</a> is a lovely article that provides a different, more introspective dimension to this week’s uproar about racial bias at <a href=\"https://www.nytimes.com/2018/06/14/nyregion/new-york-today-elite-high-schools.html\">elite schools in New York City</a> and <a href=\"https://www.nytimes.com/2018/06/15/us/harvard-asian-enrollment-applicants.html\">Harvard</a>.</p>\n",
+			"date_published": "2018-06-22T21:20:39-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/22/the-last-of.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/06/22/i-found-the.html",
 	      	
 			"content_html": "<p>I found the article published last week that links to my iOS to-do app, <a href=\"https://swiftodoapp.com\">SwiftoDo</a>, my old todo.txt Mac client (buy <a href=\"https://swiftodoapp.com/desktop\">SwiftoDo Desktop</a> instead) and to my <a href=\"https://plaintext-productivity.net\">plaintext productivity</a> website as well: <a href=\"https://www.howtogeek.com/355890/every-to-do-list-app-sucks-switch-to-todo.txt-instead/\">Every To-Do List App Sucks, Switch To todo.txt Instead</a> 😀</p>\n",
@@ -199,22 +215,6 @@
 			"content_html": "<p><a href=\"https://audaciousfox.net/projects/edit\">Edit for iOS</a> is the second ultra-simple text editor for iOS—that I have noticed—that has been released this year. I was working on something like this last summer, but for TaskPaper, but abandoned it due to running into some snags, and needing to tend to SwiftoDo again. I think that the iOS share extension, and the increasing complexity of Drafts, has opened a little niche for iOS scratchpad text editors once again. Maybe I will dust of my little project sometime.</p>\n",
 			"date_published": "2018-06-06T14:37:47-04:00",
 			"url": "https://micro.mjdescy.me/2018/06/06/edit-for-ios.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/06/i-wrote-a.html",
-	      	
-			"content_html": "<p>I wrote a <a href=\"https://gist.github.com/mjdescy/a805b5b4c49ed79fb240d3886815d5a2\">semantic version number struct in Swift 4.1</a> that someone might find useful.</p>\n",
-			"date_published": "2018-06-06T13:50:41-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/06/i-wrote-a.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/06/171423.html",
-	      	
-			"content_html": "<p>It looks like my career path is taking a slight turn once again. Hopefully that means good things are ahead of me.</p>\n",
-			"date_published": "2018-06-06T13:14:23-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/06/171423.html"
 		}
 		
 	]
