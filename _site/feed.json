@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/06/23/im-thinking-of.html",
+	      	
+			"content_html": "<p>I’m thinking of trading in my V-Moda Crossfade 2’s plus $100 to upgrade to thier <a href=\"https://v-moda.com/products/crossfade2-wireless-codex\">Codex edition</a>, which are the same headphones plus AAC and aptX support over Bluetooth. The better codecs will make them useful longer, like when the Lightning port goes away.</p>\n",
+			"date_published": "2018-06-23T15:55:58-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/23/im-thinking-of.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/06/23/020149.html",
 	      	
 			"content_html": "<p>My wife and I are going to see “<a href=\"https://www.phoenixredbank.com/in-the-heights/\">In the Heights</a>” tomorrow night, and I am super-psyched. If you only know of Lin-Manuel Miranda’s “Hamilton”, you would do well to listen to <a href=\"https://itunes.apple.com/us/album/in-the-heights-original-broadway-cast-recording/1269639900\">his <em>other</em> Best Musical Tony Award winner</a>.</p>\n",
@@ -205,16 +213,6 @@
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/06/06/what-would-make-me-upgrade-my-series-1-apple-watch/\">What would make me upgrade my Series 1 Apple Watch</a></p>\n",
 			"date_published": "2018-06-06T23:04:12-04:00",
 			"url": "https://micro.mjdescy.me/2018/06/06/blog-post-what.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/06/edit-for-ios.html",
-	      	
-			"title": "Edit for iOS",
-			
-			"content_html": "<p><a href=\"https://audaciousfox.net/projects/edit\">Edit for iOS</a> is the second ultra-simple text editor for iOS—that I have noticed—that has been released this year. I was working on something like this last summer, but for TaskPaper, but abandoned it due to running into some snags, and needing to tend to SwiftoDo again. I think that the iOS share extension, and the increasing complexity of Drafts, has opened a little niche for iOS scratchpad text editors once again. Maybe I will dust of my little project sometime.</p>\n",
-			"date_published": "2018-06-06T14:37:47-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/06/edit-for-ios.html"
 		}
 		
 	]
