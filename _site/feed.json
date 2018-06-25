@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/06/25/im-starting-a.html",
+	      	
+			"content_html": "<p>I’m starting a new thing at work today. It will be an uphill climb for a little while, I think.</p>\n",
+			"date_published": "2018-06-25T10:02:52-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/25/im-starting-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/24/today-i-took.html",
+	      	
+			"content_html": "<p>Today I took the time to delight in the company of my wife and children. We went to the shore, which is nearby, and shared a wonderful and simple day.</p>\n",
+			"date_published": "2018-06-24T19:25:06-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/24/today-i-took.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/06/23/im-thinking-of.html",
 	      	
 			"content_html": "<p>I’m thinking of trading in my V-Moda Crossfade 2’s plus $100 to upgrade to thier <a href=\"https://v-moda.com/products/crossfade2-wireless-codex\">Codex edition</a>, which are the same headphones plus AAC and aptX support over Bluetooth. The better codecs will make them useful longer, like when the Lightning port goes away.</p>\n",
@@ -197,22 +213,6 @@
 			"content_html": "<p>Today was a great day. My daughter had a school concert that we all attended, my work day was light (meetings were canceled, even) and later on we all went out for a great fish dinner.</p>\n",
 			"date_published": "2018-06-07T23:44:54-04:00",
 			"url": "https://micro.mjdescy.me/2018/06/07/034454.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/07/i-finally-figured.html",
-	      	
-			"content_html": "<p>I finally figured out how to point micro.mjdescy.me to mjdescy.micro.blog. I didn’t realize that I had to set the CNAME record using my web hosting provider’s cPanel rather than through my domain registrar.</p>\n",
-			"date_published": "2018-06-07T00:42:04-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/07/i-finally-figured.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/07/blog-post-what.html",
-	      	
-			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/06/06/what-would-make-me-upgrade-my-series-1-apple-watch/\">What would make me upgrade my Series 1 Apple Watch</a></p>\n",
-			"date_published": "2018-06-06T23:04:12-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/06/blog-post-what.html"
 		}
 		
 	]
