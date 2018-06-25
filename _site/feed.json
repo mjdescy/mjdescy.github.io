@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/06/25/i-have-learned.html",
+	      	
+			"content_html": "<p>I have learned a heck of a lot about clean iOS app architecture from <a href=\"https://davedelong.com/blog/2017/11/06/a-better-mvc-part-1-the-problems/\">Dave Delong’s “A Better MVC” series</a>.</p>\n",
+			"date_published": "2018-06-25T16:27:51-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/25/i-have-learned.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/06/25/im-starting-a.html",
 	      	
 			"content_html": "<p>I’m starting a new thing at work today. It will be an uphill climb for a little while, I think.</p>\n",
@@ -205,14 +213,6 @@
 			"content_html": "<p>I’ve been sick in bed with a cold most of the day, which has scuttled my family’s weekend plans. Why can’t I ever get sick on a weekday?</p>\n",
 			"date_published": "2018-06-09T14:10:04-04:00",
 			"url": "https://micro.mjdescy.me/2018/06/09/ive-been-sick.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/08/034454.html",
-	      	
-			"content_html": "<p>Today was a great day. My daughter had a school concert that we all attended, my work day was light (meetings were canceled, even) and later on we all went out for a great fish dinner.</p>\n",
-			"date_published": "2018-06-07T23:44:54-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/07/034454.html"
 		}
 		
 	]
