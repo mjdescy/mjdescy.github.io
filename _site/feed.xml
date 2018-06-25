@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://micro.mjdescy.me/</link>
-    <pubDate>Mon, 25 Jun 2018 10:02:53 -0400</pubDate>
-    <lastBuildDate>Mon, 25 Jun 2018 10:02:53 -0400</lastBuildDate>
+    <pubDate>Mon, 25 Jun 2018 16:27:54 -0400</pubDate>
+    <lastBuildDate>Mon, 25 Jun 2018 16:27:54 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I have learned a heck of a lot about clean iOS app architecture from &lt;a href=&quot;https://davedelong.com/blog/2017/11/06/a-better-mvc-part-1-the-problems/&quot;&gt;Dave Delong’s “A Better MVC” series&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Jun 2018 16:27:51 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/06/25/i-have-learned.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/25/i-have-learned.html</guid>
+      </item>
     
       <item>
       	
@@ -508,15 +517,6 @@
         <pubDate>Mon, 28 May 2018 19:38:28 -0400</pubDate>
         <link>https://micro.mjdescy.me/2018/05/28/i-am-a.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/28/i-am-a.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;All weekends should be 3 days long…if not 5! 😀&lt;/p&gt;
-</description>
-        <pubDate>Sun, 27 May 2018 23:49:59 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/05/27/all-weekends-should.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/28/all-weekends-should.html</guid>
       </item>
     
   </channel>
