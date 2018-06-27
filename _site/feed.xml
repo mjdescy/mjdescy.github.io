@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://micro.mjdescy.me/</link>
-    <pubDate>Tue, 26 Jun 2018 21:38:53 -0400</pubDate>
-    <lastBuildDate>Tue, 26 Jun 2018 21:38:53 -0400</lastBuildDate>
+    <pubDate>Wed, 27 Jun 2018 16:26:11 -0400</pubDate>
+    <lastBuildDate>Wed, 27 Jun 2018 16:26:11 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I have not been blogging as much recently because I have been disturbed so much by the onslaught of surprising and disturbing headlines here in the US. I honestly don’t know what to say anymore. I find joy in my family (they are great!!!) and almost nowhere else right now.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jun 2018 16:26:07 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/06/27/i-have-not.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/27/i-have-not.html</guid>
+      </item>
     
       <item>
       	
@@ -514,15 +523,6 @@
         <pubDate>Wed, 30 May 2018 15:21:21 -0400</pubDate>
         <link>https://micro.mjdescy.me/2018/05/30/this-vba-class.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/30/this-vba-class.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I decided to make use of &lt;a href=&quot;https://gist.github.com/&quot;&gt;GitHub Gists&lt;/a&gt; again. My first gist in several years is &lt;a href=&quot;https://gist.github.com/mjdescy/5b14043d0c3f3bb1e12f4046a0eb96db&quot;&gt;LoggedInUserName.bas&lt;/a&gt;: a VBA module to get logged in user name from the Windows API.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 30 May 2018 14:57:23 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/05/30/185723.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/30/185723.html</guid>
       </item>
     
   </channel>
