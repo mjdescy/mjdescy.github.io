@@ -4,8 +4,32 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://micro.mjdescy.me/</link>
-    <pubDate>Mon, 25 Jun 2018 16:27:54 -0400</pubDate>
-    <lastBuildDate>Mon, 25 Jun 2018 16:27:54 -0400</lastBuildDate>
+    <pubDate>Tue, 26 Jun 2018 21:38:53 -0400</pubDate>
+    <lastBuildDate>Tue, 26 Jun 2018 21:38:53 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;My clever, well-written new app currently does everything it’s supposed to do…except the main thing it’s supposed to do. I guess I’ve got some debugging and re-engineering to do!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Jun 2018 21:38:01 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/06/26/my-clever-wellwritten.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/27/my-clever-wellwritten.html</guid>
+      </item>
+    
+      <item>
+      	
+        <title>Tower 3.0's release and new pricing model</title>
+        
+        <description>&lt;p&gt;I have been beta testing &lt;a href=&quot;https://www.git-tower.com&quot;&gt;Tower 3.0&lt;/a&gt;, which is a very nice Git GUI client, for the past few months. The team behind it have just announced that the version 3.0 is complete. I was ready last week to purchase the software at its old price, which would be a one-time purchase of $79, but Tower has also announced that it is moving to &lt;a href=&quot;https://www.git-tower.com/pricing&quot;&gt;subscription pricing&lt;/a&gt; for version 3.&lt;/p&gt;
+
+&lt;p&gt;Switching from paid-up-front to subscription-based is somewhat controversial. I, for one, am all for software subscriptions, so I support the developers’ decision. However, their decision has signaled that Tower is not for me. Even with the generous 50% discount for the first year that they have offered me, as a beta tester, the developers have priced me out of their product. For a professional, making a living from their software,  the subscription cost for an important workplace tool is merely a drop in the bucket. But for me, a hobbyist developer who charges for my apps to cover my costs, I don’t make nearly enough money from my apps to justify paying more than a couple dollars per month for a Git client.&lt;/p&gt;
+
+&lt;p&gt;Git’s command line tools and &lt;a href=&quot;https://www.sourcetreeapp.com&quot;&gt;Atlassian’s SourceTree&lt;/a&gt; client are free to use. I will be back to using SourceTree—which which is free, full-featured, but not as well polished as Tower—shortly. Thanks to the Tower team for allowing me to beta test their software. I wish them the best of luck.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Jun 2018 09:37:40 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/06/26/tower-s-release.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/26/tower-s-release.html</guid>
+      </item>
     
       <item>
       	
@@ -499,24 +523,6 @@
         <pubDate>Wed, 30 May 2018 14:57:23 -0400</pubDate>
         <link>https://micro.mjdescy.me/2018/05/30/185723.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/30/185723.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2018/05/29/climate/recycling-landfills-plastic-papers.html&quot;&gt;This New York Times article&lt;/a&gt; comfirms some of my suspicions that a lot of what we recycle does not actually get recycled. It amazes me that we ship recyclables around the world for processing.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 30 May 2018 09:40:58 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/05/30/this-new-york.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/30/this-new-york.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;🎙 I am a sucker for an Upgrade draft episode: &lt;a href=&quot;https://overcast.fm/+Fcm-3QFAw&quot;&gt;The WWDC keynote Draft 2018&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 28 May 2018 19:38:28 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/05/28/i-am-a.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/28/i-am-a.html</guid>
       </item>
     
   </channel>
