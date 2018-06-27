@@ -6,6 +6,24 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/06/27/my-clever-wellwritten.html",
+	      	
+			"content_html": "<p>My clever, well-written new app currently does everything it’s supposed to do…except the main thing it’s supposed to do. I guess I’ve got some debugging and re-engineering to do!</p>\n",
+			"date_published": "2018-06-26T21:38:01-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/26/my-clever-wellwritten.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/26/tower-s-release.html",
+	      	
+			"title": "Tower 3.0's release and new pricing model",
+			
+			"content_html": "<p>I have been beta testing <a href=\"https://www.git-tower.com\">Tower 3.0</a>, which is a very nice Git GUI client, for the past few months. The team behind it have just announced that the version 3.0 is complete. I was ready last week to purchase the software at its old price, which would be a one-time purchase of $79, but Tower has also announced that it is moving to <a href=\"https://www.git-tower.com/pricing\">subscription pricing</a> for version 3.</p>\n\n<p>Switching from paid-up-front to subscription-based is somewhat controversial. I, for one, am all for software subscriptions, so I support the developers’ decision. However, their decision has signaled that Tower is not for me. Even with the generous 50% discount for the first year that they have offered me, as a beta tester, the developers have priced me out of their product. For a professional, making a living from their software,  the subscription cost for an important workplace tool is merely a drop in the bucket. But for me, a hobbyist developer who charges for my apps to cover my costs, I don’t make nearly enough money from my apps to justify paying more than a couple dollars per month for a Git client.</p>\n\n<p>Git’s command line tools and <a href=\"https://www.sourcetreeapp.com\">Atlassian’s SourceTree</a> client are free to use. I will be back to using SourceTree—which which is free, full-featured, but not as well polished as Tower—shortly. Thanks to the Tower team for allowing me to beta test their software. I wish them the best of luck.</p>\n",
+			"date_published": "2018-06-26T09:37:40-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/26/tower-s-release.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/06/25/i-have-learned.html",
 	      	
 			"content_html": "<p>I have learned a heck of a lot about clean iOS app architecture from <a href=\"https://davedelong.com/blog/2017/11/06/a-better-mvc-part-1-the-problems/\">Dave Delong’s “A Better MVC” series</a>.</p>\n",
@@ -197,22 +215,6 @@
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/06/11/a-hardware-keyboard-shortcuts-tip-for-drafts-5/\">A Hardware Keyboard Shortcuts Tip for Drafts 5</a></p>\n",
 			"date_published": "2018-06-11T23:13:54-04:00",
 			"url": "https://micro.mjdescy.me/2018/06/11/blog-post-a.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/12/011117.html",
-	      	
-			"content_html": "<p>I’m not sure what to make of anything in the news these days. I’m going to pay attention to something that makes sense—like “Westworld”—for the next hour or so.</p>\n",
-			"date_published": "2018-06-11T21:11:17-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/11/011117.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/09/ive-been-sick.html",
-	      	
-			"content_html": "<p>I’ve been sick in bed with a cold most of the day, which has scuttled my family’s weekend plans. Why can’t I ever get sick on a weekday?</p>\n",
-			"date_published": "2018-06-09T14:10:04-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/09/ive-been-sick.html"
 		}
 		
 	]
