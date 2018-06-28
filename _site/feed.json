@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/06/28/i-would-subscribe.html",
+	      	
+			"content_html": "<p>I would subscribe to <a href=\"https://birchtree.me/blog/apple-entertainment-pricing-and-feature-speculation/\">Apple Music + News + TV for $149/year</a> (or a little more for a family plan), but I’m a sucker for Apple products and services anyway. I would be a Texture subscriber <em>today</em> if their app experience wasn’t (in my opinion) terrible.</p>\n\n",
+			"date_published": "2018-06-28T18:48:05-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/28/i-would-subscribe.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/28/i-think-i.html",
+	      	
+			"content_html": "<p>I think I will give Peter Davison-Reiber ‘s <a href=\"https://polymaths.blog/2018/06/fantastically-good-event-parser-for-drafts-5\">Fantastically Good Event Parser for Drafts 5</a> a try. Adding calendar entries with natural language without going through Fantastical or Calendars 5 sounds great to me.</p>\n",
+			"date_published": "2018-06-28T15:34:54-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/28/i-think-i.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/06/28/the-mail-i.html",
 	      	
 			"content_html": "<p>The mail I <em>definitely</em> don’t need to open right away is always convening labeled for me. They could work on the wording, though.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/7e4b5b0d7c.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -197,22 +213,6 @@
 			"content_html": "<p>My app sales went way up this weekend, and I have no idea why. 🤷‍♂️</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/595c9bfd59.jpg\" width=\"269\" height=\"417\" /></p>\n",
 			"date_published": "2018-06-17T22:26:10-04:00",
 			"url": "https://micro.mjdescy.me/2018/06/17/my-app-sales.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/17/happy-fathers-day.html",
-	      	
-			"content_html": "<p>Happy Father’s Day to all the dads out there. 😀</p>\n",
-			"date_published": "2018-06-17T09:20:03-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/17/happy-fathers-day.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/15/142222.html",
-	      	
-			"content_html": "<p>Today is a good day for me to catch up on WWDC videos while I build databases for my real job.</p>\n",
-			"date_published": "2018-06-15T10:22:22-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/15/142222.html"
 		}
 		
 	]
