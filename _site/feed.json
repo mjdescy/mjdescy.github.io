@@ -6,6 +6,32 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/06/28/the-mail-i.html",
+	      	
+			"content_html": "<p>The mail I <em>definitely</em> don’t need to open right away is always convening labeled for me. They could work on the wording, though.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/7e4b5b0d7c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-28T10:07:51-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/28/the-mail-i.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/28/this-inexpensive-little.html",
+	      	
+			"content_html": "<p>This inexpensive little device works <em>just fine</em> for microwave popcorn. It amazes me that we used that awful bagged stuff for years.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/9670dd6bbf.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-06-27T22:01:00-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/27/this-inexpensive-little.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/28/as-kennedy-retires.html",
+	      	
+			"title": "As Kennedy Retires, the Supreme Court’s Attack on Labor Unions Is a Sign of Things to Come",
+			
+			"content_html": "<p>No kidding, <a href=\"https://www.newyorker.com/news/our-columnists/as-kennedy-retires-the-supreme-courts-attack-on-labor-unions-is-a-sign-of-things-to-come\">The New Yorker</a>, no kidding:</p>\n\n<blockquote>\n  <p>For years, conservatives complained about activist liberal judges making it up as they went along. Today, they are the activists. Under the guise of “originalism,” they are rewriting the nation’s laws to further the reactionary political agenda of the Republican Party and its biggest donors.</p>\n</blockquote>\n\n<p>Note the scare quotes around “originalism”. It, like all the other -ism words we throw around—conservatism, liberalism, socialism—\nis completely devoid of meaning.</p>\n",
+			"date_published": "2018-06-27T20:55:19-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/27/as-kennedy-retires.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/06/27/i-have-not.html",
 	      	
 			"content_html": "<p>I have not been blogging as much recently because I have been disturbed so much by the onslaught of surprising and disturbing headlines here in the US. I honestly don’t know what to say anymore. I find joy in my family (they are great!!!) and almost nowhere else right now.</p>\n",
@@ -187,34 +213,6 @@
 			"content_html": "<p>Today is a good day for me to catch up on WWDC videos while I build databases for my real job.</p>\n",
 			"date_published": "2018-06-15T10:22:22-04:00",
 			"url": "https://micro.mjdescy.me/2018/06/15/142222.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/13/apple-gave-me.html",
-	      	
-			"content_html": "<p>Apple gave me a free, full replacement for my 11-month-old iPad Pro with backlight bleed on one edge. The whole thing took about ten minutes, with no fuss whatsoever. I can’t ask for better service than that.</p>\n",
-			"date_published": "2018-06-13T12:34:30-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/13/apple-gave-me.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/13/learning-the-core.html",
-	      	
-			"title": "Learning the Core Data Framework",
-			
-			"content_html": "<p>Lately I have taken it upon myself to finally teach myself <a href=\"https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreData/index.html?utm_source=iosstash.io\">Core Data</a>. I had avoided it for years, due to its complexity and because it was <em>too much</em> for my projects. I decided to learn it to challenge myself and to level up a bit as an iOS developer.</p>\n\n<p>Learning it reminds me of learning Objective C and Cocoa years ago. Core Data presents itself as a daunting hierarchy of NS-prefixed classes, with lots of layers and moving parts, but it (kind of) makes sense after a long period of study. It’s starting to make sense to me now, though I have barely scratched the surface of its functionality.</p>\n\n<p>I’ve been writing and rewriting and never finishing the same sample app for the past week. Of course, I made it difficult for myself by requiring it to have an App Group, and for the Core Data stack to be defined in its own Framework. I figured out how to do so a couple days ago, and then, this morning, stumbled on the exact same process recommended in <a href=\"https://developer.apple.com/videos/play/wwdc2018/224\">Apple’s WWDC 2018 Core Data Best Practices video </a>. At least I know I got part of my Core Data stack set up the right way!</p>\n",
-			"date_published": "2018-06-12T23:45:45-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/12/learning-the-core.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/12/apple-hardware-woes.html",
-	      	
-			"title": "Apple hardware woes",
-			
-			"content_html": "<p>As much as I love Apple hardware, I’ve got a bunch of Apple hardware problems all of the sudden:</p>\n\n<ul>\n  <li>AirPod battery life has dropped to less than an hour for phone calls. My AirPods are about 18 months old.</li>\n  <li>Bad backlight bleed developed on the bottom edge of my iPad Pro. Dark backgrounds obscure it, but light backgrounds don’t. I will see tomorrow if they will fix it under warranty. My iPad Pro is 11 months old.</li>\n  <li>A bright spot developed in the bottom right corner of my iPhone 7 Plus. You can only see it when that section of the screen is displaying white. I’ll ask about it at the Genius Bar tomorrow. My iPhone is almost 20 months old. Luckily, it’s still covered by AppleCare+.</li>\n  <li>My 2013 MacBook Pro started dropping my USB trackball upon or after going to sleep. I have to unplug and replug it to make it work again. Research has shown me that this sort of thing is one of those unknown bugs. I hope it doesn’t mean my logic board is going.</li>\n</ul>\n\n<p>These are all minor quibbles, but they are all about rather expensive hardware. I think I’m going to start buying AppleCare+ from now on.</p>\n",
-			"date_published": "2018-06-12T17:08:31-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/12/apple-hardware-woes.html"
 		}
 		
 	]
