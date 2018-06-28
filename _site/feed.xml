@@ -4,8 +4,48 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://micro.mjdescy.me/</link>
-    <pubDate>Wed, 27 Jun 2018 16:26:11 -0400</pubDate>
-    <lastBuildDate>Wed, 27 Jun 2018 16:26:11 -0400</lastBuildDate>
+    <pubDate>Thu, 28 Jun 2018 10:07:55 -0400</pubDate>
+    <lastBuildDate>Thu, 28 Jun 2018 10:07:55 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;The mail I &lt;em&gt;definitely&lt;/em&gt; don’t need to open right away is always convening labeled for me. They could work on the wording, though.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://micro.mjdescy.me/uploads/2018/7e4b5b0d7c.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 Jun 2018 10:07:51 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/06/28/the-mail-i.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/28/the-mail-i.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;This inexpensive little device works &lt;em&gt;just fine&lt;/em&gt; for microwave popcorn. It amazes me that we used that awful bagged stuff for years.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://micro.mjdescy.me/uploads/2018/9670dd6bbf.jpg&quot; width=&quot;600&quot; height=&quot;599&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jun 2018 22:01:00 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/06/27/this-inexpensive-little.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/28/this-inexpensive-little.html</guid>
+      </item>
+    
+      <item>
+      	
+        <title>As Kennedy Retires, the Supreme Court’s Attack on Labor Unions Is a Sign of Things to Come</title>
+        
+        <description>&lt;p&gt;No kidding, &lt;a href=&quot;https://www.newyorker.com/news/our-columnists/as-kennedy-retires-the-supreme-courts-attack-on-labor-unions-is-a-sign-of-things-to-come&quot;&gt;The New Yorker&lt;/a&gt;, no kidding:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;For years, conservatives complained about activist liberal judges making it up as they went along. Today, they are the activists. Under the guise of “originalism,” they are rewriting the nation’s laws to further the reactionary political agenda of the Republican Party and its biggest donors.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Note the scare quotes around “originalism”. It, like all the other -ism words we throw around—conservatism, liberalism, socialism—
+is completely devoid of meaning.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jun 2018 20:55:19 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/06/27/as-kennedy-retires.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/28/as-kennedy-retires.html</guid>
+      </item>
     
       <item>
       	
@@ -496,33 +536,6 @@
         <pubDate>Thu, 31 May 2018 14:10:02 -0400</pubDate>
         <link>https://micro.mjdescy.me/2018/05/31/its-silly-but.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/31/its-silly-but.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’m finalizing another minor version update to SwiftoDo this week, despite &lt;a href=&quot;https://mjdescy.me/2018/04/28/swiftodo-development-notes-april-2018/&quot;&gt;the development freeze I had promised on my blog&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 31 May 2018 13:36:31 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/05/31/im-finalizing-another.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/31/im-finalizing-another.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Here is a wrapper class to hide implementation details in Microsoft Access VBA projects: &lt;a href=&quot;https://gist.github.com/mjdescy/6c89c5969c3618e220814c6d04f6e449&quot;&gt;DAOQueryRunner.cls&lt;/a&gt;. &lt;a href=&quot;https://gist.github.com/mjdescy/621e03e8d2dd83984d83ec83ca05c6fc&quot;&gt;DAOTemporaryTableController.cls&lt;/a&gt; relies on this.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 30 May 2018 15:22:13 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/05/30/here-is-a.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/30/here-is-a.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;This VBA class helps you work with temporary tables in Access VBA projects: &lt;a href=&quot;https://gist.github.com/mjdescy/621e03e8d2dd83984d83ec83ca05c6fc&quot;&gt;DAOTemporaryTableController.cls&lt;/a&gt;. You may need to do so if you want to join using a subquery as criteria, which Access does not allow.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 30 May 2018 15:21:21 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/05/30/this-vba-class.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/05/30/this-vba-class.html</guid>
       </item>
     
   </channel>
