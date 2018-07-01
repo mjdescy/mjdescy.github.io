@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/07/01/140841.html",
+	      	
+			"content_html": "<p>I’m trying to get back on the MyFitnessPal horse today. I haven’t logged my food in six months and the results are really bad.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/059fb24fb5.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-01T10:08:41-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/01/140841.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/01/030746.html",
+	      	
+			"content_html": "<p>I finally got to see “A Quiet Place” this evening. What a excellent film! It is taut, suspenseful, and scary as hell.</p>\n",
+			"date_published": "2018-06-30T23:07:46-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/30/030746.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/07/01/my-kids-love.html",
 	      	
 			"content_html": "<p>My kids love the public library. My family had a nice trip there to get out of the heat today. It’s exciting now that my daughter is learning how to read. My son has enjoyed thumbing through books since he could sit up. Meanwhile, I only read on my iPad these days.</p>\n",
@@ -197,22 +213,6 @@
 			"content_html": "<p>Apple’s “<a href=\"https://developer.apple.com/wwdc18/223\">Embracing Algorithms</a>” presentation from WWDC 2018 inspired me to try to write some algorithms for my side projects. I have re-discovered just how hard it can be to write <em>memory-constrained</em> algorithms. Modern processor speed and memory limits have spoiled me.</p>\n",
 			"date_published": "2018-06-19T10:32:16-04:00",
 			"url": "https://micro.mjdescy.me/2018/06/19/apples-embracing-algorithms.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/18/im-wondering-as.html",
-	      	
-			"content_html": "<p>I’m wondering, as one of my domain names is set to auto-renew, whether domain names increase or decrease in cost over time. I used to register my domain names for ten year periods, to lock in the price, but now I’m not so sure if it is worth it. Prices seem pretty consistent now.</p>\n",
-			"date_published": "2018-06-18T10:29:03-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/18/im-wondering-as.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/18/my-work-goal.html",
-	      	
-			"content_html": "<p>My work goal for the week is to build a system to automate lots of grunt work I will otherwise have to do manually every week this summer. Fun stuff.</p>\n",
-			"date_published": "2018-06-18T10:00:23-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/18/my-work-goal.html"
 		}
 		
 	]
