@@ -6,9 +6,25 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/07/05/im-happy-today.html",
+	      	
+			"content_html": "<p>I’m happy today feels like a Thursday because all day yesterday felt like a Sunday.</p>\n",
+			"date_published": "2018-07-05T10:30:31-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/05/im-happy-today.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/04/it-is-too.html",
+	      	
+			"content_html": "<p>It is too hot and muggy to do much of anything today. My family’s trip to the beach became a trip to lunch and then back home again.</p>\n",
+			"date_published": "2018-07-04T13:13:53-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/04/it-is-too.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/07/04/app-review-and.html",
 	      	
-			"content_html": "<p>App review and package delivery are on schedule today despite the hooray. I’m not upset, but it is unexpected.</p>\n",
+			"content_html": "<p>App review and package delivery are on schedule today despite the holiday. I’m not upset, but it is unexpected.</p>\n",
 			"date_published": "2018-07-04T09:49:42-04:00",
 			"url": "https://micro.mjdescy.me/2018/07/04/app-review-and.html"
 		},
@@ -191,24 +207,6 @@
 			"content_html": "<p>I found the article published last week that links to my iOS to-do app, <a href=\"https://swiftodoapp.com\">SwiftoDo</a>, my old todo.txt Mac client (buy <a href=\"https://swiftodoapp.com/desktop\">SwiftoDo Desktop</a> instead) and to my <a href=\"https://plaintext-productivity.net\">plaintext productivity</a> website as well: <a href=\"https://www.howtogeek.com/355890/every-to-do-list-app-sucks-switch-to-todo.txt-instead/\">Every To-Do List App Sucks, Switch To todo.txt Instead</a> 😀</p>\n",
 			"date_published": "2018-06-22T09:17:55-04:00",
 			"url": "https://micro.mjdescy.me/2018/06/22/i-found-the.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/22/koko-the-gorilla.html",
-	      	
-			"title": "Koko the Gorilla, Who Used Sign Language and Befriended Mr. Rogers, Dies at 46",
-			
-			"content_html": "<p><a href=\"https://www.nytimes.com/2018/06/21/us/koko-gorilla-death-sign-language.html\">Koko the Gorilla</a> was a subject of fascination for me as a child. But, like many my age, I suspect, I kind of forgot about her, except for when she popped up in college psychology textbooks or NY Times crosswork clues every so often. I’m embarassed to say that I didn’t know Koko was still alive for most of my life. Rest in peace.</p>\n",
-			"date_published": "2018-06-21T22:23:00-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/21/koko-the-gorilla.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/22/the-whole-family.html",
-	      	
-			"content_html": "<p>The whole family went to the optician tonight to pick up my one-year-old son’s first pair of glasses. The next couple weeks will be all about getting him to wear them. After that, we were assured, we can begin to enjoy our summer.</p>\n",
-			"date_published": "2018-06-21T20:09:25-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/21/the-whole-family.html"
 		}
 		
 	]
