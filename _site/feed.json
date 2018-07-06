@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/07/06/i-love-assembly.html",
+	      	
+			"content_html": "<p>I love <a href=\"https://itunes.apple.com/us/app/assembly-art-and-design/id1024210402?mt=8\">Assembly by Pixite</a>. It’s an easy to use vector drawing app for iOS. Their new icon looks nice, but I will miss their cleverly designed bird icon. Luckily, it’s still on the app’s splash screen.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/028bf81d4b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-06T08:56:52-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/06/i-love-assembly.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/07/06/020032.html",
 	      	
 			"content_html": "<p>I just submitted a new iOS app to the App Store tonight. My fingers are crossed when it comes to the approval process. Hopefully nothing trips it up or anything. More details to come.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>I’m thinking of trading in my V-Moda Crossfade 2’s plus $100 to upgrade to thier <a href=\"https://v-moda.com/products/crossfade2-wireless-codex\">Codex edition</a>, which are the same headphones plus AAC and aptX support over Bluetooth. The better codecs will make them useful longer, like when the Lightning port goes away.</p>\n",
 			"date_published": "2018-06-23T15:55:58-04:00",
 			"url": "https://micro.mjdescy.me/2018/06/23/im-thinking-of.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/23/020149.html",
-	      	
-			"content_html": "<p>My wife and I are going to see “<a href=\"https://www.phoenixredbank.com/in-the-heights/\">In the Heights</a>” tomorrow night, and I am super-psyched. If you only know of Lin-Manuel Miranda’s “Hamilton”, you would do well to listen to <a href=\"https://itunes.apple.com/us/album/in-the-heights-original-broadway-cast-recording/1269639900\">his <em>other</em> Best Musical Tony Award winner</a>.</p>\n",
-			"date_published": "2018-06-22T22:01:49-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/22/020149.html"
 		}
 		
 	]
