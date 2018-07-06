@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/07/06/020032.html",
+	      	
+			"content_html": "<p>I just submitted a new iOS app to the App Store tonight. My fingers are crossed when it comes to the approval process. Hopefully nothing trips it up or anything. More details to come.</p>\n",
+			"date_published": "2018-07-05T22:00:32-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/05/020032.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/05/190220.html",
+	      	
+			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.13.1</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. It fixes a reverse-sort-order bug.</p>\n",
+			"date_published": "2018-07-05T15:02:20-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/05/190220.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/07/05/im-happy-today.html",
 	      	
 			"content_html": "<p>I’m happy today feels like a Thursday because all day yesterday felt like a Sunday.</p>\n",
@@ -191,22 +207,6 @@
 			"content_html": "<p>My wife and I are going to see “<a href=\"https://www.phoenixredbank.com/in-the-heights/\">In the Heights</a>” tomorrow night, and I am super-psyched. If you only know of Lin-Manuel Miranda’s “Hamilton”, you would do well to listen to <a href=\"https://itunes.apple.com/us/album/in-the-heights-original-broadway-cast-recording/1269639900\">his <em>other</em> Best Musical Tony Award winner</a>.</p>\n",
 			"date_published": "2018-06-22T22:01:49-04:00",
 			"url": "https://micro.mjdescy.me/2018/06/22/020149.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/23/the-last-of.html",
-	      	
-			"content_html": "<p><a href=\"https://www.nytimes.com/2018/06/22/opinion/sunday/asian-american-tiger-parents.html\">The Last of the Tiger Parents</a> is a lovely article that provides a different, more introspective dimension to this week’s uproar about racial bias at <a href=\"https://www.nytimes.com/2018/06/14/nyregion/new-york-today-elite-high-schools.html\">elite schools in New York City</a> and <a href=\"https://www.nytimes.com/2018/06/15/us/harvard-asian-enrollment-applicants.html\">Harvard</a>.</p>\n",
-			"date_published": "2018-06-22T21:20:39-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/22/the-last-of.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/22/i-found-the.html",
-	      	
-			"content_html": "<p>I found the article published last week that links to my iOS to-do app, <a href=\"https://swiftodoapp.com\">SwiftoDo</a>, my old todo.txt Mac client (buy <a href=\"https://swiftodoapp.com/desktop\">SwiftoDo Desktop</a> instead) and to my <a href=\"https://plaintext-productivity.net\">plaintext productivity</a> website as well: <a href=\"https://www.howtogeek.com/355890/every-to-do-list-app-sucks-switch-to-todo.txt-instead/\">Every To-Do List App Sucks, Switch To todo.txt Instead</a> 😀</p>\n",
-			"date_published": "2018-06-22T09:17:55-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/22/i-found-the.html"
 		}
 		
 	]
