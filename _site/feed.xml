@@ -4,8 +4,26 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://micro.mjdescy.me/</link>
-    <pubDate>Thu, 05 Jul 2018 10:30:42 -0400</pubDate>
-    <lastBuildDate>Thu, 05 Jul 2018 10:30:42 -0400</lastBuildDate>
+    <pubDate>Thu, 05 Jul 2018 22:00:33 -0400</pubDate>
+    <lastBuildDate>Thu, 05 Jul 2018 22:00:33 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I just submitted a new iOS app to the App Store tonight. My fingers are crossed when it comes to the approval process. Hopefully nothing trips it up or anything. More details to come.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Jul 2018 22:00:32 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/07/05/020032.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/07/06/020032.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://swiftodoapp.com&quot;&gt;SwiftoDo 2.13.1&lt;/a&gt; is now available &lt;a href=&quot;https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;amp;mt=8&quot;&gt;in the App Store&lt;/a&gt;. It fixes a reverse-sort-order bug.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Jul 2018 15:02:20 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/07/05/190220.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/07/05/190220.html</guid>
+      </item>
     
       <item>
       	
@@ -510,28 +528,6 @@ is completely devoid of meaning.&lt;/p&gt;
         <pubDate>Wed, 06 Jun 2018 13:50:41 -0400</pubDate>
         <link>https://micro.mjdescy.me/2018/06/06/i-wrote-a.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/06/i-wrote-a.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;It looks like my career path is taking a slight turn once again. Hopefully that means good things are ahead of me.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 06 Jun 2018 13:14:23 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/06/06/171423.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/06/171423.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>MacBook Pro 2013 Forever?</title>
-        
-        <description>&lt;p&gt;Reviewing &lt;a href=&quot;https://512pixels.net/2018/06/macos-10-14-mojave-system-requirements/&quot;&gt;macOS 10.14 Mojave System Requirements&lt;/a&gt; makes me think I &lt;em&gt;may&lt;/em&gt; only have one year of useful life left on my 2013 MacBook Pro. (Mid 2012 MacBook Pros are the oldest supported.)&lt;/p&gt;
-
-&lt;p&gt;If that’s true, it will be disappointing to me, because my laptop still feels fast and has plenty of computing resources. As a developer, I need to keep abreast of the current OS changes though, so I will have to upgrade when OS support is dropped.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 05 Jun 2018 12:29:28 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/06/05/macbook-pro-forever.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/05/macbook-pro-forever.html</guid>
       </item>
     
   </channel>
