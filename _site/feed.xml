@@ -4,8 +4,35 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://micro.mjdescy.me/</link>
-    <pubDate>Fri, 06 Jul 2018 08:56:54 -0400</pubDate>
-    <lastBuildDate>Fri, 06 Jul 2018 08:56:54 -0400</lastBuildDate>
+    <pubDate>Fri, 06 Jul 2018 22:27:13 -0400</pubDate>
+    <lastBuildDate>Fri, 06 Jul 2018 22:27:13 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Apple’s App Review rejected my new app, primarily because its name had the word “free” in it. While that’s not the end of the world, it will delay the app’s release for at least a couple days, as I figure out a new name and the best way to handle everything in App Store Connect.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Jul 2018 22:27:08 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/07/06/apples-app-review.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/07/07/apples-app-review.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;http://thomasfinch.me/iosicon/&quot;&gt;Thomas Finch’s iOS 7+ Icon Generator&lt;/a&gt; is a nice, little utility. It takes a square app icon and masks it to match the rounded corner shape of modern iOS icons.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Jul 2018 12:34:36 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/07/06/thomas-finchs-ios.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/07/06/thomas-finchs-ios.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’m happy to read &lt;a href=&quot;https://www.nytimes.com/2018/07/04/movies/ant-man-and-the-wasp-review-marvel-paul-rudd.html&quot;&gt;a favorable review of “Ant-Man and the Wasp”&lt;/a&gt;. I’m apt to see it because I enjoy the Marvel Universe movies and because I’ve seen the commercial for it about 15,000 times during MLB.TV baseball games.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Jul 2018 10:13:34 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/07/06/141334.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/07/06/141334.html</guid>
+      </item>
     
       <item>
       	
@@ -501,35 +528,6 @@ is completely devoid of meaning.&lt;/p&gt;
         <pubDate>Thu, 07 Jun 2018 23:44:54 -0400</pubDate>
         <link>https://micro.mjdescy.me/2018/06/07/034454.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/08/034454.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I finally figured out how to point micro.mjdescy.me to mjdescy.micro.blog. I didn’t realize that I had to set the CNAME record using my web hosting provider’s cPanel rather than through my domain registrar.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 07 Jun 2018 00:42:04 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/06/07/i-finally-figured.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/07/i-finally-figured.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Blog post: &lt;a href=&quot;https://mjdescy.me/2018/06/06/what-would-make-me-upgrade-my-series-1-apple-watch/&quot;&gt;What would make me upgrade my Series 1 Apple Watch&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 06 Jun 2018 23:04:12 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/06/06/blog-post-what.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/07/blog-post-what.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>Edit for iOS</title>
-        
-        <description>&lt;p&gt;&lt;a href=&quot;https://audaciousfox.net/projects/edit&quot;&gt;Edit for iOS&lt;/a&gt; is the second ultra-simple text editor for iOS—that I have noticed—that has been released this year. I was working on something like this last summer, but for TaskPaper, but abandoned it due to running into some snags, and needing to tend to SwiftoDo again. I think that the iOS share extension, and the increasing complexity of Drafts, has opened a little niche for iOS scratchpad text editors once again. Maybe I will dust of my little project sometime.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 06 Jun 2018 14:37:47 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/06/06/edit-for-ios.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/06/edit-for-ios.html</guid>
       </item>
     
   </channel>
