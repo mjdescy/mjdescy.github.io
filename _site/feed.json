@@ -6,9 +6,25 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/07/09/i-found-a.html",
+	      	
+			"content_html": "<p>I found a headphone case whose brand name really gets at my peculiar affliction.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/0450f2c4b9.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-08T23:19:54-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/08/i-found-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/09/based-on-this.html",
+	      	
+			"content_html": "<p>Based on <a href=\"https://www.nytimes.com/2018/07/08/business/media/hbo-att-merger.html\">this article</a>, I predict that HBO is going to start to get <em>a lot</em> worse under its new ownership (AT&amp;T). I hope I am wrong.</p>\n",
+			"date_published": "2018-07-08T23:06:53-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/08/based-on-this.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/07/08/salsas-at-my.html",
 	      	
-			"content_html": "<p>Salsas at my family’s favorite Mexican restaurant:</p>\n\n<ul>\n  <li>Queso: not hot</li>\n  <li>Verde: not hot</li>\n  <li>Ranchero: not hot</li>\n  <li>Guajillo: not hot</li>\n  <li>Arbor: <em>way too hot!</em></li>\n</ul>\n",
+			"content_html": "<p>Salsas at my family’s favorite Mexican restaurant:</p>\n\n<ul>\n  <li>Queso: not hot</li>\n  <li>Verde: not hot</li>\n  <li>Ranchero: not hot</li>\n  <li>Guajillo: not hot</li>\n  <li>Arbol: <em>way too hot!</em></li>\n</ul>\n",
 			"date_published": "2018-07-08T18:26:01-04:00",
 			"url": "https://micro.mjdescy.me/2018/07/08/salsas-at-my.html"
 		},
@@ -189,24 +205,6 @@
 			"content_html": "<p>I have not been blogging as much recently because I have been disturbed so much by the onslaught of surprising and disturbing headlines here in the US. I honestly don’t know what to say anymore. I find joy in my family (they are great!!!) and almost nowhere else right now.</p>\n",
 			"date_published": "2018-06-27T16:26:07-04:00",
 			"url": "https://micro.mjdescy.me/2018/06/27/i-have-not.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/27/my-clever-wellwritten.html",
-	      	
-			"content_html": "<p>My clever, well-written new app currently does everything it’s supposed to do…except the main thing it’s supposed to do. I guess I’ve got some debugging and re-engineering to do!</p>\n",
-			"date_published": "2018-06-26T21:38:01-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/26/my-clever-wellwritten.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/26/tower-s-release.html",
-	      	
-			"title": "Tower 3.0's release and new pricing model",
-			
-			"content_html": "<p>I have been beta testing <a href=\"https://www.git-tower.com\">Tower 3.0</a>, which is a very nice Git GUI client, for the past few months. The team behind it have just announced that the version 3.0 is complete. I was ready last week to purchase the software at its old price, which would be a one-time purchase of $79, but Tower has also announced that it is moving to <a href=\"https://www.git-tower.com/pricing\">subscription pricing</a> for version 3.</p>\n\n<p>Switching from paid-up-front to subscription-based is somewhat controversial. I, for one, am all for software subscriptions, so I support the developers’ decision. However, their decision has signaled that Tower is not for me. Even with the generous 50% discount for the first year that they have offered me, as a beta tester, the developers have priced me out of their product. For a professional, making a living from their software,  the subscription cost for an important workplace tool is merely a drop in the bucket. But for me, a hobbyist developer who charges for my apps to cover my costs, I don’t make nearly enough money from my apps to justify paying more than a couple dollars per month for a Git client.</p>\n\n<p>Git’s command line tools and <a href=\"https://www.sourcetreeapp.com\">Atlassian’s SourceTree</a> client are free to use. I will be back to using SourceTree—which which is free, full-featured, but not as well polished as Tower—shortly. Thanks to the Tower team for allowing me to beta test their software. I wish them the best of luck.</p>\n",
-			"date_published": "2018-06-26T09:37:40-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/26/tower-s-release.html"
 		}
 		
 	]
