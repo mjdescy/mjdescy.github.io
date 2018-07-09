@@ -11,4 +11,4 @@ Salsas at my family's favorite Mexican restaurant:
 - Verde: not hot
 - Ranchero: not hot
 - Guajillo: not hot
-- Arbor: _way too hot!_ 
+- Arbol: _way too hot!_ 
