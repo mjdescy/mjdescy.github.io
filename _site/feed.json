@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/07/10/a-git-commit.html",
+	      	
+			"content_html": "<p>A git commit somehow disappeared, eradicating all my app code and obliterating at least one evening’s worth of work. I cracked open a Guinness, restored a backup from Arq, recovered about 80% of my work, and re-did the rest. I’m happy I didn’t lose my cool.</p>\n",
+			"date_published": "2018-07-09T22:50:21-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/09/a-git-commit.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/07/09/i-found-a.html",
 	      	
 			"content_html": "<p>I found a headphone case whose brand name really gets at my peculiar affliction.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/0450f2c4b9.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>No kidding, <a href=\"https://www.newyorker.com/news/our-columnists/as-kennedy-retires-the-supreme-courts-attack-on-labor-unions-is-a-sign-of-things-to-come\">The New Yorker</a>, no kidding:</p>\n\n<blockquote>\n  <p>For years, conservatives complained about activist liberal judges making it up as they went along. Today, they are the activists. Under the guise of “originalism,” they are rewriting the nation’s laws to further the reactionary political agenda of the Republican Party and its biggest donors.</p>\n</blockquote>\n\n<p>Note the scare quotes around “originalism”. It, like all the other -ism words we throw around—conservatism, liberalism, socialism—\nis completely devoid of meaning.</p>\n",
 			"date_published": "2018-06-27T20:55:19-04:00",
 			"url": "https://micro.mjdescy.me/2018/06/27/as-kennedy-retires.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/27/i-have-not.html",
-	      	
-			"content_html": "<p>I have not been blogging as much recently because I have been disturbed so much by the onslaught of surprising and disturbing headlines here in the US. I honestly don’t know what to say anymore. I find joy in my family (they are great!!!) and almost nowhere else right now.</p>\n",
-			"date_published": "2018-06-27T16:26:07-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/27/i-have-not.html"
 		}
 		
 	]
