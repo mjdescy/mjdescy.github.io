@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://micro.mjdescy.me/</link>
-    <pubDate>Mon, 09 Jul 2018 09:48:21 -0400</pubDate>
-    <lastBuildDate>Mon, 09 Jul 2018 09:48:21 -0400</lastBuildDate>
+    <pubDate>Mon, 09 Jul 2018 22:50:24 -0400</pubDate>
+    <lastBuildDate>Mon, 09 Jul 2018 22:50:24 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;A git commit somehow disappeared, eradicating all my app code and obliterating at least one evening’s worth of work. I cracked open a Guinness, restored a backup from Arq, recovered about 80% of my work, and re-did the rest. I’m happy I didn’t lose my cool.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Jul 2018 22:50:21 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/07/09/a-git-commit.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/07/10/a-git-commit.html</guid>
+      </item>
     
       <item>
       	
@@ -529,15 +538,6 @@ is completely devoid of meaning.&lt;/p&gt;
         <pubDate>Tue, 12 Jun 2018 17:08:31 -0400</pubDate>
         <link>https://micro.mjdescy.me/2018/06/12/apple-hardware-woes.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/12/apple-hardware-woes.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Blog post: &lt;a href=&quot;https://mjdescy.me/2018/06/11/a-hardware-keyboard-shortcuts-tip-for-drafts-5/&quot;&gt;A Hardware Keyboard Shortcuts Tip for Drafts 5&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 11 Jun 2018 23:13:54 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/06/11/blog-post-a.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/12/blog-post-a.html</guid>
       </item>
     
   </channel>
