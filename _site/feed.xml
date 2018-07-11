@@ -4,8 +4,53 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://micro.mjdescy.me/</link>
-    <pubDate>Mon, 09 Jul 2018 22:50:24 -0400</pubDate>
-    <lastBuildDate>Mon, 09 Jul 2018 22:50:24 -0400</lastBuildDate>
+    <pubDate>Tue, 10 Jul 2018 23:19:31 -0400</pubDate>
+    <lastBuildDate>Tue, 10 Jul 2018 23:19:31 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Blog post: &lt;a href=&quot;https://mjdescy.me/2018/07/10/re-committing-to-pinboard-after-many-months-away/&quot;&gt;Re-committing to Pinboard, after many months away&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Jul 2018 23:19:25 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/07/10/blog-post-recommitting.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/07/11/blog-post-recommitting.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;The App Store gods are not smiling on me this week. My new app got rejected again. Now things are screwed up in a way I cannot fix. Hopefully it will all work out eventually.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Jul 2018 22:46:03 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/07/10/the-app-store.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/07/11/the-app-store.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://swiftodoapp.com&quot;&gt;SwiftoDo 2.13.2&lt;/a&gt; is now available &lt;a href=&quot;https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;amp;mt=8&quot;&gt;in the App Store&lt;/a&gt;. It fixes a Reminders import bug.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Jul 2018 22:17:54 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/07/10/021754.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/07/11/021754.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Just got an email from Apple. My new app is in review for the second time. Hopefully it doesn’t get rejected again, and I can finally launch it.  🤞&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Jul 2018 13:08:00 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/07/10/just-got-an.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/07/10/just-got-an.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;When will it &lt;em&gt;not&lt;/em&gt; be &lt;a href=&quot;https://www.nytimes.com/2018/07/10/arts/music/nicki-minaj-wanna-thompson-twitter-stans.html&quot;&gt;news that people act like asshats on Twitter&lt;/a&gt;?&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Jul 2018 13:06:22 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/07/10/when-will-it.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/07/10/when-will-it.html</guid>
+      </item>
     
       <item>
       	
@@ -476,68 +521,6 @@ is completely devoid of meaning.&lt;/p&gt;
         <pubDate>Sun, 17 Jun 2018 22:26:10 -0400</pubDate>
         <link>https://micro.mjdescy.me/2018/06/17/my-app-sales.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/18/my-app-sales.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Happy Father’s Day to all the dads out there. 😀&lt;/p&gt;
-</description>
-        <pubDate>Sun, 17 Jun 2018 09:20:03 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/06/17/happy-fathers-day.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/17/happy-fathers-day.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Today is a good day for me to catch up on WWDC videos while I build databases for my real job.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 15 Jun 2018 10:22:22 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/06/15/142222.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/15/142222.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Apple gave me a free, full replacement for my 11-month-old iPad Pro with backlight bleed on one edge. The whole thing took about ten minutes, with no fuss whatsoever. I can’t ask for better service than that.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 13 Jun 2018 12:34:30 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/06/13/apple-gave-me.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/13/apple-gave-me.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>Learning the Core Data Framework</title>
-        
-        <description>&lt;p&gt;Lately I have taken it upon myself to finally teach myself &lt;a href=&quot;https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreData/index.html?utm_source=iosstash.io&quot;&gt;Core Data&lt;/a&gt;. I had avoided it for years, due to its complexity and because it was &lt;em&gt;too much&lt;/em&gt; for my projects. I decided to learn it to challenge myself and to level up a bit as an iOS developer.&lt;/p&gt;
-
-&lt;p&gt;Learning it reminds me of learning Objective C and Cocoa years ago. Core Data presents itself as a daunting hierarchy of NS-prefixed classes, with lots of layers and moving parts, but it (kind of) makes sense after a long period of study. It’s starting to make sense to me now, though I have barely scratched the surface of its functionality.&lt;/p&gt;
-
-&lt;p&gt;I’ve been writing and rewriting and never finishing the same sample app for the past week. Of course, I made it difficult for myself by requiring it to have an App Group, and for the Core Data stack to be defined in its own Framework. I figured out how to do so a couple days ago, and then, this morning, stumbled on the exact same process recommended in &lt;a href=&quot;https://developer.apple.com/videos/play/wwdc2018/224&quot;&gt;Apple’s WWDC 2018 Core Data Best Practices video &lt;/a&gt;. At least I know I got part of my Core Data stack set up the right way!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Jun 2018 23:45:45 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/06/12/learning-the-core.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/13/learning-the-core.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>Apple hardware woes</title>
-        
-        <description>&lt;p&gt;As much as I love Apple hardware, I’ve got a bunch of Apple hardware problems all of the sudden:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;AirPod battery life has dropped to less than an hour for phone calls. My AirPods are about 18 months old.&lt;/li&gt;
-  &lt;li&gt;Bad backlight bleed developed on the bottom edge of my iPad Pro. Dark backgrounds obscure it, but light backgrounds don’t. I will see tomorrow if they will fix it under warranty. My iPad Pro is 11 months old.&lt;/li&gt;
-  &lt;li&gt;A bright spot developed in the bottom right corner of my iPhone 7 Plus. You can only see it when that section of the screen is displaying white. I’ll ask about it at the Genius Bar tomorrow. My iPhone is almost 20 months old. Luckily, it’s still covered by AppleCare+.&lt;/li&gt;
-  &lt;li&gt;My 2013 MacBook Pro started dropping my USB trackball upon or after going to sleep. I have to unplug and replug it to make it work again. Research has shown me that this sort of thing is one of those unknown bugs. I hope it doesn’t mean my logic board is going.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These are all minor quibbles, but they are all about rather expensive hardware. I think I’m going to start buying AppleCare+ from now on.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Jun 2018 17:08:31 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/06/12/apple-hardware-woes.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/12/apple-hardware-woes.html</guid>
       </item>
     
   </channel>
