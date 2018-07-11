@@ -6,6 +6,46 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/07/11/blog-post-recommitting.html",
+	      	
+			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/07/10/re-committing-to-pinboard-after-many-months-away/\">Re-committing to Pinboard, after many months away</a></p>\n",
+			"date_published": "2018-07-10T23:19:25-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/10/blog-post-recommitting.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/11/the-app-store.html",
+	      	
+			"content_html": "<p>The App Store gods are not smiling on me this week. My new app got rejected again. Now things are screwed up in a way I cannot fix. Hopefully it will all work out eventually.</p>\n",
+			"date_published": "2018-07-10T22:46:03-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/10/the-app-store.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/11/021754.html",
+	      	
+			"content_html": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo 2.13.2</a> is now available <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">in the App Store</a>. It fixes a Reminders import bug.</p>\n",
+			"date_published": "2018-07-10T22:17:54-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/10/021754.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/10/just-got-an.html",
+	      	
+			"content_html": "<p>Just got an email from Apple. My new app is in review for the second time. Hopefully it doesn’t get rejected again, and I can finally launch it.  🤞</p>\n",
+			"date_published": "2018-07-10T13:08:00-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/10/just-got-an.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/10/when-will-it.html",
+	      	
+			"content_html": "<p>When will it <em>not</em> be <a href=\"https://www.nytimes.com/2018/07/10/arts/music/nicki-minaj-wanna-thompson-twitter-stans.html\">news that people act like asshats on Twitter</a>?</p>\n",
+			"date_published": "2018-07-10T13:06:22-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/10/when-will-it.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/07/10/a-git-commit.html",
 	      	
 			"content_html": "<p>A git commit somehow disappeared, eradicating all my app code and obliterating at least one evening’s worth of work. I cracked open a Guinness, restored a backup from Arq, recovered about 80% of my work, and re-did the rest. I’m happy I didn’t lose my cool.</p>\n",
@@ -163,48 +203,6 @@
 			"content_html": "<p>My kids love the public library. My family had a nice trip there to get out of the heat today. It’s exciting now that my daughter is learning how to read. My son has enjoyed thumbing through books since he could sit up. Meanwhile, I only read on my iPad these days.</p>\n",
 			"date_published": "2018-06-30T20:18:54-04:00",
 			"url": "https://micro.mjdescy.me/2018/06/30/my-kids-love.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/28/i-would-subscribe.html",
-	      	
-			"content_html": "<p>I would subscribe to <a href=\"https://birchtree.me/blog/apple-entertainment-pricing-and-feature-speculation/\">Apple Music + News + TV for $149/year</a> (or a little more for a family plan), but I’m a sucker for Apple products and services anyway. I would be a Texture subscriber <em>today</em> if their app experience wasn’t (in my opinion) terrible.</p>\n\n",
-			"date_published": "2018-06-28T18:48:05-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/28/i-would-subscribe.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/28/i-think-i.html",
-	      	
-			"content_html": "<p>I think I will give Peter Davison-Reiber ‘s <a href=\"https://polymaths.blog/2018/06/fantastically-good-event-parser-for-drafts-5\">Fantastically Good Event Parser for Drafts 5</a> a try. Adding calendar entries with natural language without going through Fantastical or Calendars 5 sounds great to me.</p>\n",
-			"date_published": "2018-06-28T15:34:54-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/28/i-think-i.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/28/the-mail-i.html",
-	      	
-			"content_html": "<p>The mail I <em>definitely</em> don’t need to open right away is always convening labeled for me. They could work on the wording, though.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/7e4b5b0d7c.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-28T10:07:51-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/28/the-mail-i.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/28/this-inexpensive-little.html",
-	      	
-			"content_html": "<p>This inexpensive little device works <em>just fine</em> for microwave popcorn. It amazes me that we used that awful bagged stuff for years.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/9670dd6bbf.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-06-27T22:01:00-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/27/this-inexpensive-little.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/06/28/as-kennedy-retires.html",
-	      	
-			"title": "As Kennedy Retires, the Supreme Court’s Attack on Labor Unions Is a Sign of Things to Come",
-			
-			"content_html": "<p>No kidding, <a href=\"https://www.newyorker.com/news/our-columnists/as-kennedy-retires-the-supreme-courts-attack-on-labor-unions-is-a-sign-of-things-to-come\">The New Yorker</a>, no kidding:</p>\n\n<blockquote>\n  <p>For years, conservatives complained about activist liberal judges making it up as they went along. Today, they are the activists. Under the guise of “originalism,” they are rewriting the nation’s laws to further the reactionary political agenda of the Republican Party and its biggest donors.</p>\n</blockquote>\n\n<p>Note the scare quotes around “originalism”. It, like all the other -ism words we throw around—conservatism, liberalism, socialism—\nis completely devoid of meaning.</p>\n",
-			"date_published": "2018-06-27T20:55:19-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/27/as-kennedy-retires.html"
 		}
 		
 	]
