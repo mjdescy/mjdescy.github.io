@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/07/15/i-both-love.html",
+	      	
+			"content_html": "<p>I both love and hate articles like “<a href=\"https://www.nytimes.com/2018/07/14/opinion/new-york-yankees-evil.html\">The New York Yankees Are a Moral Abomination</a>”. Handwringing, declinist arguments about baseball are almost as old as baseball itself. “Baseball is in decline” is part of its brand—part that needs to go away, I think.</p>\n\n<p>Baseball is awesome. The players are very skillful, play a game that doesn’t involve hurting each other, and legitimately appear to be enjoying themselves.</p>\n",
+			"date_published": "2018-07-15T12:17:50-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/15/i-both-love.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/07/15/i-started-replaying.html",
 	      	
 			"content_html": "<p>I started replaying Bastian on my IPad Pro tonight. I bought it years ago and never finished it. I’m using a controller and headphones this time around, which improve the experience. I’m better at combat than I used to be, but a lot worse at the proving grounds challenges.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I was finally smart enough today to bring the magnetic induction burner we never use <em>outside</em> to make pasta while I grilled ribeye and zucchini in the 95° heat.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/4fb59467b1.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-07-01T17:43:45-04:00",
 			"url": "https://micro.mjdescy.me/2018/07/01/i-was-finally.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/07/01/140841.html",
-	      	
-			"content_html": "<p>I’m trying to get back on the MyFitnessPal horse today. I haven’t logged my food in six months and the results are really bad.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/059fb24fb5.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-01T10:08:41-04:00",
-			"url": "https://micro.mjdescy.me/2018/07/01/140841.html"
 		}
 		
 	]
