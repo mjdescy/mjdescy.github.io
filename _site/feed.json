@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/07/15/i-started-replaying.html",
+	      	
+			"content_html": "<p>I started replaying Bastian on my IPad Pro tonight. I bought it years ago and never finished it. I’m using a controller and headphones this time around, which improve the experience. I’m better at combat than I used to be, but a lot worse at the proving grounds challenges.</p>\n",
+			"date_published": "2018-07-14T23:35:51-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/14/i-started-replaying.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/07/12/if-i-was.html",
 	      	
 			"content_html": "<p>If I was smart, I would save $100/month for a new MacBook every 4 years or so. I am not smart.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I’m trying to get back on the MyFitnessPal horse today. I haven’t logged my food in six months and the results are really bad.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/059fb24fb5.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-07-01T10:08:41-04:00",
 			"url": "https://micro.mjdescy.me/2018/07/01/140841.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/07/01/030746.html",
-	      	
-			"content_html": "<p>I finally got to see “A Quiet Place” this evening. What a excellent film! It is taut, suspenseful, and scary as hell.</p>\n",
-			"date_published": "2018-06-30T23:07:46-04:00",
-			"url": "https://micro.mjdescy.me/2018/06/30/030746.html"
 		}
 		
 	]
