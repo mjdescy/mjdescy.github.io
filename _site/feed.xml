@@ -4,8 +4,26 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://micro.mjdescy.me/</link>
-    <pubDate>Sun, 15 Jul 2018 12:18:32 -0400</pubDate>
-    <lastBuildDate>Sun, 15 Jul 2018 12:18:32 -0400</lastBuildDate>
+    <pubDate>Sun, 15 Jul 2018 17:11:23 -0400</pubDate>
+    <lastBuildDate>Sun, 15 Jul 2018 17:11:23 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I checked out the new MacBook Pros at the Apple Store. The new keyboard looks (feels) like a winner to me. It is quieter, and there’s a good chance it won’t have the same reliability problem as the prior generation. I would prefer a 15” one without the TouchBar, though, but don’t plan to buy one until my 2015 rMBP breaks or is no longer supported.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Jul 2018 17:10:26 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/07/15/i-checked-out.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/07/15/i-checked-out.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Our appointment for family photos at the park got canceled today due to heavy rain. We ended up shopping and eating pancakes instead. Not a bad trade-off for the day, but I would have liked to have the photos later.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Jul 2018 12:44:34 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/07/15/our-appointment-for.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/07/15/our-appointment-for.html</guid>
+      </item>
     
       <item>
       	
@@ -20,7 +38,7 @@
     
       <item>
       	
-        <description>&lt;p&gt;I started replaying Bastian on my IPad Pro tonight. I bought it years ago and never finished it. I’m using a controller and headphones this time around, which improve the experience. I’m better at combat than I used to be, but a lot worse at the proving grounds challenges.&lt;/p&gt;
+        <description>&lt;p&gt;I started replaying Bastion on my IPad Pro tonight. I bought it years ago and never finished it. I’m using a controller and headphones this time around, which improve the experience. I’m better at combat than I used to be, but a lot worse at the proving grounds challenges.&lt;/p&gt;
 </description>
         <pubDate>Sat, 14 Jul 2018 23:35:51 -0400</pubDate>
         <link>https://micro.mjdescy.me/2018/07/14/i-started-replaying.html</link>
@@ -503,24 +521,6 @@ is completely devoid of meaning.&lt;/p&gt;
         <pubDate>Tue, 19 Jun 2018 17:02:43 -0400</pubDate>
         <link>https://micro.mjdescy.me/2018/06/19/apple-didnt-kill.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/19/apple-didnt-kill.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I have been wrestling all day with an Access query with a ton of parameters that causes a crash when run via VBA, but works fine when run manually, which no one would ever do.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 19 Jun 2018 13:30:12 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/06/19/173012.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/19/173012.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Apple’s “&lt;a href=&quot;https://developer.apple.com/wwdc18/223&quot;&gt;Embracing Algorithms&lt;/a&gt;” presentation from WWDC 2018 inspired me to try to write some algorithms for my side projects. I have re-discovered just how hard it can be to write &lt;em&gt;memory-constrained&lt;/em&gt; algorithms. Modern processor speed and memory limits have spoiled me.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 19 Jun 2018 10:32:16 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/06/19/apples-embracing-algorithms.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/19/apples-embracing-algorithms.html</guid>
       </item>
     
   </channel>
