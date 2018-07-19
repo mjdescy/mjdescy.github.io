@@ -1,0 +1,8 @@
+---
+layout: post
+microblog: true
+audio: 
+date: 2018-07-19 09:19:09 -0400
+guid: http://mjdescy.micro.blog/2018/07/19/hot-take-the.html
+---
+Hot take: The 12.9" iPad Pro I'm working on right now is _not large enough_!
