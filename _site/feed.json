@@ -6,6 +6,24 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/07/20/i-left-my.html",
+	      	
+			"content_html": "<p>I left my iPhone at the Apple Store for a screen repair and a new battery. I’m using my Essential Phone as an actual phone for the first time this afternoon. I do not plan to write a “switching post” though—it’s just temporary. 😀</p>\n",
+			"date_published": "2018-07-20T14:24:39-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/20/i-left-my.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/20/i-find-myself.html",
+	      	
+			"title": "I find myself shifting my listening time away from podcasts and more toward music lately",
+			
+			"content_html": "<p>I started listening to podcasts in 2008. I think, now, I am, for the first time, burnt out on the medium. I listen to a lot of podcasts while I work, but lately I’ve found I can barely remember what the episodes were about shortly after they finish. I think I am tuning them out.</p>\n\n<p>I am paring back my subscriptions down—way down—to a few favorites and listening to more music instead. It’s symmetrical to how I got into podcast listening: I was burnt out on listening to music all day long, and became uninterested in music for several years.</p>\n",
+			"date_published": "2018-07-19T20:39:48-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/19/i-find-myself.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/07/19/hot-take-the.html",
 	      	
 			"content_html": "<p>Hot take: The 12.9” iPad Pro I’m working on right now is <em>not large enough</em>!</p>\n",
@@ -189,22 +207,6 @@
 			"content_html": "<p><a href=\"http://thomasfinch.me/iosicon/\">Thomas Finch’s iOS 7+ Icon Generator</a> is a nice, little utility. It takes a square app icon and masks it to match the rounded corner shape of modern iOS icons.</p>\n",
 			"date_published": "2018-07-06T12:34:36-04:00",
 			"url": "https://micro.mjdescy.me/2018/07/06/thomas-finchs-ios.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/07/06/141334.html",
-	      	
-			"content_html": "<p>I’m happy to read <a href=\"https://www.nytimes.com/2018/07/04/movies/ant-man-and-the-wasp-review-marvel-paul-rudd.html\">a favorable review of “Ant-Man and the Wasp”</a>. I’m apt to see it because I enjoy the Marvel Universe movies and because I’ve seen the commercial for it about 15,000 times during MLB.TV baseball games.</p>\n",
-			"date_published": "2018-07-06T10:13:34-04:00",
-			"url": "https://micro.mjdescy.me/2018/07/06/141334.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/07/06/i-love-assembly.html",
-	      	
-			"content_html": "<p>I love <a href=\"https://itunes.apple.com/us/app/assembly-art-and-design/id1024210402?mt=8\">Assembly by Pixite</a>. It’s an easy to use vector drawing app for iOS. Their new icon looks nice, but I will miss their cleverly designed bird icon. Luckily, it’s still on the app’s splash screen.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/028bf81d4b.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-06T08:56:52-04:00",
-			"url": "https://micro.mjdescy.me/2018/07/06/i-love-assembly.html"
 		}
 		
 	]
