@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/07/23/vacation-is-wonderful.html",
+	      	
+			"content_html": "<p>Vacation is wonderful, but boy does it feel like a due date for everything that’s open at work.</p>\n",
+			"date_published": "2018-07-23T10:10:51-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/23/vacation-is-wonderful.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/07/20/i-left-my.html",
 	      	
 			"content_html": "<p>I left my iPhone at the Apple Store for a screen repair and a new battery. I’m using my Essential Phone as an actual phone for the first time this afternoon. I do not plan to write a “switching post” though—it’s just temporary. 😀</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>Apple’s App Review rejected my new app, primarily because its name had the word “free” in it. While that’s not the end of the world, it will delay the app’s release for at least a couple days, as I figure out a new name and the best way to handle everything in App Store Connect.</p>\n",
 			"date_published": "2018-07-06T22:27:08-04:00",
 			"url": "https://micro.mjdescy.me/2018/07/06/apples-app-review.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/07/06/thomas-finchs-ios.html",
-	      	
-			"content_html": "<p><a href=\"http://thomasfinch.me/iosicon/\">Thomas Finch’s iOS 7+ Icon Generator</a> is a nice, little utility. It takes a square app icon and masks it to match the rounded corner shape of modern iOS icons.</p>\n",
-			"date_published": "2018-07-06T12:34:36-04:00",
-			"url": "https://micro.mjdescy.me/2018/07/06/thomas-finchs-ios.html"
 		}
 		
 	]
