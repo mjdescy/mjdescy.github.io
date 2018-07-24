@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/07/24/i-replaced-my.html",
+	      	
+			"content_html": "<p>I replaced my old, crumbling, extra- extra large Grifiti wrist rest with a new one, suitably sized for my tenkeyless keyboard. It was a good move.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/e92e4241dc.jpg\" width=\"600\" height=\"449\" /></p>\n",
+			"date_published": "2018-07-24T11:03:04-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/24/i-replaced-my.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/07/24/tonight-im-working.html",
 	      	
 			"content_html": "<p>🎵 Tonight I’m working overtime and listening to <a href=\"https://itunes.apple.com/us/album/constructive-summer/1176768096?i=1176768197\">The Hold Steady</a>, which almost makes it all right.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>Based on <a href=\"https://www.nytimes.com/2018/07/08/business/media/hbo-att-merger.html\">this article</a>, I predict that HBO is going to start to get <em>a lot</em> worse under its new ownership (AT&amp;T). I hope I am wrong.</p>\n",
 			"date_published": "2018-07-08T23:06:53-04:00",
 			"url": "https://micro.mjdescy.me/2018/07/08/based-on-this.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/07/08/salsas-at-my.html",
-	      	
-			"content_html": "<p>Salsas at my family’s favorite Mexican restaurant:</p>\n\n<ul>\n  <li>Queso: not hot</li>\n  <li>Verde: not hot</li>\n  <li>Ranchero: not hot</li>\n  <li>Guajillo: not hot</li>\n  <li>Arbol: <em>way too hot!</em></li>\n</ul>\n",
-			"date_published": "2018-07-08T18:26:01-04:00",
-			"url": "https://micro.mjdescy.me/2018/07/08/salsas-at-my.html"
 		}
 		
 	]
