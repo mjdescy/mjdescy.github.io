@@ -4,8 +4,27 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://micro.mjdescy.me/</link>
-    <pubDate>Tue, 24 Jul 2018 11:06:16 -0400</pubDate>
-    <lastBuildDate>Tue, 24 Jul 2018 11:06:16 -0400</lastBuildDate>
+    <pubDate>Tue, 24 Jul 2018 23:30:00 -0400</pubDate>
+    <lastBuildDate>Tue, 24 Jul 2018 23:30:00 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <title>Introducing my latest iOS app: Simple Call Blocker</title>
+        
+        <description>&lt;p&gt;&lt;a href=&quot;https://simplecallblockerapp.com&quot;&gt;Simple Call Blocker&lt;/a&gt; is a &lt;a href=&quot;https://itunes.apple.com/us/app/simple-call-blocker/id1409872025?ls=1&amp;amp;mt=8&quot;&gt;free app&lt;/a&gt; for blocking unwanted calls on iOS.&lt;/p&gt;
+
+&lt;p&gt;It provides a basic way to block lots of numbers via a CallKit directory extension–which is great for blocking neighbor spam.&lt;/p&gt;
+
+&lt;p&gt;Unlike almost every other call blocker out there, mine is completely free and doesn’t need access to your contacts to work.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/simple-call-blocker/id1409872025?ls=1&amp;amp;mt=8&quot;&gt;Try it out.&lt;/a&gt; It’s free.&lt;/p&gt;
+
+&lt;p&gt;If you want to know more, there’s a &lt;a href=&quot;https://simplecallblockerapp.com&quot;&gt;website with screenshots and a FAQ&lt;/a&gt;. I wrote a &lt;a href=&quot;https://mjdescy.me/2018/07/25/introducing-simple-call-blocker/&quot;&gt;blog post&lt;/a&gt; describing my motivation for writing it, too.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Jul 2018 23:25:43 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/07/24/introducing-my-latest.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/07/25/introducing-my-latest.html</guid>
+      </item>
     
       <item>
       	
@@ -500,21 +519,6 @@ is completely devoid of meaning.&lt;/p&gt;
         <pubDate>Tue, 26 Jun 2018 21:38:01 -0400</pubDate>
         <link>https://micro.mjdescy.me/2018/06/26/my-clever-wellwritten.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/27/my-clever-wellwritten.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>Tower 3.0's release and new pricing model</title>
-        
-        <description>&lt;p&gt;I have been beta testing &lt;a href=&quot;https://www.git-tower.com&quot;&gt;Tower 3.0&lt;/a&gt;, which is a very nice Git GUI client, for the past few months. The team behind it have just announced that the version 3.0 is complete. I was ready last week to purchase the software at its old price, which would be a one-time purchase of $79, but Tower has also announced that it is moving to &lt;a href=&quot;https://www.git-tower.com/pricing&quot;&gt;subscription pricing&lt;/a&gt; for version 3.&lt;/p&gt;
-
-&lt;p&gt;Switching from paid-up-front to subscription-based is somewhat controversial. I, for one, am all for software subscriptions, so I support the developers’ decision. However, their decision has signaled that Tower is not for me. Even with the generous 50% discount for the first year that they have offered me, as a beta tester, the developers have priced me out of their product. For a professional, making a living from their software,  the subscription cost for an important workplace tool is merely a drop in the bucket. But for me, a hobbyist developer who charges for my apps to cover my costs, I don’t make nearly enough money from my apps to justify paying more than a couple dollars per month for a Git client.&lt;/p&gt;
-
-&lt;p&gt;Git’s command line tools and &lt;a href=&quot;https://www.sourcetreeapp.com&quot;&gt;Atlassian’s SourceTree&lt;/a&gt; client are free to use. I will be back to using SourceTree—which which is free, full-featured, but not as well polished as Tower—shortly. Thanks to the Tower team for allowing me to beta test their software. I wish them the best of luck.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 26 Jun 2018 09:37:40 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/06/26/tower-s-release.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/26/tower-s-release.html</guid>
       </item>
     
   </channel>
