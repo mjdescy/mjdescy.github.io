@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/07/25/introducing-my-latest.html",
+	      	
+			"title": "Introducing my latest iOS app: Simple Call Blocker",
+			
+			"content_html": "<p><a href=\"https://simplecallblockerapp.com\">Simple Call Blocker</a> is a <a href=\"https://itunes.apple.com/us/app/simple-call-blocker/id1409872025?ls=1&amp;mt=8\">free app</a> for blocking unwanted calls on iOS.</p>\n\n<p>It provides a basic way to block lots of numbers via a CallKit directory extension–which is great for blocking neighbor spam.</p>\n\n<p>Unlike almost every other call blocker out there, mine is completely free and doesn’t need access to your contacts to work.</p>\n\n<p><a href=\"https://itunes.apple.com/us/app/simple-call-blocker/id1409872025?ls=1&amp;mt=8\">Try it out.</a> It’s free.</p>\n\n<p>If you want to know more, there’s a <a href=\"https://simplecallblockerapp.com\">website with screenshots and a FAQ</a>. I wrote a <a href=\"https://mjdescy.me/2018/07/25/introducing-simple-call-blocker/\">blog post</a> describing my motivation for writing it, too.</p>\n",
+			"date_published": "2018-07-24T23:25:43-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/24/introducing-my-latest.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/07/24/i-replaced-my.html",
 	      	
 			"content_html": "<p>I replaced my old, crumbling, extra- extra large Grifiti wrist rest with a new one, suitably sized for my tenkeyless keyboard. It was a good move.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/e92e4241dc.jpg\" width=\"600\" height=\"449\" /></p>\n",
@@ -199,14 +209,6 @@
 			"content_html": "<p>I found a headphone case whose brand name really gets at my peculiar affliction.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/0450f2c4b9.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-07-08T23:19:54-04:00",
 			"url": "https://micro.mjdescy.me/2018/07/08/i-found-a.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/07/09/based-on-this.html",
-	      	
-			"content_html": "<p>Based on <a href=\"https://www.nytimes.com/2018/07/08/business/media/hbo-att-merger.html\">this article</a>, I predict that HBO is going to start to get <em>a lot</em> worse under its new ownership (AT&amp;T). I hope I am wrong.</p>\n",
-			"date_published": "2018-07-08T23:06:53-04:00",
-			"url": "https://micro.mjdescy.me/2018/07/08/based-on-this.html"
 		}
 		
 	]
