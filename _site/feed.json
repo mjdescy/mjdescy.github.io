@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/07/26/031643.html",
+	      	
+			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/07/25/swiftodo-development-notes-july-2018/\">SwiftoDo Development Notes, July 2018</a></p>\n",
+			"date_published": "2018-07-25T23:16:43-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/25/031643.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/07/25/introducing-my-latest.html",
 	      	
 			"title": "Introducing my latest iOS app: Simple Call Blocker",
@@ -201,14 +209,6 @@
 			"content_html": "<p>A git commit somehow disappeared, eradicating all my app code and obliterating at least one evening’s worth of work. I cracked open a Guinness, restored a backup from Arq, recovered about 80% of my work, and re-did the rest. I’m happy I didn’t lose my cool.</p>\n",
 			"date_published": "2018-07-09T22:50:21-04:00",
 			"url": "https://micro.mjdescy.me/2018/07/09/a-git-commit.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/07/09/i-found-a.html",
-	      	
-			"content_html": "<p>I found a headphone case whose brand name really gets at my peculiar affliction.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/0450f2c4b9.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-08T23:19:54-04:00",
-			"url": "https://micro.mjdescy.me/2018/07/08/i-found-a.html"
 		}
 		
 	]
