@@ -4,8 +4,17 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://micro.mjdescy.me/</link>
-    <pubDate>Tue, 24 Jul 2018 23:30:00 -0400</pubDate>
-    <lastBuildDate>Tue, 24 Jul 2018 23:30:00 -0400</lastBuildDate>
+    <pubDate>Wed, 25 Jul 2018 23:20:27 -0400</pubDate>
+    <lastBuildDate>Wed, 25 Jul 2018 23:20:27 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Blog post: &lt;a href=&quot;https://mjdescy.me/2018/07/25/swiftodo-development-notes-july-2018/&quot;&gt;SwiftoDo Development Notes, July 2018&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Jul 2018 23:16:43 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/07/25/031643.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/07/26/031643.html</guid>
+      </item>
     
       <item>
       	
@@ -510,15 +519,6 @@ is completely devoid of meaning.&lt;/p&gt;
         <pubDate>Wed, 27 Jun 2018 16:26:07 -0400</pubDate>
         <link>https://micro.mjdescy.me/2018/06/27/i-have-not.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/27/i-have-not.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;My clever, well-written new app currently does everything it’s supposed to do…except the main thing it’s supposed to do. I guess I’ve got some debugging and re-engineering to do!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 26 Jun 2018 21:38:01 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/06/26/my-clever-wellwritten.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/06/27/my-clever-wellwritten.html</guid>
       </item>
     
   </channel>
