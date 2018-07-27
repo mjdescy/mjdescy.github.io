@@ -1,0 +1,8 @@
+---
+layout: post
+microblog: true
+audio: 
+date: 2018-07-26 21:01:27 -0400
+guid: http://mjdescy.micro.blog/2018/07/27/im-enjoying-this.html
+---
+I'm enjoying this week's [Accidental Tech Podcast](http://atp.fm/episodes/284).
