@@ -4,7 +4,7 @@ css_class: home
 regenerate: true
 ---
 <section class="posts h-feed">
-  {% for post in site.posts limit:25 %}
+  {% for p in site.posts limit:25 %}
     <article class="post h-entry">
 	  {% if p.microblog == false %}
 		<h1><a href="{{ p.url }}">{{ p.title }}</a></h1>
