@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/07/28/i-spent-most.html",
+	      	
+			"content_html": "<p>I spent most of the day coding an Access app for work. I’m coding VBA now almost like it’s a proper object-oriented language: lots of tiny classes that do one thing only, basically no repeated code segments, use of design patterns wherever possible, and so on.</p>\n",
+			"date_published": "2018-07-27T20:04:44-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/27/i-spent-most.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/27/im-enjoying-this.html",
+	      	
+			"content_html": "<p>I’m enjoying this week’s <a href=\"http://atp.fm/episodes/284\">Accidental Tech Podcast</a>.</p>\n",
+			"date_published": "2018-07-26T21:01:27-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/26/im-enjoying-this.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/07/26/031643.html",
 	      	
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/07/25/swiftodo-development-notes-july-2018/\">SwiftoDo Development Notes, July 2018</a></p>\n",
@@ -193,22 +209,6 @@
 			"content_html": "<p>Just got an email from Apple. My new app is in review for the second time. Hopefully it doesn’t get rejected again, and I can finally launch it.  🤞</p>\n",
 			"date_published": "2018-07-10T13:08:00-04:00",
 			"url": "https://micro.mjdescy.me/2018/07/10/just-got-an.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/07/10/when-will-it.html",
-	      	
-			"content_html": "<p>When will it <em>not</em> be <a href=\"https://www.nytimes.com/2018/07/10/arts/music/nicki-minaj-wanna-thompson-twitter-stans.html\">news that people act like asshats on Twitter</a>?</p>\n",
-			"date_published": "2018-07-10T13:06:22-04:00",
-			"url": "https://micro.mjdescy.me/2018/07/10/when-will-it.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/07/10/a-git-commit.html",
-	      	
-			"content_html": "<p>A git commit somehow disappeared, eradicating all my app code and obliterating at least one evening’s worth of work. I cracked open a Guinness, restored a backup from Arq, recovered about 80% of my work, and re-did the rest. I’m happy I didn’t lose my cool.</p>\n",
-			"date_published": "2018-07-09T22:50:21-04:00",
-			"url": "https://micro.mjdescy.me/2018/07/09/a-git-commit.html"
 		}
 		
 	]
