@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/07/30/my-work-day.html",
+	      	
+			"content_html": "<p>My work day started off far more slowly than expected. Therefore, I’m coding—maybe all day—for my “number 3” project.</p>\n",
+			"date_published": "2018-07-30T12:10:34-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/30/my-work-day.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/07/30/i-took-my.html",
 	      	
 			"content_html": "<p>I took my (old) Sony RX 100 camera to the splash park to take pictures of the kids and got dozens of great shots. My wife and I looked back at our kids’ baby pictures a little, after looking through today’s photos, and had a great time doing so tonight.</p>\n",
@@ -201,14 +209,6 @@
 			"content_html": "<p>I both love and hate articles like “<a href=\"https://www.nytimes.com/2018/07/14/opinion/new-york-yankees-evil.html\">The New York Yankees Are a Moral Abomination</a>”. Handwringing, declinist arguments about baseball are almost as old as baseball itself. “Baseball is in decline” is part of its brand—part that needs to go away, I think.</p>\n\n<p>Baseball is awesome. The players are very skillful, play a game that doesn’t involve hurting each other, and legitimately appear to be enjoying themselves.</p>\n",
 			"date_published": "2018-07-15T12:17:50-04:00",
 			"url": "https://micro.mjdescy.me/2018/07/15/i-both-love.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/07/15/i-started-replaying.html",
-	      	
-			"content_html": "<p>I started replaying Bastion on my IPad Pro tonight. I bought it years ago and never finished it. I’m using a controller and headphones this time around, which improve the experience. I’m better at combat than I used to be, but a lot worse at the proving grounds challenges.</p>\n",
-			"date_published": "2018-07-14T23:35:51-04:00",
-			"url": "https://micro.mjdescy.me/2018/07/14/i-started-replaying.html"
 		}
 		
 	]
