@@ -1,0 +1,3763 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Michael Descy",
+	"home_page_url": "https://micro.mjdescy.me/",
+	"feed_url": "https://micro.mjdescy.me/archive/index.json",
+	"items": [
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/31/after-this-todays.html",
+	      	
+			"content_text": "After this today’s meeting, my database project has become 10...",
+			"date_published": "2018-07-31T15:09:09-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/31/after-this-todays.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/30/my-work-day.html",
+	      	
+			"content_text": "My work day started off far more slowly than expected....",
+			"date_published": "2018-07-30T12:10:34-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/30/my-work-day.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/30/i-took-my.html",
+	      	
+			"content_text": "I took my (old) Sony RX 100 camera to the...",
+			"date_published": "2018-07-29T22:06:41-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/29/i-took-my.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/29/i-beat-bastion.html",
+	      	
+			"content_text": "I beat Bastion tonight. What a great ending. I may...",
+			"date_published": "2018-07-28T23:23:50-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/28/i-beat-bastion.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/28/im-looking-forward.html",
+	      	
+			"content_text": "I’m looking forward to a visit with the family to...",
+			"date_published": "2018-07-28T10:47:23-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/28/im-looking-forward.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/28/003252.html",
+	      	
+			"content_text": "I have been seriously considering holding on to my iPhone...",
+			"date_published": "2018-07-27T20:32:52-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/27/003252.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/28/bastion-is-so.html",
+	      	
+			"content_text": "Bastion is so much fun that I bought the developer’s...",
+			"date_published": "2018-07-27T20:27:16-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/27/bastion-is-so.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/28/i-spent-most.html",
+	      	
+			"content_text": "I spent most of the day coding an Access app...",
+			"date_published": "2018-07-27T20:04:44-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/27/i-spent-most.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/27/im-enjoying-this.html",
+	      	
+			"content_text": "I’m enjoying this week’s Accidental Tech Podcast.\n",
+			"date_published": "2018-07-26T21:01:27-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/26/im-enjoying-this.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/26/031643.html",
+	      	
+			"content_text": "Blog post: SwiftoDo Development Notes, July 2018\n",
+			"date_published": "2018-07-25T23:16:43-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/25/031643.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/25/introducing-my-latest.html",
+	      	
+			"title": "Introducing my latest iOS app: Simple Call Blocker",
+			
+			"content_text": "Simple Call Blocker is a free app for blocking unwanted...",
+			"date_published": "2018-07-24T23:25:43-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/24/introducing-my-latest.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/24/i-replaced-my.html",
+	      	
+			"content_text": "I replaced my old, crumbling, extra- extra large Grifiti wrist...",
+			"date_published": "2018-07-24T11:03:04-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/24/i-replaced-my.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/24/tonight-im-working.html",
+	      	
+			"content_text": "🎵 Tonight I’m working overtime and listening to The Hold...",
+			"date_published": "2018-07-23T20:58:38-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/23/tonight-im-working.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/23/vacation-is-wonderful.html",
+	      	
+			"content_text": "Vacation is wonderful, but boy does it feel like a...",
+			"date_published": "2018-07-23T10:10:51-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/23/vacation-is-wonderful.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/20/i-left-my.html",
+	      	
+			"content_text": "I left my iPhone at the Apple Store for a...",
+			"date_published": "2018-07-20T14:24:39-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/20/i-left-my.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/20/i-find-myself.html",
+	      	
+			"title": "I find myself shifting my listening time away from podcasts and more toward music lately",
+			
+			"content_text": "I started listening to podcasts in 2008. I think, now,...",
+			"date_published": "2018-07-19T20:39:48-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/19/i-find-myself.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/19/hot-take-the.html",
+	      	
+			"content_text": "Hot take: The 12.9” iPad Pro I’m working on right...",
+			"date_published": "2018-07-19T09:19:09-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/19/hot-take-the.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/18/blog-post-on.html",
+	      	
+			"content_text": "Blog post: On Internet Trolls\n",
+			"date_published": "2018-07-18T08:40:52-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/18/blog-post-on.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/17/175357.html",
+	      	
+			"content_text": "🎵 I’m back to my wired OPPO PM-3 &amp; HA-2...",
+			"date_published": "2018-07-17T13:53:57-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/17/175357.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/17/trial-runs-for.html",
+	      	
+			"title": "Trial runs for fascism are in full flow",
+			
+			"content_text": "This article by Fintan O’Toole in The Irish Times is...",
+			"date_published": "2018-07-17T11:18:08-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/17/trial-runs-for.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/17/oh-im-getting.html",
+	      	
+			"content_text": "Oh! I’m getting a Microsoft Office update this morning. I...",
+			"date_published": "2018-07-17T09:04:43-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/17/oh-im-getting.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/17/i-have-paired.html",
+	      	
+			"content_text": "I have pared back my Twitter following list to Lin-Manuel...",
+			"date_published": "2018-07-16T23:13:56-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/16/i-have-paired.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/16/im-super-pleased.html",
+	      	
+			"content_text": "I’m super pleased listening to these V-Moda Crossfade 2 Codex...",
+			"date_published": "2018-07-16T16:36:58-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/16/im-super-pleased.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/15/i-checked-out.html",
+	      	
+			"content_text": "I checked out the new MacBook Pros at the Apple...",
+			"date_published": "2018-07-15T17:10:26-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/15/i-checked-out.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/15/our-appointment-for.html",
+	      	
+			"content_text": "Our appointment for family photos at the park got canceled...",
+			"date_published": "2018-07-15T12:44:34-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/15/our-appointment-for.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/15/i-both-love.html",
+	      	
+			"content_text": "I both love and hate articles like “The New York...",
+			"date_published": "2018-07-15T12:17:50-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/15/i-both-love.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/15/i-started-replaying.html",
+	      	
+			"content_text": "I started replaying Bastion on my IPad Pro tonight. I...",
+			"date_published": "2018-07-14T23:35:51-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/14/i-started-replaying.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/12/if-i-was.html",
+	      	
+			"content_text": "If I was smart, I would save $100/month for a...",
+			"date_published": "2018-07-12T13:40:57-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/12/if-i-was.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/11/blog-post-recommitting.html",
+	      	
+			"content_text": "Blog post: Re-committing to Pinboard, after many months away\n",
+			"date_published": "2018-07-10T23:19:25-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/10/blog-post-recommitting.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/11/the-app-store.html",
+	      	
+			"content_text": "The App Store gods are not smiling on me this...",
+			"date_published": "2018-07-10T22:46:03-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/10/the-app-store.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/11/021754.html",
+	      	
+			"content_text": "SwiftoDo 2.13.2 is now available in the App Store. It...",
+			"date_published": "2018-07-10T22:17:54-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/10/021754.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/10/just-got-an.html",
+	      	
+			"content_text": "Just got an email from Apple. My new app is...",
+			"date_published": "2018-07-10T13:08:00-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/10/just-got-an.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/10/when-will-it.html",
+	      	
+			"content_text": "When will it not be news that people act like...",
+			"date_published": "2018-07-10T13:06:22-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/10/when-will-it.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/10/a-git-commit.html",
+	      	
+			"content_text": "A git commit somehow disappeared, eradicating all my app code...",
+			"date_published": "2018-07-09T22:50:21-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/09/a-git-commit.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/09/i-found-a.html",
+	      	
+			"content_text": "I found a headphone case whose brand name really gets...",
+			"date_published": "2018-07-08T23:19:54-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/08/i-found-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/09/based-on-this.html",
+	      	
+			"content_text": "Based on this article, I predict that HBO is going...",
+			"date_published": "2018-07-08T23:06:53-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/08/based-on-this.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/08/salsas-at-my.html",
+	      	
+			"content_text": "Salsas at my family’s favorite Mexican restaurant: Queso: not hot...",
+			"date_published": "2018-07-08T18:26:01-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/08/salsas-at-my.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/07/apples-app-review.html",
+	      	
+			"content_text": "Apple’s App Review rejected my new app, primarily because its...",
+			"date_published": "2018-07-06T22:27:08-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/06/apples-app-review.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/06/thomas-finchs-ios.html",
+	      	
+			"content_text": "Thomas Finch’s iOS 7+ Icon Generator is a nice, little...",
+			"date_published": "2018-07-06T12:34:36-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/06/thomas-finchs-ios.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/06/141334.html",
+	      	
+			"content_text": "I’m happy to read a favorable review of “Ant-Man and...",
+			"date_published": "2018-07-06T10:13:34-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/06/141334.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/06/i-love-assembly.html",
+	      	
+			"content_text": "I love Assembly by Pixite. It’s an easy to use...",
+			"date_published": "2018-07-06T08:56:52-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/06/i-love-assembly.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/06/020032.html",
+	      	
+			"content_text": "I just submitted a new iOS app to the App...",
+			"date_published": "2018-07-05T22:00:32-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/05/020032.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/05/190220.html",
+	      	
+			"content_text": "SwiftoDo 2.13.1 is now available in the App Store. It...",
+			"date_published": "2018-07-05T15:02:20-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/05/190220.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/05/im-happy-today.html",
+	      	
+			"content_text": "I’m happy today feels like a Thursday because all day...",
+			"date_published": "2018-07-05T10:30:31-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/05/im-happy-today.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/04/it-is-too.html",
+	      	
+			"content_text": "It is too hot and muggy to do much of...",
+			"date_published": "2018-07-04T13:13:53-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/04/it-is-too.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/04/app-review-and.html",
+	      	
+			"content_text": "App review and package delivery are on schedule today despite...",
+			"date_published": "2018-07-04T09:49:42-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/04/app-review-and.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/02/these-master-dynamic.html",
+	      	
+			"content_text": "These Master &amp; Dynamic MH40 headphones are something special: premium...",
+			"date_published": "2018-07-02T13:16:44-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/02/these-master-dynamic.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/02/were-there-scads.html",
+	      	
+			"content_text": "Were there scads of newspaper articles published I n 1935...",
+			"date_published": "2018-07-02T09:25:35-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/02/were-there-scads.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/02/i-suppose-i.html",
+	      	
+			"content_text": "I suppose I will watch the Red Sox/Yankees series from...",
+			"date_published": "2018-07-02T09:15:41-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/02/i-suppose-i.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/01/i-was-finally.html",
+	      	
+			"content_text": "I was finally smart enough today to bring the magnetic...",
+			"date_published": "2018-07-01T17:43:45-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/01/i-was-finally.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/01/140841.html",
+	      	
+			"content_text": "I’m trying to get back on the MyFitnessPal horse today....",
+			"date_published": "2018-07-01T10:08:41-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/01/140841.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/01/030746.html",
+	      	
+			"content_text": "I finally got to see “A Quiet Place” this evening....",
+			"date_published": "2018-06-30T23:07:46-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/30/030746.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/01/my-kids-love.html",
+	      	
+			"content_text": "My kids love the public library. My family had a...",
+			"date_published": "2018-06-30T20:18:54-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/30/my-kids-love.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/28/i-would-subscribe.html",
+	      	
+			"content_text": "I would subscribe to Apple Music + News + TV...",
+			"date_published": "2018-06-28T18:48:05-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/28/i-would-subscribe.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/28/i-think-i.html",
+	      	
+			"content_text": "I think I will give Peter Davison-Reiber ‘s Fantastically Good...",
+			"date_published": "2018-06-28T15:34:54-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/28/i-think-i.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/28/the-mail-i.html",
+	      	
+			"content_text": "The mail I definitely don’t need to open right away...",
+			"date_published": "2018-06-28T10:07:51-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/28/the-mail-i.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/28/this-inexpensive-little.html",
+	      	
+			"content_text": "This inexpensive little device works just fine for microwave popcorn....",
+			"date_published": "2018-06-27T22:01:00-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/27/this-inexpensive-little.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/28/as-kennedy-retires.html",
+	      	
+			"title": "As Kennedy Retires, the Supreme Court’s Attack on Labor Unions Is a Sign of Things to Come",
+			
+			"content_text": "No kidding, The New Yorker, no kidding: For years, conservatives...",
+			"date_published": "2018-06-27T20:55:19-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/27/as-kennedy-retires.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/27/i-have-not.html",
+	      	
+			"content_text": "I have not been blogging as much recently because I...",
+			"date_published": "2018-06-27T16:26:07-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/27/i-have-not.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/27/my-clever-wellwritten.html",
+	      	
+			"content_text": "My clever, well-written new app currently does everything it’s supposed...",
+			"date_published": "2018-06-26T21:38:01-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/26/my-clever-wellwritten.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/26/tower-s-release.html",
+	      	
+			"title": "Tower 3.0's release and new pricing model",
+			
+			"content_text": "I have been beta testing Tower 3.0, which is a...",
+			"date_published": "2018-06-26T09:37:40-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/26/tower-s-release.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/25/i-have-learned.html",
+	      	
+			"content_text": "I have learned a heck of a lot about clean...",
+			"date_published": "2018-06-25T16:27:51-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/25/i-have-learned.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/25/im-starting-a.html",
+	      	
+			"content_text": "I’m starting a new thing at work today. It will...",
+			"date_published": "2018-06-25T10:02:52-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/25/im-starting-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/24/today-i-took.html",
+	      	
+			"content_text": "Today I took the time to delight in the company...",
+			"date_published": "2018-06-24T19:25:06-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/24/today-i-took.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/23/im-thinking-of.html",
+	      	
+			"content_text": "I’m thinking of trading in my V-Moda Crossfade 2’s plus...",
+			"date_published": "2018-06-23T15:55:58-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/23/im-thinking-of.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/23/020149.html",
+	      	
+			"content_text": "My wife and I are going to see “In the...",
+			"date_published": "2018-06-22T22:01:49-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/22/020149.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/23/the-last-of.html",
+	      	
+			"content_text": "The Last of the Tiger Parents is a lovely article...",
+			"date_published": "2018-06-22T21:20:39-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/22/the-last-of.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/22/i-found-the.html",
+	      	
+			"content_text": "I found the article published last week that links to...",
+			"date_published": "2018-06-22T09:17:55-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/22/i-found-the.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/22/koko-the-gorilla.html",
+	      	
+			"title": "Koko the Gorilla, Who Used Sign Language and Befriended Mr. Rogers, Dies at 46",
+			
+			"content_text": "Koko the Gorilla was a subject of fascination for me...",
+			"date_published": "2018-06-21T22:23:00-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/21/koko-the-gorilla.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/22/the-whole-family.html",
+	      	
+			"content_text": "The whole family went to the optician tonight to pick...",
+			"date_published": "2018-06-21T20:09:25-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/21/the-whole-family.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/21/to-my-surprise.html",
+	      	
+			"content_text": "To my surprise, and somewhat to my dismay, I have...",
+			"date_published": "2018-06-21T10:17:45-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/21/to-my-surprise.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/20/general-electric-dropped.html",
+	      	
+			"title": "General Electric Dropped from Dow",
+			
+			"content_text": "It’s the end of an era. General Electric, the last...",
+			"date_published": "2018-06-19T21:51:24-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/19/general-electric-dropped.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/19/apple-didnt-kill.html",
+	      	
+			"title": "Apple Didn't Kill Appkit...",
+			
+			"content_text": "This article, quite rightly, made me feel bad about not...",
+			"date_published": "2018-06-19T17:02:43-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/19/apple-didnt-kill.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/19/173012.html",
+	      	
+			"content_text": "I have been wrestling all day with an Access query...",
+			"date_published": "2018-06-19T13:30:12-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/19/173012.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/19/apples-embracing-algorithms.html",
+	      	
+			"content_text": "Apple’s “Embracing Algorithms” presentation from WWDC 2018 inspired me to...",
+			"date_published": "2018-06-19T10:32:16-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/19/apples-embracing-algorithms.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/18/im-wondering-as.html",
+	      	
+			"content_text": "I’m wondering, as one of my domain names is set...",
+			"date_published": "2018-06-18T10:29:03-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/18/im-wondering-as.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/18/my-work-goal.html",
+	      	
+			"content_text": "My work goal for the week is to build a...",
+			"date_published": "2018-06-18T10:00:23-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/18/my-work-goal.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/18/my-app-sales.html",
+	      	
+			"content_text": "My app sales went way up this weekend, and I...",
+			"date_published": "2018-06-17T22:26:10-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/17/my-app-sales.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/17/happy-fathers-day.html",
+	      	
+			"content_text": "Happy Father’s Day to all the dads out there. 😀...",
+			"date_published": "2018-06-17T09:20:03-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/17/happy-fathers-day.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/15/142222.html",
+	      	
+			"content_text": "Today is a good day for me to catch up...",
+			"date_published": "2018-06-15T10:22:22-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/15/142222.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/13/apple-gave-me.html",
+	      	
+			"content_text": "Apple gave me a free, full replacement for my 11-month-old...",
+			"date_published": "2018-06-13T12:34:30-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/13/apple-gave-me.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/13/learning-the-core.html",
+	      	
+			"title": "Learning the Core Data Framework",
+			
+			"content_text": "Lately I have taken it upon myself to finally teach...",
+			"date_published": "2018-06-12T23:45:45-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/12/learning-the-core.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/12/apple-hardware-woes.html",
+	      	
+			"title": "Apple hardware woes",
+			
+			"content_text": "As much as I love Apple hardware, I’ve got a...",
+			"date_published": "2018-06-12T17:08:31-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/12/apple-hardware-woes.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/12/blog-post-a.html",
+	      	
+			"content_text": "Blog post: A Hardware Keyboard Shortcuts Tip for Drafts 5...",
+			"date_published": "2018-06-11T23:13:54-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/11/blog-post-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/12/011117.html",
+	      	
+			"content_text": "I’m not sure what to make of anything in the...",
+			"date_published": "2018-06-11T21:11:17-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/11/011117.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/09/ive-been-sick.html",
+	      	
+			"content_text": "I’ve been sick in bed with a cold most of...",
+			"date_published": "2018-06-09T14:10:04-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/09/ive-been-sick.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/08/034454.html",
+	      	
+			"content_text": "Today was a great day. My daughter had a school...",
+			"date_published": "2018-06-07T23:44:54-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/07/034454.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/07/i-finally-figured.html",
+	      	
+			"content_text": "I finally figured out how to point micro.mjdescy.me to mjdescy.micro.blog....",
+			"date_published": "2018-06-07T00:42:04-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/07/i-finally-figured.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/07/blog-post-what.html",
+	      	
+			"content_text": "Blog post: What would make me upgrade my Series 1...",
+			"date_published": "2018-06-06T23:04:12-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/06/blog-post-what.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/06/edit-for-ios.html",
+	      	
+			"title": "Edit for iOS",
+			
+			"content_text": "Edit for iOS is the second ultra-simple text editor for...",
+			"date_published": "2018-06-06T14:37:47-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/06/edit-for-ios.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/06/i-wrote-a.html",
+	      	
+			"content_text": "I wrote a semantic version number struct in Swift 4.1...",
+			"date_published": "2018-06-06T13:50:41-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/06/i-wrote-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/06/171423.html",
+	      	
+			"content_text": "It looks like my career path is taking a slight...",
+			"date_published": "2018-06-06T13:14:23-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/06/171423.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/05/macbook-pro-forever.html",
+	      	
+			"title": "MacBook Pro 2013 Forever?",
+			
+			"content_text": "Reviewing macOS 10.14 Mojave System Requirements makes me think I...",
+			"date_published": "2018-06-05T12:29:28-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/05/macbook-pro-forever.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/05/i-thought-i.html",
+	      	
+			"content_text": "I thought I understood the delegate pattern many years ago,...",
+			"date_published": "2018-06-05T00:45:23-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/05/i-thought-i.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/04/the-transformational-siri.html",
+	      	
+			"content_text": "The transformational Siri enhancements developers and pundits were hungry for...",
+			"date_published": "2018-06-04T15:12:43-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/04/the-transformational-siri.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/04/if-microsoft-wanted.html",
+	      	
+			"content_text": "If Microsoft wanted to scare everybody in the developer community,...",
+			"date_published": "2018-06-04T09:48:55-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/04/if-microsoft-wanted.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/04/microsoft-bought-github.html",
+	      	
+			"content_text": "Microsoft bought GitHub just in time for WWDC to bury...",
+			"date_published": "2018-06-04T09:43:10-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/04/microsoft-bought-github.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/03/i-love-this.html",
+	      	
+			"content_text": "I love this article about iOS app architecture: Cocoa Touch...",
+			"date_published": "2018-06-03T16:15:00-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/03/i-love-this.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/03/the-drop-shadows.html",
+	      	
+			"content_text": "The drop shadows on all the WWDC promotional images and...",
+			"date_published": "2018-06-03T15:41:04-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/03/the-drop-shadows.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/03/i-am-digging.html",
+	      	
+			"content_text": "I am digging my old, blue, knockoff Apple Watch Sport...",
+			"date_published": "2018-06-02T22:09:04-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/02/i-am-digging.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/02/its-a-muggy.html",
+	      	
+			"content_text": "It’s a muggy day in New Jersey, which is a...",
+			"date_published": "2018-06-02T10:57:11-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/02/its-a-muggy.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/01/224618.html",
+	      	
+			"content_text": "My wife and I are way back in the auditorium,...",
+			"date_published": "2018-06-01T18:46:18-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/01/224618.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/31/235323.html",
+	      	
+			"content_text": "SwiftoDo 2.13.0 is now available in the App Store. New...",
+			"date_published": "2018-05-31T19:53:23-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/31/235323.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/31/i-finally-retired.html",
+	      	
+			"content_text": "I finally “retired” my 9-year-old AeroPress today, in favor of...",
+			"date_published": "2018-05-31T14:53:31-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/31/i-finally-retired.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/31/its-silly-but.html",
+	      	
+			"content_text": "It’s silly, but I am a little disappointed that AirPlay...",
+			"date_published": "2018-05-31T14:10:02-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/31/its-silly-but.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/31/im-finalizing-another.html",
+	      	
+			"content_text": "I’m finalizing another minor version update to SwiftoDo this week,...",
+			"date_published": "2018-05-31T13:36:31-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/31/im-finalizing-another.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/30/here-is-a.html",
+	      	
+			"content_text": "Here is a wrapper class to hide implementation details in...",
+			"date_published": "2018-05-30T15:22:13-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/30/here-is-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/30/this-vba-class.html",
+	      	
+			"content_text": "This VBA class helps you work with temporary tables in...",
+			"date_published": "2018-05-30T15:21:21-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/30/this-vba-class.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/30/185723.html",
+	      	
+			"content_text": "I decided to make use of GitHub Gists again. My...",
+			"date_published": "2018-05-30T14:57:23-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/30/185723.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/30/this-new-york.html",
+	      	
+			"content_text": "This New York Times article comfirms some of my suspicions...",
+			"date_published": "2018-05-30T09:40:58-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/30/this-new-york.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/28/i-am-a.html",
+	      	
+			"content_text": "🎙 I am a sucker for an Upgrade draft episode:...",
+			"date_published": "2018-05-28T19:38:28-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/28/i-am-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/28/all-weekends-should.html",
+	      	
+			"content_text": "All weekends should be 3 days long…if not 5! 😀...",
+			"date_published": "2018-05-27T23:49:59-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/27/all-weekends-should.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/27/yesterday-was-a.html",
+	      	
+			"content_text": "Yesterday was a lot of fun. My family enjoyed great...",
+			"date_published": "2018-05-27T11:31:49-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/27/yesterday-was-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/25/i-unfollowed-about.html",
+	      	
+			"content_text": "I unfollowed about 275 accounts on Twitter this afternoon. My...",
+			"date_published": "2018-05-25T16:34:44-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/25/i-unfollowed-about.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/25/i-did-not.html",
+	      	
+			"content_text": "I did not expect the Red Sox to designate Hanley...",
+			"date_published": "2018-05-25T14:58:26-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/25/i-did-not.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/25/130512.html",
+	      	
+			"content_text": "SwiftoDo 2.12.0 is now available in the App Store. New...",
+			"date_published": "2018-05-25T09:05:12-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/25/130512.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/25/001805.html",
+	      	
+			"title": "It looks like Essential is going away",
+			
+			"content_text": "Android Creator Puts Essential Up for Sale, Cancels Next Phone...",
+			"date_published": "2018-05-24T20:18:05-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/24/001805.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/24/im-enjoying-the.html",
+	      	
+			"content_text": "📺 I’m enjoying the “remix” version of “Arrested Development” season...",
+			"date_published": "2018-05-24T12:16:47-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/24/im-enjoying-the.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/23/i-was-so.html",
+	      	
+			"content_text": "I was so busy today that I forgot to blog!...",
+			"date_published": "2018-05-23T17:02:23-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/23/i-was-so.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/23/im-pretty-proud.html",
+	      	
+			"content_text": "I’m pretty proud of my Ulysses library setup—at least the...",
+			"date_published": "2018-05-22T20:27:34-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/22/im-pretty-proud.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/22/first-listen-mean.html",
+	      	
+			"title": "🎵 First listen: Mean Girls (Original Broadway Cast)",
+			
+			"content_text": "Mean Girls (Original Broadway Cast) is up for the Tony...",
+			"date_published": "2018-05-22T16:08:22-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/22/first-listen-mean.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/22/headphones-review-sony.html",
+	      	
+			"content_text": "🎧 Headphones review: Sony MDR-1AM2/B.\n",
+			"date_published": "2018-05-22T11:14:17-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/22/headphones-review-sony.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/22/i-used-my.html",
+	      	
+			"content_text": "I used my iPad Pro and Pencil to teach my...",
+			"date_published": "2018-05-21T21:54:00-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/21/i-used-my.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/22/i-just-submitted.html",
+	      	
+			"content_text": "I just submitted SwiftoDo 2.12.0 to the App Store. Hopefully...",
+			"date_published": "2018-05-21T21:26:58-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/21/i-just-submitted.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/21/so-much-to.html",
+	      	
+			"content_text": "So much to do today, I don’t even know where...",
+			"date_published": "2018-05-21T10:37:04-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/21/so-much-to.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/21/i-took-a.html",
+	      	
+			"content_text": "I took a new pair of headphones for a spin...",
+			"date_published": "2018-05-20T23:50:32-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/20/i-took-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/20/blog-post-recess.html",
+	      	
+			"content_text": "Blog post: “Recess” and “Good Bones”, or selling the world...",
+			"date_published": "2018-05-20T09:12:04-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/20/blog-post-recess.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/18/im-still-testing.html",
+	      	
+			"content_text": "I’m still testing and fixing things in my dev build...",
+			"date_published": "2018-05-18T19:43:05-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/18/im-still-testing.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/18/carry-on-on.html",
+	      	
+			"title": "🎵 Carry On",
+			
+			"content_text": "On this bad and sad news day, remember: If you’re...",
+			"date_published": "2018-05-18T16:31:06-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/18/carry-on-on.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/18/frozen-the-broadway.html",
+	      	
+			"title": "🎵 Frozen: The Broadway Musical",
+			
+			"content_text": "Listening to the cast recording of “Frozen: The Broadway Musical”...",
+			"date_published": "2018-05-18T15:21:01-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/18/frozen-the-broadway.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/18/while-i-think.html",
+	      	
+			"content_text": "While I think I want a Nintendo Switch, I’m trying...",
+			"date_published": "2018-05-18T10:16:15-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/18/while-i-think.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/18/blog-post-the.html",
+	      	
+			"content_text": "Blog post: The calm before the WWDC storm\n",
+			"date_published": "2018-05-17T23:51:49-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/17/blog-post-the.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/18/googles-attractive-by.html",
+	      	
+			"content_text": "Google’s attractive but less information dense redesign of Google News...",
+			"date_published": "2018-05-17T22:00:27-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/17/googles-attractive-by.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/17/googles-music-and.html",
+	      	
+			"title": "Google's music and video streaming strategy is a mess",
+			
+			"content_text": "Engadget has it right. I have no idea what Google...",
+			"date_published": "2018-05-17T12:28:39-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/17/googles-music-and.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/17/my-brains-bootup.html",
+	      	
+			"content_text": "My brain’s boot-up time is taking longer than usual today....",
+			"date_published": "2018-05-17T09:14:32-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/17/my-brains-bootup.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/16/the-cast-of.html",
+	      	
+			"content_text": "The cast of Solo certainly is appealing, even if the...",
+			"date_published": "2018-05-15T20:09:50-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/15/the-cast-of.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/15/swiftodo-was-looking.html",
+	      	
+			"content_text": "SwiftoDo 2.12.0 was looking pretty dire last night, but is...",
+			"date_published": "2018-05-15T19:08:49-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/15/swiftodo-was-looking.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/15/work-has-been.html",
+	      	
+			"content_text": "Work has been heating up for me lately, which is...",
+			"date_published": "2018-05-15T17:05:56-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/15/work-has-been.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/15/am-i-late.html",
+	      	
+			"content_text": "Am I late to the game with using semaphores, or...",
+			"date_published": "2018-05-15T10:16:27-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/15/am-i-late.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/15/im-loving-the.html",
+	      	
+			"content_text": "I’m loving the second season of “Westworld” so far. I...",
+			"date_published": "2018-05-15T00:59:17-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/15/im-loving-the.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/15/015943.html",
+	      	
+			"content_text": "I have been testing what I thought would be SwiftoDo’s...",
+			"date_published": "2018-05-14T21:59:43-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/14/015943.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/14/today-was-a.html",
+	      	
+			"content_text": "Today was a great Mother’s Day. Probably the best I...",
+			"date_published": "2018-05-13T22:26:13-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/13/today-was-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/11/from-spotify-to.html",
+	      	
+			"title": "From Spotify to Indie and Beyond: A Top Dev Interview With John Sundell",
+			
+			"content_text": "I enjoyed this interview with Swift expert, blogger, and podcaster...",
+			"date_published": "2018-05-11T13:16:51-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/11/from-spotify-to.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/11/frightened-rabbit-singer.html",
+	      	
+			"title": "🎵 Frightened Rabbit singer commits suicide 😥",
+			
+			"content_text": "(My original title was just an expletive.) Body confirmed as...",
+			"date_published": "2018-05-11T09:49:38-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/11/frightened-rabbit-singer.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/11/pure-gold-from.html",
+	      	
+			"title": "Pure Gold from Pinboard's FAQ",
+			
+			"content_text": "I came across this tonight, as I was perusing Pinboard’s...",
+			"date_published": "2018-05-10T21:25:02-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/10/pure-gold-from.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/10/i-decided-to.html",
+	      	
+			"content_text": "I decided to install some iOS games with MFi controller...",
+			"date_published": "2018-05-10T15:48:22-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/10/i-decided-to.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/10/i-discovered-this.html",
+	      	
+			"content_text": "I discovered this great primer on the New York Times...",
+			"date_published": "2018-05-10T08:47:03-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/10/i-discovered-this.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/10/i-am-finding.html",
+	      	
+			"content_text": "I am finding new people to follow every day or...",
+			"date_published": "2018-05-09T20:02:02-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/09/i-am-finding.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/09/the-best-trackballs.html",
+	      	
+			"title": "The Best Trackballs according to Wirecutter",
+			
+			"content_text": "Wirecutter updated its trackballs review today. Their recommendations are basically...",
+			"date_published": "2018-05-09T13:50:14-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/09/the-best-trackballs.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/09/improving-dropboxrelated-error.html",
+	      	
+			"title": "Improving Dropbox-related error messages in SwiftoDo",
+			
+			"content_text": "I’ve done a lot of work rewriting the Dropbox code...",
+			"date_published": "2018-05-09T00:02:45-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/09/improving-dropboxrelated-error.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/08/okkervil-rivers-back.html",
+	      	
+			"title": "🎵 Okkervil River's back catalog",
+			
+			"content_text": "Listening to Okkervil River’s new album, In the Rainbow Rain,...",
+			"date_published": "2018-05-08T17:01:35-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/08/okkervil-rivers-back.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/08/trying-to-get.html",
+	      	
+			"title": "Trying to get back into Pinboard, or, maybe I am over-complicating things",
+			
+			"content_text": "I am trying to get back into Pinboard, the reliable...",
+			"date_published": "2018-05-08T10:44:53-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/08/trying-to-get.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/08/micro-monday-follow.html",
+	      	
+			"content_text": "Micro Monday: Follow @matigo. He’s a lot like me, but...",
+			"date_published": "2018-05-08T00:04:36-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/08/micro-monday-follow.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/08/robocalls-flooding-your.html",
+	      	
+			"title": "Robocalls Flooding Your Cellphone? Here’s How to Stop Them",
+			
+			"content_text": "This article inspired me to install Hiya on my iPhone...",
+			"date_published": "2018-05-07T20:09:55-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/07/robocalls-flooding-your.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/07/google-plus-still.html",
+	      	
+			"title": "Google Plus still exists. Why?",
+			
+			"content_text": "I haven’t thought about this in a long time, but...",
+			"date_published": "2018-05-06T21:10:09-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/06/google-plus-still.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/06/im-making-bean.html",
+	      	
+			"content_text": "I’m making 12-bean soup today, in an effort to get...",
+			"date_published": "2018-05-06T11:12:49-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/06/im-making-bean.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/05/my-th-post.html",
+	      	
+			"title": "My 300th post on Micro.blog",
+			
+			"content_text": "According to my Account page, this is my 300th post...",
+			"date_published": "2018-05-04T21:17:27-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/04/my-th-post.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/05/google-news-is.html",
+	      	
+			"title": "Google News is getting more video",
+			
+			"content_text": "Google News is getting a revamp with more video and...",
+			"date_published": "2018-05-04T20:26:48-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/04/google-news-is.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/04/groundhog-day-the.html",
+	      	
+			"title": "🎵 Groundhog Day the Musical",
+			
+			"content_text": "Groundhog Day is my second favorite Broadway musical of last...",
+			"date_published": "2018-05-04T19:35:30-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/04/groundhog-day-the.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/04/listening-to-podcasts.html",
+	      	
+			"title": "Listening to Podcasts without Voice Boost",
+			
+			"content_text": "I am so accustomed to listening to Podcasts with Overcast’s...",
+			"date_published": "2018-05-04T09:14:54-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/04/listening-to-podcasts.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/04/the-panic-report.html",
+	      	
+			"title": "The 2017 Panic Report",
+			
+			"content_text": "The annual Panic Report is always worth a read. I...",
+			"date_published": "2018-05-03T23:40:14-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/03/the-panic-report.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/04/note-to-past.html",
+	      	
+			"content_text": "Note to past self: Remind me again why you decided...",
+			"date_published": "2018-05-03T20:59:30-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/03/note-to-past.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/02/i-didnt-know.html",
+	      	
+			"content_text": "I didn’t know about this action to post directly from...",
+			"date_published": "2018-05-02T16:50:02-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/02/i-didnt-know.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/02/two-of-the.html",
+	      	
+			"title": "Two of the best platformers I've played on iOS are getting their due today from Apple",
+			
+			"content_text": "Today, Apple’s US App Store is highlighting two great games...",
+			"date_published": "2018-05-02T14:07:59-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/02/two-of-the.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/02/remote-login-inception.html",
+	      	
+			"title": "Remote login Inception",
+			
+			"content_text": "At work, our clients are far more interested in information...",
+			"date_published": "2018-05-02T11:26:56-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/02/remote-login-inception.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/02/who-cares-about.html",
+	      	
+			"title": "Who cares about Apple earnings reports?",
+			
+			"content_text": "Do Windows fans care about Microsoft’s earnings? Do Android fans...",
+			"date_published": "2018-05-01T22:59:11-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/01/who-cares-about.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/01/201333.html",
+	      	
+			"title": "📚 Ready Player One, by Ernest Cline",
+			
+			"content_text": "Earlier this year, I completed reading Ready Player One by...",
+			"date_published": "2018-05-01T16:13:33-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/01/201333.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/01/the-best-part.html",
+	      	
+			"content_text": "The best part of working from home is the ability...",
+			"date_published": "2018-05-01T14:27:03-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/01/the-best-part.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/01/i-quit-my.html",
+	      	
+			"title": "I quit my iPhone for a basic Nokia and it was hard but worth it",
+			
+			"content_text": "This article on Quartz about limiting smartphone use is both...",
+			"date_published": "2018-05-01T09:41:46-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/01/i-quit-my.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/01/blog-post-premature.html",
+	      	
+			"content_text": "Blog post: Premature Optimization\n",
+			"date_published": "2018-04-30T23:15:43-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/30/blog-post-premature.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/30/introducing-the-new.html",
+	      	
+			"title": "Introducing The New Yorker Crossword Puzzle",
+			
+			"content_text": "The New Yorker just launched a crossword puzzle. Most of...",
+			"date_published": "2018-04-30T11:43:23-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/30/introducing-the-new.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/30/prolific-apple-supply.html",
+	      	
+			"title": "Prolific Apple supply chain analyst Ming-Chi Kuo departs KGI Securities, likely to focus on companies other than Apple",
+			
+			"content_text": "Kuo’s departure comes hot off the heels of Apple’s recent...",
+			"date_published": "2018-04-30T09:49:29-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/30/prolific-apple-supply.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/30/031528.html",
+	      	
+			"content_text": "Blog post: My slide into audiophile territory, Part 3\n",
+			"date_published": "2018-04-29T23:15:28-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/29/031528.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/30/om-maliks-shinola.html",
+	      	
+			"title": "Om Malik's Shinola Canfield headphone review",
+			
+			"content_text": "Om Malik wrote a thoughtful review of a rather high...",
+			"date_published": "2018-04-29T20:53:33-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/29/om-maliks-shinola.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/29/i-started-using.html",
+	      	
+			"content_text": "I started using the Activity Digital face today. I never...",
+			"date_published": "2018-04-28T23:44:27-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/28/i-started-using.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/28/030506.html",
+	      	
+			"content_text": "Blog post: SwiftoDo Development Notes, April 2018\n",
+			"date_published": "2018-04-27T23:05:06-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/27/030506.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/28/i-miss-caesar.html",
+	      	
+			"title": "I miss Caesar salad",
+			
+			"content_text": "It seems to me that massive outbreaks of food borne...",
+			"date_published": "2018-04-27T21:35:39-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/27/i-miss-caesar.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/27/batman-ninjahttpsmimdbcomtitlett-is.html",
+	      	
+			"content_text": "🎬 Batman Ninja is easily one of the weirdest movies...",
+			"date_published": "2018-04-27T19:02:29-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/27/batman-ninjahttpsmimdbcomtitlett-is.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/27/how-we-got.html",
+	      	
+			"title": "📚 How We Got To Now",
+			
+			"content_text": "I recently finished reading Steen Johnson’s How We Got to...",
+			"date_published": "2018-04-27T17:03:58-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/27/how-we-got.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/27/finland-has-second.html",
+	      	
+			"title": "Finland Has Second Thoughts About Giving Free Money to Jobless People",
+			
+			"content_text": "Finland is letting its yearlong experiment with Universal Basic Income...",
+			"date_published": "2018-04-27T09:08:31-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/27/finland-has-second.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/27/amazon-is-increasing.html",
+	      	
+			"title": "Amazon is increasing its Prime membership fee",
+			
+			"content_text": "Amazon is increasing the price of Prime membership: Amazon also...",
+			"date_published": "2018-04-26T22:23:08-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/26/amazon-is-increasing.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/26/i-would-pay.html",
+	      	
+			"content_text": "I would pay good money to stream “Avengers: Infinity War”...",
+			"date_published": "2018-04-26T19:48:35-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/26/i-would-pay.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/26/mac-apps-are.html",
+	      	
+			"title": "Mac apps are harder than iOS apps",
+			
+			"content_text": "I agree with Matt Ronge’s article “Mac apps are harder...",
+			"date_published": "2018-04-26T13:42:22-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/26/mac-apps-are.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/26/blocker-x.html",
+	      	
+			"title": "1Blocker X",
+			
+			"content_text": "I picked up 1Blocker X based on this review from...",
+			"date_published": "2018-04-26T10:52:04-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/26/blocker-x.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/26/im-doing-a.html",
+	      	
+			"content_text": "I’m doing a type of work I haven’t done in...",
+			"date_published": "2018-04-26T10:05:42-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/26/im-doing-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/24/this-is-my.html",
+	      	
+			"content_text": "This is my life now.\n\n\n",
+			"date_published": "2018-04-24T14:52:03-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/24/this-is-my.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/24/i-got-to.html",
+	      	
+			"content_text": "I got to be reminded today just how long VBA...",
+			"date_published": "2018-04-24T14:30:21-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/24/i-got-to.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/23/airpods-batteries-drain.html",
+	      	
+			"title": "AirPods batteries drain much faster on phone calls",
+			
+			"content_text": "I thought my AirPods batteries were already aging out of...",
+			"date_published": "2018-04-23T10:56:09-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/23/airpods-batteries-drain.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/22/i-had-a.html",
+	      	
+			"content_text": "🎧 I had a lot of fun testing out the...",
+			"date_published": "2018-04-22T08:58:21-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/22/i-had-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/20/im-eagerly-awaiting.html",
+	      	
+			"content_text": "I’m eagerly awaiting my new V-Moda Crossfade 2’s to be...",
+			"date_published": "2018-04-20T09:55:35-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/20/im-eagerly-awaiting.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/19/frank-turner-isall.html",
+	      	
+			"content_text": "🎵 Frank Turner is—all at once—literate, angry, cynical, hurt, sad,...",
+			"date_published": "2018-04-19T16:25:42-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/19/frank-turner-isall.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/19/i-am-coding.html",
+	      	
+			"content_text": "I am coding VBA and ripping CDs like it’s the...",
+			"date_published": "2018-04-19T11:38:06-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/19/i-am-coding.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/19/git-tower-vs.html",
+	      	
+			"title": "Git Tower vs. Atlassian SourceTree",
+			
+			"content_text": "I am enjoying using Tower over Atlassian SourceTree. SourceTree has...",
+			"date_published": "2018-04-18T21:54:47-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/18/git-tower-vs.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/18/coding-on-my.html",
+	      	
+			"content_text": "Coding on my late 2013 15” MacBook Pro while watching...",
+			"date_published": "2018-04-17T23:23:14-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/17/coding-on-my.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/17/taking-a-trip.html",
+	      	
+			"content_text": "🎵 Taking a trip down memory lane with Guster’s Keep...",
+			"date_published": "2018-04-16T22:22:09-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/16/taking-a-trip.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/16/im-starting-to.html",
+	      	
+			"content_text": "I’m starting to write the import routine I should have...",
+			"date_published": "2018-04-16T16:05:13-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/16/im-starting-to.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/16/145601.html",
+	      	
+			"content_text": "This BeoPlay M3 speaker is a better fit in my...",
+			"date_published": "2018-04-16T10:56:01-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/16/145601.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/15/im-feeling-pumped.html",
+	      	
+			"content_text": "I’m feeling pumped for work tomorrow, which is…12 hours too...",
+			"date_published": "2018-04-15T19:34:57-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/15/im-feeling-pumped.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/15/at-long-last.html",
+	      	
+			"content_text": "📚 At long last, I have finished reading Team of...",
+			"date_published": "2018-04-15T14:38:48-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/15/at-long-last.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/13/i-am-grateful.html",
+	      	
+			"content_text": "I am grateful that the grounds crew I hired cleaned...",
+			"date_published": "2018-04-13T15:07:08-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/13/i-am-grateful.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/13/i-must-be.html",
+	      	
+			"content_text": "I must be perverse or something, but one of my...",
+			"date_published": "2018-04-13T09:26:11-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/13/i-must-be.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/13/i-excitedly-signed.html",
+	      	
+			"content_text": "I excitedly signed up for the Ulysses 13 beta today....",
+			"date_published": "2018-04-12T22:39:24-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/12/i-excitedly-signed.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/12/i-deactivated-by.html",
+	      	
+			"content_text": "I deactivated by Facebook account today. I can’t muster up...",
+			"date_published": "2018-04-12T16:10:03-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/12/i-deactivated-by.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/12/132245.html",
+	      	
+			"content_text": "I’m trying to catch up to current Red Sox games...",
+			"date_published": "2018-04-12T09:22:45-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/12/132245.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/12/somehow-my-simple.html",
+	      	
+			"content_text": "Somehow my simple feature update in my app ballooned to...",
+			"date_published": "2018-04-11T20:53:42-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/11/somehow-my-simple.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/11/the-spring-cleanup.html",
+	      	
+			"content_text": "The spring cleanup landscaping quotes I got this week have...",
+			"date_published": "2018-04-11T11:17:03-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/11/the-spring-cleanup.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/10/space-gunhttpsitunesapplecomusalbumspacegun-by.html",
+	      	
+			"content_text": "🎵 “Space Gun” by Guided by Voices sounds just as...",
+			"date_published": "2018-04-10T15:40:24-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/10/space-gunhttpsitunesapplecomusalbumspacegun-by.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/10/my-current-background.html",
+	      	
+			"content_text": "My current background task, while I work, is secure erasing...",
+			"date_published": "2018-04-10T08:54:04-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/10/my-current-background.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/10/sometimes-you-can.html",
+	      	
+			"content_text": "Sometimes you can program on your hobby projects after work,...",
+			"date_published": "2018-04-09T20:49:52-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/09/sometimes-you-can.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/09/im-really-digging.html",
+	      	
+			"content_text": "🎵 I’m really digging Bleachers’ “Gone Now” right now. I...",
+			"date_published": "2018-04-09T16:42:27-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/09/im-really-digging.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/09/im-getting-back.html",
+	      	
+			"content_text": "I’m getting back in the swing of things at work...",
+			"date_published": "2018-04-09T14:07:57-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/09/im-getting-back.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/09/132809.html",
+	      	
+			"content_text": "SwiftoDo 2.11.2 is now available in the App Store. No...",
+			"date_published": "2018-04-09T09:28:09-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/09/132809.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/08/today-is-a.html",
+	      	
+			"content_text": "Today is a rebuilding day after 2 days in NYC....",
+			"date_published": "2018-04-08T12:04:39-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/08/today-is-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/04/225406.html",
+	      	
+			"content_text": "I was not happy to learn today that OPPO Digital...",
+			"date_published": "2018-04-04T18:54:06-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/04/225406.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/04/it-may-be.html",
+	      	
+			"content_text": "It may be too soon to tell, but I’m afraid...",
+			"date_published": "2018-04-03T20:27:38-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/03/it-may-be.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/03/i-relistened-to.html",
+	      	
+			"content_text": "🎵 I re-listened to The Decemberists’ I’ll Be Your Girl...",
+			"date_published": "2018-04-03T16:42:41-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/03/i-relistened-to.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/03/did-you-know.html",
+	      	
+			"content_text": "Did you know you can filter Excel spreadsheet columns by...",
+			"date_published": "2018-04-03T15:00:58-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/03/did-you-know.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/02/someone-just-tried.html",
+	      	
+			"content_text": "Someone just tried to hack into my Apple account. Scary!...",
+			"date_published": "2018-04-01T21:23:41-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/01/someone-just-tried.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/01/our-plans-today.html",
+	      	
+			"content_text": "Our plans today include Easter egg dying and a Passover...",
+			"date_published": "2018-04-01T11:53:01-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/01/our-plans-today.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/31/were-going-to.html",
+	      	
+			"content_text": "We’re going to Six Flags Great Adventure today on the...",
+			"date_published": "2018-03-31T10:19:38-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/31/were-going-to.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/30/my-mac-came.html",
+	      	
+			"content_text": "My Mac came back from the stalled OS update, but...",
+			"date_published": "2018-03-30T15:18:24-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/30/my-mac-came.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/30/133656.html",
+	      	
+			"content_text": "SwiftoDo 2.11.1 is now available in the App Store. It...",
+			"date_published": "2018-03-30T09:36:56-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/30/133656.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/30/once-again-a.html",
+	      	
+			"content_text": "Once again, a macOS point update has stalled on my...",
+			"date_published": "2018-03-30T08:22:23-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/30/once-again-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/30/hot-take-swift.html",
+	      	
+			"content_text": "Hot take: Swift 4.1 is .1 better than Swift 4....",
+			"date_published": "2018-03-29T21:06:13-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/29/hot-take-swift.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/29/its-a-big.html",
+	      	
+			"content_text": "It’s a big Apple software update day today! iOS 11.3...",
+			"date_published": "2018-03-29T14:18:13-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/29/its-a-big.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/29/theres-nothing-quite.html",
+	      	
+			"content_text": "There’s nothing quite like learning new T-SQL commands. I’m learning...",
+			"date_published": "2018-03-29T10:09:32-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/29/theres-nothing-quite.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/28/i-just-signed.html",
+	      	
+			"content_text": "I just signed up for the Git Tower Version 2...",
+			"date_published": "2018-03-27T22:31:12-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/27/i-just-signed.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/28/i-am-fixing.html",
+	      	
+			"content_text": "I am fixing more bugs in my iOS app this...",
+			"date_published": "2018-03-27T22:23:38-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/27/i-am-fixing.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/27/presuming-i-trade.html",
+	      	
+			"content_text": "Presuming I trade in my iPad Air 2, the new...",
+			"date_published": "2018-03-27T18:59:31-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/27/presuming-i-trade.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/27/do-any-micro.html",
+	      	
+			"content_text": "Do any Micro Bloggers host their own RSS feed reader...",
+			"date_published": "2018-03-26T20:57:00-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/26/do-any-micro.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/26/max-richters-sleep.html",
+	      	
+			"title": "🎵 Max Richter's \"Sleep\"",
+			
+			"content_text": "I am unreasonably excited to learn about Max Richter’s 8...",
+			"date_published": "2018-03-25T21:11:03-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/25/max-richters-sleep.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/25/im-not-so.html",
+	      	
+			"content_text": "I’m not so good at Micro Monday recommendations for whatever...",
+			"date_published": "2018-03-24T22:28:04-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/24/im-not-so.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/24/last-night-my.html",
+	      	
+			"content_text": "🎭 Last night my wife and I saw “Motown: The...",
+			"date_published": "2018-03-24T10:02:39-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/24/last-night-my.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/23/131331.html",
+	      	
+			"content_text": "SwiftoDo 2.11.0 is now available in the App Store. It...",
+			"date_published": "2018-03-23T09:13:31-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/23/131331.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/22/i-missed-om.html",
+	      	
+			"content_text": "🎙 I missed Om Malik’s spot-on take on Facebook from...",
+			"date_published": "2018-03-22T14:03:06-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/22/i-missed-om.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/21/the-main-reason.html",
+	      	
+			"content_text": "The main reason that I still have my Facebook account...",
+			"date_published": "2018-03-21T10:19:58-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/21/the-main-reason.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/20/rewatching-the-last.html",
+	      	
+			"title": "🎬 Rewatching “The Last Jedi”",
+			
+			"content_text": "I am enjoying “The Last Jedi” a lot more on...",
+			"date_published": "2018-03-20T00:26:56-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/20/rewatching-the-last.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/20/im-trying-to.html",
+	      	
+			"content_text": "🎵 I’m trying to form an opinion of The Decemberists’...",
+			"date_published": "2018-03-19T22:18:03-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/19/im-trying-to.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/19/the-menu-bar.html",
+	      	
+			"content_text": "🎙 “The Menu Bar” is a surprisingly good podcast. Episode...",
+			"date_published": "2018-03-19T08:51:10-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/19/the-menu-bar.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/18/021905.html",
+	      	
+			"content_text": "SwiftoDo 2.10.1 is now available in the App Store. It...",
+			"date_published": "2018-03-17T22:19:05-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/17/021905.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/16/i-kicked-my.html",
+	      	
+			"content_text": "I kicked my Twitter addiction this year, but how do...",
+			"date_published": "2018-03-16T19:54:26-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/16/i-kicked-my.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/16/152545.html",
+	      	
+			"content_text": "SwiftoDo 2.10.0 is now available in the App Store. It...",
+			"date_published": "2018-03-16T11:25:45-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/16/152545.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/15/the-nest-temperature.html",
+	      	
+			"title": "The Nest temperature sensor",
+			
+			"content_text": "I wanted a remote temperature sensor for my Nest six...",
+			"date_published": "2018-03-15T19:44:37-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/15/the-nest-temperature.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/15/correction-excel-is.html",
+	      	
+			"content_text": "Correction: Excel is making me hurt today.\n",
+			"date_published": "2018-03-15T11:52:26-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/15/correction-excel-is.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/15/i-am-making.html",
+	      	
+			"content_text": "I am making Excel hurt today.\n",
+			"date_published": "2018-03-15T10:11:12-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/15/i-am-making.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/15/justice-league.html",
+	      	
+			"title": "📽️ Justice League",
+			
+			"content_text": "📽️ I saw “Justice League” last night and really enjoyed...",
+			"date_published": "2018-03-14T22:29:18-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/14/justice-league.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/14/raspberry-pis-new.html",
+	      	
+			"content_text": "Raspberry Pi’s new model is an unexpected Pi Day treat....",
+			"date_published": "2018-03-14T16:31:25-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/14/raspberry-pis-new.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/14/happy-pi-dayhttpwwwpidayorg.html",
+	      	
+			"content_text": "Happy Pi Day, everyone! I told my daughter to tell...",
+			"date_published": "2018-03-14T09:03:07-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/14/happy-pi-dayhttpwwwpidayorg.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/14/stephen-hawkings-deathhttpsnytimstkrhql.html",
+	      	
+			"content_text": "Stephen Hawking’s death was the first notable death since 2009...",
+			"date_published": "2018-03-14T07:58:04-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/14/stephen-hawkings-deathhttpsnytimstkrhql.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/13/230227.html",
+	      	
+			"content_text": "I feel like hardly any apps use the iOS 11...",
+			"date_published": "2018-03-13T19:02:27-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/13/230227.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/13/the-third-noreaster.html",
+	      	
+			"content_text": "The third nor’easter in three weeks has screwed up our...",
+			"date_published": "2018-03-13T09:02:04-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/13/the-third-noreaster.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/12/apple-buying-texture.html",
+	      	
+			"title": "Apple buying Texture",
+			
+			"content_text": "Apple buying Texture is interesting and unexpected to me. I...",
+			"date_published": "2018-03-12T19:34:53-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/12/apple-buying-texture.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/12/i-realized-this.html",
+	      	
+			"content_text": "I realized this morning that what I was coding last...",
+			"date_published": "2018-03-12T11:45:34-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/12/i-realized-this.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/11/my-son-has.html",
+	      	
+			"content_text": "My son has figured out how to turn on the...",
+			"date_published": "2018-03-11T12:52:42-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/11/my-son-has.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/11/my-wife-let.html",
+	      	
+			"content_text": "My wife let me sleep in today. 🙏😀👍❤️\n",
+			"date_published": "2018-03-11T11:38:39-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/11/my-wife-let.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/10/145538.html",
+	      	
+			"content_text": "Blog post: My slide into audiophile territory, Part 2—What does...",
+			"date_published": "2018-03-10T09:55:38-05:00",
+			"url": "https://micro.mjdescy.me/2018/03/10/145538.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/09/i-have-become.html",
+	      	
+			"content_text": "🎵 I have become a huge Lana Del Rey fan...",
+			"date_published": "2018-03-09T16:59:23-05:00",
+			"url": "https://micro.mjdescy.me/2018/03/09/i-have-become.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/09/040729.html",
+	      	
+			"content_text": "Blog post: SwiftoDo Development Notes, March 2018\n",
+			"date_published": "2018-03-08T23:07:29-05:00",
+			"url": "https://micro.mjdescy.me/2018/03/08/040729.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/09/based-on-the.html",
+	      	
+			"content_text": "Based on the MacBook Pro keyboard-related gripes of Daniel Jalkut...",
+			"date_published": "2018-03-08T21:55:47-05:00",
+			"url": "https://micro.mjdescy.me/2018/03/08/based-on-the.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/09/004415.html",
+	      	
+			"content_text": "🎵 “If I had my time again” is my favorite...",
+			"date_published": "2018-03-08T19:44:15-05:00",
+			"url": "https://micro.mjdescy.me/2018/03/08/004415.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/08/swiftodo-httpsswiftodoappcom-is.html",
+	      	
+			"content_text": "SwiftoDo 2.9.2 is now available in the App Store. It...",
+			"date_published": "2018-03-08T09:50:23-05:00",
+			"url": "https://micro.mjdescy.me/2018/03/08/swiftodo-httpsswiftodoappcom-is.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/07/thundersnow.html",
+	      	
+			"content_text": "Thundersnow!\n\n\n",
+			"date_published": "2018-03-07T14:33:53-05:00",
+			"url": "https://micro.mjdescy.me/2018/03/07/thundersnow.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/07/judging-by-the.html",
+	      	
+			"content_text": "Judging by the nearly mashed-up news headlines, I think that...",
+			"date_published": "2018-03-07T09:34:57-05:00",
+			"url": "https://micro.mjdescy.me/2018/03/07/judging-by-the.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/07/swift-multithreading-closures.html",
+	      	
+			"content_text": "Swift, multi-threading, closures, callbacks, and UI-blocking alert controllers are colliding...",
+			"date_published": "2018-03-06T21:20:25-05:00",
+			"url": "https://micro.mjdescy.me/2018/03/06/swift-multithreading-closures.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/05/google-voices-voicemail.html",
+	      	
+			"content_text": "Google Voice’s voicemail transcriptions can be chilling sometimes.\n\n\n",
+			"date_published": "2018-03-05T10:51:02-05:00",
+			"url": "https://micro.mjdescy.me/2018/03/05/google-voices-voicemail.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/05/i-have-to.html",
+	      	
+			"content_text": "I have to create dozens of Active Directory user accounts...",
+			"date_published": "2018-03-05T09:52:45-05:00",
+			"url": "https://micro.mjdescy.me/2018/03/05/i-have-to.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/05/my-daughter-has.html",
+	      	
+			"content_text": "My daughter has trouble falling asleep. This past week she...",
+			"date_published": "2018-03-04T21:36:45-05:00",
+			"url": "https://micro.mjdescy.me/2018/03/04/my-daughter-has.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/03/hi-orionphttpsmicroblogorionp-i.html",
+	      	
+			"content_text": "Hi, @orionp. I heard your interview on The Omni Show....",
+			"date_published": "2018-03-03T12:01:05-05:00",
+			"url": "https://micro.mjdescy.me/2018/03/03/hi-orionphttpsmicroblogorionp-i.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/03/we-all-survived.html",
+	      	
+			"content_text": "We all survived the six hour blackout tonight. It was...",
+			"date_published": "2018-03-02T22:00:07-05:00",
+			"url": "https://micro.mjdescy.me/2018/03/02/we-all-survived.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/01/i-actually-solved.html",
+	      	
+			"content_text": "I actually solved a user’s problem with my iOS app...",
+			"date_published": "2018-03-01T15:50:52-05:00",
+			"url": "https://micro.mjdescy.me/2018/03/01/i-actually-solved.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/01/swiftodohttpsswiftodoappcom-is-now.html",
+	      	
+			"content_text": "SwiftoDo 2.9.1 is now available in the App Store. It...",
+			"date_published": "2018-02-28T21:21:16-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/28/swiftodohttpsswiftodoappcom-is-now.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/28/this-is-the.html",
+	      	
+			"content_text": "This is the best explanation I’ve found for why Excel...",
+			"date_published": "2018-02-28T10:56:31-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/28/this-is-the.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/28/the-lighttodark-progression.html",
+	      	
+			"content_text": "The light-to-dark progression in my app screenshots is oddly satisfying...",
+			"date_published": "2018-02-27T22:27:39-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/27/the-lighttodark-progression.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/28/this-article-about.html",
+	      	
+			"content_text": "This article about “Jane Walker” scotch is hilarious. As ham-handed...",
+			"date_published": "2018-02-27T21:45:58-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/27/this-article-about.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/27/my-daughter-is.html",
+	      	
+			"content_text": "My daughter is far more excited than is absolutely necessary...",
+			"date_published": "2018-02-27T11:07:35-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/27/my-daughter-is.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/27/if-i-had.html",
+	      	
+			"content_text": "If I had my gumption, I would convert SwiftoDo to...",
+			"date_published": "2018-02-26T23:21:12-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/26/if-i-had.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/27/015820.html",
+	      	
+			"content_text": "SwiftoDo 2.9.0 is now available in the App Store. It...",
+			"date_published": "2018-02-26T20:58:20-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/26/015820.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/26/here-we-go.html",
+	      	
+			"content_text": "Here we go again!\n\n\n",
+			"date_published": "2018-02-25T23:11:50-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/25/here-we-go.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/26/dear-apple-i.html",
+	      	
+			"content_text": "Dear Apple: I do not want to upload 10 screenshots....",
+			"date_published": "2018-02-25T22:41:09-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/25/dear-apple-i.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/26/i-finally-got.html",
+	      	
+			"content_text": "I finally got my app to crash tonight…and that’s actually...",
+			"date_published": "2018-02-25T21:27:30-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/25/i-finally-got.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/25/saturday-has-become.html",
+	      	
+			"content_text": "Saturday has become my day to eat way too much...",
+			"date_published": "2018-02-24T21:33:02-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/24/saturday-has-become.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/24/today-i-am.html",
+	      	
+			"content_text": "Today I am grateful for Spring Training and the return...",
+			"date_published": "2018-02-23T20:08:26-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/23/today-i-am.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/23/swiftodohttpsswiftodoappcom-is-now.html",
+	      	
+			"content_text": "SwiftoDo 2.8.1 is now available in the App Store. It...",
+			"date_published": "2018-02-23T09:07:14-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/23/swiftodohttpsswiftodoappcom-is-now.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/23/i-would-never.html",
+	      	
+			"content_text": "I would never replace my AirPods with the new ones...",
+			"date_published": "2018-02-22T23:41:40-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/22/i-would-never.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/23/altos-odyssey-has.html",
+	      	
+			"content_text": "Alto’s Odyssey has, predictably, lowered my productivity the past two...",
+			"date_published": "2018-02-22T23:34:37-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/22/altos-odyssey-has.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/22/i-learned-of.html",
+	      	
+			"content_text": "I learned of a service that makes RSS feeds out...",
+			"date_published": "2018-02-21T22:27:08-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/21/i-learned-of.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/21/the-weather-was.html",
+	      	
+			"content_text": "The weather was unusually warm today. I spent some of...",
+			"date_published": "2018-02-21T17:28:23-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/21/the-weather-was.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/21/current-mood.html",
+	      	
+			"content_text": "Current mood.\n\n\n",
+			"date_published": "2018-02-21T12:04:47-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/21/current-mood.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/21/im-coding-a.html",
+	      	
+			"content_text": "I’m coding a nice new feature for SwiftoDo tonight. Hopefully...",
+			"date_published": "2018-02-20T23:37:44-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/20/im-coding-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/20/i-finally-installed.html",
+	      	
+			"content_text": "🚀 I finally installed Rocket on my Mac. It’s a...",
+			"date_published": "2018-02-19T23:45:59-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/19/i-finally-installed.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/19/this-weeks-episodehttpsovercastfmbncvjbhe.html",
+	      	
+			"content_text": "🎙 This week’s episode had me Googling for ‘longest episode...",
+			"date_published": "2018-02-19T13:53:56-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/19/this-weeks-episodehttpsovercastfmbncvjbhe.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/19/blog-post-abc.html",
+	      	
+			"content_text": "Blog post: A/B/C testing: “August and Everything After”, in 24-bit,...",
+			"date_published": "2018-02-19T08:59:00-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/19/blog-post-abc.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/18/if-you-like.html",
+	      	
+			"content_text": "🎵 If you like The Weakerthans as much as I...",
+			"date_published": "2018-02-17T23:46:03-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/17/if-you-like.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/18/we-had-an.html",
+	      	
+			"content_text": "We had an enormous house party today. It was a...",
+			"date_published": "2018-02-17T19:48:49-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/17/we-had-an.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/17/i-saw-thor.html",
+	      	
+			"content_text": "🎬 I saw “Thor: Ragnarok” today and thoroughly enjoyed it....",
+			"date_published": "2018-02-16T22:20:57-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/16/i-saw-thor.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/17/another-swiftodo-update.html",
+	      	
+			"content_text": "Another SwiftoDo update will come at the end of next...",
+			"date_published": "2018-02-16T21:35:39-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/16/another-swiftodo-update.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/16/swiftodo-is-now.html",
+	      	
+			"content_text": "SwiftoDo 2.8.0 is now available in the App Store. It...",
+			"date_published": "2018-02-16T12:13:50-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/16/swiftodo-is-now.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/15/i-am-listening.html",
+	      	
+			"content_text": "I am listening to music from my MacBook Pro today,...",
+			"date_published": "2018-02-15T14:20:44-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/15/i-am-listening.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/15/adding-my-nest.html",
+	      	
+			"content_text": "Adding my Nest thermostat to HomeKit via HomeBridge has made...",
+			"date_published": "2018-02-15T10:09:06-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/15/adding-my-nest.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/15/i-downloaded-visual.html",
+	      	
+			"content_text": "I downloaded Visual Studio Code on my Windows work machine...",
+			"date_published": "2018-02-14T20:20:59-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/14/i-downloaded-visual.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/15/my-wife-baked.html",
+	      	
+			"content_text": "My wife baked a delicious Valentine’s Day treat. ❤️😄\n\n\n",
+			"date_published": "2018-02-14T19:44:07-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/14/my-wife-baked.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/14/blog-post-my.html",
+	      	
+			"content_text": "Blog post: My Slide into Audiophile Territory, Part 1\n",
+			"date_published": "2018-02-14T09:25:05-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/14/blog-post-my.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/14/tonight-i-set.html",
+	      	
+			"content_text": "Tonight I set up HomeBridge on an otherwise unused Raspberry...",
+			"date_published": "2018-02-13T23:49:03-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/13/tonight-i-set.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/13/if-apple-really.html",
+	      	
+			"content_text": "If Apple really is slowing down and fixing bugs, rather...",
+			"date_published": "2018-02-13T09:37:14-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/13/if-apple-really.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/13/im-coding-a.html",
+	      	
+			"content_text": "I’m coding a user-requested feature this evening. I started really...",
+			"date_published": "2018-02-12T23:49:04-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/12/im-coding-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/12/i-may-be.html",
+	      	
+			"content_text": "I may be helping out my employer with podcasting in...",
+			"date_published": "2018-02-12T13:10:19-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/12/i-may-be.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/12/its-monday-morning.html",
+	      	
+			"content_text": "🎙 It’s Monday morning, so I am listening to “This...",
+			"date_published": "2018-02-12T09:49:21-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/12/its-monday-morning.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/12/i-just-preordered.html",
+	      	
+			"content_text": "I just pre-ordered Alto’s Odyssey even though I think preordering...",
+			"date_published": "2018-02-12T00:06:29-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/12/i-just-preordered.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/12/i-dont-watch.html",
+	      	
+			"content_text": "I don’t watch the Winter Olympics. It is not for...",
+			"date_published": "2018-02-11T23:25:01-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/11/i-dont-watch.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/11/my-wife-daughter.html",
+	      	
+			"content_text": "My wife, daughter, and I enjoyed the Purim-related children’s activities...",
+			"date_published": "2018-02-11T13:16:36-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/11/my-wife-daughter.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/11/im-thinking-about.html",
+	      	
+			"content_text": "I’m thinking about writing a series of blog posts about...",
+			"date_published": "2018-02-10T19:41:17-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/10/im-thinking-about.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/10/looking-forward-to.html",
+	      	
+			"content_text": "Looking forward to seeing Roger’s &amp; Hammerstein’s “Cinderella” soon. I...",
+			"date_published": "2018-02-10T13:47:56-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/10/looking-forward-to.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/10/blog-post-strategies.html",
+	      	
+			"content_text": "Blog post*: Strategies to increase diversity on Micro.blog *(repost because...",
+			"date_published": "2018-02-09T21:20:08-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/09/blog-post-strategies.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/09/swiftodo-is-now.html",
+	      	
+			"content_text": "SwiftoDo 2.7.2 is now available in the App Store. It...",
+			"date_published": "2018-02-09T16:53:54-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/09/swiftodo-is-now.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/09/replacing-keyboard-with.html",
+	      	
+			"content_text": "Replacing “Keyboard-“ with the keyboard emoji (⌨️) solves a minor...",
+			"date_published": "2018-02-09T09:38:19-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/09/replacing-keyboard-with.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/09/blog-post-swiftodo.html",
+	      	
+			"content_text": "Blog post: SwiftoDo Developer Notes, February 2018\n",
+			"date_published": "2018-02-09T09:17:59-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/09/blog-post-swiftodo.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/09/i-have-finally.html",
+	      	
+			"content_text": "I have finally switched over from Drafts 4 to Drafts...",
+			"date_published": "2018-02-08T20:54:57-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/08/i-have-finally.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/08/my-wife-inspired.html",
+	      	
+			"content_text": "My wife inspired me to cook apple &amp; sweet potato...",
+			"date_published": "2018-02-08T18:00:54-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/08/my-wife-inspired.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/08/im-on-hour.html",
+	      	
+			"content_text": "I’m on hour 7 of writing data database loading routines....",
+			"date_published": "2018-02-08T16:08:50-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/08/im-on-hour.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/08/in-high-school.html",
+	      	
+			"content_text": "🎵 In high school and college, I used to measure...",
+			"date_published": "2018-02-08T09:41:39-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/08/in-high-school.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/08/uitableview-moverowat-indexpath.html",
+	      	
+			"content_text": "UITableView moveRow(at: IndexPath, to: IndexPath) works differently when tableView.dragInteractionEnabled =...",
+			"date_published": "2018-02-07T21:45:35-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/07/uitableview-moverowat-indexpath.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/07/i-have-fallen.html",
+	      	
+			"content_text": "🎤 I have fallen 15 episodes behind in my “Security...",
+			"date_published": "2018-02-07T10:52:24-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/07/i-have-fallen.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/07/after-reading-all.html",
+	      	
+			"content_text": "After reading all the reviews, (like this one) I really...",
+			"date_published": "2018-02-06T21:22:44-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/06/after-reading-all.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/06/today-at-work.html",
+	      	
+			"content_text": "Today at work I thought: “I wish I was better...",
+			"date_published": "2018-02-06T17:19:52-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/06/today-at-work.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/06/on-my-lunch.html",
+	      	
+			"content_text": "On my lunch break I submitted a new build of...",
+			"date_published": "2018-02-06T13:51:05-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/06/on-my-lunch.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/06/work-today-is.html",
+	      	
+			"content_text": "Work today is more about juggling priorities than anything else:...",
+			"date_published": "2018-02-06T10:51:23-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/06/work-today-is.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/06/i-have-been.html",
+	      	
+			"content_text": "I have been enjoying the Roughly app’s complication (on the...",
+			"date_published": "2018-02-05T21:48:57-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/05/i-have-been.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/05/fact-decaf-coffee.html",
+	      	
+			"content_text": "Fact: Decaf coffee does not count as real coffee!\n",
+			"date_published": "2018-02-05T18:47:13-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/05/fact-decaf-coffee.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/05/goal-for-the.html",
+	      	
+			"content_text": "Goal #1 for the week: Reduce coffee consumption to one...",
+			"date_published": "2018-02-05T11:07:30-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/05/goal-for-the.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/04/my-super-bowl.html",
+	      	
+			"content_text": "🏈 My Super Bowl menu: sirloin steak, caramelized onions, garden...",
+			"date_published": "2018-02-04T11:42:21-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/04/my-super-bowl.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/04/i-am-excited.html",
+	      	
+			"content_text": "🏈 I am excited about the Super Bowl but I...",
+			"date_published": "2018-02-04T11:04:14-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/04/i-am-excited.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/04/aint-misbehavin-at.html",
+	      	
+			"content_text": "Ain’t Misbehavin’ at NJPAC was absolutely wonderful tonight. The performers...",
+			"date_published": "2018-02-03T23:31:55-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/03/aint-misbehavin-at.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/03/im-not-sure.html",
+	      	
+			"content_text": "I’m not sure what the biggest headache was for me...",
+			"date_published": "2018-02-03T16:04:25-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/03/im-not-sure.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/03/i-realized-recently.html",
+	      	
+			"content_text": "I realized recently that Google’s killing of Google Reader made...",
+			"date_published": "2018-02-02T23:33:02-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/02/i-realized-recently.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/02/swiftodo-is-now.html",
+	      	
+			"content_text": "SwiftoDo 2.7.1 is now available in the App Store. It...",
+			"date_published": "2018-02-02T14:44:53-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/02/swiftodo-is-now.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/02/based-on-my.html",
+	      	
+			"content_text": "Based on my podcast listening for the week, I’ve concluded...",
+			"date_published": "2018-02-02T11:34:09-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/02/based-on-my.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/02/ive-got-a.html",
+	      	
+			"content_text": "I’ve got a couple releases lined up for my iOS...",
+			"date_published": "2018-02-01T22:39:57-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/01/ive-got-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/01/im-thoroughly-enjoying.html",
+	      	
+			"content_text": "I’m thoroughly enjoying Matt Birchler’s “HomePod Testing” playlist on Apple...",
+			"date_published": "2018-02-01T11:04:52-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/01/im-thoroughly-enjoying.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/01/i-spent-my.html",
+	      	
+			"content_text": "I spent my evening figuring out how to transfer an...",
+			"date_published": "2018-01-31T22:58:40-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/31/i-spent-my.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/31/the-program-i.html",
+	      	
+			"content_text": "The program I wrote yesterday has been running, with no...",
+			"date_published": "2018-01-31T08:16:50-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/31/the-program-i.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/30/it-looks-like.html",
+	      	
+			"content_text": "It looks like I will be working overtime this week....",
+			"date_published": "2018-01-30T17:09:41-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/30/it-looks-like.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/30/im-coding-something.html",
+	      	
+			"content_text": "I’m coding something new for work today, mostly because ACL...",
+			"date_published": "2018-01-30T12:58:16-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/30/im-coding-something.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/30/every-font-on.html",
+	      	
+			"content_text": "Every font on all my devices somehow looks different to...",
+			"date_published": "2018-01-29T22:09:53-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/29/every-font-on.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/29/today-was-unexpectedly.html",
+	      	
+			"content_text": "Today was unexpectedly full of proposal work for me. I...",
+			"date_published": "2018-01-29T18:58:27-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/29/today-was-unexpectedly.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/29/the-new-york.html",
+	      	
+			"content_text": "The New York Times crossword puzzle app and, of course,...",
+			"date_published": "2018-01-28T21:11:42-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/28/the-new-york.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/28/i-really-liked.html",
+	      	
+			"content_text": "I really liked this back-to-basics post by John Sundell about...",
+			"date_published": "2018-01-28T15:09:50-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/28/i-really-liked.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/28/swiftodo-is-now.html",
+	      	
+			"content_text": "SwiftoDo 2.7.0 is now available in the App Store. It...",
+			"date_published": "2018-01-27T22:09:36-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/27/swiftodo-is-now.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/27/f-and-mph.html",
+	      	
+			"content_text": "60° F and 20 MPH winds have made it both...",
+			"date_published": "2018-01-27T15:26:50-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/27/f-and-mph.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/27/i-submitted-swiftodohttpsswiftodoappcom.html",
+	      	
+			"content_text": "I submitted SwiftoDo 2.7.0 to the App Store earlier today,...",
+			"date_published": "2018-01-26T23:22:23-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/26/i-submitted-swiftodohttpsswiftodoappcom.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/27/i-am-too.html",
+	      	
+			"content_text": "I am too busy coding tonight to order a HomePod....",
+			"date_published": "2018-01-26T21:59:02-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/26/i-am-too.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/26/i-did-some.html",
+	      	
+			"content_text": "I did some complicated sampling today. ACL’s new APPEND command...",
+			"date_published": "2018-01-26T14:28:17-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/26/i-did-some.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/26/i-diagnosed-and.html",
+	      	
+			"content_text": "I diagnosed and fixed a memory leak in my iOS...",
+			"date_published": "2018-01-25T23:37:34-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/25/i-diagnosed-and.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/25/i-resumed-reading.html",
+	      	
+			"content_text": "📚 I resumed reading Team of Rivals: The Political Genius...",
+			"date_published": "2018-01-25T16:47:45-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/25/i-resumed-reading.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/25/im-back-to.html",
+	      	
+			"content_text": "I’m back to Access database work today. It looks like...",
+			"date_published": "2018-01-25T09:32:18-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/25/im-back-to.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/24/im-heading-home.html",
+	      	
+			"content_text": "I’m heading home after two good, productive, and ultimately exhausting...",
+			"date_published": "2018-01-24T18:47:35-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/24/im-heading-home.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/24/we-had-a.html",
+	      	
+			"content_text": "We had a nice team dinner at Aldo’s in Baltimore...",
+			"date_published": "2018-01-24T08:17:50-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/24/we-had-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/24/i-was-not.html",
+	      	
+			"content_text": "I was not thrilled that today’s New York Times mini...",
+			"date_published": "2018-01-23T21:51:52-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/23/i-was-not.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/24/people-on-reddit.html",
+	      	
+			"content_text": "People on Reddit are bitching tonight about Apple’s “bug fixes...",
+			"date_published": "2018-01-23T21:45:07-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/23/people-on-reddit.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/23/im-heading-out.html",
+	      	
+			"content_text": "I’m heading out for a team dinner. Maybe I should...",
+			"date_published": "2018-01-23T17:17:12-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/23/im-heading-out.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/23/oh-thank-goodness.html",
+	      	
+			"content_text": "Oh, thank goodness for ☕️. I’ve got 15 minutes to...",
+			"date_published": "2018-01-23T08:18:13-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/23/oh-thank-goodness.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/23/baltimores-inner-harbor.html",
+	      	
+			"content_text": "Baltimore’s Inner Harbor is nice. I’m glad I recognize the...",
+			"date_published": "2018-01-22T23:12:45-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/22/baltimores-inner-harbor.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/23/im-on-my.html",
+	      	
+			"content_text": "I’m on my first Amtrak ride in about five years....",
+			"date_published": "2018-01-22T19:41:19-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/22/im-on-my.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/22/im-all-packed.html",
+	      	
+			"content_text": "I’m all packed for my business trip to training in...",
+			"date_published": "2018-01-22T16:46:37-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/22/im-all-packed.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/22/we-had-a.html",
+	      	
+			"content_text": "We had a fun weekend, full of seeing actual people,...",
+			"date_published": "2018-01-21T22:08:30-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/21/we-had-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/22/am-i-the.html",
+	      	
+			"content_text": "Am I the only one who kept thinking “Jake Jortles”*...",
+			"date_published": "2018-01-21T19:43:13-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/21/am-i-the.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/21/cleaning-the-house.html",
+	      	
+			"content_text": "Cleaning the house for a 2-hour play date is very...",
+			"date_published": "2018-01-21T10:54:41-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/21/cleaning-the-house.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/20/i-drew-and.html",
+	      	
+			"content_text": "I drew and colored this under the expert tutelage of...",
+			"date_published": "2018-01-20T14:52:17-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/20/i-drew-and.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/20/this-afternoons-docket.html",
+	      	
+			"content_text": "This afternoon’s docket for my family includes lunch with the...",
+			"date_published": "2018-01-20T11:33:03-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/20/this-afternoons-docket.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/20/is-it-awful.html",
+	      	
+			"content_text": "Is it awful that I kind of want a HomePod?...",
+			"date_published": "2018-01-20T00:11:11-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/20/is-it-awful.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/20/i-made-another.html",
+	      	
+			"content_text": "I made another change to SwiftoDo to help a user...",
+			"date_published": "2018-01-19T22:16:27-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/19/i-made-another.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/20/good-news-i.html",
+	      	
+			"content_text": "Good news! I can hear as well as I ought...",
+			"date_published": "2018-01-19T19:08:37-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/19/good-news-i.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/19/for-some-reason.html",
+	      	
+			"content_text": "For some reason I am really nervous about my ENT...",
+			"date_published": "2018-01-19T11:18:19-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/19/for-some-reason.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/19/i-brought-my.html",
+	      	
+			"content_text": "I brought my daughter out to the school bus today,...",
+			"date_published": "2018-01-19T09:08:34-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/19/i-brought-my.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/19/i-pulled-a.html",
+	      	
+			"content_text": "I pulled a bunch of samples in ACL today for...",
+			"date_published": "2018-01-18T19:55:11-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/18/i-pulled-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/18/unpopular-opinion-calendars.html",
+	      	
+			"content_text": "Unpopular opinion: Calendars 5 is better than Fantastical. I have...",
+			"date_published": "2018-01-18T10:15:51-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/18/unpopular-opinion-calendars.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/18/im-adding-some.html",
+	      	
+			"content_text": "I’m adding some very basic URL handling support to SwiftoDo...",
+			"date_published": "2018-01-17T22:45:46-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/17/im-adding-some.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/17/swiftodo-is-now.html",
+	      	
+			"content_text": "SwiftoDo 2.6.3 is now available in the App Store 📱....",
+			"date_published": "2018-01-17T15:01:53-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/17/swiftodo-is-now.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/17/blog-post-eye.html",
+	      	
+			"content_text": "Blog post: Eye round roast recipe\n\n\n",
+			"date_published": "2018-01-16T23:14:15-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/16/blog-post-eye.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/17/i-resubmitted-swiftodohttpswiftodoappcom.html",
+	      	
+			"content_text": "I resubmitted SwiftoDo 2.6.3 to the App Store after several...",
+			"date_published": "2018-01-16T22:36:18-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/16/i-resubmitted-swiftodohttpswiftodoappcom.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/16/slate-pushed-a.html",
+	      	
+			"content_text": "Slate pushed a redesign today. I used to love Slate,...",
+			"date_published": "2018-01-16T09:59:01-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/16/slate-pushed-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/16/blog-post-chicken.html",
+	      	
+			"content_text": "Blog post: Chicken sausage and escarole soup recipe\n\n\n",
+			"date_published": "2018-01-15T23:53:50-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/15/blog-post-chicken.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/16/my-wifes-and.html",
+	      	
+			"content_text": "My wife’s and daughter’s strawberry swirl mini muffins turned out...",
+			"date_published": "2018-01-15T21:32:43-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/15/my-wifes-and.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/15/its-a-speed.html",
+	      	
+			"content_text": "It’s a speed run in our kitchen tonight. My wife...",
+			"date_published": "2018-01-15T18:53:14-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/15/its-a-speed.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/15/micro-monday-the.html",
+	      	
+			"content_text": "Micro Monday: The “🙌 likes” that @eli shares are a...",
+			"date_published": "2018-01-15T18:46:00-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/15/micro-monday-the.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/15/its-a-quiet.html",
+	      	
+			"content_text": "It’s a quiet workday. I am coding and debugging in...",
+			"date_published": "2018-01-15T15:26:36-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/15/its-a-quiet.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/15/we-had-a.html",
+	      	
+			"content_text": "We had a good friend over for dinner tonight, which...",
+			"date_published": "2018-01-14T22:01:37-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/14/we-had-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/15/this-eye-round.html",
+	      	
+			"content_text": "This eye round roast came out magnificently, too. Am I...",
+			"date_published": "2018-01-14T19:58:17-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/14/this-eye-round.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/14/my-chicken-sausage.html",
+	      	
+			"content_text": "My chicken sausage escarole soup came out so delicious that...",
+			"date_published": "2018-01-14T14:11:58-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/14/my-chicken-sausage.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/14/what-a-clinic.html",
+	      	
+			"content_text": "What a clinic the Patriots ran against the Titans tonight....",
+			"date_published": "2018-01-13T23:48:23-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/13/what-a-clinic.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/14/the-crayola-experience.html",
+	      	
+			"content_text": "The Crayola Experience was…OK, I guess. My daughter said she...",
+			"date_published": "2018-01-13T20:44:18-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/13/the-crayola-experience.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/13/its-a-road.html",
+	      	
+			"content_text": "It’s a road trip day for me and my family....",
+			"date_published": "2018-01-13T09:58:29-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/13/its-a-road.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/13/in-my-s.html",
+	      	
+			"content_text": "In my 20s I only drank Manhattans straight up. Now,...",
+			"date_published": "2018-01-12T21:09:38-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/12/in-my-s.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/12/every-few-days.html",
+	      	
+			"content_text": "Every few days I have to talk myself out of...",
+			"date_published": "2018-01-12T16:25:34-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/12/every-few-days.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/12/the-budget-i.html",
+	      	
+			"content_text": "The budget I was working on is complete, and soup...",
+			"date_published": "2018-01-12T13:35:50-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/12/the-budget-i.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/12/i-think-it.html",
+	      	
+			"content_text": "I think it is really cool how many people are...",
+			"date_published": "2018-01-11T21:10:11-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/11/i-think-it.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/11/i-feel-like.html",
+	      	
+			"content_text": "I feel like I’ve been editing and formatting this Excel...",
+			"date_published": "2018-01-11T16:40:51-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/11/i-feel-like.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/11/when-i-woke.html",
+	      	
+			"content_text": "When I woke up today, the TestFlight version of the...",
+			"date_published": "2018-01-11T10:46:02-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/11/when-i-woke.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/10/i-submitted-a.html",
+	      	
+			"content_text": "I submitted a new SwiftoDo build to the App Store...",
+			"date_published": "2018-01-10T17:06:11-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/10/i-submitted-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/10/the-performance-enhancements.html",
+	      	
+			"content_text": "The performance enhancements I coded for SwiftoDo this week required...",
+			"date_published": "2018-01-10T10:20:27-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/10/the-performance-enhancements.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/09/ready-player-one.html",
+	      	
+			"title": "Ready Player One",
+			
+			"content_text": "I just finished Ready Player One by Ernest Cline 📚...",
+			"date_published": "2018-01-09T18:42:37-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/09/ready-player-one.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/09/the-dining-room.html",
+	      	
+			"content_text": "The dining room is looking better now, too. I can’t...",
+			"date_published": "2018-01-09T12:01:38-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/09/the-dining-room.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/09/blog-post-plaintext.html",
+	      	
+			"content_text": "Blog post: Plaintext Productivity: Still productive after all these years,...",
+			"date_published": "2018-01-09T07:53:13-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/09/blog-post-plaintext.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/09/for-micro-monday.html",
+	      	
+			"content_text": "For Micro Monday, I want to recommend @gio. I love...",
+			"date_published": "2018-01-08T19:03:02-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/08/for-micro-monday.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/08/i-posted-some.html",
+	      	
+			"content_text": "I posted some photos I took in my son’s room....",
+			"date_published": "2018-01-08T17:34:52-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/08/i-posted-some.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/08/i-am-righting.html",
+	      	
+			"content_text": "I am righting the ship, compared to this morning. I...",
+			"date_published": "2018-01-08T15:34:16-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/08/i-am-righting.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/08/i-am-getting.html",
+	      	
+			"content_text": "I am getting that sinking feeling again that I have...",
+			"date_published": "2018-01-08T10:07:34-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/08/i-am-getting.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/07/i-am-lazily.html",
+	      	
+			"content_text": "I am lazily cooking salsa chicken thighs for either lunch...",
+			"date_published": "2018-01-07T11:40:31-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/07/i-am-lazily.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/07/tonight-i-made.html",
+	      	
+			"content_text": "Tonight I made my first commit to SwiftoDo since mid-December....",
+			"date_published": "2018-01-06T23:56:35-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/06/tonight-i-made.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/07/my-wife-and.html",
+	      	
+			"content_text": "My wife and I took my 5 year old daughter...",
+			"date_published": "2018-01-06T20:10:11-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/06/my-wife-and.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/06/i-dont-even.html",
+	      	
+			"content_text": "I don’t even wish I was actually this good at...",
+			"date_published": "2018-01-06T08:34:37-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/06/i-dont-even.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/05/my-prediction-for.html",
+	      	
+			"content_text": "My prediction for “The Good Place” series finale (which hopefully...",
+			"date_published": "2018-01-05T16:47:09-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/05/my-prediction-for.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/05/in.html",
+	      	
+			"content_text": "Here are my top three divergent punctuation preferences, compared to...",
+			"date_published": "2018-01-05T10:44:37-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/05/in.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/05/i-happened-slowly.html",
+	      	
+			"content_text": "It happened slowly, but preferred music playback device size and...",
+			"date_published": "2018-01-05T09:09:09-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/05/i-happened-slowly.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/05/my-wife-and.html",
+	      	
+			"content_text": "My wife and I are really enjoying “The Great British...",
+			"date_published": "2018-01-04T23:38:39-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/04/my-wife-and.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/04/dear-apple-music.html",
+	      	
+			"content_text": "Dear Apple Music: Just because I listened to Sixpence Non...",
+			"date_published": "2018-01-04T14:45:08-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/04/dear-apple-music.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/04/so-far-the.html",
+	      	
+			"content_text": "So far the snowfall hasn’t been so bad—only a few...",
+			"date_published": "2018-01-04T10:16:32-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/04/so-far-the.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/04/blog-post-picking.html",
+	      	
+			"content_text": "Blog post: Picking a great writing font. Do you like...",
+			"date_published": "2018-01-04T00:05:20-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/04/blog-post-picking.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/04/i-hope-i.html",
+	      	
+			"content_text": "I hope I set up mirroring to GitHub correctly. It...",
+			"date_published": "2018-01-03T22:31:54-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/03/i-hope-i.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/04/we-are-bracing.html",
+	      	
+			"content_text": "We are bracing for a blizzard tonight, which is expected...",
+			"date_published": "2018-01-03T21:35:25-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/03/we-are-bracing.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/03/it-looks-like.html",
+	      	
+			"content_text": "It looks like I will be doing some C# coding...",
+			"date_published": "2018-01-03T11:08:31-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/03/it-looks-like.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/03/i-like-tweetbothttpstapbotscomtweetbot.html",
+	      	
+			"content_text": "I like TweetBot a lot more than I like Twitter....",
+			"date_published": "2018-01-02T23:35:55-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/02/i-like-tweetbothttpstapbotscomtweetbot.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/02/it-must-be.html",
+	      	
+			"content_text": "It must be January 2, because I just created a...",
+			"date_published": "2018-01-02T13:21:13-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/02/it-must-be.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/02/its-back-to.html",
+	      	
+			"content_text": "It’s back to work for me today, and I a...",
+			"date_published": "2018-01-02T10:11:32-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/02/its-back-to.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/02/blog-post-things.html",
+	      	
+			"content_text": "Blog post: Things I wish I could stop doing, but...",
+			"date_published": "2018-01-01T23:16:01-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/01/blog-post-things.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/02/i-cooked-a.html",
+	      	
+			"content_text": "I cooked a New Years Day feast for my family...",
+			"date_published": "2018-01-01T19:43:22-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/01/i-cooked-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/01/reading-peoples-new.html",
+	      	
+			"content_text": "Reading people’s New Years Day posts has been both electrifying...",
+			"date_published": "2018-01-01T14:35:49-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/01/reading-peoples-new.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/01/we-are-at.html",
+	      	
+			"content_text": "We are at my neighbors’ house for a simulated 7:30...",
+			"date_published": "2017-12-31T19:04:56-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/31/we-are-at.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/31/my-daughters-cookie.html",
+	      	
+			"content_text": "My daughter’s cookie decorating skills are advancing! I’m so proud...",
+			"date_published": "2017-12-31T11:56:28-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/31/my-daughters-cookie.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/31/blog-post-top.html",
+	      	
+			"content_text": "Blog post: Top posts of 2017, and some year-end thoughts...",
+			"date_published": "2017-12-30T23:13:28-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/30/blog-post-top.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/31/i-dont-love.html",
+	      	
+			"content_text": "I don’t love how en-dashes (–) and em-dashes (—) look...",
+			"date_published": "2017-12-30T22:37:56-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/30/i-dont-love.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/30/it-was-a.html",
+	      	
+			"content_text": "It was a really close game!\n\n\n",
+			"date_published": "2017-12-30T10:10:36-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/30/it-was-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/29/im-demoting-tweetbot.html",
+	      	
+			"content_text": "I’m demoting TweetBot to page 3 of Spingboard. I’m not...",
+			"date_published": "2017-12-29T14:05:20-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/29/im-demoting-tweetbot.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/29/001906.html",
+	      	
+			"content_text": "This article is the best thing I’ve ever read about...",
+			"date_published": "2017-12-28T19:19:06-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/28/001906.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/28/ready-player-one.html",
+	      	
+			"content_text": "“Ready Player One” looks promising. I’m one chapter in, and...",
+			"date_published": "2017-12-28T14:07:33-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/28/ready-player-one.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/28/the-news-cycle.html",
+	      	
+			"content_text": "The 2017 news cycle has worn me out. I am...",
+			"date_published": "2017-12-28T13:41:54-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/28/the-news-cycle.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/28/i-am-vacillating.html",
+	      	
+			"content_text": "I am vacillating between being lazy and productive today. It...",
+			"date_published": "2017-12-28T11:09:36-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/28/i-am-vacillating.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/28/i-am-finally.html",
+	      	
+			"content_text": "I am finally seeing “The Last Jedi” tonight. Hope it...",
+			"date_published": "2017-12-27T19:02:46-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/27/i-am-finally.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/27/after-an-eventful.html",
+	      	
+			"content_text": "After an eventful trip to see family, we are back...",
+			"date_published": "2017-12-27T11:07:08-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/27/after-an-eventful.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/26/and-when-they.html",
+	      	
+			"content_text": "And when they say that all is lost All is...",
+			"date_published": "2017-12-25T20:40:36-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/25/and-when-they.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/25/merry-christmas-everyone.html",
+	      	
+			"content_text": "Merry Christmas everyone!\n",
+			"date_published": "2017-12-25T13:02:47-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/25/merry-christmas-everyone.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/24/we-are-heading.html",
+	      	
+			"content_text": "We are heading off to see family for Christmas today....",
+			"date_published": "2017-12-24T10:42:30-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/24/we-are-heading.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/24/i-made-banana.html",
+	      	
+			"content_text": "I made banana bread, too.\n\n\n",
+			"date_published": "2017-12-23T19:50:40-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/23/i-made-banana.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/23/i-baked-snickerdoodles.html",
+	      	
+			"content_text": "I baked Snickerdoodles for the family today. They are really,...",
+			"date_published": "2017-12-23T14:16:46-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/23/i-baked-snickerdoodles.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/23/i-bought-castro.html",
+	      	
+			"content_text": "I bought Castro 2 this week because I like the...",
+			"date_published": "2017-12-23T10:01:25-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/23/i-bought-castro.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/23/i-made-a.html",
+	      	
+			"content_text": "I made a batch of Christmas cookies tonight with my...",
+			"date_published": "2017-12-22T19:09:05-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/22/i-made-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/22/a-long-lunch.html",
+	      	
+			"content_text": "A long lunch with the family was a great way...",
+			"date_published": "2017-12-22T14:18:23-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/22/a-long-lunch.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/22/so-much-of.html",
+	      	
+			"content_text": "So much of all programming, and really all work in...",
+			"date_published": "2017-12-22T11:16:00-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/22/so-much-of.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/22/i-am-up.html",
+	      	
+			"content_text": "I am up too late. What exactly is happening right...",
+			"date_published": "2017-12-22T00:13:05-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/22/i-am-up.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/22/according-to-dark.html",
+	      	
+			"content_text": "According to Dark Sky, a Christmas morning snowstorm may interfere...",
+			"date_published": "2017-12-21T19:54:15-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/21/according-to-dark.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/21/im-relieved-to.html",
+	      	
+			"content_text": "I’m relieved to have finished all my billable work for...",
+			"date_published": "2017-12-21T14:37:53-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/21/im-relieved-to.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/21/i-wonder-how.html",
+	      	
+			"content_text": "I wonder how many people still have to use VBA...",
+			"date_published": "2017-12-21T10:27:55-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/21/i-wonder-how.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/21/blog-post-micro.html",
+	      	
+			"content_text": "Blog post: Micro Blog mjdescy.me/2017/12/2…\n",
+			"date_published": "2017-12-20T23:57:53-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/20/blog-post-micro.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/21/i-spent-some.html",
+	      	
+			"content_text": "I spent some time this evening starting to code something...",
+			"date_published": "2017-12-20T22:06:57-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/20/i-spent-some.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/20/twitter-is-abuzz.html",
+	      	
+			"content_text": "Twitter is abuzz about UIKit, perhaps, going to the Mac...",
+			"date_published": "2017-12-20T14:11:03-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/20/twitter-is-abuzz.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/20/its-the-last.html",
+	      	
+			"content_text": "It’s the last work week of the year, and the...",
+			"date_published": "2017-12-19T22:07:25-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/19/its-the-last.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/20/im-happy-to.html",
+	      	
+			"content_text": "I’m happy to join the micro.blog community today!\n",
+			"date_published": "2017-12-19T20:06:33-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/19/im-happy-to.html"
+		}
+		
+	]
+}
