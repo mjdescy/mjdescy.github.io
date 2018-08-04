@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/08/04/today-is-the.html",
+	      	
+			"content_html": "<p>Today is the big trip up north in the car. It’s a 5-hour trek that somehow takes my family 12 hours or so each year.</p>\n",
+			"date_published": "2018-08-04T09:53:07-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/04/today-is-the.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/08/03/ive-got-only.html",
 	      	
 			"content_html": "<p>I’ve got only 5 days until vacation. Hopefully I can shift gears from programming and data work for my day job back to writing and coding for my hobbies.</p>\n",
@@ -201,14 +209,6 @@
 			"content_html": "<p>I have pared back my Twitter following list to Lin-Manuel Miranda and Ole Begemann, which is sometimes weird and sometimes delightful, the few moments per week I check in on them.</p>\n",
 			"date_published": "2018-07-16T23:13:56-04:00",
 			"url": "https://micro.mjdescy.me/2018/07/16/i-have-paired.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/07/16/im-super-pleased.html",
-	      	
-			"content_html": "<p>I’m super pleased listening to these V-Moda Crossfade 2 Codex Edition headphones all day at work, over Bluetooth. (Wireless use is pretty rare for me.) Great sound. Great isolation. The top of my head is a little sore from the headband, though. (They are kind of heavy.) 🎧</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/b65c367dc5.jpg\" width=\"450\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-16T16:36:58-04:00",
-			"url": "https://micro.mjdescy.me/2018/07/16/im-super-pleased.html"
 		}
 		
 	]
