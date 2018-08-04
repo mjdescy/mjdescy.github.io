@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/08/03/ive-got-only.html",
+	      	
+			"content_text": "I’ve got only 5 days until vacation. Hopefully I can...",
+			"date_published": "2018-08-03T12:02:01-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/03/ive-got-only.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/08/01/im-impressed-that.html",
+	      	
+			"content_text": "I’m impressed that my old, USB-2 iPad Camera Connection Kit...",
+			"date_published": "2018-07-31T20:22:52-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/31/im-impressed-that.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/07/31/after-this-todays.html",
 	      	
 			"content_text": "After this today’s meeting, my database project has become 10...",
