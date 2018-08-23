@@ -6,6 +6,52 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/08/22/apples-music-app.html",
+	      	
+			"content_text": "Apple’s Music app needs multiple selection on its playlist editor....",
+			"date_published": "2018-08-22T10:25:30-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/22/apples-music-app.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/08/21/joe-steels-guide.html",
+	      	
+			"title": "Joe Steel's Guide to Mastodon",
+			
+			"content_text": "This blog post is a great overview of Mastodon. In...",
+			"date_published": "2018-08-21T19:54:06-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/21/joe-steels-guide.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/08/21/im-debugging-ios.html",
+	      	
+			"content_text": "I’m debugging iOS Files access in SwiftoDo this evening. It...",
+			"date_published": "2018-08-20T22:21:52-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/20/im-debugging-ios.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/08/20/204134.html",
+	      	
+			"title": "It looks like iOS 12 will extend the life of my old iOS hardware",
+			
+			"content_text": "I bought my iPad Air 2 almost a year after...",
+			"date_published": "2018-08-20T16:41:34-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/20/204134.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/08/20/the-new-dark.html",
+	      	
+			"title": "The New Dark Sky App",
+			
+			"content_text": "Dark Sky released a ground-up rewrite of their flagship iOS...",
+			"date_published": "2018-08-20T12:30:44-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/20/the-new-dark.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/08/20/i-am-fully.html",
 	      	
 			"content_text": "I am fully back from vacation now, trying to get...",
