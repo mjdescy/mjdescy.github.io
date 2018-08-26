@@ -6,6 +6,44 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/08/24/i-fixed-a.html",
+	      	
+			"title": "I fixed a crash. Now I am a golden god! 🧜‍♂️",
+			
+			"content_text": "I fixed the SwiftoDo chrasher that I griped about this...",
+			"date_published": "2018-08-23T23:33:45-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/23/i-fixed-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/08/24/transistor-on-ios.html",
+	      	
+			"content_text": "Transistor on iOS is a really good game. I started...",
+			"date_published": "2018-08-23T20:06:42-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/23/transistor-on-ios.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/08/23/alas-no-swiftodo.html",
+	      	
+			"title": "Alas, no SwiftoDo update submission to the App Store today",
+			
+			"content_text": "Today I was planning to submit to the App Store...",
+			"date_published": "2018-08-23T14:08:20-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/23/alas-no-swiftodo.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/08/23/my-week-free.html",
+	      	
+			"title": "My 1-week free trial to Marvel Unlimited trial ends today",
+			
+			"content_text": "I have to decide if I’m going to end it,...",
+			"date_published": "2018-08-23T09:29:28-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/23/my-week-free.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/08/22/i-picked-a.html",
 	      	
 			"content_text": "I picked a bad week to try to fit 60...",
