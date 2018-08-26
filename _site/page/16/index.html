@@ -121,6 +121,52 @@
   
     <article class="post h-entry">
 	  
+		<h1><a href="/2018/08/23/i-fixed-a.html">I fixed a crash. Now I am a golden god! 🧜‍♂️</a></h1>
+	  
+      <div class="e-content"><p>I fixed the SwiftoDo chrasher that I griped about this afternoon, and, to future-me’s chagrin, I stayed up late to do it.</p>
+
+<p>Tracking down the problem was tricky, but I eventually discovered that <code class="highlighter-rouge">UIDocument</code>’s <code class="highlighter-rouge">revert</code> method was failing because sometimes it was being executed on a closed file. It turns out that I was not interrogating <code class="highlighter-rouge">UIDocument.documentState</code> correctly when checking for “closed” file state. The <code class="highlighter-rouge">documentState</code> property is an OptionSet, and has a <code class="highlighter-rouge">contains</code> method that is more appropriate to use than <code class="highlighter-rouge">==</code> for this purpose.</p>
+
+<p>At least, that what I think right now. I’ll test my app out for a day or two and see if the nasty crash bug rears its head again, or moves to a new call site.</p>
+</div>
+      <footer class="post__footer">
+        <small><time class="dt-published" datetime="2018-08-23T23:33:45-04:00"><a href="/2018/08/23/i-fixed-a.html" title="Permalink to Microblog post" class="u-url">Thu, Aug 23, 2018 at 11:33pm</time></a></small>
+      </footer>
+    </article>
+  
+    <article class="post h-entry">
+	  
+      <div class="e-content"><p><a href="https://itunes.apple.com/hr/app/transistor/id948857526?mt=8">Transistor on iOS</a> is a really good game. I started it around 11 PM last night and completely lost track of time until 12:30 AM. I am still doing pretty well with gaming on my iPad Pro with a controller, rather than buying a Nintendo Switch.</p>
+</div>
+      <footer class="post__footer">
+        <small><time class="dt-published" datetime="2018-08-23T20:06:42-04:00"><a href="/2018/08/23/transistor-on-ios.html" title="Permalink to Microblog post" class="u-url">Thu, Aug 23, 2018 at 08:06pm</time></a></small>
+      </footer>
+    </article>
+  
+    <article class="post h-entry">
+	  
+		<h1><a href="/2018/08/23/alas-no-swiftodo.html">Alas, no SwiftoDo update submission to the App Store today</a></h1>
+	  
+      <div class="e-content"><p>Today I was planning to submit to the App Store the current build of SwiftoDo, which I have been testing without incident for about three weeks. Unfortunately, out of nowhere, it started crashing on launch late this morning. Fortunately, I never finished submitting this build to the App Store for review, so it will never reach users. It does mean, however, that I have to debug a tricky treading-related crash before I can release the cool new feature I have been working on.</p>
+</div>
+      <footer class="post__footer">
+        <small><time class="dt-published" datetime="2018-08-23T14:08:20-04:00"><a href="/2018/08/23/alas-no-swiftodo.html" title="Permalink to Microblog post" class="u-url">Thu, Aug 23, 2018 at 02:08pm</time></a></small>
+      </footer>
+    </article>
+  
+    <article class="post h-entry">
+	  
+		<h1><a href="/2018/08/23/my-week-free.html">My 1-week free trial to Marvel Unlimited trial ends today</a></h1>
+	  
+      <div class="e-content"><p>I have to decide if I’m going to end it, roll it forward month-to-month via an App Store subscription, or pay for an ultimately cheaper annual subscription via Marvel’s web site. I thought, for fun, I would start reading one comic book per day, and think that justifies the subscription price. I am enjoying the service, but I have, historically, only read comics in short, intense bursts every couple years, so I’m not sure if I will really stick with it once I read through the series I started. Of course, now I’m hooked on Brian Michael Bendis’s run of <em>All-New X-Men</em>, so I predict I will renew the subscription in some way.</p>
+</div>
+      <footer class="post__footer">
+        <small><time class="dt-published" datetime="2018-08-23T09:29:28-04:00"><a href="/2018/08/23/my-week-free.html" title="Permalink to Microblog post" class="u-url">Thu, Aug 23, 2018 at 09:29am</time></a></small>
+      </footer>
+    </article>
+  
+    <article class="post h-entry">
+	  
       <div class="e-content"><p>I picked a bad week to try to fit 60 minutes of exercise and 120 minutes of overtime into every work day. 😂</p>
 </div>
       <footer class="post__footer">
@@ -333,54 +379,6 @@
 </div>
       <footer class="post__footer">
         <small><time class="dt-published" datetime="2018-07-27T20:04:44-04:00"><a href="/2018/07/27/i-spent-most.html" title="Permalink to Microblog post" class="u-url">Fri, Jul 27, 2018 at 08:04pm</time></a></small>
-      </footer>
-    </article>
-  
-    <article class="post h-entry">
-	  
-      <div class="e-content"><p>I’m enjoying this week’s <a href="http://atp.fm/episodes/284">Accidental Tech Podcast</a>.</p>
-</div>
-      <footer class="post__footer">
-        <small><time class="dt-published" datetime="2018-07-26T21:01:27-04:00"><a href="/2018/07/26/im-enjoying-this.html" title="Permalink to Microblog post" class="u-url">Thu, Jul 26, 2018 at 09:01pm</time></a></small>
-      </footer>
-    </article>
-  
-    <article class="post h-entry">
-	  
-      <div class="e-content"><p>Blog post: <a href="https://mjdescy.me/2018/07/25/swiftodo-development-notes-july-2018/">SwiftoDo Development Notes, July 2018</a></p>
-</div>
-      <footer class="post__footer">
-        <small><time class="dt-published" datetime="2018-07-25T23:16:43-04:00"><a href="/2018/07/25/031643.html" title="Permalink to Microblog post" class="u-url">Wed, Jul 25, 2018 at 11:16pm</time></a></small>
-      </footer>
-    </article>
-  
-    <article class="post h-entry">
-	  
-		<h1><a href="/2018/07/24/introducing-my-latest.html">Introducing my latest iOS app: Simple Call Blocker</a></h1>
-	  
-      <div class="e-content"><p><a href="https://simplecallblockerapp.com">Simple Call Blocker</a> is a <a href="https://itunes.apple.com/us/app/simple-call-blocker/id1409872025?ls=1&amp;mt=8">free app</a> for blocking unwanted calls on iOS.</p>
-
-<p>It provides a basic way to block lots of numbers via a CallKit directory extension–which is great for blocking neighbor spam.</p>
-
-<p>Unlike almost every other call blocker out there, mine is completely free and doesn’t need access to your contacts to work.</p>
-
-<p><a href="https://itunes.apple.com/us/app/simple-call-blocker/id1409872025?ls=1&amp;mt=8">Try it out.</a> It’s free.</p>
-
-<p>If you want to know more, there’s a <a href="https://simplecallblockerapp.com">website with screenshots and a FAQ</a>. I wrote a <a href="https://mjdescy.me/2018/07/25/introducing-simple-call-blocker/">blog post</a> describing my motivation for writing it, too.</p>
-</div>
-      <footer class="post__footer">
-        <small><time class="dt-published" datetime="2018-07-24T23:25:43-04:00"><a href="/2018/07/24/introducing-my-latest.html" title="Permalink to Microblog post" class="u-url">Tue, Jul 24, 2018 at 11:25pm</time></a></small>
-      </footer>
-    </article>
-  
-    <article class="post h-entry">
-	  
-      <div class="e-content"><p>I replaced my old, crumbling, extra- extra large Grifiti wrist rest with a new one, suitably sized for my tenkeyless keyboard. It was a good move.</p>
-
-<p><img src="http://micro.mjdescy.me/uploads/2018/e92e4241dc.jpg" width="600" height="449" /></p>
-</div>
-      <footer class="post__footer">
-        <small><time class="dt-published" datetime="2018-07-24T11:03:04-04:00"><a href="/2018/07/24/i-replaced-my.html" title="Permalink to Microblog post" class="u-url">Tue, Jul 24, 2018 at 11:03am</time></a></small>
       </footer>
     </article>
   
