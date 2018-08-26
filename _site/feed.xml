@@ -4,8 +4,54 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://micro.mjdescy.me/</link>
-    <pubDate>Wed, 22 Aug 2018 15:39:55 -0400</pubDate>
-    <lastBuildDate>Wed, 22 Aug 2018 15:39:55 -0400</lastBuildDate>
+    <pubDate>Thu, 23 Aug 2018 23:37:30 -0400</pubDate>
+    <lastBuildDate>Thu, 23 Aug 2018 23:37:30 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <title>I fixed a crash. Now I am a golden god! 🧜‍♂️</title>
+        
+        <description>&lt;p&gt;I fixed the SwiftoDo chrasher that I griped about this afternoon, and, to future-me’s chagrin, I stayed up late to do it.&lt;/p&gt;
+
+&lt;p&gt;Tracking down the problem was tricky, but I eventually discovered that &lt;code class=&quot;highlighter-rouge&quot;&gt;UIDocument&lt;/code&gt;’s &lt;code class=&quot;highlighter-rouge&quot;&gt;revert&lt;/code&gt; method was failing because sometimes it was being executed on a closed file. It turns out that I was not interrogating &lt;code class=&quot;highlighter-rouge&quot;&gt;UIDocument.documentState&lt;/code&gt; correctly when checking for “closed” file state. The &lt;code class=&quot;highlighter-rouge&quot;&gt;documentState&lt;/code&gt; property is an OptionSet, and has a &lt;code class=&quot;highlighter-rouge&quot;&gt;contains&lt;/code&gt; method that is more appropriate to use than &lt;code class=&quot;highlighter-rouge&quot;&gt;==&lt;/code&gt; for this purpose.&lt;/p&gt;
+
+&lt;p&gt;At least, that what I think right now. I’ll test my app out for a day or two and see if the nasty crash bug rears its head again, or moves to a new call site.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Aug 2018 23:33:45 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/08/23/i-fixed-a.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/08/24/i-fixed-a.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/hr/app/transistor/id948857526?mt=8&quot;&gt;Transistor on iOS&lt;/a&gt; is a really good game. I started it around 11 PM last night and completely lost track of time until 12:30 AM. I am still doing pretty well with gaming on my iPad Pro with a controller, rather than buying a Nintendo Switch.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Aug 2018 20:06:42 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/08/23/transistor-on-ios.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/08/24/transistor-on-ios.html</guid>
+      </item>
+    
+      <item>
+      	
+        <title>Alas, no SwiftoDo update submission to the App Store today</title>
+        
+        <description>&lt;p&gt;Today I was planning to submit to the App Store the current build of SwiftoDo, which I have been testing without incident for about three weeks. Unfortunately, out of nowhere, it started crashing on launch late this morning. Fortunately, I never finished submitting this build to the App Store for review, so it will never reach users. It does mean, however, that I have to debug a tricky treading-related crash before I can release the cool new feature I have been working on.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Aug 2018 14:08:20 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/08/23/alas-no-swiftodo.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/08/23/alas-no-swiftodo.html</guid>
+      </item>
+    
+      <item>
+      	
+        <title>My 1-week free trial to Marvel Unlimited trial ends today</title>
+        
+        <description>&lt;p&gt;I have to decide if I’m going to end it, roll it forward month-to-month via an App Store subscription, or pay for an ultimately cheaper annual subscription via Marvel’s web site. I thought, for fun, I would start reading one comic book per day, and think that justifies the subscription price. I am enjoying the service, but I have, historically, only read comics in short, intense bursts every couple years, so I’m not sure if I will really stick with it once I read through the series I started. Of course, now I’m hooked on Brian Michael Bendis’s run of &lt;em&gt;All-New X-Men&lt;/em&gt;, so I predict I will renew the subscription in some way.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Aug 2018 09:29:28 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/08/23/my-week-free.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/08/23/my-week-free.html</guid>
+      </item>
     
       <item>
       	
@@ -479,52 +525,6 @@
         <pubDate>Tue, 10 Jul 2018 13:06:22 -0400</pubDate>
         <link>https://micro.mjdescy.me/2018/07/10/when-will-it.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/07/10/when-will-it.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;A git commit somehow disappeared, eradicating all my app code and obliterating at least one evening’s worth of work. I cracked open a Guinness, restored a backup from Arq, recovered about 80% of my work, and re-did the rest. I’m happy I didn’t lose my cool.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 Jul 2018 22:50:21 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/07/09/a-git-commit.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/07/10/a-git-commit.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I found a headphone case whose brand name really gets at my peculiar affliction.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://micro.mjdescy.me/uploads/2018/0450f2c4b9.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 08 Jul 2018 23:19:54 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/07/08/i-found-a.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/07/09/i-found-a.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Based on &lt;a href=&quot;https://www.nytimes.com/2018/07/08/business/media/hbo-att-merger.html&quot;&gt;this article&lt;/a&gt;, I predict that HBO is going to start to get &lt;em&gt;a lot&lt;/em&gt; worse under its new ownership (AT&amp;amp;T). I hope I am wrong.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 08 Jul 2018 23:06:53 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/07/08/based-on-this.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/07/09/based-on-this.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Salsas at my family’s favorite Mexican restaurant:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Queso: not hot&lt;/li&gt;
-  &lt;li&gt;Verde: not hot&lt;/li&gt;
-  &lt;li&gt;Ranchero: not hot&lt;/li&gt;
-  &lt;li&gt;Guajillo: not hot&lt;/li&gt;
-  &lt;li&gt;Arbol: &lt;em&gt;way too hot!&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 08 Jul 2018 18:26:01 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/07/08/salsas-at-my.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/07/08/salsas-at-my.html</guid>
       </item>
     
   </channel>
