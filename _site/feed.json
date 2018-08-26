@@ -6,6 +6,44 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/08/24/i-fixed-a.html",
+	      	
+			"title": "I fixed a crash. Now I am a golden god! 🧜‍♂️",
+			
+			"content_html": "<p>I fixed the SwiftoDo chrasher that I griped about this afternoon, and, to future-me’s chagrin, I stayed up late to do it.</p>\n\n<p>Tracking down the problem was tricky, but I eventually discovered that <code class=\"highlighter-rouge\">UIDocument</code>’s <code class=\"highlighter-rouge\">revert</code> method was failing because sometimes it was being executed on a closed file. It turns out that I was not interrogating <code class=\"highlighter-rouge\">UIDocument.documentState</code> correctly when checking for “closed” file state. The <code class=\"highlighter-rouge\">documentState</code> property is an OptionSet, and has a <code class=\"highlighter-rouge\">contains</code> method that is more appropriate to use than <code class=\"highlighter-rouge\">==</code> for this purpose.</p>\n\n<p>At least, that what I think right now. I’ll test my app out for a day or two and see if the nasty crash bug rears its head again, or moves to a new call site.</p>\n",
+			"date_published": "2018-08-23T23:33:45-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/23/i-fixed-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/08/24/transistor-on-ios.html",
+	      	
+			"content_html": "<p><a href=\"https://itunes.apple.com/hr/app/transistor/id948857526?mt=8\">Transistor on iOS</a> is a really good game. I started it around 11 PM last night and completely lost track of time until 12:30 AM. I am still doing pretty well with gaming on my iPad Pro with a controller, rather than buying a Nintendo Switch.</p>\n",
+			"date_published": "2018-08-23T20:06:42-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/23/transistor-on-ios.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/08/23/alas-no-swiftodo.html",
+	      	
+			"title": "Alas, no SwiftoDo update submission to the App Store today",
+			
+			"content_html": "<p>Today I was planning to submit to the App Store the current build of SwiftoDo, which I have been testing without incident for about three weeks. Unfortunately, out of nowhere, it started crashing on launch late this morning. Fortunately, I never finished submitting this build to the App Store for review, so it will never reach users. It does mean, however, that I have to debug a tricky treading-related crash before I can release the cool new feature I have been working on.</p>\n",
+			"date_published": "2018-08-23T14:08:20-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/23/alas-no-swiftodo.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/08/23/my-week-free.html",
+	      	
+			"title": "My 1-week free trial to Marvel Unlimited trial ends today",
+			
+			"content_html": "<p>I have to decide if I’m going to end it, roll it forward month-to-month via an App Store subscription, or pay for an ultimately cheaper annual subscription via Marvel’s web site. I thought, for fun, I would start reading one comic book per day, and think that justifies the subscription price. I am enjoying the service, but I have, historically, only read comics in short, intense bursts every couple years, so I’m not sure if I will really stick with it once I read through the series I started. Of course, now I’m hooked on Brian Michael Bendis’s run of <em>All-New X-Men</em>, so I predict I will renew the subscription in some way.</p>\n",
+			"date_published": "2018-08-23T09:29:28-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/23/my-week-free.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/08/22/i-picked-a.html",
 	      	
 			"content_html": "<p>I picked a bad week to try to fit 60 minutes of exercise and 120 minutes of overtime into every work day. 😂</p>\n",
@@ -177,40 +215,6 @@
 			"content_html": "<p>I spent most of the day coding an Access app for work. I’m coding VBA now almost like it’s a proper object-oriented language: lots of tiny classes that do one thing only, basically no repeated code segments, use of design patterns wherever possible, and so on.</p>\n",
 			"date_published": "2018-07-27T20:04:44-04:00",
 			"url": "https://micro.mjdescy.me/2018/07/27/i-spent-most.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/07/27/im-enjoying-this.html",
-	      	
-			"content_html": "<p>I’m enjoying this week’s <a href=\"http://atp.fm/episodes/284\">Accidental Tech Podcast</a>.</p>\n",
-			"date_published": "2018-07-26T21:01:27-04:00",
-			"url": "https://micro.mjdescy.me/2018/07/26/im-enjoying-this.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/07/26/031643.html",
-	      	
-			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/07/25/swiftodo-development-notes-july-2018/\">SwiftoDo Development Notes, July 2018</a></p>\n",
-			"date_published": "2018-07-25T23:16:43-04:00",
-			"url": "https://micro.mjdescy.me/2018/07/25/031643.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/07/25/introducing-my-latest.html",
-	      	
-			"title": "Introducing my latest iOS app: Simple Call Blocker",
-			
-			"content_html": "<p><a href=\"https://simplecallblockerapp.com\">Simple Call Blocker</a> is a <a href=\"https://itunes.apple.com/us/app/simple-call-blocker/id1409872025?ls=1&amp;mt=8\">free app</a> for blocking unwanted calls on iOS.</p>\n\n<p>It provides a basic way to block lots of numbers via a CallKit directory extension–which is great for blocking neighbor spam.</p>\n\n<p>Unlike almost every other call blocker out there, mine is completely free and doesn’t need access to your contacts to work.</p>\n\n<p><a href=\"https://itunes.apple.com/us/app/simple-call-blocker/id1409872025?ls=1&amp;mt=8\">Try it out.</a> It’s free.</p>\n\n<p>If you want to know more, there’s a <a href=\"https://simplecallblockerapp.com\">website with screenshots and a FAQ</a>. I wrote a <a href=\"https://mjdescy.me/2018/07/25/introducing-simple-call-blocker/\">blog post</a> describing my motivation for writing it, too.</p>\n",
-			"date_published": "2018-07-24T23:25:43-04:00",
-			"url": "https://micro.mjdescy.me/2018/07/24/introducing-my-latest.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/07/24/i-replaced-my.html",
-	      	
-			"content_html": "<p>I replaced my old, crumbling, extra- extra large Grifiti wrist rest with a new one, suitably sized for my tenkeyless keyboard. It was a good move.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/e92e4241dc.jpg\" width=\"600\" height=\"449\" /></p>\n",
-			"date_published": "2018-07-24T11:03:04-04:00",
-			"url": "https://micro.mjdescy.me/2018/07/24/i-replaced-my.html"
 		}
 		
 	]
