@@ -6,6 +6,24 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/08/26/i-miss-apples.html",
+	      	
+			"title": "I miss Apple's Aperture",
+			
+			"content_html": "<p>What <a href=\"https://www.macstories.net/stories/the-history-of-aperture/\">Stephen Hackett’s piece</a> says about Apple’s Aperture—mainly about its shortcomings—may be true, it does not reflect that, from a UI standpoint, Aperture was a masterpiece. From not locking you into specific modes or workflows, to having sensible single-key keyboard shortcuts for nearly every command, it was an absolute joy to use. I used it for almost its entire product lifespan.</p>\n\n<p>When Apple announced its end of life, I tried to move to Adobe Lightroom, and just hated it. I stuck with Aperture until over a year into the life of Apple’s current Photos app. I still miss Aperture’s editing tools, and would really be sore about it if my digital cameras today were as bad as the ones I had back in 2005-2011.</p>\n\n<p>Apple Photos is a decent replacement now that it has gone through several iterations. I <em>really</em> wish it had retouching support on the iPad, though. (It is current Mac-only.)</p>\n\n",
+			"date_published": "2018-08-26T15:12:37-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/26/i-miss-apples.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/08/25/my-daughter-and.html",
+	      	
+			"content_html": "<p>My daughter and I made a new friend in the backyard today.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/97d3b421d7.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-25T15:44:42-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/25/my-daughter-and.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/08/24/i-fixed-a.html",
 	      	
 			"title": "I fixed a crash. Now I am a golden god! 🧜‍♂️",
@@ -199,22 +217,6 @@
 			"content_html": "<p>I have been seriously considering holding on to my iPhone 7 Plus for a third year. I just got a new screen and a new battery, It looks almost brand new, I still like the camera, I never complain about it being slow, and iOS 12 promises to improve performance when I upgrade to it. I feel the same way about my Series 1 Apple Watch, too, though my desire to upgrade it to whatever model Apple releases next is still a lot higher.</p>\n",
 			"date_published": "2018-07-27T20:32:52-04:00",
 			"url": "https://micro.mjdescy.me/2018/07/27/003252.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/07/28/bastion-is-so.html",
-	      	
-			"content_html": "<p>Bastion is so much fun that I bought the developer’s subsequent game, Transistor.</p>\n",
-			"date_published": "2018-07-27T20:27:16-04:00",
-			"url": "https://micro.mjdescy.me/2018/07/27/bastion-is-so.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/07/28/i-spent-most.html",
-	      	
-			"content_html": "<p>I spent most of the day coding an Access app for work. I’m coding VBA now almost like it’s a proper object-oriented language: lots of tiny classes that do one thing only, basically no repeated code segments, use of design patterns wherever possible, and so on.</p>\n",
-			"date_published": "2018-07-27T20:04:44-04:00",
-			"url": "https://micro.mjdescy.me/2018/07/27/i-spent-most.html"
 		}
 		
 	]
