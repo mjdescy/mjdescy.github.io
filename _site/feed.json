@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/08/30/transistor.html",
+	      	
+			"title": "🎮 Transistor",
+			
+			"content_html": "<p>I finished the game <a href=\"https://www.supergiantgames.com/games/transistor/\">Transistor</a> last night. I played it on my iPad Pro with a MFi controller.</p>\n\n<p>It was a fun game with a great atmosphere (setting, sound design, visual design, etc.) but the story was a bit too opaque for my taste. You had to dig into the user interface and read a bunch of optional stuff to get a better idea of what is going on ints its disintegrating cyberpunk world.</p>\n\n<p>It ended kind of abruptly <em>and</em> had a tragic ending, which is unusual, but maybe not for the <a href=\"https://www.supergiantgames.com/\">game studio</a>. Their prior game, <a href=\"https://www.supergiantgames.com/games/bastion/\">Bastion</a>, also had kind of a downer ending.</p>\n\n<p>I’m not sure if I will do a replay of Transister, but I’m happy that I played it.</p>\n",
+			"date_published": "2018-08-30T09:10:38-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/30/transistor.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/08/29/cryptocurrency-mining-now.html",
 	      	
 			"title": "Cryptocurrency Mining Now Accounts for Approximately One Percent of the World’s Energy Consumption",
@@ -217,14 +227,6 @@
 			"content_html": "<p>I’m impressed that my old, USB-2 iPad Camera Connection Kit still seems fast to me.</p>\n",
 			"date_published": "2018-07-31T20:22:52-04:00",
 			"url": "https://micro.mjdescy.me/2018/07/31/im-impressed-that.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/07/31/after-this-todays.html",
-	      	
-			"content_html": "<p>After this today’s meeting, my database project has become 10 times larger but 25% simpler. I hope I can still meet my deadline.</p>\n",
-			"date_published": "2018-07-31T15:09:09-04:00",
-			"url": "https://micro.mjdescy.me/2018/07/31/after-this-todays.html"
 		}
 		
 	]
