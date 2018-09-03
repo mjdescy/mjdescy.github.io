@@ -6,6 +6,24 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/09/03/the-jersey-shore.html",
+	      	
+			"title": "The Jersey Shore",
+			
+			"content_html": "<p><a href=\"http://micro.mjdescy.me/uploads/2018/bcccfde53a.jpg\"><img src=\"http://micro.mjdescy.me/uploads/2018/bcccfde53a.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.mjdescy.me/uploads/2018/06a44bcfcd.jpg\"><img src=\"http://micro.mjdescy.me/uploads/2018/06a44bcfcd.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>I’m testing out a zoom lens I bought for my new Olympus EM-10 Mark III.</p>\n\n",
+			"date_published": "2018-09-03T15:46:23-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/03/the-jersey-shore.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/08/30/i-have-rarely.html",
+	      	
+			"content_html": "<p>I have rarely been bothered by the iPhone 7’s (and subsequent models) lack of a headphone jack. But that was before I lost my Lightning to 3.5 mm Headphone Jack adapter. I guess I have to cough up $9 or so for a new dongle.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/747bd95116.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-30T16:28:38-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/30/i-have-rarely.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/08/30/transistor.html",
 	      	
 			"title": "🎮 Transistor",
@@ -211,22 +229,6 @@
 			"content_html": "<p>Today is the big trip up north in the car. It’s a 5-hour trek that somehow takes my family 12 hours or so each year.</p>\n",
 			"date_published": "2018-08-04T09:53:07-04:00",
 			"url": "https://micro.mjdescy.me/2018/08/04/today-is-the.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/08/03/ive-got-only.html",
-	      	
-			"content_html": "<p>I’ve got only 5 days until vacation. Hopefully I can shift gears from programming and data work for my day job back to writing and coding for my hobbies.</p>\n",
-			"date_published": "2018-08-03T12:02:01-04:00",
-			"url": "https://micro.mjdescy.me/2018/08/03/ive-got-only.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/08/01/im-impressed-that.html",
-	      	
-			"content_html": "<p>I’m impressed that my old, USB-2 iPad Camera Connection Kit still seems fast to me.</p>\n",
-			"date_published": "2018-07-31T20:22:52-04:00",
-			"url": "https://micro.mjdescy.me/2018/07/31/im-impressed-that.html"
 		}
 		
 	]
