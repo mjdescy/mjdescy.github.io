@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/09/07/i-am-sad.html",
+	      	
+			"content_text": "I am sad that Exponent, one of my favorite podcasts,...",
+			"date_published": "2018-09-07T14:45:41-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/07/i-am-sad.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/07/i-found-out.html",
+	      	
+			"content_text": "I found out that Toad the Wet Sproket re-recorded their...",
+			"date_published": "2018-09-07T10:07:07-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/07/i-found-out.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/09/07/todays-listen-fine.html",
 	      	
 			"content_text": "🎵 Today’s listen: Fine Young Cannibals’ The Raw and the...",
