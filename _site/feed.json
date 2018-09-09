@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/09/07/i-am-sad.html",
+	      	
+			"content_html": "<p>I am sad that <a href=\"https://exponent.fm/episode-155-the-end-for-now/\">Exponent</a>, one of my favorite podcasts, has entered an indefinite, and maybe permanent, hiatus. Ben Thompson and James Allsworth had great insights into technology and business. Listening to them made me feel like I was in business school again, but with two of the smartest professors (or maybe classmates) in the room.</p>\n",
+			"date_published": "2018-09-07T14:45:41-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/07/i-am-sad.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/07/i-found-out.html",
+	      	
+			"content_html": "<p>I found out that Toad the Wet Sproket re-recorded their greatest hits from the 1990s. <a href=\"https://toadthewetsprocket.bandcamp.com/album/all-you-want\">All You Want</a> was released in 2011. It’s unusual for a band to re-record songs <em>in the studio</em> (live albums are another thing entirely). I found it enjoyable to listen to, though I’m not sure why they did it. The production is more modern—read, a lot louder, but with a larger soundstage—but the songs aren’t re-interpreted or anything.</p>\n\n<p>Texas did this, too, with <a href=\"https://en.m.wikipedia.org/wiki/Texas_25\">Texas 25</a>, which marked their 25th anniversary as a band. Texas reinterpreted some of their songs, though. That album sounds great and is worth a listen.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/a3006dc27d.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-07T10:07:07-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/07/i-found-out.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/09/07/todays-listen-fine.html",
 	      	
 			"content_html": "<p>🎵 Today’s listen: Fine Young Cannibals’ <a href=\"https://itunes.apple.com/us/album/the-raw-the-cooked/1313940401\">The Raw and the Cooked</a> on my V-Moda Crossfade 2 🎧.</p>\n",
@@ -203,24 +219,6 @@
 			"content_html": "<p>What <a href=\"https://www.macstories.net/stories/the-history-of-aperture/\">Stephen Hackett’s piece</a> says about Apple’s Aperture—mainly about its shortcomings—may be true, it does not reflect that, from a UI standpoint, Aperture was a masterpiece. From not locking you into specific modes or workflows, to having sensible single-key keyboard shortcuts for nearly every command, it was an absolute joy to use. I used it for almost its entire product lifespan.</p>\n\n<p>When Apple announced its end of life, I tried to move to Adobe Lightroom, and just hated it. I stuck with Aperture until over a year into the life of Apple’s current Photos app. I still miss Aperture’s editing tools, and would really be sore about it if my digital cameras today were as bad as the ones I had back in 2005-2011.</p>\n\n<p>Apple Photos is a decent replacement now that it has gone through several iterations. I <em>really</em> wish it had retouching support on the iPad, though. (It is current Mac-only.)</p>\n\n",
 			"date_published": "2018-08-26T15:12:37-04:00",
 			"url": "https://micro.mjdescy.me/2018/08/26/i-miss-apples.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/08/25/my-daughter-and.html",
-	      	
-			"content_html": "<p>My daughter and I made a new friend in the backyard today.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/97d3b421d7.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-25T15:44:42-04:00",
-			"url": "https://micro.mjdescy.me/2018/08/25/my-daughter-and.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/08/24/i-fixed-a.html",
-	      	
-			"title": "I fixed a crash. Now I am a golden god! 🧜‍♂️",
-			
-			"content_html": "<p>I fixed the SwiftoDo chrasher that I griped about this afternoon, and, to future-me’s chagrin, I stayed up late to do it.</p>\n\n<p>Tracking down the problem was tricky, but I eventually discovered that <code class=\"highlighter-rouge\">UIDocument</code>’s <code class=\"highlighter-rouge\">revert</code> method was failing because sometimes it was being executed on a closed file. It turns out that I was not interrogating <code class=\"highlighter-rouge\">UIDocument.documentState</code> correctly when checking for “closed” file state. The <code class=\"highlighter-rouge\">documentState</code> property is an OptionSet, and has a <code class=\"highlighter-rouge\">contains</code> method that is more appropriate to use than <code class=\"highlighter-rouge\">==</code> for this purpose.</p>\n\n<p>At least, that what I think right now. I’ll test my app out for a day or two and see if the nasty crash bug rears its head again, or moves to a new call site.</p>\n",
-			"date_published": "2018-08-23T23:33:45-04:00",
-			"url": "https://micro.mjdescy.me/2018/08/23/i-fixed-a.html"
 		}
 		
 	]
