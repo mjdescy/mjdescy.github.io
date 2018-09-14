@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/09/14/143736.html",
+	      	
+			"content_html": "<p>I think I need to re-watch “<a href=\"https://www.imdb.com/title/tt4955642/\">The Good Place</a>”. (It’s available on Netflix.) And, hey, there’s a behind-the-scenes <a href=\"https://www.nbc.com/the-good-place/exclusives/tgp-podcast\">podcast</a> for the show, too!</p>\n",
+			"date_published": "2018-09-14T10:37:36-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/14/143736.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/14/i-will-be.html",
+	      	
+			"content_html": "<p>I will be pretty upset when Apple ditches the charging port someday. My favorite headphones depend on it.</p>\n",
+			"date_published": "2018-09-13T20:54:56-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/13/i-will-be.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/09/13/191757.html",
 	      	
 			"content_html": "<p><img src=\"http://micro.mjdescy.me/uploads/2018/d27a3caae8.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -188,24 +204,6 @@
 			"content_html": "<p>As of right now I have upgraded all of my iOS devices to the iOS 12 beta. I’m happy to report that the apps that <em>I</em> write are working just fine. In fact, everything is working fine.</p>\n",
 			"date_published": "2018-09-04T15:43:56-04:00",
 			"url": "https://micro.mjdescy.me/2018/09/04/as-of-right.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/04/can-you-spot.html",
-	      	
-			"title": "Can You Spot the Deceptive Facebook Post?",
-			
-			"content_html": "<p>I did not do well on <a href=\"https://www.nytimes.com/interactive/2018/09/04/technology/facebook-influence-campaigns-quiz.html\">this quiz</a>.</p>\n\n<blockquote>\n  <p>The latest influence campaigns also imitated posts by legitimate pages and groups on Facebook that advocate political beliefs, making it difficult to tell what was a genuine post and what was not. Let’s compare some to see if you can tell the difference. Spoiler: It isn’t easy.</p>\n</blockquote>\n\n<p>Granted, I wasn’t trying too hard to pick out obvious language errors in the small text, but still: organized disinformation campaigns spread through social media networks have lowered the level of public discourse and have destroyed the public trust in media in general.</p>\n",
-			"date_published": "2018-09-04T15:21:35-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/04/can-you-spot.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/04/i-am-using.html",
-	      	
-			"content_html": "<p>I am using, and enjoying, the new version of <a href=\"https://itunes.apple.com/us/app/sunlit/id1334727769?mt=8\">Sunlit</a>. For privacy reasons, my wife and I don’t post any pictures of our kids, so I’ll only be able to post pics of me, stuff around the house, and landscapes. Hopefully I will have some nice shots to share.</p>\n",
-			"date_published": "2018-09-04T10:41:49-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/04/i-am-using.html"
 		}
 		
 	]
