@@ -1,9 +1,98 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Michael Descy",
+	"icon": "https://micro.blog/mjdescy/avatar.jpg",
 	"home_page_url": "https://micro.mjdescy.me/",
 	"feed_url": "https://micro.mjdescy.me/archive/index.json",
 	"items": [
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/13/191757.html",
+	      	
+			"content_text": "\n",
+			"date_published": "2018-09-13T15:17:57-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/13/191757.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/13/142833.html",
+	      	
+			"content_text": "New Hampshire\n\n\n",
+			"date_published": "2018-09-13T10:28:33-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/13/142833.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/13/google-is-discontinuing.html",
+	      	
+			"content_text": "Google is discontinuing its Inbox Email App. Oh. Google is...",
+			"date_published": "2018-09-13T09:30:25-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/13/google-is-discontinuing.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/13/sigh-no-stainless.html",
+	      	
+			"content_text": "Sigh. No stainless steel Apple Watch for me (probably). MacStories...",
+			"date_published": "2018-09-13T09:20:43-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/13/sigh-no-stainless.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/13/i-am-happy.html",
+	      	
+			"content_text": "I am happy about all the Apple announcements today. I...",
+			"date_published": "2018-09-12T23:16:24-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/12/i-am-happy.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/13/i-have-unsubscribed.html",
+	      	
+			"content_text": "I have unsubscribed from so many podcasts that I have...",
+			"date_published": "2018-09-12T20:42:31-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/12/i-have-unsubscribed.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/12/its-time-to.html",
+	      	
+			"content_text": "It’s time to find out what we already know about...",
+			"date_published": "2018-09-12T13:00:09-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/12/its-time-to.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/12/community-art-from.html",
+	      	
+			"content_text": "Community art, from a street fair in Bethlehem, New Hampshire...",
+			"date_published": "2018-09-12T09:23:06-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/12/community-art-from.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/09/001610.html",
+	      	
+			"content_text": "New Hampshire\n\n\n",
+			"date_published": "2018-09-08T20:16:10-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/08/001610.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/08/i-actually-have.html",
+	      	
+			"content_text": "I actually have to buy new silverware for our big...",
+			"date_published": "2018-09-08T14:00:22-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/08/i-actually-have.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/07/232516.html",
+	      	
+			"content_text": "New Hampshire\n\n\n",
+			"date_published": "2018-09-07T19:25:16-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/07/232516.html"
+		},
 		
 		{
 			"id": "http://mjdescy.micro.blog/2018/09/07/i-am-sad.html",
