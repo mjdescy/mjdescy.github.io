@@ -1,9 +1,98 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Michael Descy",
+	"icon": "https://micro.blog/mjdescy/avatar.jpg",
 	"home_page_url": "https://micro.mjdescy.me/",
 	"feed_url": "https://micro.mjdescy.me/feed.json",
 	"items": [
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/13/191757.html",
+	      	
+			"content_html": "<p><img src=\"http://micro.mjdescy.me/uploads/2018/d27a3caae8.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-13T15:17:57-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/13/191757.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/13/142833.html",
+	      	
+			"content_html": "<p>New Hampshire</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/e63aa7916d.jpg\" width=\"600\" height=\"400\" /></p>\n",
+			"date_published": "2018-09-13T10:28:33-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/13/142833.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/13/google-is-discontinuing.html",
+	      	
+			"content_html": "<p><a href=\"https://www.macstories.net/linked/google-is-discontinuing-its-inbox-email-app-in-march-2019/\">Google is discontinuing its Inbox Email App</a>. Oh. Google is discontinuing another product. It must be a Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, or Sunday.</p>\n",
+			"date_published": "2018-09-13T09:30:25-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/13/google-is-discontinuing.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/13/sigh-no-stainless.html",
+	      	
+			"content_html": "<h1 id=\"sigh-no-stainless-steel-apple-watch-for-me-probably\">Sigh. No stainless steel Apple Watch for me (probably).</h1>\n\n<p>MacStories has <a href=\"https://www.macstories.net/news/apple-watch-series-4-the-macstories-overview/\">a good overview of the Apple Watch Series 4</a>. For me, because I planned to upgrade this year, the most important bit of information (which Apple glossed over in their presentation yesterday) is the price:</p>\n\n<blockquote>\n  <p>If you like stainless steel Apple Watch models, I’m sorry. The steel variants are only available with cellular capabilities, which is a $100 price increase from aluminum models. As such, stainless steel Series 4 models have a starting price of $699. Steel models also still cost the old $50 to upgrade size to 44mm, so the starting point for the larger steel Series 4 is $749. All of these baseline prices only get you a sport band, so you’ll be shelling out even more if you want to pick up a nicer watch band as well. (At least your old bands still fit though!)</p>\n</blockquote>\n\n<p>I really wanted a stainless steel Apple Watch, mainly because it looks so much better, in my opinion, than the anodized aluminum ones. But $749 is too expensive for me to buy a watch that I will probably want to replace in only 3 years. On top of that, I don’t think I need the cellular connectivity, either.</p>\n",
+			"date_published": "2018-09-13T09:20:43-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/13/sigh-no-stainless.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/13/i-am-happy.html",
+	      	
+			"content_html": "<p>I am happy about all the Apple announcements today. I may not buy any of the new hardware—though the new Apple Watch is kind of tempting—but I certainly admire all the cool technology they are bringing to market.</p>\n",
+			"date_published": "2018-09-12T23:16:24-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/12/i-am-happy.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/13/i-have-unsubscribed.html",
+	      	
+			"content_html": "<p>I have unsubscribed from so many podcasts that I have run out of things to listen to. Hopefully there will be some Apple event hot takes coming in tomorrow.</p>\n",
+			"date_published": "2018-09-12T20:42:31-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/12/i-have-unsubscribed.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/12/its-time-to.html",
+	      	
+			"content_html": "<p>It’s time to find out what we already know about the new Apple Watch and next-gen iPhone X.</p>\n",
+			"date_published": "2018-09-12T13:00:09-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/12/its-time-to.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/12/community-art-from.html",
+	      	
+			"content_html": "<p>Community art, from a street fair in Bethlehem, New Hampshire</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/dc81bee8f9.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-12T09:23:06-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/12/community-art-from.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/09/001610.html",
+	      	
+			"content_html": "<p>New Hampshire</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/e4a0924dbe.jpg\" width=\"600\" height=\"400\" /></p>\n",
+			"date_published": "2018-09-08T20:16:10-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/08/001610.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/08/i-actually-have.html",
+	      	
+			"content_html": "<p>I actually have to buy new silverware for our <em>big</em> dinner tomorrow.</p>\n",
+			"date_published": "2018-09-08T14:00:22-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/08/i-actually-have.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/07/232516.html",
+	      	
+			"content_html": "<p>New Hampshire</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/43d3aa575f.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-07T19:25:16-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/07/232516.html"
+		},
 		
 		{
 			"id": "http://mjdescy.micro.blog/2018/09/07/i-am-sad.html",
@@ -117,108 +206,6 @@
 			"content_html": "<p>I am using, and enjoying, the new version of <a href=\"https://itunes.apple.com/us/app/sunlit/id1334727769?mt=8\">Sunlit</a>. For privacy reasons, my wife and I don’t post any pictures of our kids, so I’ll only be able to post pics of me, stuff around the house, and landscapes. Hopefully I will have some nice shots to share.</p>\n",
 			"date_published": "2018-09-04T10:41:49-04:00",
 			"url": "https://micro.mjdescy.me/2018/09/04/i-am-using.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/04/new-hampshire.html",
-	      	
-			"content_html": "<p><a href=\"http://micro.mjdescy.me/uploads/2018/cfbd76e892.jpg\"><img src=\"http://micro.mjdescy.me/uploads/2018/cfbd76e892.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>New Hampshire</p>\n\n",
-			"date_published": "2018-09-04T08:13:49-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/04/new-hampshire.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/03/213725.html",
-	      	
-			"content_html": "<p><a href=\"http://micro.mjdescy.me/uploads/2018/fadac84094.jpg\"><img src=\"http://micro.mjdescy.me/uploads/2018/fadac84094.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>This is the sky around my house. It’s nothing special, but will make a nice background for my iPad.</p>\n\n",
-			"date_published": "2018-09-03T17:37:25-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/03/213725.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/03/the-jersey-shore.html",
-	      	
-			"title": "The Jersey Shore",
-			
-			"content_html": "<p><a href=\"http://micro.mjdescy.me/uploads/2018/bcccfde53a.jpg\"><img src=\"http://micro.mjdescy.me/uploads/2018/bcccfde53a.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.mjdescy.me/uploads/2018/06a44bcfcd.jpg\"><img src=\"http://micro.mjdescy.me/uploads/2018/06a44bcfcd.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>I’m testing out a zoom lens I bought for my new Olympus EM-10 Mark III.</p>\n\n",
-			"date_published": "2018-09-03T15:46:23-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/03/the-jersey-shore.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/08/30/i-have-rarely.html",
-	      	
-			"content_html": "<p>I have rarely been bothered by the iPhone 7’s (and subsequent models) lack of a headphone jack. But that was before I lost my Lightning to 3.5 mm Headphone Jack adapter. I guess I have to cough up $9 or so for a new dongle.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/747bd95116.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-30T16:28:38-04:00",
-			"url": "https://micro.mjdescy.me/2018/08/30/i-have-rarely.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/08/30/transistor.html",
-	      	
-			"title": "🎮 Transistor",
-			
-			"content_html": "<p>I finished the game <a href=\"https://www.supergiantgames.com/games/transistor/\">Transistor</a> last night. I played it on my iPad Pro with a MFi controller.</p>\n\n<p>It was a fun game with a great atmosphere (setting, sound design, visual design, etc.) but the story was a bit too opaque for my taste. You had to dig into the user interface and read a bunch of optional stuff to get a better idea of what is going on ints its disintegrating cyberpunk world.</p>\n\n<p>It ended kind of abruptly <em>and</em> had a tragic ending, which is unusual, but maybe not for the <a href=\"https://www.supergiantgames.com/\">game studio</a>. Their prior game, <a href=\"https://www.supergiantgames.com/games/bastion/\">Bastion</a>, also had kind of a downer ending.</p>\n\n<p>I’m not sure if I will do a replay of Transister, but I’m happy that I played it.</p>\n",
-			"date_published": "2018-08-30T09:10:38-04:00",
-			"url": "https://micro.mjdescy.me/2018/08/30/transistor.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/08/29/cryptocurrency-mining-now.html",
-	      	
-			"title": "Cryptocurrency Mining Now Accounts for Approximately One Percent of the World’s Energy Consumption",
-			
-			"content_html": "<p><a href=\"https://theoutline.com/post/6047/bitcoin-mining-accounts-for-almost-one-percent-of-the-worlds-energy-consumption\">This</a> is shameful.</p>\n\n<blockquote>\n  <p>In his testimony, Narayanan estimates that Bitcoin mining now uses about five gigawatts of electricity per day (in May, estimates of Bitcoin power consumption were about half of that).</p>\n</blockquote>\n\n<p>What a waste. We, as a species, could do so much better with our intellect and resources.</p>\n",
-			"date_published": "2018-08-29T12:26:02-04:00",
-			"url": "https://micro.mjdescy.me/2018/08/29/cryptocurrency-mining-now.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/08/28/my-family-hates.html",
-	      	
-			"content_html": "<p>My family <em>hates</em> this picture, but I think it’s pretty cool. Look at the colors and the detail on that fly!</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/457225073b.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-08-27T22:14:17-04:00",
-			"url": "https://micro.mjdescy.me/2018/08/27/my-family-hates.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/08/28/how-one-silicon.html",
-	      	
-			"title": "How One Silicon Valley C.E.O. Masters Work-Life Balance  ",
-			
-			"content_html": "<p>Articles like <a href=\"https://nyti.ms/2o6XKJH?smid=nytcore-ios-share\">this one from the New York Times</a> are meant to be inspiring, I think. But learning how a CEO manages his time is not that valuable for any non-CEO to learn about, simply because a CEO doesn’t have a boss whose demands and whims make time management impossible sometimes. What makes time management difficult—and stressful—is not just whatever the workload is: it is <em>lack of control</em> over your schedule, location, and what you are doing. I’d rather hear about people 1-3 levels down from the CEO about how they manage their time. Their stories would be more relatable, though they would sell fewer papers.</p>\n",
-			"date_published": "2018-08-27T22:06:00-04:00",
-			"url": "https://micro.mjdescy.me/2018/08/27/how-one-silicon.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/08/27/vocal-jazz-with.html",
-	      	
-			"title": "🎵 Vocal Jazz with the V-Moda Crossfade Wireless 2",
-			
-			"content_html": "<p>Today felt like a good day to listen to a long vocal jazz playlist through my V Moda Crossfade Wireless 2. Their warm, somewhat bass-y sound signature works surprisingly well for that genre. I mostly think of them as great for rock and pop music, but they handled sparse arrangements of vocals (male and female), piano, bass, and drums (mostly brushwork) surprisingly well.</p>\n\n<p>I had to use wired mode because the Bluetooth connection is too loud for me, even at the lowest volume setting, on my iOS devices. The Bluetooth volume level appears to be more sane when I use them with my Apple TV or Mac.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/71ecbf0d75.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-08-27T14:17:01-04:00",
-			"url": "https://micro.mjdescy.me/2018/08/27/vocal-jazz-with.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/08/27/my-speakers-over.html",
-	      	
-			"title": "My speakers over the years",
-			
-			"content_html": "<p>While I was on vacation, I wrote a series of blog posts about all my old speaker systems. My goal was to trace my journey from a normal person to an audiophile, as I upgrade my gear up over the years.</p>\n\n<ol>\n  <li><a href=\"https://mjdescy.me/2018/08/10/speakers-over-the-years/\">Speakers over the years</a></li>\n  <li><a href=\"https://mjdescy.me/2018/08/11/my-first-speaker-system/\">My first speaker system</a></li>\n  <li><a href=\"https://mjdescy.me/2018/08/12/sony-cfd-510-boombox/\">Sony CFD 510 Boombox</a></li>\n  <li><a href=\"https://mjdescy.me/2018/08/13/my-first-computer-speakers/\">My first computer speakers</a></li>\n  <li><a href=\"https://mjdescy.me/2018/08/14/altec-lansing-computer-speakers-for-dell/\">Altec Lansing computer speakers</a></li>\n  <li><a href=\"https://mjdescy.me/2018/08/15/harman-kardon-soundsticks-ii-speaker-system/\">Harman Kardon Soundsticks II Speaker System</a></li>\n  <li><a href=\"https://mjdescy.me/2018/08/16/philips-revolution-motorized-portable-speaker-dock-for-iphoneipod/\">Philips Revolution Motorized Portable Speaker Dock for iPhone/iPod</a></li>\n  <li><a href=\"https://mjdescy.me/2018/08/17/altec-lansing-m650-ipod-speaker-dock/\">Altec Lansing M650 iPod Speaker Dock</a></li>\n</ol>\n\n<p>The speakers that I have had are nothing special, but they are special, in a way, to me, because of all the music I listened to through them.</p>\n\n<p>I plan to write another, hopefully more interesting, series about my various headphones in the near future.</p>\n",
-			"date_published": "2018-08-26T23:21:00-04:00",
-			"url": "https://micro.mjdescy.me/2018/08/26/my-speakers-over.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/08/26/i-miss-apples.html",
-	      	
-			"title": "I miss Apple's Aperture",
-			
-			"content_html": "<p>What <a href=\"https://www.macstories.net/stories/the-history-of-aperture/\">Stephen Hackett’s piece</a> says about Apple’s Aperture—mainly about its shortcomings—may be true, it does not reflect that, from a UI standpoint, Aperture was a masterpiece. From not locking you into specific modes or workflows, to having sensible single-key keyboard shortcuts for nearly every command, it was an absolute joy to use. I used it for almost its entire product lifespan.</p>\n\n<p>When Apple announced its end of life, I tried to move to Adobe Lightroom, and just hated it. I stuck with Aperture until over a year into the life of Apple’s current Photos app. I still miss Aperture’s editing tools, and would really be sore about it if my digital cameras today were as bad as the ones I had back in 2005-2011.</p>\n\n<p>Apple Photos is a decent replacement now that it has gone through several iterations. I <em>really</em> wish it had retouching support on the iPad, though. (It is current Mac-only.)</p>\n\n",
-			"date_published": "2018-08-26T15:12:37-04:00",
-			"url": "https://micro.mjdescy.me/2018/08/26/i-miss-apples.html"
 		}
 		
 	]
