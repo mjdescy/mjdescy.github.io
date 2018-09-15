@@ -7,6 +7,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/09/14/mohave.html",
+	      	
+			"title": "Mohave",
+			
+			"content_html": "<p>I am upgrading my MacBook Pro to Mohave today. This is the latest into September I have waited to jump on the beta train since I started developing a Mac app several years ago. I do wish macOS upgrades were as quick and foolproof as iOS upgrades are. Last year’s upgrade nearly killed my old machine. I hope this one will work out.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/9bc7504479.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-09-14T14:00:38-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/14/mohave.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/09/14/143736.html",
 	      	
 			"content_html": "<p>I think I need to re-watch “<a href=\"https://www.imdb.com/title/tt4955642/\">The Good Place</a>”. (It’s available on Netflix.) And, hey, there’s a behind-the-scenes <a href=\"https://www.nbc.com/the-good-place/exclusives/tgp-podcast\">podcast</a> for the show, too!</p>\n",
@@ -196,14 +206,6 @@
 			"content_html": "<p><a href=\"http://micro.mjdescy.me/uploads/2018/5be6041926.jpg\"><img src=\"http://micro.mjdescy.me/uploads/2018/5be6041926.jpg\" width=\"600\" height=\"337\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Bretton Woods, New Hampshire</p>\n\n",
 			"date_published": "2018-09-04T20:07:28-04:00",
 			"url": "https://micro.mjdescy.me/2018/09/04/bretton-woods-new.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/04/as-of-right.html",
-	      	
-			"content_html": "<p>As of right now I have upgraded all of my iOS devices to the iOS 12 beta. I’m happy to report that the apps that <em>I</em> write are working just fine. In fact, everything is working fine.</p>\n",
-			"date_published": "2018-09-04T15:43:56-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/04/as-of-right.html"
 		}
 		
 	]
