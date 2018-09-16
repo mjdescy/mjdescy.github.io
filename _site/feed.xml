@@ -4,14 +4,34 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://micro.mjdescy.me/</link>
-    <pubDate>Fri, 14 Sep 2018 14:02:34 -0400</pubDate>
-    <lastBuildDate>Fri, 14 Sep 2018 14:02:34 -0400</lastBuildDate>
+    <pubDate>Sat, 15 Sep 2018 14:28:25 -0400</pubDate>
+    <lastBuildDate>Sat, 15 Sep 2018 14:28:25 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Partly cloudy&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://micro.mjdescy.me/uploads/2018/a2317ebe29.jpg&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Sep 2018 14:27:03 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/09/15/partly-cloudy.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/09/15/partly-cloudy.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;So, of course, hours after I upgraded my Mac to the Mojave beta, Apple releases &lt;em&gt;another&lt;/em&gt; beta. Not that it matters much, while I am working, but my Mac is back on a black screen for 30 minutes or so once again.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 14 Sep 2018 16:44:57 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/09/14/so-of-course.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/09/14/so-of-course.html</guid>
+      </item>
     
       <item>
       	
         <title>Mohave</title>
         
-        <description>&lt;p&gt;I am upgrading my MacBook Pro to Mohave today. This is the latest into September I have waited to jump on the beta train since I started developing a Mac app several years ago. I do wish macOS upgrades were as quick and foolproof as iOS upgrades are. Last year’s upgrade nearly killed my old machine. I hope this one will work out.&lt;/p&gt;
+        <description>&lt;p&gt;I am upgrading my MacBook Pro to Mojave today. This is the latest into September I have waited to jump on the beta train since I started developing a Mac app several years ago. I do wish macOS upgrades were as quick and foolproof as iOS upgrades are. Last year’s upgrade nearly killed my old machine. I hope this one will work out.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://micro.mjdescy.me/uploads/2018/9bc7504479.jpg&quot; width=&quot;600&quot; height=&quot;599&quot; /&gt;&lt;/p&gt;
 </description>
@@ -570,40 +590,6 @@
         <pubDate>Mon, 20 Aug 2018 22:21:52 -0400</pubDate>
         <link>https://micro.mjdescy.me/2018/08/20/im-debugging-ios.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/08/21/im-debugging-ios.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>It looks like iOS 12 will extend the life of my old iOS hardware</title>
-        
-        <description>&lt;p&gt;I bought my iPad Air 2 almost a year after it was released, only a few months before the first iPad Pro was released. I was a little worried at the time that I would get only a couple years out of it before iOS updates rendered it obsolete. I have been pleasantly surprised that that day has not yet arrived—and, based on how the iOS 12 beta is running, that day will not arrive for at least another year.&lt;/p&gt;
-
-&lt;p&gt;Last night, I finally installed the iOS 12 beta on it, and found the new OS to be smooth, stable, and fast. All my apps (even the ones I wrote!) are working just fine. As Apple promised, UI and animation-related things like scrolling are visibly faster and smoother, too.&lt;/p&gt;
-
-&lt;p&gt;I plan to install iOS 12 beta on my iPhone 7 Plus in early September, after I complete my next release of &lt;a href=&quot;https://swiftodoapp.com&quot;&gt;SwiftoDo&lt;/a&gt;. Based what I’m seeing, performance wise, on my even-older iPad Air 2, I’m looking forward to at least one more year of service from my iPhone 7 Plus, too. (It helps that my phone has a brand new battery and a new screen, thanks to AppleCare Plus.)&lt;/p&gt;
-</description>
-        <pubDate>Mon, 20 Aug 2018 16:41:34 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/08/20/204134.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/08/20/204134.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>The New Dark Sky App</title>
-        
-        <description>&lt;p&gt;Dark Sky released a ground-up &lt;a href=&quot;https://blog.darksky.net/the-new-dark-sky-app/&quot;&gt;rewrite of their flagship iOS app&lt;/a&gt; today.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The most noticeable change is the introduction of a new unified timeline. Rather than separating the forecast onto multiple pages, we now combine the current conditions, next hour rain forecast, next 24 hours, and next week forecasts into a single scrollable view that lets you quickly get to the part of the forecast you care about. This makes it much easier to scan what will happen in the minutes, hours, and days ahead.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Dark Sky version 1.0, which was singularly focused on precipitation warnings and maps for your immediate vicinity, was probably my favorite iteration of the app. It wasn’t a full-fledged weather app at the time, but its singular focus was useful for me whenever I wanted to step out of the house or office.&lt;/p&gt;
-
-&lt;p&gt;I have been using Weather Line, which uses Dark Sky weather data, almost exclusively for the past couple years, because its information layout was denser and more useful. This update may bring me back to Dark Sky, however. I’m moving it back to my home screen and will give it a go.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 20 Aug 2018 12:30:44 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/08/20/the-new-dark.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/08/20/the-new-dark.html</guid>
       </item>
     
   </channel>
