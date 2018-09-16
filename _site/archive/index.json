@@ -7,11 +7,27 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/09/15/partly-cloudy.html",
+	      	
+			"content_text": "Partly cloudy\n\n\n",
+			"date_published": "2018-09-15T14:27:03-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/15/partly-cloudy.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/14/so-of-course.html",
+	      	
+			"content_text": "So, of course, hours after I upgraded my Mac to...",
+			"date_published": "2018-09-14T16:44:57-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/14/so-of-course.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/09/14/mohave.html",
 	      	
 			"title": "Mohave",
 			
-			"content_text": "I am upgrading my MacBook Pro to Mohave today. This...",
+			"content_text": "I am upgrading my MacBook Pro to Mojave today. This...",
 			"date_published": "2018-09-14T14:00:38-04:00",
 			"url": "https://micro.mjdescy.me/2018/09/14/mohave.html"
 		},
