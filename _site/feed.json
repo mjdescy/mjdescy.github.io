@@ -7,6 +7,32 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/09/16/151123.html",
+	      	
+			"content_html": "<p>New Hampshire</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/1ea38f845c.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-16T11:11:23-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/16/151123.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/16/i-am-very.html",
+	      	
+			"title": "I am very pleased with macOS Mojave.",
+			
+			"content_html": "<p>It is not an <em>exciting</em> upgrade, I guess, but it is a solid one. Everything works. Everything is stable. Dark mode looks great and is useful. The Dock now has a second divider between pinned apps and running, non-pinned apps, which I like. Performance is just as good as with High Sierra on my 5-year-old MacBook Pro. All in all, macOS is a mature OS with a great amount of polish. While not exciting, and not substantially different from its predecessors, it represents the pinnacle of desktop operating systems (and shells).</p>\n",
+			"date_published": "2018-09-15T22:23:29-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/15/i-am-very.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/15/mojaves-dark-mode.html",
+	      	
+			"content_html": "<p><a href=\"https://www.apple.com/macos/mojave/\">Mojave’s dark mode</a> is <em>much</em> nicer than I expected it to be. I am definitely going to support it in <a href=\"https://www.swiftodoapp.com/desktop/\">SwiftoDo Desktop</a>. I’m working it out now.</p>\n",
+			"date_published": "2018-09-15T14:59:28-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/15/mojaves-dark-mode.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/09/15/partly-cloudy.html",
 	      	
 			"content_html": "<p>Partly cloudy</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/a2317ebe29.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -182,30 +208,6 @@
 			"content_html": "<p>I’m thinking of writing an iOS app that will simply pick a random album from your Apple Music “Library” and queue it up for playback in the Music app.</p>\n",
 			"date_published": "2018-09-05T22:26:50-04:00",
 			"url": "https://micro.mjdescy.me/2018/09/05/022650.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/05/i-tried-to.html",
-	      	
-			"content_html": "<p><a href=\"http://micro.mjdescy.me/uploads/2018/c905b3e6a2.jpg\"><img src=\"http://micro.mjdescy.me/uploads/2018/c905b3e6a2.jpg\" width=\"600\" height=\"302\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>I tried to up my lunch game today. Note: I did not eat the entire ribeye!</p>\n\n",
-			"date_published": "2018-09-05T14:01:13-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/05/i-tried-to.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/05/i-dont-always.html",
-	      	
-			"content_html": "<p>🎵 I don’t always listen to “Josie and the Pussycats” but when I do, it’s <a href=\"https://en.m.wikipedia.org/wiki/Kay_Hanley\">Kay Hanley</a> singing.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/dcf2ccab08.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-09-05T11:18:39-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/05/i-dont-always.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/05/drinking-oolong-tea.html",
-	      	
-			"content_html": "<p>Drinking oolong tea is good, but I need to get a Red Sox mug.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/042c947e61.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-09-05T09:52:07-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/05/drinking-oolong-tea.html"
 		}
 		
 	]
