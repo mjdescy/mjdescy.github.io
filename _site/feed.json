@@ -7,6 +7,38 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/09/20/x.html",
+	      	
+			"content_html": "<p>X</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/3f322da8dd.jpg\" width=\"449\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-19T20:55:13-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/19/x.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/19/ocean-grove-new.html",
+	      	
+			"content_html": "<p>Ocean Grove, New Jersey</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/49d6177605.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-19T12:09:34-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/19/ocean-grove-new.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/17/new-jersey.html",
+	      	
+			"content_html": "<p>New Jersey</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/13f90befbb.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-17T19:12:20-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/17/new-jersey.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/17/211000.html",
+	      	
+			"content_html": "<p>Last night my wife and I watched the Mr. Rogers documentary <em><a href=\"http://focusfeatures.com/wont-you-be-my-neighbor/\">Won’t You Be My Neighbor</a></em>. It was wonderful and emotional film. Fred Rogers was a fascinating man. This <a href=\"https://www.npr.org/templates/story/story.php?storyId=1178498\">interview he did with Terry Gross in 1985</a> is worth a listen, too.</p>\n",
+			"date_published": "2018-09-17T17:10:00-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/17/211000.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/09/17/192002.html",
 	      	
 			"content_html": "<p>Blog post: <a href=\"https://mjdescy.me/2018/09/17/swiftodo-development-notes-september-2018/\">SwiftoDo Developer Notes, September 2018</a></p>\n",
@@ -176,38 +208,6 @@
 			"content_html": "<p>New Hampshire</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/43d3aa575f.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-09-07T19:25:16-04:00",
 			"url": "https://micro.mjdescy.me/2018/09/07/232516.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/07/i-am-sad.html",
-	      	
-			"content_html": "<p>I am sad that <a href=\"https://exponent.fm/episode-155-the-end-for-now/\">Exponent</a>, one of my favorite podcasts, has entered an indefinite, and maybe permanent, hiatus. Ben Thompson and James Allsworth had great insights into technology and business. Listening to them made me feel like I was in business school again, but with two of the smartest professors (or maybe classmates) in the room.</p>\n",
-			"date_published": "2018-09-07T14:45:41-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/07/i-am-sad.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/07/i-found-out.html",
-	      	
-			"content_html": "<p>I found out that Toad the Wet Sproket re-recorded their greatest hits from the 1990s. <a href=\"https://toadthewetsprocket.bandcamp.com/album/all-you-want\">All You Want</a> was released in 2011. It’s unusual for a band to re-record songs <em>in the studio</em> (live albums are another thing entirely). I found it enjoyable to listen to, though I’m not sure why they did it. The production is more modern—read, a lot louder, but with a larger soundstage—but the songs aren’t re-interpreted or anything.</p>\n\n<p>Texas did this, too, with <a href=\"https://en.m.wikipedia.org/wiki/Texas_25\">Texas 25</a>, which marked their 25th anniversary as a band. Texas reinterpreted some of their songs, though. That album sounds great and is worth a listen.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/a3006dc27d.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-09-07T10:07:07-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/07/i-found-out.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/07/todays-listen-fine.html",
-	      	
-			"content_html": "<p>🎵 Today’s listen: Fine Young Cannibals’ <a href=\"https://itunes.apple.com/us/album/the-raw-the-cooked/1313940401\">The Raw and the Cooked</a> on my V-Moda Crossfade 2 🎧.</p>\n",
-			"date_published": "2018-09-07T08:47:26-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/07/todays-listen-fine.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/07/my-lateevening-destressing.html",
-	      	
-			"content_html": "<p>My late-evening de-stressing video game sessions have moved from <a href=\"https://www.supergiantgames.com/games/transistor/\">Transistor</a>, which I played through twice, to <a href=\"https://itunes.apple.com/is/app/oceanhorn/id708196645?mt=8\">Oceanhorn</a>. Oceanhorn plays like a Zelda clone. I’m finding it to be fun, and it has MFi controller support, which makes it much easier for me to play.</p>\n",
-			"date_published": "2018-09-07T08:31:06-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/07/my-lateevening-destressing.html"
 		}
 		
 	]
