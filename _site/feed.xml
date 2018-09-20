@@ -4,8 +4,50 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://micro.mjdescy.me/</link>
-    <pubDate>Mon, 17 Sep 2018 15:25:17 -0400</pubDate>
-    <lastBuildDate>Mon, 17 Sep 2018 15:25:17 -0400</lastBuildDate>
+    <pubDate>Wed, 19 Sep 2018 20:59:22 -0400</pubDate>
+    <lastBuildDate>Wed, 19 Sep 2018 20:59:22 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;X&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://micro.mjdescy.me/uploads/2018/3f322da8dd.jpg&quot; width=&quot;449&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 19 Sep 2018 20:55:13 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/09/19/x.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/09/20/x.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Ocean Grove, New Jersey&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://micro.mjdescy.me/uploads/2018/49d6177605.jpg&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 19 Sep 2018 12:09:34 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/09/19/ocean-grove-new.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/09/19/ocean-grove-new.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;New Jersey&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://micro.mjdescy.me/uploads/2018/13f90befbb.jpg&quot; width=&quot;450&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Sep 2018 19:12:20 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/09/17/new-jersey.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/09/17/new-jersey.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Last night my wife and I watched the Mr. Rogers documentary &lt;em&gt;&lt;a href=&quot;http://focusfeatures.com/wont-you-be-my-neighbor/&quot;&gt;Won’t You Be My Neighbor&lt;/a&gt;&lt;/em&gt;. It was wonderful and emotional film. Fred Rogers was a fascinating man. This &lt;a href=&quot;https://www.npr.org/templates/story/story.php?storyId=1178498&quot;&gt;interview he did with Terry Gross in 1985&lt;/a&gt; is worth a listen, too.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Sep 2018 17:10:00 -0400</pubDate>
+        <link>https://micro.mjdescy.me/2018/09/17/211000.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/09/17/211000.html</guid>
+      </item>
     
       <item>
       	
@@ -534,52 +576,6 @@
         <pubDate>Sun, 26 Aug 2018 15:12:37 -0400</pubDate>
         <link>https://micro.mjdescy.me/2018/08/26/i-miss-apples.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/08/26/i-miss-apples.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;My daughter and I made a new friend in the backyard today.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://micro.mjdescy.me/uploads/2018/97d3b421d7.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 25 Aug 2018 15:44:42 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/08/25/my-daughter-and.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/08/25/my-daughter-and.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>I fixed a crash. Now I am a golden god! 🧜‍♂️</title>
-        
-        <description>&lt;p&gt;I fixed the SwiftoDo chrasher that I griped about this afternoon, and, to future-me’s chagrin, I stayed up late to do it.&lt;/p&gt;
-
-&lt;p&gt;Tracking down the problem was tricky, but I eventually discovered that &lt;code class=&quot;highlighter-rouge&quot;&gt;UIDocument&lt;/code&gt;’s &lt;code class=&quot;highlighter-rouge&quot;&gt;revert&lt;/code&gt; method was failing because sometimes it was being executed on a closed file. It turns out that I was not interrogating &lt;code class=&quot;highlighter-rouge&quot;&gt;UIDocument.documentState&lt;/code&gt; correctly when checking for “closed” file state. The &lt;code class=&quot;highlighter-rouge&quot;&gt;documentState&lt;/code&gt; property is an OptionSet, and has a &lt;code class=&quot;highlighter-rouge&quot;&gt;contains&lt;/code&gt; method that is more appropriate to use than &lt;code class=&quot;highlighter-rouge&quot;&gt;==&lt;/code&gt; for this purpose.&lt;/p&gt;
-
-&lt;p&gt;At least, that what I think right now. I’ll test my app out for a day or two and see if the nasty crash bug rears its head again, or moves to a new call site.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 23 Aug 2018 23:33:45 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/08/23/i-fixed-a.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/08/24/i-fixed-a.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/hr/app/transistor/id948857526?mt=8&quot;&gt;Transistor on iOS&lt;/a&gt; is a really good game. I started it around 11 PM last night and completely lost track of time until 12:30 AM. I am still doing pretty well with gaming on my iPad Pro with a controller, rather than buying a Nintendo Switch.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 23 Aug 2018 20:06:42 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/08/23/transistor-on-ios.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/08/24/transistor-on-ios.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>Alas, no SwiftoDo update submission to the App Store today</title>
-        
-        <description>&lt;p&gt;Today I was planning to submit to the App Store the current build of SwiftoDo, which I have been testing without incident for about three weeks. Unfortunately, out of nowhere, it started crashing on launch late this morning. Fortunately, I never finished submitting this build to the App Store for review, so it will never reach users. It does mean, however, that I have to debug a tricky treading-related crash before I can release the cool new feature I have been working on.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 23 Aug 2018 14:08:20 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/08/23/alas-no-swiftodo.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/08/23/alas-no-swiftodo.html</guid>
       </item>
     
   </channel>
