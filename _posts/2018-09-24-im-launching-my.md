@@ -1,0 +1,8 @@
+---
+layout: post
+microblog: true
+audio: 
+date: 2018-09-23 20:23:25 -0400
+guid: http://mjdescy.micro.blog/2018/09/24/im-launching-my.html
+---
+I'm launching my Mac for the first time in about a week tonight. It's time to get back to coding and writing at night.
