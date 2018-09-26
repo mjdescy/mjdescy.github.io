@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/09/26/tonight-i-finally.html",
+	      	
+			"content_html": "<p>Tonight I finally coded new and better input forms for <a href=\"http://simplecallblockerapp.com\">Simple Call Blocker</a>, my free iOS call blocking utility. The old ones were woefully amateurish (which I knew) and did not handle large text or small screen sizes too well.</p>\n",
+			"date_published": "2018-09-25T21:45:48-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/25/tonight-i-finally.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/25/wins-for-the.html",
+	      	
+			"content_html": "<p>⚾️ 106 wins for the Red Sox! That’s a franchise record. I can’t believe it, at least compared to how they ended last season.</p>\n",
+			"date_published": "2018-09-24T22:24:27-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/24/wins-for-the.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/09/24/the-last-two.html",
 	      	
 			"content_html": "<p>⚾️ The last two Red Sox/Indians games felt like playoff baseball: close games, extra innings, nail-biting situations at the mound, etc. As a Red Sox fan, I hope my team can win a series against a team as good as the Indians (or, more importantly, the Yankees). Over the past week, I have been reminded of their <em>actual</em> playoff appearances the past two years, in which they lost in the divisional series.</p>\n",
@@ -192,22 +208,6 @@
 			"content_html": "<p>I am happy about all the Apple announcements today. I may not buy any of the new hardware—though the new Apple Watch is kind of tempting—but I certainly admire all the cool technology they are bringing to market.</p>\n",
 			"date_published": "2018-09-12T23:16:24-04:00",
 			"url": "https://micro.mjdescy.me/2018/09/12/i-am-happy.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/13/i-have-unsubscribed.html",
-	      	
-			"content_html": "<p>I have unsubscribed from so many podcasts that I have run out of things to listen to. Hopefully there will be some Apple event hot takes coming in tomorrow.</p>\n",
-			"date_published": "2018-09-12T20:42:31-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/12/i-have-unsubscribed.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/12/its-time-to.html",
-	      	
-			"content_html": "<p>It’s time to find out what we already know about the new Apple Watch and next-gen iPhone X.</p>\n",
-			"date_published": "2018-09-12T13:00:09-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/12/its-time-to.html"
 		}
 		
 	]
