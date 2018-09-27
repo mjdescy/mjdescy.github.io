@@ -7,6 +7,32 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/09/27/wondering-if-the.html",
+	      	
+			"title": "Wondering if the AnyList Apple Watch app is any good now",
+			
+			"content_html": "<p>I’m debating whether I should pay for <a href=\"https://www.anylist.com\">AnyList</a> Pro again, just to use the Apple Watch app. I paid for a year a while back, and the Apple Watch app did not work very well. It kept crashing or getting killed, and would not stay in sync with my iPhone. None of the other paid features are interesting to me. I like the rest of the app’s features, though, and I’m getting the new Apple Watch in about a month, so maybe it will work this time. 🤷🏼‍♂️</p>\n",
+			"date_published": "2018-09-26T21:30:58-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/26/wondering-if-the.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/27/swiftodo-desktops-macos.html",
+	      	
+			"content_html": "<p>SwiftoDo Desktop’s macOS Mojave update is stuck in App Review limbo for the time being. Hopefully it will get through shortly.</p>\n",
+			"date_published": "2018-09-26T21:26:00-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/26/swiftodo-desktops-macos.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/26/i-wonder-what.html",
+	      	
+			"content_html": "<p>I wonder what it would be like if all the multi-exposure/HDR/Machine Learning technologies in the iPhone XS or Google Pixel were applied to a full frame camera with interchangeable lenses. Would that be the ultimate camera, in terms of picture quality? Would the technology not even work in that kind of camera for some reason? Would it work but not be necessary anymore? Are DSLRs more advanced than I even know, and do some of this stuff just as good as the latest iPhone or Pixel already?</p>\n",
+			"date_published": "2018-09-25T22:27:15-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/25/i-wonder-what.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/09/26/tonight-i-finally.html",
 	      	
 			"content_html": "<p>Tonight I finally coded new and better input forms for <a href=\"http://simplecallblockerapp.com\">Simple Call Blocker</a>, my free iOS call blocking utility. The old ones were woefully amateurish (which I knew) and did not handle large text or small screen sizes too well.</p>\n",
@@ -184,30 +210,6 @@
 			"content_html": "<p>New Hampshire</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/e63aa7916d.jpg\" width=\"600\" height=\"400\" /></p>\n",
 			"date_published": "2018-09-13T10:28:33-04:00",
 			"url": "https://micro.mjdescy.me/2018/09/13/142833.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/13/google-is-discontinuing.html",
-	      	
-			"content_html": "<p><a href=\"https://www.macstories.net/linked/google-is-discontinuing-its-inbox-email-app-in-march-2019/\">Google is discontinuing its Inbox Email App</a>. Oh. Google is discontinuing another product. It must be a Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, or Sunday.</p>\n",
-			"date_published": "2018-09-13T09:30:25-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/13/google-is-discontinuing.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/13/sigh-no-stainless.html",
-	      	
-			"content_html": "<h1 id=\"sigh-no-stainless-steel-apple-watch-for-me-probably\">Sigh. No stainless steel Apple Watch for me (probably).</h1>\n\n<p>MacStories has <a href=\"https://www.macstories.net/news/apple-watch-series-4-the-macstories-overview/\">a good overview of the Apple Watch Series 4</a>. For me, because I planned to upgrade this year, the most important bit of information (which Apple glossed over in their presentation yesterday) is the price:</p>\n\n<blockquote>\n  <p>If you like stainless steel Apple Watch models, I’m sorry. The steel variants are only available with cellular capabilities, which is a $100 price increase from aluminum models. As such, stainless steel Series 4 models have a starting price of $699. Steel models also still cost the old $50 to upgrade size to 44mm, so the starting point for the larger steel Series 4 is $749. All of these baseline prices only get you a sport band, so you’ll be shelling out even more if you want to pick up a nicer watch band as well. (At least your old bands still fit though!)</p>\n</blockquote>\n\n<p>I really wanted a stainless steel Apple Watch, mainly because it looks so much better, in my opinion, than the anodized aluminum ones. But $749 is too expensive for me to buy a watch that I will probably want to replace in only 3 years. On top of that, I don’t think I need the cellular connectivity, either.</p>\n",
-			"date_published": "2018-09-13T09:20:43-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/13/sigh-no-stainless.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/13/i-am-happy.html",
-	      	
-			"content_html": "<p>I am happy about all the Apple announcements today. I may not buy any of the new hardware—though the new Apple Watch is kind of tempting—but I certainly admire all the cool technology they are bringing to market.</p>\n",
-			"date_published": "2018-09-12T23:16:24-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/12/i-am-happy.html"
 		}
 		
 	]
