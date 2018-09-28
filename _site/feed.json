@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/09/28/rems-automatic-for.html",
+	      	
+			"content_html": "<p>R.E.M.’s “<a href=\"https://itunes.apple.com/us/album/automatic-for-the-people/1096439447\">Automatic For the People</a>” hits me <em>so</em> much harder as an adult than it did when I was in high school, despite the fact that I listened to it 1000% more often back then.</p>\n",
+			"date_published": "2018-09-28T08:52:43-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/28/rems-automatic-for.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/09/28/i-dont-feel.html",
 	      	
 			"content_html": "<p>I don’t feel like I accomplished much this week, but I <em>did</em> ship two app updates, which is no small feat.</p>\n",
@@ -202,14 +210,6 @@
 			"content_html": "<p>I will be pretty upset when Apple ditches the charging port someday. My favorite headphones depend on it.</p>\n",
 			"date_published": "2018-09-13T20:54:56-04:00",
 			"url": "https://micro.mjdescy.me/2018/09/13/i-will-be.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/13/191757.html",
-	      	
-			"content_html": "<p><img src=\"http://micro.mjdescy.me/uploads/2018/d27a3caae8.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-09-13T15:17:57-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/13/191757.html"
 		}
 		
 	]
