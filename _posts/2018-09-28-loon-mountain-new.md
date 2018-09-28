@@ -1,0 +1,10 @@
+---
+layout: post
+microblog: true
+audio: 
+date: 2018-09-28 15:30:23 -0400
+guid: http://mjdescy.micro.blog/2018/09/28/loon-mountain-new.html
+---
+Loon Mountain, New Hampshire
+
+<img src="http://micro.mjdescy.me/uploads/2018/795ee056fb.jpg" width="600" height="450" />
