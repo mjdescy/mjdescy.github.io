@@ -1,0 +1,10 @@
+---
+layout: post
+microblog: true
+audio: 
+date: 2018-09-30 13:04:57 -0400
+guid: http://mjdescy.micro.blog/2018/09/30/i-liked-this.html
+---
+I liked this tree, which stands at the back of the pumpkin patch, but it was too big for me to fit into frame.
+
+<img src="http://micro.mjdescy.me/uploads/2018/320f6a3f6c.jpg" width="600" height="450" />
