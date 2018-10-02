@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/10/02/i-upgraded-anylist.html",
+	      	
+			"content_html": "<p>I upgraded AnyList, the iOS grocery list app I use, to the Pro version once again, so I could use the Apple Watch app. It worked reallly well—far better than it did a year ago. The watch app saved me from unpocketing and re-pocketing my phone about 39 times this evening. I’m pretty happy about that.</p>\n",
+			"date_published": "2018-10-01T21:07:18-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/01/i-upgraded-anylist.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/10/01/we-arent-the.html",
 	      	
 			"title": "We Aren’t The Only Ones Who Like Apples",
@@ -200,14 +208,6 @@
 			"content_html": "<p>New Jersey</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/13f90befbb.jpg\" width=\"450\" height=\"600\" /></p>\n",
 			"date_published": "2018-09-17T19:12:20-04:00",
 			"url": "https://micro.mjdescy.me/2018/09/17/new-jersey.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/17/211000.html",
-	      	
-			"content_html": "<p>Last night my wife and I watched the Mr. Rogers documentary <em><a href=\"http://focusfeatures.com/wont-you-be-my-neighbor/\">Won’t You Be My Neighbor</a></em>. It was wonderful and emotional film. Fred Rogers was a fascinating man. This <a href=\"https://www.npr.org/templates/story/story.php?storyId=1178498\">interview he did with Terry Gross in 1985</a> is worth a listen, too.</p>\n",
-			"date_published": "2018-09-17T17:10:00-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/17/211000.html"
 		}
 		
 	]
