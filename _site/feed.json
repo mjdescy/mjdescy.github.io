@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/10/02/this-sort-of.html",
+	      	
+			"content_html": "<p>This sort of parade happens a lot around here.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/f5c099f3d4.jpg\" width=\"600\" height=\"337\" /></p>\n",
+			"date_published": "2018-10-02T11:36:14-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/02/this-sort-of.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/10/02/i-upgraded-anylist.html",
 	      	
 			"content_html": "<p>I upgraded AnyList, the iOS grocery list app I use, to the Pro version once again, so I could use the Apple Watch app. It worked reallly well—far better than it did a year ago. The watch app saved me from unpocketing and re-pocketing my phone about 39 times this evening. I’m pretty happy about that.</p>\n",
@@ -200,14 +208,6 @@
 			"content_html": "<p>Ocean Grove, New Jersey</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/49d6177605.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-09-19T12:09:34-04:00",
 			"url": "https://micro.mjdescy.me/2018/09/19/ocean-grove-new.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/17/new-jersey.html",
-	      	
-			"content_html": "<p>New Jersey</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/13f90befbb.jpg\" width=\"450\" height=\"600\" /></p>\n",
-			"date_published": "2018-09-17T19:12:20-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/17/new-jersey.html"
 		}
 		
 	]
