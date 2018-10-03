@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/10/03/the-past-couple.html",
+	      	
+			"content_html": "<p>The past couple weeks I have fallen down the YouTube hole, watching as many photography tutorials as I can. I’m trying to learn how to shoot better with my new micro 4/3 camera.</p>\n",
+			"date_published": "2018-10-02T23:37:12-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/02/the-past-couple.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/02/230113.html",
+	      	
+			"content_html": "<p>My wife and I voted for the school budget today. It was the first time we brought the kids to the polls, which was fun. Hopefully the referendum will pass.</p>\n",
+			"date_published": "2018-10-02T19:01:13-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/02/230113.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/10/02/this-sort-of.html",
 	      	
 			"content_html": "<p>This sort of parade happens a lot around here.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/f5c099f3d4.jpg\" width=\"600\" height=\"337\" /></p>\n",
@@ -192,22 +208,6 @@
 			"content_html": "<p>Autumn artwork with my daughter</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/2275d5ea83.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-09-23T18:45:58-04:00",
 			"url": "https://micro.mjdescy.me/2018/09/23/autumn-artwork-with.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/20/x.html",
-	      	
-			"content_html": "<p>X</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/3f322da8dd.jpg\" width=\"449\" height=\"600\" /></p>\n",
-			"date_published": "2018-09-19T20:55:13-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/19/x.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/19/ocean-grove-new.html",
-	      	
-			"content_html": "<p>Ocean Grove, New Jersey</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/49d6177605.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-09-19T12:09:34-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/19/ocean-grove-new.html"
 		}
 		
 	]
