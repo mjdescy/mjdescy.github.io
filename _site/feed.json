@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/10/04/how-is-the.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/interactive/2018/10/04/magazine/good-place-michael-schur-philosophy.html\">“How is The Good Place so Good?”</a> This is relevant to my interests.</p>\n",
+			"date_published": "2018-10-04T10:40:42-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/04/how-is-the.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/04/i-dont-know.html",
+	      	
+			"content_html": "<p>I don’t know why—and is surely isn’t healthy for me—but I’m trying to figure out a better way to code settings screens on iOS. I find it incredibly tedious to do, whether using storyboards or pure Swift code. Of course, I have created nothing of value over two nights. 🙄</p>\n",
+			"date_published": "2018-10-03T22:05:16-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/03/i-dont-know.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/10/03/too-many-and.html",
 	      	
 			"title": "Too many, and too few emoji",
@@ -194,22 +210,6 @@
 			"content_html": "<p>⚾️ The last two Red Sox/Indians games felt like playoff baseball: close games, extra innings, nail-biting situations at the mound, etc. As a Red Sox fan, I hope my team can win a series against a team as good as the Indians (or, more importantly, the Yankees). Over the past week, I have been reminded of their <em>actual</em> playoff appearances the past two years, in which they lost in the divisional series.</p>\n",
 			"date_published": "2018-09-24T08:40:39-04:00",
 			"url": "https://micro.mjdescy.me/2018/09/24/the-last-two.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/24/021328.html",
-	      	
-			"content_html": "<p>My wife baked a delicious apple cake (yes, cake, not pie) this afternoon. We dusted it with confectioners sugar and topped it with whipped cream before serving. It was so good that my wife and daughter had seconds.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/c349d24712.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-09-23T22:13:28-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/23/021328.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/24/im-launching-my.html",
-	      	
-			"content_html": "<p>I’m launching my Mac for the first time in about a week tonight. It’s time to get back to coding and writing at night.</p>\n",
-			"date_published": "2018-09-23T20:23:25-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/23/im-launching-my.html"
 		}
 		
 	]
