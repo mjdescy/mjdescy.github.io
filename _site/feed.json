@@ -7,6 +7,58 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/10/10/wow-what-a.html",
+	      	
+			"content_html": "<p>Wow, what a finish to the ALDS! I feared that the Red Sox were going to lose it due to Kimbrel’s 9th inning struggles. I enjoy late game excitement, but not when the team I root for suddenly implodes.</p>\n",
+			"date_published": "2018-10-09T23:37:22-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/09/wow-what-a.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/09/i-am-old.html",
+	      	
+			"content_html": "<p>I am old and unhip now because I have not set up Siri Shortcuts to do <em>anything</em> yet.</p>\n",
+			"date_published": "2018-10-09T14:19:16-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/09/i-am-old.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/09/perfect-passwords.html",
+	      	
+			"title": "Perfect Passwords",
+			
+			"content_html": "<p>I still use <a href=\"https://www.grc.com/passwords.htm\">GRC Perfect Passwords</a> <em>all the time</em> to create new, randomly generated passwords–mostly because LastPass does not do a good job interacting with various website login forms. (I understand that is a challenge, especially when people like me run content blockers.) If anything, LastPass seems to work worse for me that it did a couple years ago.</p>\n",
+			"date_published": "2018-10-09T11:03:48-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/09/perfect-passwords.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/09/145208.html",
+	      	
+			"content_html": "<p>I am excited about the Red Sox’s prospects in the ALDS. If only runs could carry over to the next game. 😀</p>\n",
+			"date_published": "2018-10-09T10:52:08-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/09/145208.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/09/norah-jones-has.html",
+	      	
+			"content_html": "<p>🎵 Norah Jones has a new single out, which she wrote with Jeff Tweedy (who plays guitar on the track): <a href=\"https://itunes.apple.com/us/album/a-song-with-no-name/1435826442?i=1435826458\">A Song with No Name</a>. It is bare, stark, and simple, like an old, sad country ballad.</p>\n",
+			"date_published": "2018-10-09T10:40:10-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/09/norah-jones-has.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/05/apples-new-proprietary.html",
+	      	
+			"title": "Apple's New Proprietary Software Locks Kill Independent Repair on New MacBook Pros",
+			
+			"content_html": "<p>I used to be concerned about things like <a href=\"https://motherboard.vice.com/en_us/article/yw9qk7/macbook-pro-software-locks-prevent-independent-repair\">this</a>, but now I accept it as part of the cost of doing business with Apple and on Apple platforms.</p>\n\n<blockquote>\n  <p>“For Macs with the Apple T2 chip, the repair process is not complete for certain parts replacements until the AST 2 System Configuration suite has been run. Failure to perform this step will result in an inoperative system and an incomplete repair,” the document reads. MacRumors reported the new policy earlier today.</p>\n</blockquote>\n\n<p>I have built my own computers, run Linux (as well as Windows or Mac) as my primary operating system, run Android version based on <a href=\"https://source.android.com\">AOSP</a>, and have reached a point where I will gladly pay a single vendor for a more secure and consistent hardware and software experience. Admittedly, if Apple were a terrible company to do business with, I might not feel this way.</p>\n",
+			"date_published": "2018-10-05T10:23:54-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/05/apples-new-proprietary.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/10/05/i-wonder-just.html",
 	      	
 			"content_html": "<p>I wonder just how much of the Red Sox/Yankees series this weekend I will be able to watch.</p>\n",
@@ -160,56 +212,6 @@
 			"content_html": "<p>I heard Erin Ryan for the first time on the “<a href=\"https://overcast.fm/+H1PXYX2PQ\">Pod Save America</a>” podcast. She is smart and quick and great to listen to. I will check out her podcast “<a href=\"https://overcast.fm/+H1PXYX2PQ\">Hysteria</a>” soon.</p>\n",
 			"date_published": "2018-09-28T19:40:32-04:00",
 			"url": "https://micro.mjdescy.me/2018/09/28/i-heard-erin.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/28/loon-mountain-new.html",
-	      	
-			"content_html": "<p>Loon Mountain, New Hampshire</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/795ee056fb.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-09-28T15:30:23-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/28/loon-mountain-new.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/28/191354.html",
-	      	
-			"content_html": "<p>New Jersey</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/e0767a84fd.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-09-28T15:13:54-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/28/191354.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/28/rems-automatic-for.html",
-	      	
-			"content_html": "<p>R.E.M.’s “<a href=\"https://itunes.apple.com/us/album/automatic-for-the-people/1096439447\">Automatic For the People</a>” hits me <em>so</em> much harder as an adult than it did when I was in high school, despite the fact that I listened to it 1000% more often back then.</p>\n",
-			"date_published": "2018-09-28T08:52:43-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/28/rems-automatic-for.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/28/i-dont-feel.html",
-	      	
-			"content_html": "<p>I don’t feel like I accomplished much this week, but I <em>did</em> ship two app updates, which is no small feat.</p>\n",
-			"date_published": "2018-09-27T20:07:16-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/27/i-dont-feel.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/27/wondering-if-the.html",
-	      	
-			"title": "Wondering if the AnyList Apple Watch app is any good now",
-			
-			"content_html": "<p>I’m debating whether I should pay for <a href=\"https://www.anylist.com\">AnyList</a> Pro again, just to use the Apple Watch app. I paid for a year a while back, and the Apple Watch app did not work very well. It kept crashing or getting killed, and would not stay in sync with my iPhone. None of the other paid features are interesting to me. I like the rest of the app’s features, though, and I’m getting the new Apple Watch in about a month, so maybe it will work this time. 🤷🏼‍♂️</p>\n",
-			"date_published": "2018-09-26T21:30:58-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/26/wondering-if-the.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/27/swiftodo-desktops-macos.html",
-	      	
-			"content_html": "<p>SwiftoDo Desktop’s macOS Mojave update is stuck in App Review limbo for the time being. Hopefully it will get through shortly.</p>\n",
-			"date_published": "2018-09-26T21:26:00-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/26/swiftodo-desktops-macos.html"
 		}
 		
 	]
