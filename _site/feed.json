@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/10/15/213303.html",
+	      	
+			"content_html": "<p>This is a park in New Jersey that was <em>not nearly</em> as deserted as this photo would suggest.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/d3f16fc54c.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-10-15T17:33:03-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/15/213303.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/10/15/without-really-planning.html",
 	      	
 			"content_html": "<p>Without really planning to, I realized that, over time, I have reduced the number of podcasts I subscribe to by about 60%, and have slowed the playback speed from 1.2x or 1.1x to 1.0x (with smart speed enabled). I will retcon this observation into my overall plan to reduce information overload.</p>\n",
@@ -208,14 +216,6 @@
 			"content_html": "<p>Apple Pay is now accepted at CVS (at least my location). I’m surprised I didn’t read about this in the text press before I saw it today.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/665be9ba0f.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-09-30T19:38:25-04:00",
 			"url": "https://micro.mjdescy.me/2018/09/30/apple-pay-is.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/30/this-is-a.html",
-	      	
-			"content_html": "<p>This is a Minnie toboggan, I think.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/eda09ab934.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-09-30T18:50:34-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/30/this-is-a.html"
 		}
 		
 	]
