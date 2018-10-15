@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/10/15/without-really-planning.html",
+	      	
+			"content_html": "<p>Without really planning to, I realized that, over time, I have reduced the number of podcasts I subscribe to by about 60%, and have slowed the playback speed from 1.2x or 1.1x to 1.0x (with smart speed enabled). I will retcon this observation into my overall plan to reduce information overload.</p>\n",
+			"date_published": "2018-10-15T09:30:17-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/15/without-really-planning.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/10/15/nope-i-do.html",
 	      	
 			"content_html": "<p>Nope. I do <em>not</em> think I can handle watching the Red Sox/Astros game tonight. 😬</p>\n",
@@ -208,14 +216,6 @@
 			"content_html": "<p>This is a Minnie toboggan, I think.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/eda09ab934.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-09-30T18:50:34-04:00",
 			"url": "https://micro.mjdescy.me/2018/09/30/this-is-a.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/30/these-mums-on.html",
-	      	
-			"content_html": "<p>These mums, on our deck, are the only flower our deer friends have not eaten yet this week.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/6090d887e5.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-09-30T15:58:56-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/30/these-mums-on.html"
 		}
 		
 	]
