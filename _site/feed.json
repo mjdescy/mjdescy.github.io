@@ -7,6 +7,50 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/10/18/this-red-soxastros.html",
+	      	
+			"content_html": "<p>This Red Sox/Astros game is too crazy to turn off, but I really have to go to bed.</p>\n",
+			"date_published": "2018-10-17T23:11:45-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/17/this-red-soxastros.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/17/an-update-on.html",
+	      	
+			"title": "An update on the new Chromebook",
+			
+			"content_html": "<p>I just finished setting up my daughter’s new Chromebook. I bought her an Asus C302C. It’s a nice machine—66% of a MacBook Air for 50% of the cost, plus a touchscreen and 180º hinge for tablet mode.</p>\n\n<p>I was happy to find out that setup was a snap, which I should have expected. Luckily for me, Chrome OS still resembles the windowed version I left behind years ago, so it is familiar enough for me to deal with when I need to.</p>\n\n<p>I did have to figure out how to enable the hilariously named “Australian scrolling” feature on the touchpad, though. I guess the name “natural scroll direction” was taken. As a Mac user, I was surprised that it was not the default. I can’t even remember what my Windows machines default to, though. Maybe natural scrolling is mainly an Apple thing.</p>\n",
+			"date_published": "2018-10-16T22:20:04-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/16/an-update-on.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/17/now-that-drafts.html",
+	      	
+			"content_html": "<p>Now that Drafts has a preview for the Mac, I wonder if it is time for me to try to migrate from Ulysses to Drafts for all my writing. I love both apps, and even use Ulysses to store all my writing now, but don’t really want to pay for both subscriptions every year. I probably write more in Drafts than Ulysses day-to-day, anyway.</p>\n",
+			"date_published": "2018-10-16T22:12:11-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/16/now-that-drafts.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/16/i-just-got.html",
+	      	
+			"content_html": "<p>I just got a new Apple Watch Series 4. I’m still getting used to the larger screen and I am a little disappointed that some complications are not compatible with the new Infograph watch faces. I’m hoping third party apps work better than they did on Series 0 &amp; Series 1.</p>\n",
+			"date_published": "2018-10-16T17:12:02-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/16/i-just-got.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/16/a-new-chromebook.html",
+	      	
+			"title": "A new Chromebook",
+			
+			"content_html": "<p>I just ordered a new Chromebook for my daughter, based on Wirecutter’s recommendation. It was a lot more expensive than I thought Chromebooks sold for, but I bought a decently-speced one for the battery life, screen, and RAM.</p>\n\n<p>I’m not sure what to expect when I have to set it up. I am not even sure what a Chromebook <em>is</em> anymore, now that ChromeOS runs Android apps. I was an owner/user of the original Cr-48 (the prototype Chromebook from Google). I loved CromeOS when it was just a browser, but Google started to loose me when they adding windowing. Now that the Play Store is available, it just feels like another Windows-type platform. I would prefer the “just a browser” version I had before. Perhaps I will soon learn, once the Chromebook arrives, that it still can be run that way. I have been away from it for too long at this point to know.</p>\n",
+			"date_published": "2018-10-16T14:43:39-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/16/a-new-chromebook.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/10/15/213303.html",
 	      	
 			"content_html": "<p>This is a park in New Jersey that was <em>not nearly</em> as deserted as this photo would suggest.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/d3f16fc54c.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -174,48 +218,6 @@
 			"content_html": "<p>The past couple weeks I have fallen down the YouTube hole, watching as many photography tutorials as I can. I’m trying to learn how to shoot better with my new micro 4/3 camera.</p>\n",
 			"date_published": "2018-10-02T23:37:12-04:00",
 			"url": "https://micro.mjdescy.me/2018/10/02/the-past-couple.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/02/230113.html",
-	      	
-			"content_html": "<p>My wife and I voted for the school budget today. It was the first time we brought the kids to the polls, which was fun. Hopefully the referendum will pass.</p>\n",
-			"date_published": "2018-10-02T19:01:13-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/02/230113.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/02/this-sort-of.html",
-	      	
-			"content_html": "<p>This sort of parade happens a lot around here.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/f5c099f3d4.jpg\" width=\"600\" height=\"337\" /></p>\n",
-			"date_published": "2018-10-02T11:36:14-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/02/this-sort-of.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/02/i-upgraded-anylist.html",
-	      	
-			"content_html": "<p>I upgraded AnyList, the iOS grocery list app I use, to the Pro version once again, so I could use the Apple Watch app. It worked reallly well—far better than it did a year ago. The watch app saved me from unpocketing and re-pocketing my phone about 39 times this evening. I’m pretty happy about that.</p>\n",
-			"date_published": "2018-10-01T21:07:18-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/01/i-upgraded-anylist.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/01/we-arent-the.html",
-	      	
-			"title": "We Aren’t The Only Ones Who Like Apples",
-			
-			"content_html": "<p><a href=\"http://micro.mjdescy.me/uploads/2018/c774d60a98.jpg\"><img src=\"http://micro.mjdescy.me/uploads/2018/c774d60a98.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.mjdescy.me/uploads/2018/8a7dd719e9.jpg\"><img src=\"http://micro.mjdescy.me/uploads/2018/8a7dd719e9.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.mjdescy.me/uploads/2018/062a478c68.jpg\"><img src=\"http://micro.mjdescy.me/uploads/2018/062a478c68.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>My family encountered a butterfly while apple-picking on Saturday.</p>\n\n",
-			"date_published": "2018-10-01T08:00:34-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/01/we-arent-the.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/09/30/apple-pay-is.html",
-	      	
-			"content_html": "<p>Apple Pay is now accepted at CVS (at least my location). I’m surprised I didn’t read about this in the text press before I saw it today.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/665be9ba0f.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-09-30T19:38:25-04:00",
-			"url": "https://micro.mjdescy.me/2018/09/30/apple-pay-is.html"
 		}
 		
 	]
