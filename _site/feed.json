@@ -7,6 +7,54 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/10/24/i-just-discovered.html",
+	      	
+			"content_html": "<p>I just discovered that you can ask Siri to “show me pictures of X”. It has been a great way to quickly get to all my photos of my various family members.</p>\n",
+			"date_published": "2018-10-23T21:45:58-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/23/i-just-discovered.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/23/im-debating-voting.html",
+	      	
+			"content_html": "<p>I’m debating voting by mail for the next election and all subsequent ones (that’s how the enrollment form works in my area). The convenience would be beneficial, but we would miss out on bringing our kids to the polls, which I think helps them learn that it is important to vote.</p>\n",
+			"date_published": "2018-10-23T17:12:11-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/23/im-debating-voting.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/23/i-really-enjoyed.html",
+	      	
+			"content_html": "<p>I really enjoyed reading John Gruber’s <a href=\"https://daringfireball.net/2018/10/the_iphone_xr\">iPhone XR review</a> this morning. I am thinking of waiting for the initial buying rush to wear off, and taking my wife to the store to buy her one.</p>\n",
+			"date_published": "2018-10-23T11:09:44-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/23/i-really-enjoyed.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/22/202756.html",
+	      	
+			"content_html": "<p>I have been dithering on the issue for a couple weeks, I finally pulled the trigger and ordered a Nintendo Switch. I ordered Breath of the Wild as my initial game, and hope to have some escapist fun with it soon. I plan to use it almost entirely as a portable system.</p>\n",
+			"date_published": "2018-10-22T16:27:56-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/22/202756.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/22/the-project-i.html",
+	      	
+			"content_html": "<p>The project I am working on right now is on the <a href=\"https://www.avclub.com/the-good-place-annotated-jeremy-bearimy-1829851640\">“Jeremy Bearimy”</a> timeline from “<a href=\"https://www.nbc.com/the-good-place\">The Good Place</a>”, I swear.</p>\n",
+			"date_published": "2018-10-22T09:03:10-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/22/the-project-i.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/19/i-am-thrilled.html",
+	      	
+			"content_html": "<p>I am thrilled that the Red Sox have made it to the World Series. I am a little dismayed, however, that I’m too tired late at night to watch the end of these slow-moving playoff games. (I guess I’m old now.)</p>\n",
+			"date_published": "2018-10-19T10:45:48-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/19/i-am-thrilled.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/10/19/i-will-miss.html",
 	      	
 			"content_html": "<p>I will miss the Inktober posts on Micro.blog once the month is over.</p>\n",
@@ -168,56 +216,6 @@
 			"content_html": "<p>I wonder just how much of the Red Sox/Yankees series this weekend I will be able to watch.</p>\n",
 			"date_published": "2018-10-05T09:34:07-04:00",
 			"url": "https://micro.mjdescy.me/2018/10/05/i-wonder-just.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/05/i-am-on.html",
-	      	
-			"content_html": "<p>I am on the iOS 12 beta on my iPad Pro, quite by accident (I forgot to disable the beta profile after iOS 12 was officially released). Disconnecting my Apple iPad SD card adapter will crash Photos and the entire OS about 50% of the time. 😥 Be warned!</p>\n",
-			"date_published": "2018-10-04T22:42:17-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/04/i-am-on.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/04/the-orchard-called.html",
-	      	
-			"content_html": "<p>The orchard called these shiny yellow apples “Yellow Ribbon”, which is either a variety name they made up, or something that Google has not yet encountered. I think they are really Golden Delicious.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/59549c0aa7.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-10-04T16:49:57-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/04/the-orchard-called.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/04/apple-picking-when.html",
-	      	
-			"content_html": "<p>Apple picking, when it’s early enough that no one else is around.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/2094679c32.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-10-04T16:47:02-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/04/apple-picking-when.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/04/how-is-the.html",
-	      	
-			"content_html": "<p><a href=\"https://www.nytimes.com/interactive/2018/10/04/magazine/good-place-michael-schur-philosophy.html\">“How is The Good Place so Good?”</a> This is relevant to my interests.</p>\n",
-			"date_published": "2018-10-04T10:40:42-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/04/how-is-the.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/04/i-dont-know.html",
-	      	
-			"content_html": "<p>I don’t know why—and is surely isn’t healthy for me—but I’m trying to figure out a better way to code settings screens on iOS. I find it incredibly tedious to do, whether using storyboards or pure Swift code. Of course, I have created nothing of value over two nights. 🙄</p>\n",
-			"date_published": "2018-10-03T22:05:16-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/03/i-dont-know.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/03/too-many-and.html",
-	      	
-			"title": "Too many, and too few emoji",
-			
-			"content_html": "<p><a href=\"https://www.apple.com/newsroom/2018/10/apple-brings-more-than-70-new-emoji-to-iphone-with-ios-12-1/\">Apple is adding more than 70 emoji in iOS 12.1</a>.</p>\n\n<p>While I don’t see that as a bad thing, I find emoji to be a lot more frustrating now that there are so many. Emoji has the same problem as other pictographic languages: there are far too many glyphs to know what you can express, and there are far too few glyphs to express everything you might want to say.</p>\n\n<p>Apparently, <a href=\"https://www.businessinsider.com/apple-iphone-emoji-overload-2018-10\">I’m not the only one who thinks this way</a>.</p>\n",
-			"date_published": "2018-10-03T19:31:28-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/03/too-many-and.html"
 		}
 		
 	]
