@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/10/24/111609.html",
+	      	
+			"content_html": "<p>I had a dream last night that the Dodgers scored 5 runs in the top of the 9th and won the game, even though I knew the outcome of the game before I went to sleep. 😱</p>\n",
+			"date_published": "2018-10-24T07:16:09-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/24/111609.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/10/24/i-just-discovered.html",
 	      	
 			"content_html": "<p>I just discovered that you can ask Siri to “show me pictures of X”. It has been a great way to quickly get to all my photos of my various family members.</p>\n",
@@ -208,14 +216,6 @@
 			"content_html": "<p>I used to be concerned about things like <a href=\"https://motherboard.vice.com/en_us/article/yw9qk7/macbook-pro-software-locks-prevent-independent-repair\">this</a>, but now I accept it as part of the cost of doing business with Apple and on Apple platforms.</p>\n\n<blockquote>\n  <p>“For Macs with the Apple T2 chip, the repair process is not complete for certain parts replacements until the AST 2 System Configuration suite has been run. Failure to perform this step will result in an inoperative system and an incomplete repair,” the document reads. MacRumors reported the new policy earlier today.</p>\n</blockquote>\n\n<p>I have built my own computers, run Linux (as well as Windows or Mac) as my primary operating system, run Android version based on <a href=\"https://source.android.com\">AOSP</a>, and have reached a point where I will gladly pay a single vendor for a more secure and consistent hardware and software experience. Admittedly, if Apple were a terrible company to do business with, I might not feel this way.</p>\n",
 			"date_published": "2018-10-05T10:23:54-04:00",
 			"url": "https://micro.mjdescy.me/2018/10/05/apples-new-proprietary.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/05/i-wonder-just.html",
-	      	
-			"content_html": "<p>I wonder just how much of the Red Sox/Yankees series this weekend I will be able to watch.</p>\n",
-			"date_published": "2018-10-05T09:34:07-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/05/i-wonder-just.html"
 		}
 		
 	]
