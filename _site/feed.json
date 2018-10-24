@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/10/24/my-switch-is.html",
+	      	
+			"content_html": "<p>My Switch is here! But I can’t play on it yet, due to the day-job, then dinner, then bedtime, then the World Series. I’m sure I will try to play a little during the slow times during the World Series tonight.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/93808cdcee.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-10-24T16:35:46-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/24/my-switch-is.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/24/im-expecting-my.html",
+	      	
+			"content_html": "<p>I’m expecting my Nintendo Switch to be delivered today, which is exciting, but it coincides with a World Series game, so I’m not sure how much (if any) I will be able to play tonight.</p>\n",
+			"date_published": "2018-10-24T08:19:52-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/24/im-expecting-my.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/10/24/111609.html",
 	      	
 			"content_html": "<p>I had a dream last night that the Dodgers scored 5 runs in the top of the 9th and won the game, even though I knew the outcome of the game before I went to sleep. 😱</p>\n",
@@ -198,24 +214,6 @@
 			"content_html": "<p>I am excited about the Red Sox’s prospects in the ALDS. If only runs could carry over to the next game. 😀</p>\n",
 			"date_published": "2018-10-09T10:52:08-04:00",
 			"url": "https://micro.mjdescy.me/2018/10/09/145208.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/09/norah-jones-has.html",
-	      	
-			"content_html": "<p>🎵 Norah Jones has a new single out, which she wrote with Jeff Tweedy (who plays guitar on the track): <a href=\"https://itunes.apple.com/us/album/a-song-with-no-name/1435826442?i=1435826458\">A Song with No Name</a>. It is bare, stark, and simple, like an old, sad country ballad.</p>\n",
-			"date_published": "2018-10-09T10:40:10-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/09/norah-jones-has.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/05/apples-new-proprietary.html",
-	      	
-			"title": "Apple's New Proprietary Software Locks Kill Independent Repair on New MacBook Pros",
-			
-			"content_html": "<p>I used to be concerned about things like <a href=\"https://motherboard.vice.com/en_us/article/yw9qk7/macbook-pro-software-locks-prevent-independent-repair\">this</a>, but now I accept it as part of the cost of doing business with Apple and on Apple platforms.</p>\n\n<blockquote>\n  <p>“For Macs with the Apple T2 chip, the repair process is not complete for certain parts replacements until the AST 2 System Configuration suite has been run. Failure to perform this step will result in an inoperative system and an incomplete repair,” the document reads. MacRumors reported the new policy earlier today.</p>\n</blockquote>\n\n<p>I have built my own computers, run Linux (as well as Windows or Mac) as my primary operating system, run Android version based on <a href=\"https://source.android.com\">AOSP</a>, and have reached a point where I will gladly pay a single vendor for a more secure and consistent hardware and software experience. Admittedly, if Apple were a terrible company to do business with, I might not feel this way.</p>\n",
-			"date_published": "2018-10-05T10:23:54-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/05/apples-new-proprietary.html"
 		}
 		
 	]
