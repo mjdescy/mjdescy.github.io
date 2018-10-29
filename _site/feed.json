@@ -7,6 +7,38 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/10/29/now-that-the.html",
+	      	
+			"content_html": "<p>Now that the World Series is over, maybe I can watch less TV and do more exercise again in the evenings.</p>\n",
+			"date_published": "2018-10-29T09:01:25-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/29/now-that-the.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/29/what-a-series.html",
+	      	
+			"content_html": "<p>⚾️ What a Series! I’m really going to miss baseball this winter.</p>\n",
+			"date_published": "2018-10-28T23:18:29-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/28/what-a-series.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/25/if-it-werent.html",
+	      	
+			"content_html": "<p>If it weren’t for Windows’s forced reboots that interrupt my work day, how would I ever find time to micro-blog?</p>\n",
+			"date_published": "2018-10-25T08:46:15-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/25/if-it-werent.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/25/i-keep-thinking.html",
+	      	
+			"content_html": "<p>I keep thinking I should move my email from Gmail to something more private (Hover hosted email, perhaps). But 99.9% of my email is promotional messages or notifications from companies I do business with, so what would be the benefit of paying for a different service? 🤷‍♂️</p>\n",
+			"date_published": "2018-10-24T20:17:15-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/24/i-keep-thinking.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/10/24/my-switch-is.html",
 	      	
 			"content_html": "<p>My Switch is here! But I can’t play on it yet, due to the day-job, then dinner, then bedtime, then the World Series. I’m sure I will try to play a little during the slow times during the World Series tonight.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/93808cdcee.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -180,40 +212,6 @@
 			"content_html": "<p>Ever since my son learned to use the word “again”, bedtime story time has become a <em>lot</em> more repetitive.</p>\n",
 			"date_published": "2018-10-10T19:45:05-04:00",
 			"url": "https://micro.mjdescy.me/2018/10/10/ever-since-my.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/10/wow-what-a.html",
-	      	
-			"content_html": "<p>Wow, what a finish to the ALDS! I feared that the Red Sox were going to lose it due to Kimbrel’s 9th inning struggles. I enjoy late game excitement, but not when the team I root for suddenly implodes.</p>\n",
-			"date_published": "2018-10-09T23:37:22-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/09/wow-what-a.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/09/i-am-old.html",
-	      	
-			"content_html": "<p>I am old and unhip now because I have not set up Siri Shortcuts to do <em>anything</em> yet.</p>\n",
-			"date_published": "2018-10-09T14:19:16-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/09/i-am-old.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/09/perfect-passwords.html",
-	      	
-			"title": "Perfect Passwords",
-			
-			"content_html": "<p>I still use <a href=\"https://www.grc.com/passwords.htm\">GRC Perfect Passwords</a> <em>all the time</em> to create new, randomly generated passwords–mostly because LastPass does not do a good job interacting with various website login forms. (I understand that is a challenge, especially when people like me run content blockers.) If anything, LastPass seems to work worse for me that it did a couple years ago.</p>\n",
-			"date_published": "2018-10-09T11:03:48-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/09/perfect-passwords.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/09/145208.html",
-	      	
-			"content_html": "<p>I am excited about the Red Sox’s prospects in the ALDS. If only runs could carry over to the next game. 😀</p>\n",
-			"date_published": "2018-10-09T10:52:08-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/09/145208.html"
 		}
 		
 	]
