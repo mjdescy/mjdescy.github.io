@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/10/29/fall.html",
+	      	
+			"content_html": "<p>Fall</p>\n\n<p><img src=\"https://micro.mjdescy.me/uploads/2018/18f0b362d6.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-29T19:18:29-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/29/fall.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/29/i-do-not.html",
+	      	
+			"content_html": "<p>🎵 I do not listen to nearly enough Neko Case. For the first time in forever, I just spun up her 2002 album, <a href=\"https://itunes.apple.com/us/album/blacklisted/264606873\">Blacklisted</a>, with its electric lead track: “Things that Scare Me”.</p>\n",
+			"date_published": "2018-10-29T15:36:53-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/29/i-do-not.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/29/151337.html",
+	      	
+			"content_html": "<p>🎵 I’m trying to listen to the <a href=\"https://itunes.apple.com/us/album/pretty-woman-the-musical-original-broadway-cast-recording/1423345741\">Original Broadway Cast recording of “Pretty Woman: the Musical”</a> and it is hard to get through. So boring, so trite. The cast is good, though. Andy Karl, in particular, needs to find a role in a show not based on a movie for a change.</p>\n",
+			"date_published": "2018-10-29T11:13:37-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/29/151337.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/10/29/now-that-the.html",
 	      	
 			"content_html": "<p>Now that the World Series is over, maybe I can watch less TV and do more exercise again in the evenings.</p>\n",
@@ -184,34 +208,6 @@
 			"content_html": "<p>Nope. I do <em>not</em> think I can handle watching the Red Sox/Astros game tonight. 😬</p>\n",
 			"date_published": "2018-10-14T20:15:11-04:00",
 			"url": "https://micro.mjdescy.me/2018/10/14/nope-i-do.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/13/duckduckgo-is-actually.html",
-	      	
-			"title": "DuckDuckGo is actually pretty great",
-			
-			"content_html": "<p>Switching my default search engine from Google to <a href=\"https://duckduckgo.com\">DuckDuckGo</a> this week has been painless. Search results are great (I’m missing nothing by not using Google), and I like it a lot better than Bing. It feels a lot like Google used to, back when Google was focused on searching—you know—<em>the web</em>, rather than Google’s own interpretation of the web. You can also customize its look and feel, and even hide its own ads, which is <em>crazy</em>. So far, I’m very happy.</p>\n",
-			"date_published": "2018-10-12T20:46:29-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/12/duckduckgo-is-actually.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/13/is-the-aeneid.html",
-	      	
-			"title": "Is the Aeneid a Celebration of Empire—or a Critique?",
-			
-			"content_html": "<p>I found <a href=\"https://www.newyorker.com/magazine/2018/10/15/is-the-aeneid-a-celebration-of-empire-or-a-critique\">Daniel Mendelsohn article in The New Yorker about <em>The Aeneid</em></a> to be engaging and fascinating.</p>\n\n<blockquote>\n  <p>What is the Aeneid about? It is about a tiny band of outcasts, the survivors of a terrible persecution. It is about how these survivors—clinging to a divine assurance that an unknown and faraway land will become their new home—arduously cross the seas, determined to refashion themselves as a new people, a nation of victors rather than victims. It is about how, when they finally get there, they find their new homeland inhabited by locals who have no intention of making way for them. It is about how this geopolitical tragedy generates new wars, wars that will, in turn, trigger further conflicts: bella horrida bella. It is about how such conflicts leave those involved in them morally unrecognizable, even to themselves. This is a story that both the Old and the New Worlds know too well; and Virgil was the first to tell it.</p>\n</blockquote>\n\n<p>I disagree with the last sentence of the quote I pulled. The story the author describes is <em>also</em> the story of the Israelites in the Old Testament, which predates Virgil, though I’m not sure if Virgil could have known the stories. I’m sure the author intended us to think of that connection, though, based on how he wrote the passage. Consider me a little puzzled by this, but grateful to have read the article.</p>\n",
-			"date_published": "2018-10-12T20:29:53-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/12/is-the-aeneid.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/10/ever-since-my.html",
-	      	
-			"content_html": "<p>Ever since my son learned to use the word “again”, bedtime story time has become a <em>lot</em> more repetitive.</p>\n",
-			"date_published": "2018-10-10T19:45:05-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/10/ever-since-my.html"
 		}
 		
 	]
