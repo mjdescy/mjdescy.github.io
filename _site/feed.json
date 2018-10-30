@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/10/30/both-my-kids.html",
+	      	
+			"content_html": "<p>Both my kids fell in love with the book, song, and music video (!) for <a href=\"https://en.m.wikipedia.org/wiki/Chicka_Chicka_Boom_Boom\">Chicka Chicka Boom Boom</a> this month. It’s cute, but a little weird.</p>\n",
+			"date_published": "2018-10-30T08:56:52-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/30/both-my-kids.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/10/29/fall.html",
 	      	
 			"content_html": "<p>Fall</p>\n\n<p><img src=\"https://micro.mjdescy.me/uploads/2018/18f0b362d6.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -200,14 +208,6 @@
 			"content_html": "<p>Without really planning to, I realized that, over time, I have reduced the number of podcasts I subscribe to by about 60%, and have slowed the playback speed from 1.2x or 1.1x to 1.0x (with smart speed enabled). I will retcon this observation into my overall plan to reduce information overload.</p>\n",
 			"date_published": "2018-10-15T09:30:17-04:00",
 			"url": "https://micro.mjdescy.me/2018/10/15/without-really-planning.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/15/nope-i-do.html",
-	      	
-			"content_html": "<p>Nope. I do <em>not</em> think I can handle watching the Red Sox/Astros game tonight. 😬</p>\n",
-			"date_published": "2018-10-14T20:15:11-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/14/nope-i-do.html"
 		}
 		
 	]
