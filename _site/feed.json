@@ -7,6 +7,38 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/10/30/234340.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/2018/10/25/realestate/a-broadway-actor-has-a-heart-to-heart-about-life-and-laundry.html\">This article</a>, about an actor’s family finding an apartment as they move to NYC, is kind of depressing. It’s unreasonably expensive to live in the city. If I were in his position, I would probably try to live outside the city a little ways.</p>\n",
+			"date_published": "2018-10-30T19:43:40-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/30/234340.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/30/oh-now-lana.html",
+	      	
+			"content_html": "<p>Oh, now Lana Del Ray and Jack Antonoff are on stage. This is the best Apple event in many years.</p>\n",
+			"date_published": "2018-10-30T11:22:55-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/30/oh-now-lana.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/30/is-anyone-else.html",
+	      	
+			"content_html": "<p>Is anyone else hearing the distorted Halloween echo whenever Tim Cook is speaking at the Apple iPad Pro event?</p>\n",
+			"date_published": "2018-10-30T10:05:08-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/30/is-anyone-else.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/30/how-have-i.html",
+	      	
+			"content_html": "<p>🎵 How have I never listened to “<a href=\"https://en.m.wikipedia.org/wiki/The_Last_Waltz\">The Last Waltz</a>” before? I guess because I thought it would be sad to listen to the last concert by a band (<a href=\"https://en.m.wikipedia.org/wiki/The_Band\">The Band</a>) I loved. <a href=\"https://itunes.apple.com/us/album/the-last-waltz/705585893\">It isn’t sad at all.</a></p>\n",
+			"date_published": "2018-10-30T09:40:44-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/30/how-have-i.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/10/30/both-my-kids.html",
 	      	
 			"content_html": "<p>Both my kids fell in love with the book, song, and music video (!) for <a href=\"https://en.m.wikipedia.org/wiki/Chicka_Chicka_Boom_Boom\">Chicka Chicka Boom Boom</a> this month. It’s cute, but a little weird.</p>\n",
@@ -174,40 +206,6 @@
 			"content_html": "<p>Now that Drafts has a preview for the Mac, I wonder if it is time for me to try to migrate from Ulysses to Drafts for all my writing. I love both apps, and even use Ulysses to store all my writing now, but don’t really want to pay for both subscriptions every year. I probably write more in Drafts than Ulysses day-to-day, anyway.</p>\n",
 			"date_published": "2018-10-16T22:12:11-04:00",
 			"url": "https://micro.mjdescy.me/2018/10/16/now-that-drafts.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/16/i-just-got.html",
-	      	
-			"content_html": "<p>I just got a new Apple Watch Series 4. I’m still getting used to the larger screen and I am a little disappointed that some complications are not compatible with the new Infograph watch faces. I’m hoping third party apps work better than they did on Series 0 &amp; Series 1.</p>\n",
-			"date_published": "2018-10-16T17:12:02-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/16/i-just-got.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/16/a-new-chromebook.html",
-	      	
-			"title": "A new Chromebook",
-			
-			"content_html": "<p>I just ordered a new Chromebook for my daughter, based on Wirecutter’s recommendation. It was a lot more expensive than I thought Chromebooks sold for, but I bought a decently-speced one for the battery life, screen, and RAM.</p>\n\n<p>I’m not sure what to expect when I have to set it up. I am not even sure what a Chromebook <em>is</em> anymore, now that ChromeOS runs Android apps. I was an owner/user of the original Cr-48 (the prototype Chromebook from Google). I loved CromeOS when it was just a browser, but Google started to loose me when they adding windowing. Now that the Play Store is available, it just feels like another Windows-type platform. I would prefer the “just a browser” version I had before. Perhaps I will soon learn, once the Chromebook arrives, that it still can be run that way. I have been away from it for too long at this point to know.</p>\n",
-			"date_published": "2018-10-16T14:43:39-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/16/a-new-chromebook.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/15/213303.html",
-	      	
-			"content_html": "<p>This is a park in New Jersey that was <em>not nearly</em> as deserted as this photo would suggest.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/d3f16fc54c.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-10-15T17:33:03-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/15/213303.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/15/without-really-planning.html",
-	      	
-			"content_html": "<p>Without really planning to, I realized that, over time, I have reduced the number of podcasts I subscribe to by about 60%, and have slowed the playback speed from 1.2x or 1.1x to 1.0x (with smart speed enabled). I will retcon this observation into my overall plan to reduce information overload.</p>\n",
-			"date_published": "2018-10-15T09:30:17-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/15/without-really-planning.html"
 		}
 		
 	]
