@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/11/01/halloween-with-the.html",
+	      	
+			"content_html": "<p>Halloween with the wife and kids was fun. It was unusually warm and we didn’t have many trick-or-treaters in our neighborhood this year.</p>\n",
+			"date_published": "2018-10-31T20:16:50-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/31/halloween-with-the.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/10/30/234340.html",
 	      	
 			"content_html": "<p><a href=\"https://www.nytimes.com/2018/10/25/realestate/a-broadway-actor-has-a-heart-to-heart-about-life-and-laundry.html\">This article</a>, about an actor’s family finding an apartment as they move to NYC, is kind of depressing. It’s unreasonably expensive to live in the city. If I were in his position, I would probably try to live outside the city a little ways.</p>\n",
@@ -198,14 +206,6 @@
 			"content_html": "<p>I just finished setting up my daughter’s new Chromebook. I bought her an Asus C302C. It’s a nice machine—66% of a MacBook Air for 50% of the cost, plus a touchscreen and 180º hinge for tablet mode.</p>\n\n<p>I was happy to find out that setup was a snap, which I should have expected. Luckily for me, Chrome OS still resembles the windowed version I left behind years ago, so it is familiar enough for me to deal with when I need to.</p>\n\n<p>I did have to figure out how to enable the hilariously named “Australian scrolling” feature on the touchpad, though. I guess the name “natural scroll direction” was taken. As a Mac user, I was surprised that it was not the default. I can’t even remember what my Windows machines default to, though. Maybe natural scrolling is mainly an Apple thing.</p>\n",
 			"date_published": "2018-10-16T22:20:04-04:00",
 			"url": "https://micro.mjdescy.me/2018/10/16/an-update-on.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/17/now-that-drafts.html",
-	      	
-			"content_html": "<p>Now that Drafts has a preview for the Mac, I wonder if it is time for me to try to migrate from Ulysses to Drafts for all my writing. I love both apps, and even use Ulysses to store all my writing now, but don’t really want to pay for both subscriptions every year. I probably write more in Drafts than Ulysses day-to-day, anyway.</p>\n",
-			"date_published": "2018-10-16T22:12:11-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/16/now-that-drafts.html"
 		}
 		
 	]
