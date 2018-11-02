@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/11/02/002517.html",
+	      	
+			"content_html": "<p>I have not been looking at polls, because I don’t want to drive myself crazy, but I am really nervous about voter turnout for next week’s midterm election. I have a vague dread that Democrats will, once again, not vote in large enough numbers to help un-f*** this country.</p>\n",
+			"date_published": "2018-11-01T20:25:17-04:00",
+			"url": "https://micro.mjdescy.me/2018/11/01/002517.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/11/01/halloween-with-the.html",
 	      	
 			"content_html": "<p>Halloween with the wife and kids was fun. It was unusually warm and we didn’t have many trick-or-treaters in our neighborhood this year.</p>\n",
@@ -196,16 +204,6 @@
 			"content_html": "<p>This Red Sox/Astros game is too crazy to turn off, but I really have to go to bed.</p>\n",
 			"date_published": "2018-10-17T23:11:45-04:00",
 			"url": "https://micro.mjdescy.me/2018/10/17/this-red-soxastros.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/17/an-update-on.html",
-	      	
-			"title": "An update on the new Chromebook",
-			
-			"content_html": "<p>I just finished setting up my daughter’s new Chromebook. I bought her an Asus C302C. It’s a nice machine—66% of a MacBook Air for 50% of the cost, plus a touchscreen and 180º hinge for tablet mode.</p>\n\n<p>I was happy to find out that setup was a snap, which I should have expected. Luckily for me, Chrome OS still resembles the windowed version I left behind years ago, so it is familiar enough for me to deal with when I need to.</p>\n\n<p>I did have to figure out how to enable the hilariously named “Australian scrolling” feature on the touchpad, though. I guess the name “natural scroll direction” was taken. As a Mac user, I was surprised that it was not the default. I can’t even remember what my Windows machines default to, though. Maybe natural scrolling is mainly an Apple thing.</p>\n",
-			"date_published": "2018-10-16T22:20:04-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/16/an-update-on.html"
 		}
 		
 	]
