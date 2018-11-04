@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/11/04/no-one-told.html",
+	      	
+			"content_html": "<p>No one told my kids that Daylight Saving Time has ended. 😴</p>\n",
+			"date_published": "2018-11-04T07:55:32-05:00",
+			"url": "https://micro.mjdescy.me/2018/11/04/no-one-told.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/11/02/votesaveamericas-voting-guide.html",
+	      	
+			"content_html": "<p><a href=\"https://votesaveamerica.com/ballot\">VoteSaveAmerica’s voting guide</a> is very well done. I was able to quickly learn about the candidates and the ballot measures that will be on my actual ballot on November 6.</p>\n",
+			"date_published": "2018-11-01T20:31:00-04:00",
+			"url": "https://micro.mjdescy.me/2018/11/01/votesaveamericas-voting-guide.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/11/02/002517.html",
 	      	
 			"content_html": "<p>I have not been looking at polls, because I don’t want to drive myself crazy, but I am really nervous about voter turnout for next week’s midterm election. I have a vague dread that Democrats will, once again, not vote in large enough numbers to help un-f*** this country.</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>I am thrilled that the Red Sox have made it to the World Series. I am a little dismayed, however, that I’m too tired late at night to watch the end of these slow-moving playoff games. (I guess I’m old now.)</p>\n",
 			"date_published": "2018-10-19T10:45:48-04:00",
 			"url": "https://micro.mjdescy.me/2018/10/19/i-am-thrilled.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/19/i-will-miss.html",
-	      	
-			"content_html": "<p>I will miss the Inktober posts on Micro.blog once the month is over.</p>\n",
-			"date_published": "2018-10-19T10:41:11-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/19/i-will-miss.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/18/this-red-soxastros.html",
-	      	
-			"content_html": "<p>This Red Sox/Astros game is too crazy to turn off, but I really have to go to bed.</p>\n",
-			"date_published": "2018-10-17T23:11:45-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/17/this-red-soxastros.html"
 		}
 		
 	]
