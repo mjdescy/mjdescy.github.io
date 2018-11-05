@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/11/05/i-bought-a.html",
+	      	
+			"content_html": "<p>I bought a “fast” lens for my micro 4/3 camera to take pictures of my kids indoors, where the light is not good. I have gotten some great shots, but I have concluded, after about a month of shooting, that what I really need is a TTL flash that I can bounce off the ceiling.</p>\n",
+			"date_published": "2018-11-05T08:56:41-05:00",
+			"url": "https://micro.mjdescy.me/2018/11/05/i-bought-a.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/11/04/no-one-told.html",
 	      	
 			"content_html": "<p>No one told my kids that Daylight Saving Time has ended. 😴</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>The project I am working on right now is on the <a href=\"https://www.avclub.com/the-good-place-annotated-jeremy-bearimy-1829851640\">“Jeremy Bearimy”</a> timeline from “<a href=\"https://www.nbc.com/the-good-place\">The Good Place</a>”, I swear.</p>\n",
 			"date_published": "2018-10-22T09:03:10-04:00",
 			"url": "https://micro.mjdescy.me/2018/10/22/the-project-i.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/19/i-am-thrilled.html",
-	      	
-			"content_html": "<p>I am thrilled that the Red Sox have made it to the World Series. I am a little dismayed, however, that I’m too tired late at night to watch the end of these slow-moving playoff games. (I guess I’m old now.)</p>\n",
-			"date_published": "2018-10-19T10:45:48-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/19/i-am-thrilled.html"
 		}
 		
 	]
