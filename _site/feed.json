@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/11/14/do-any-microbloggers.html",
+	      	
+			"content_html": "<p>Do any Micro.bloggers have any suggestions for a good iOS guided meditation app for beginners? There are so many to choose from.</p>\n",
+			"date_published": "2018-11-14T09:13:11-05:00",
+			"url": "https://micro.mjdescy.me/2018/11/14/do-any-microbloggers.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/11/09/im-happy-that.html",
 	      	
 			"content_html": "<p>I’m happy that the Accidental Tech Podcast hosts got invited to the Apple Mac and iPad event, and that <a href=\"https://micro.blog/marco\">@marco</a> got a couple of review units, too. I have enjoyed ATP’s last two episodes all the more because of it.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>⚾️ What a Series! I’m really going to miss baseball this winter.</p>\n",
 			"date_published": "2018-10-28T23:18:29-04:00",
 			"url": "https://micro.mjdescy.me/2018/10/28/what-a-series.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/25/if-it-werent.html",
-	      	
-			"content_html": "<p>If it weren’t for Windows’s forced reboots that interrupt my work day, how would I ever find time to micro-blog?</p>\n",
-			"date_published": "2018-10-25T08:46:15-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/25/if-it-werent.html"
 		}
 		
 	]
