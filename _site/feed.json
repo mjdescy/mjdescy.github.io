@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/11/15/i-am-disappointed.html",
+	      	
+			"content_html": "<p>I am disappointed in the current slate of Broadway musicals. I thought last year was particularly weak, but this year is worse. I am only an infrequent Broadway theater goer, do to the ticket prices, but I listen to a lot of cast recordings. Nothing is grabbing my attention now.</p>\n",
+			"date_published": "2018-11-15T09:21:37-05:00",
+			"url": "https://micro.mjdescy.me/2018/11/15/i-am-disappointed.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/11/14/do-any-microbloggers.html",
 	      	
 			"content_html": "<p>Do any Micro.bloggers have any suggestions for a good iOS guided meditation app for beginners? There are so many to choose from.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Now that the World Series is over, maybe I can watch less TV and do more exercise again in the evenings.</p>\n",
 			"date_published": "2018-10-29T09:01:25-04:00",
 			"url": "https://micro.mjdescy.me/2018/10/29/now-that-the.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/29/what-a-series.html",
-	      	
-			"content_html": "<p>⚾️ What a Series! I’m really going to miss baseball this winter.</p>\n",
-			"date_published": "2018-10-28T23:18:29-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/28/what-a-series.html"
 		}
 		
 	]
