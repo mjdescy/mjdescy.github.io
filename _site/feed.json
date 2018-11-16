@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/11/16/i-dont-really.html",
+	      	
+			"content_html": "<p>I don’t really like how Mastodon posts are now in the auto-generated Discover sections for things like music and specific sports. I just want to see Micro.blog posts in Discover.</p>\n",
+			"date_published": "2018-11-16T16:43:43-05:00",
+			"url": "https://micro.mjdescy.me/2018/11/16/i-dont-really.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/11/15/235255.html",
+	      	
+			"content_html": "<p>I am happy that I was able to cook homemade chicken soup for my family this evening.</p>\n",
+			"date_published": "2018-11-15T18:52:55-05:00",
+			"url": "https://micro.mjdescy.me/2018/11/15/235255.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/11/15/i-cant-believe.html",
 	      	
 			"content_html": "<p>I can’t believe we got a couple inches of snow on the ground today.</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>Fall</p>\n\n<p><img src=\"https://micro.mjdescy.me/uploads/2018/18f0b362d6.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-10-29T19:18:29-04:00",
 			"url": "https://micro.mjdescy.me/2018/10/29/fall.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/29/i-do-not.html",
-	      	
-			"content_html": "<p>🎵 I do not listen to nearly enough Neko Case. For the first time in forever, I just spun up her 2002 album, <a href=\"https://itunes.apple.com/us/album/blacklisted/264606873\">Blacklisted</a>, with its electric lead track: “Things that Scare Me”.</p>\n",
-			"date_published": "2018-10-29T15:36:53-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/29/i-do-not.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/29/151337.html",
-	      	
-			"content_html": "<p>🎵 I’m trying to listen to the <a href=\"https://itunes.apple.com/us/album/pretty-woman-the-musical-original-broadway-cast-recording/1423345741\">Original Broadway Cast recording of “Pretty Woman: the Musical”</a> and it is hard to get through. So boring, so trite. The cast is good, though. Andy Karl, in particular, needs to find a role in a show not based on a movie for a change.</p>\n",
-			"date_published": "2018-10-29T11:13:37-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/29/151337.html"
 		}
 		
 	]
