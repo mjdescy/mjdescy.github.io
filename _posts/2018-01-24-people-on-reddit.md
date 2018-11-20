@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/1f9c065d4e.jpg
 date: 2018-01-23 22:45:07 -0400
 guid: http://mjdescy.micro.blog/2018/01/24/people-on-reddit.html
 ---
