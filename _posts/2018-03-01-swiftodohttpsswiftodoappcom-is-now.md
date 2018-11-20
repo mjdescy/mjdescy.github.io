@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-28 22:21:16 -0400
 guid: http://mjdescy.micro.blog/2018/03/01/swiftodohttpsswiftodoappcom-is-now.html
 ---
