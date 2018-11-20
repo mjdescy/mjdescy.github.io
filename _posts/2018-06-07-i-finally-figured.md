@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-07 00:42:04 -0400
 guid: http://mjdescy.micro.blog/2018/06/07/i-finally-figured.html
 ---
