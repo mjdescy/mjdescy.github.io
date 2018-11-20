@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/8480213f4d.jpg
 date: 2018-01-05 10:09:09 -0400
 guid: http://mjdescy.micro.blog/2018/01/05/i-happened-slowly.html
 ---
