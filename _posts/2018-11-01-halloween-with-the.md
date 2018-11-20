@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-31 20:16:50 -0400
 guid: http://mjdescy.micro.blog/2018/11/01/halloween-with-the.html
 ---
