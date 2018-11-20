@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-03 12:02:01 -0400
 guid: http://mjdescy.micro.blog/2018/08/03/ive-got-only.html
 ---
