@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-31 10:19:38 -0400
 guid: http://mjdescy.micro.blog/2018/03/31/were-going-to.html
 ---
