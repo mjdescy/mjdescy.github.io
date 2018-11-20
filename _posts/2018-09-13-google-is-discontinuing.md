@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-13 09:30:25 -0400
 guid: http://mjdescy.micro.blog/2018/09/13/google-is-discontinuing.html
 ---
