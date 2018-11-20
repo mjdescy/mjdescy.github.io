@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-18 10:00:23 -0400
 guid: http://mjdescy.micro.blog/2018/06/18/my-work-goal.html
 ---
