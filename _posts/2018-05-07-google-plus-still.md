@@ -3,6 +3,7 @@ layout: post
 title: "Google Plus still exists. Why?"
 microblog: false
 audio: 
+photo: 
 date: 2018-05-06 21:10:09 -0400
 guid: http://mjdescy.micro.blog/2018/05/07/google-plus-still.html
 ---
