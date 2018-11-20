@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-31 09:16:50 -0400
 guid: http://mjdescy.micro.blog/2018/01/31/the-program-i.html
 ---
