@@ -3,6 +3,7 @@ layout: post
 title: "Koko the Gorilla, Who Used Sign Language and Befriended Mr. Rogers, Dies at 46"
 microblog: false
 audio: 
+photo: 
 date: 2018-06-21 22:23:00 -0400
 guid: http://mjdescy.micro.blog/2018/06/22/koko-the-gorilla.html
 ---
