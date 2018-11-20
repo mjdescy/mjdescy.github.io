@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-06 11:51:23 -0400
 guid: http://mjdescy.micro.blog/2018/02/06/work-today-is.html
 ---
