@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-04 09:43:10 -0400
 guid: http://mjdescy.micro.blog/2018/06/04/microsoft-bought-github.html
 ---
