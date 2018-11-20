@@ -3,6 +3,7 @@ layout: post
 title: "Wondering if the AnyList Apple Watch app is any good now"
 microblog: false
 audio: 
+photo: 
 date: 2018-09-26 21:30:58 -0400
 guid: http://mjdescy.micro.blog/2018/09/27/wondering-if-the.html
 ---
