@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/8202915f7a.jpg
 date: 2018-03-01 16:50:52 -0400
 guid: http://mjdescy.micro.blog/2018/03/01/i-actually-solved.html
 ---
