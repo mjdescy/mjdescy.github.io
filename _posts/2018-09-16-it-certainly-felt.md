@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-16 16:55:09 -0400
 guid: http://mjdescy.micro.blog/2018/09/16/it-certainly-felt.html
 ---
