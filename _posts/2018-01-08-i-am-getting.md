@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-08 11:07:34 -0400
 guid: http://mjdescy.micro.blog/2018/01/08/i-am-getting.html
 ---
