@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/ebc93f475c.jpg
 date: 2018-08-22 10:25:30 -0400
 guid: http://mjdescy.micro.blog/2018/08/22/apples-music-app.html
 ---
