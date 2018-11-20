@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-16 13:13:50 -0400
 guid: http://mjdescy.micro.blog/2018/02/16/swiftodo-is-now.html
 ---
