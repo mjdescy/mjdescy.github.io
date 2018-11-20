@@ -3,6 +3,7 @@ layout: post
 title: "🎵 Vocal Jazz with the V-Moda Crossfade Wireless 2"
 microblog: false
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/71ecbf0d75.jpg
 date: 2018-08-27 14:17:01 -0400
 guid: http://mjdescy.micro.blog/2018/08/27/vocal-jazz-with.html
 ---
