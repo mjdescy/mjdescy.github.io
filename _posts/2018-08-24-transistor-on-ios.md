@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-23 20:06:42 -0400
 guid: http://mjdescy.micro.blog/2018/08/24/transistor-on-ios.html
 ---
