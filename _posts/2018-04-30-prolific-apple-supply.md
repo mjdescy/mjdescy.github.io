@@ -3,6 +3,7 @@ layout: post
 title: "Prolific Apple supply chain analyst Ming-Chi Kuo departs KGI Securities, likely to focus on companies other than Apple"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-30 09:49:29 -0400
 guid: http://mjdescy.micro.blog/2018/04/30/prolific-apple-supply.html
 ---
