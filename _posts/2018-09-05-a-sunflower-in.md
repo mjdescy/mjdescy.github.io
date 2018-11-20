@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/fbbe739a5f.jpg
 date: 2018-09-05 07:23:52 -0400
 guid: http://mjdescy.micro.blog/2018/09/05/a-sunflower-in.html
 ---
