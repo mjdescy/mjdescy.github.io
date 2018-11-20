@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-30 09:40:58 -0400
 guid: http://mjdescy.micro.blog/2018/05/30/this-new-york.html
 ---
