@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-24 08:40:39 -0400
 guid: http://mjdescy.micro.blog/2018/09/24/the-last-two.html
 ---
