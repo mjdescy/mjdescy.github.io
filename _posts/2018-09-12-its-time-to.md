@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-12 13:00:09 -0400
 guid: http://mjdescy.micro.blog/2018/09/12/its-time-to.html
 ---
