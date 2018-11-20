@@ -3,6 +3,7 @@ layout: post
 title: "Ready Player One"
 microblog: false
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/94ab55d10a.jpg
 date: 2018-01-09 19:42:37 -0400
 guid: http://mjdescy.micro.blog/2018/01/09/ready-player-one.html
 ---
