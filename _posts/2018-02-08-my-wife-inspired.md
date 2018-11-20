@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/f9d4f88773.jpg
 date: 2018-02-08 19:00:54 -0400
 guid: http://mjdescy.micro.blog/2018/02/08/my-wife-inspired.html
 ---
