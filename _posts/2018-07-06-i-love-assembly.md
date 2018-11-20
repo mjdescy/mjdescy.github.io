@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/028bf81d4b.jpg
 date: 2018-07-06 08:56:52 -0400
 guid: http://mjdescy.micro.blog/2018/07/06/i-love-assembly.html
 ---
