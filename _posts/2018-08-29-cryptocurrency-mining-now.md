@@ -3,6 +3,7 @@ layout: post
 title: "Cryptocurrency Mining Now Accounts for Approximately One Percent of the World’s Energy Consumption"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-29 12:26:02 -0400
 guid: http://mjdescy.micro.blog/2018/08/29/cryptocurrency-mining-now.html
 ---
