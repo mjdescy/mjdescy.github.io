@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-09 11:23:07 -0400
 guid: http://mjdescy.micro.blog/2018/11/09/im-happy-that.html
 ---
