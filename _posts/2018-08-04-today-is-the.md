@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-04 09:53:07 -0400
 guid: http://mjdescy.micro.blog/2018/08/04/today-is-the.html
 ---
