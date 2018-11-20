@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/a3006dc27d.jpg
 date: 2018-09-07 10:07:07 -0400
 guid: http://mjdescy.micro.blog/2018/09/07/i-found-out.html
 ---
