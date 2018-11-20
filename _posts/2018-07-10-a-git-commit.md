@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-09 22:50:21 -0400
 guid: http://mjdescy.micro.blog/2018/07/10/a-git-commit.html
 ---
