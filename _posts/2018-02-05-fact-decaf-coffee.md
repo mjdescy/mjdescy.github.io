@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-05 19:47:13 -0400
 guid: http://mjdescy.micro.blog/2018/02/05/fact-decaf-coffee.html
 ---
