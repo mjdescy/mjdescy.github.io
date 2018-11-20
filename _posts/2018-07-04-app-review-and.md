@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-04 09:49:42 -0400
 guid: http://mjdescy.micro.blog/2018/07/04/app-review-and.html
 ---
