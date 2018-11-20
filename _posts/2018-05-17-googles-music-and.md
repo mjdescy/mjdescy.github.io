@@ -3,6 +3,7 @@ layout: post
 title: "Google's music and video streaming strategy is a mess"
 microblog: false
 audio: 
+photo: 
 date: 2018-05-17 12:28:39 -0400
 guid: http://mjdescy.micro.blog/2018/05/17/googles-music-and.html
 ---
