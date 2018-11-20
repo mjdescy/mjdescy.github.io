@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/91610af115.jpg
 date: 2018-01-23 00:12:45 -0400
 guid: http://mjdescy.micro.blog/2018/01/23/baltimores-inner-harbor.html
 ---
