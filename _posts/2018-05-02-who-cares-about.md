@@ -3,6 +3,7 @@ layout: post
 title: "Who cares about Apple earnings reports?"
 microblog: false
 audio: 
+photo: 
 date: 2018-05-01 22:59:11 -0400
 guid: http://mjdescy.micro.blog/2018/05/02/who-cares-about.html
 ---
