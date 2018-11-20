@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/17744f05b8.jpg
 date: 2018-02-21 23:27:08 -0400
 guid: http://mjdescy.micro.blog/2018/02/22/i-learned-of.html
 ---
