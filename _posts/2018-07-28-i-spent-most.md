@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-27 20:04:44 -0400
 guid: http://mjdescy.micro.blog/2018/07/28/i-spent-most.html
 ---
