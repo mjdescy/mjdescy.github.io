@@ -3,6 +3,7 @@ layout: post
 title: "I miss Caesar salad"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-27 21:35:39 -0400
 guid: http://mjdescy.micro.blog/2018/04/28/i-miss-caesar.html
 ---
