@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/595c9bfd59.jpg
 date: 2018-06-17 22:26:10 -0400
 guid: http://mjdescy.micro.blog/2018/06/18/my-app-sales.html
 ---
