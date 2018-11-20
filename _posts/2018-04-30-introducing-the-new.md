@@ -3,6 +3,7 @@ layout: post
 title: "Introducing The New Yorker Crossword Puzzle"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-30 11:43:23 -0400
 guid: http://mjdescy.micro.blog/2018/04/30/introducing-the-new.html
 ---
