@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/c4fea0b7e1.jpg
 date: 2018-05-17 22:00:27 -0400
 guid: http://mjdescy.micro.blog/2018/05/18/googles-attractive-by.html
 ---
