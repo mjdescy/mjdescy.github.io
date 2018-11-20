@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-23 00:34:37 -0400
 guid: http://mjdescy.micro.blog/2018/02/23/altos-odyssey-has.html
 ---
