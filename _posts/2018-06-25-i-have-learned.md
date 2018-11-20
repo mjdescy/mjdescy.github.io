@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-25 16:27:51 -0400
 guid: http://mjdescy.micro.blog/2018/06/25/i-have-learned.html
 ---
