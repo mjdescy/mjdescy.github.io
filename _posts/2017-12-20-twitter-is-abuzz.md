@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-20 15:11:03 -0400
 guid: http://mjdescy.micro.blog/2017/12/20/twitter-is-abuzz.html
 ---
