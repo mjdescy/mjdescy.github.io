@@ -3,6 +3,7 @@ layout: post
 title: "Trying to get back into Pinboard, or, maybe I am over-complicating things"
 microblog: false
 audio: 
+photo: 
 date: 2018-05-08 10:44:53 -0400
 guid: http://mjdescy.micro.blog/2018/05/08/trying-to-get.html
 ---
