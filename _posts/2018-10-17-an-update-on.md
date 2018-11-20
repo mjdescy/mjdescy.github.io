@@ -3,6 +3,7 @@ layout: post
 title: "An update on the new Chromebook"
 microblog: false
 audio: 
+photo: 
 date: 2018-10-16 22:20:04 -0400
 guid: http://mjdescy.micro.blog/2018/10/17/an-update-on.html
 ---
