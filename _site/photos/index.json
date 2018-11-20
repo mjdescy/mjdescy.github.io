@@ -1,0 +1,1430 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Michael Descy",
+	"icon": "https://micro.blog/mjdescy/avatar.jpg",
+	"home_page_url": "https://micro.mjdescy.me/",
+	"feed_url": "https://micro.mjdescy.me/photos/index.json",
+	"items": [
+		{
+			"id": "http://mjdescy.micro.blog/2018/11/20/most-of-my.html",
+			
+			"content_text": "<p>Most of my cooking and cleaning plans today were derailed when my kitchen sink detached from the granite countertop. I was soaking oven racks in scalding hot water, which I do every year around this time, but this time the weight and the heat were too much. The sink’s seaI failed, and the sink dropped about an inch on one side. I had to bail gallons of hot water out with a bowl. Luckily, I was able to get it repaired about an hour later, but I can’t use the sink again until sometime tomorrow. At least this didn’t happen to me on Thanksgiving!</p>\n\n<p><img src=\"https://micro.mjdescy.me/uploads/2018/c80dc7fc6b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-20T15:26:39-05:00",
+			"url": "https://micro.mjdescy.me/2018/11/20/most-of-my.html",
+			"image": "https://micro.mjdescy.me/uploads/2018/c80dc7fc6b.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://micro.mjdescy.me/uploads/2018/c80dc7fc6b.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/29/fall.html",
+			
+			"content_text": "<p>Fall</p>\n\n<p><img src=\"https://micro.mjdescy.me/uploads/2018/18f0b362d6.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-29T19:18:29-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/29/fall.html",
+			"image": "https://micro.mjdescy.me/uploads/2018/18f0b362d6.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://micro.mjdescy.me/uploads/2018/18f0b362d6.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/24/my-switch-is.html",
+			
+			"content_text": "<p>My Switch is here! But I can’t play on it yet, due to the day-job, then dinner, then bedtime, then the World Series. I’m sure I will try to play a little during the slow times during the World Series tonight.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/93808cdcee.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-10-24T16:35:46-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/24/my-switch-is.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/93808cdcee.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/93808cdcee.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/15/213303.html",
+			
+			"content_text": "<p>This is a park in New Jersey that was <em>not nearly</em> as deserted as this photo would suggest.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/d3f16fc54c.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-10-15T17:33:03-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/15/213303.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/d3f16fc54c.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/d3f16fc54c.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/04/the-orchard-called.html",
+			
+			"content_text": "<p>The orchard called these shiny yellow apples “Yellow Ribbon”, which is either a variety name they made up, or something that Google has not yet encountered. I think they are really Golden Delicious.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/59549c0aa7.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-10-04T16:49:57-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/04/the-orchard-called.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/59549c0aa7.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/59549c0aa7.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/04/apple-picking-when.html",
+			
+			"content_text": "<p>Apple picking, when it’s early enough that no one else is around.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/2094679c32.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-10-04T16:47:02-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/04/apple-picking-when.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/2094679c32.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/2094679c32.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/02/this-sort-of.html",
+			
+			"content_text": "<p>This sort of parade happens a lot around here.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/f5c099f3d4.jpg\" width=\"600\" height=\"337\" /></p>\n",
+			"date_published": "2018-10-02T11:36:14-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/02/this-sort-of.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/f5c099f3d4.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/f5c099f3d4.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/10/01/we-arent-the.html",
+			
+			"title": "We Aren’t The Only Ones Who Like Apples",
+			
+			"content_text": "<p><a href=\"http://micro.mjdescy.me/uploads/2018/c774d60a98.jpg\"><img src=\"http://micro.mjdescy.me/uploads/2018/c774d60a98.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.mjdescy.me/uploads/2018/8a7dd719e9.jpg\"><img src=\"http://micro.mjdescy.me/uploads/2018/8a7dd719e9.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.mjdescy.me/uploads/2018/062a478c68.jpg\"><img src=\"http://micro.mjdescy.me/uploads/2018/062a478c68.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>My family encountered a butterfly while apple-picking on Saturday.</p>\n\n",
+			"date_published": "2018-10-01T08:00:34-04:00",
+			"url": "https://micro.mjdescy.me/2018/10/01/we-arent-the.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/062a478c68.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/062a478c68.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/30/apple-pay-is.html",
+			
+			"content_text": "<p>Apple Pay is now accepted at CVS (at least my location). I’m surprised I didn’t read about this in the text press before I saw it today.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/665be9ba0f.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-30T19:38:25-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/30/apple-pay-is.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/665be9ba0f.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/665be9ba0f.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/30/this-is-a.html",
+			
+			"content_text": "<p>This is a Minnie toboggan, I think.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/eda09ab934.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-30T18:50:34-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/30/this-is-a.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/eda09ab934.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/eda09ab934.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/30/these-mums-on.html",
+			
+			"content_text": "<p>These mums, on our deck, are the only flower our deer friends have not eaten yet this week.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/6090d887e5.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-30T15:58:56-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/30/these-mums-on.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/6090d887e5.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/6090d887e5.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/30/i-liked-this.html",
+			
+			"content_text": "<p>I liked this tree, which stands at the back of the pumpkin patch, but it was too big for me to fit into frame.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/320f6a3f6c.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-30T13:04:57-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/30/i-liked-this.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/320f6a3f6c.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/320f6a3f6c.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/29/we-will-be.html",
+			
+			"content_text": "<p>We will be returning to this pumpkin patch in about a week, I think.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/7dfb2ed247.jpg\" width=\"600\" height=\"337\" /></p>\n",
+			"date_published": "2018-09-29T15:43:50-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/29/we-will-be.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/7dfb2ed247.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/7dfb2ed247.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/28/supermarket-twilight.html",
+			
+			"content_text": "<p>Supermarket twilight</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/bd7cc7e6b9.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-28T19:47:16-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/28/supermarket-twilight.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/bd7cc7e6b9.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/bd7cc7e6b9.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/28/loon-mountain-new.html",
+			
+			"content_text": "<p>Loon Mountain, New Hampshire</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/795ee056fb.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-28T15:30:23-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/28/loon-mountain-new.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/795ee056fb.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/795ee056fb.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/28/191354.html",
+			
+			"content_text": "<p>New Jersey</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/e0767a84fd.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-28T15:13:54-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/28/191354.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/e0767a84fd.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/e0767a84fd.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/24/021328.html",
+			
+			"content_text": "<p>My wife baked a delicious apple cake (yes, cake, not pie) this afternoon. We dusted it with confectioners sugar and topped it with whipped cream before serving. It was so good that my wife and daughter had seconds.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/c349d24712.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-23T22:13:28-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/23/021328.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/c349d24712.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/c349d24712.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/23/autumn-artwork-with.html",
+			
+			"content_text": "<p>Autumn artwork with my daughter</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/2275d5ea83.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-23T18:45:58-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/23/autumn-artwork-with.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/2275d5ea83.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/2275d5ea83.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/20/x.html",
+			
+			"content_text": "<p>X</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/3f322da8dd.jpg\" width=\"449\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-19T20:55:13-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/19/x.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/3f322da8dd.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/3f322da8dd.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/19/ocean-grove-new.html",
+			
+			"content_text": "<p>Ocean Grove, New Jersey</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/49d6177605.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-19T12:09:34-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/19/ocean-grove-new.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/49d6177605.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/49d6177605.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/17/new-jersey.html",
+			
+			"content_text": "<p>New Jersey</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/13f90befbb.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-17T19:12:20-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/17/new-jersey.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/13f90befbb.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/13f90befbb.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/16/151123.html",
+			
+			"content_text": "<p>New Hampshire</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/1ea38f845c.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-16T11:11:23-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/16/151123.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/1ea38f845c.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/1ea38f845c.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/15/partly-cloudy.html",
+			
+			"content_text": "<p>Partly cloudy</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/a2317ebe29.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-15T14:27:03-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/15/partly-cloudy.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/a2317ebe29.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/a2317ebe29.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/14/mohave.html",
+			
+			"title": "Mohave",
+			
+			"content_text": "<p>I am upgrading my MacBook Pro to Mojave today. This is the latest into September I have waited to jump on the beta train since I started developing a Mac app several years ago. I do wish macOS upgrades were as quick and foolproof as iOS upgrades are. Last year’s upgrade nearly killed my old machine. I hope this one will work out.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/9bc7504479.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-09-14T14:00:38-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/14/mohave.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/9bc7504479.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/9bc7504479.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/13/191757.html",
+			
+			"content_text": "<p><img src=\"http://micro.mjdescy.me/uploads/2018/d27a3caae8.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-13T15:17:57-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/13/191757.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/d27a3caae8.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/d27a3caae8.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/13/142833.html",
+			
+			"content_text": "<p>New Hampshire</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/e63aa7916d.jpg\" width=\"600\" height=\"400\" /></p>\n",
+			"date_published": "2018-09-13T10:28:33-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/13/142833.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/e63aa7916d.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/e63aa7916d.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/12/community-art-from.html",
+			
+			"content_text": "<p>Community art, from a street fair in Bethlehem, New Hampshire</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/dc81bee8f9.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-12T09:23:06-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/12/community-art-from.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/dc81bee8f9.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/dc81bee8f9.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/09/001610.html",
+			
+			"content_text": "<p>New Hampshire</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/e4a0924dbe.jpg\" width=\"600\" height=\"400\" /></p>\n",
+			"date_published": "2018-09-08T20:16:10-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/08/001610.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/e4a0924dbe.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/e4a0924dbe.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/07/232516.html",
+			
+			"content_text": "<p>New Hampshire</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/43d3aa575f.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-07T19:25:16-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/07/232516.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/43d3aa575f.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/43d3aa575f.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/07/i-found-out.html",
+			
+			"content_text": "<p>I found out that Toad the Wet Sproket re-recorded their greatest hits from the 1990s. <a href=\"https://toadthewetsprocket.bandcamp.com/album/all-you-want\">All You Want</a> was released in 2011. It’s unusual for a band to re-record songs <em>in the studio</em> (live albums are another thing entirely). I found it enjoyable to listen to, though I’m not sure why they did it. The production is more modern—read, a lot louder, but with a larger soundstage—but the songs aren’t re-interpreted or anything.</p>\n\n<p>Texas did this, too, with <a href=\"https://en.m.wikipedia.org/wiki/Texas_25\">Texas 25</a>, which marked their 25th anniversary as a band. Texas reinterpreted some of their songs, though. That album sounds great and is worth a listen.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/a3006dc27d.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-07T10:07:07-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/07/i-found-out.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/a3006dc27d.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/a3006dc27d.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/07/i-dont-remember.html",
+			
+			"content_text": "<p>I don’t remember hopscotch being drawn this way, but I’m glad my driveway has WiFi.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/bef3d6ce01.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-06T20:34:23-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/06/i-dont-remember.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/bef3d6ce01.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/bef3d6ce01.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/05/i-tried-to.html",
+			
+			"content_text": "<p><a href=\"http://micro.mjdescy.me/uploads/2018/c905b3e6a2.jpg\"><img src=\"http://micro.mjdescy.me/uploads/2018/c905b3e6a2.jpg\" width=\"600\" height=\"302\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>I tried to up my lunch game today. Note: I did not eat the entire ribeye!</p>\n\n",
+			"date_published": "2018-09-05T14:01:13-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/05/i-tried-to.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/c905b3e6a2.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/c905b3e6a2.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/05/i-dont-always.html",
+			
+			"content_text": "<p>🎵 I don’t always listen to “Josie and the Pussycats” but when I do, it’s <a href=\"https://en.m.wikipedia.org/wiki/Kay_Hanley\">Kay Hanley</a> singing.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/dcf2ccab08.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-05T11:18:39-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/05/i-dont-always.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/dcf2ccab08.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/dcf2ccab08.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/05/drinking-oolong-tea.html",
+			
+			"content_text": "<p>Drinking oolong tea is good, but I need to get a Red Sox mug.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/042c947e61.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-05T09:52:07-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/05/drinking-oolong-tea.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/042c947e61.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/042c947e61.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/05/a-sunflower-in.html",
+			
+			"content_text": "<p>A sunflower in the backyard. My daughter loves these, but we don’t admire them often enough.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/fbbe739a5f.jpg\" width=\"600\" height=\"449\" /></p>\n",
+			"date_published": "2018-09-05T07:23:52-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/05/a-sunflower-in.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/fbbe739a5f.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/fbbe739a5f.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/05/bretton-woods-new.html",
+			
+			"content_text": "<p><a href=\"http://micro.mjdescy.me/uploads/2018/5be6041926.jpg\"><img src=\"http://micro.mjdescy.me/uploads/2018/5be6041926.jpg\" width=\"600\" height=\"337\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Bretton Woods, New Hampshire</p>\n\n",
+			"date_published": "2018-09-04T20:07:28-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/04/bretton-woods-new.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/5be6041926.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/5be6041926.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/04/new-hampshire.html",
+			
+			"content_text": "<p><a href=\"http://micro.mjdescy.me/uploads/2018/cfbd76e892.jpg\"><img src=\"http://micro.mjdescy.me/uploads/2018/cfbd76e892.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>New Hampshire</p>\n\n",
+			"date_published": "2018-09-04T08:13:49-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/04/new-hampshire.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/cfbd76e892.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/cfbd76e892.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/03/213725.html",
+			
+			"content_text": "<p><a href=\"http://micro.mjdescy.me/uploads/2018/fadac84094.jpg\"><img src=\"http://micro.mjdescy.me/uploads/2018/fadac84094.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>This is the sky around my house. It’s nothing special, but will make a nice background for my iPad.</p>\n\n",
+			"date_published": "2018-09-03T17:37:25-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/03/213725.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/fadac84094.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/fadac84094.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/09/03/the-jersey-shore.html",
+			
+			"title": "The Jersey Shore",
+			
+			"content_text": "<p><a href=\"http://micro.mjdescy.me/uploads/2018/bcccfde53a.jpg\"><img src=\"http://micro.mjdescy.me/uploads/2018/bcccfde53a.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.mjdescy.me/uploads/2018/06a44bcfcd.jpg\"><img src=\"http://micro.mjdescy.me/uploads/2018/06a44bcfcd.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>I’m testing out a zoom lens I bought for my new Olympus EM-10 Mark III.</p>\n\n",
+			"date_published": "2018-09-03T15:46:23-04:00",
+			"url": "https://micro.mjdescy.me/2018/09/03/the-jersey-shore.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/06a44bcfcd.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/06a44bcfcd.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/08/30/i-have-rarely.html",
+			
+			"content_text": "<p>I have rarely been bothered by the iPhone 7’s (and subsequent models) lack of a headphone jack. But that was before I lost my Lightning to 3.5 mm Headphone Jack adapter. I guess I have to cough up $9 or so for a new dongle.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/747bd95116.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-30T16:28:38-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/30/i-have-rarely.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/747bd95116.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/747bd95116.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/08/28/my-family-hates.html",
+			
+			"content_text": "<p>My family <em>hates</em> this picture, but I think it’s pretty cool. Look at the colors and the detail on that fly!</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/457225073b.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-08-27T22:14:17-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/27/my-family-hates.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/457225073b.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/457225073b.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/08/27/vocal-jazz-with.html",
+			
+			"title": "🎵 Vocal Jazz with the V-Moda Crossfade Wireless 2",
+			
+			"content_text": "<p>Today felt like a good day to listen to a long vocal jazz playlist through my V Moda Crossfade Wireless 2. Their warm, somewhat bass-y sound signature works surprisingly well for that genre. I mostly think of them as great for rock and pop music, but they handled sparse arrangements of vocals (male and female), piano, bass, and drums (mostly brushwork) surprisingly well.</p>\n\n<p>I had to use wired mode because the Bluetooth connection is too loud for me, even at the lowest volume setting, on my iOS devices. The Bluetooth volume level appears to be more sane when I use them with my Apple TV or Mac.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/71ecbf0d75.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-08-27T14:17:01-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/27/vocal-jazz-with.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/71ecbf0d75.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/71ecbf0d75.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/08/25/my-daughter-and.html",
+			
+			"content_text": "<p>My daughter and I made a new friend in the backyard today.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/97d3b421d7.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-25T15:44:42-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/25/my-daughter-and.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/97d3b421d7.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/97d3b421d7.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/08/22/apples-music-app.html",
+			
+			"content_text": "<p>Apple’s Music app needs multiple selection on its playlist editor. It is tedious to remove albums I have listened to from my personal “new music” playlist. It is easier to manage on iTunes, but I hardly ever listen to music via my Mac anymore.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/ebc93f475c.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-08-22T10:25:30-04:00",
+			"url": "https://micro.mjdescy.me/2018/08/22/apples-music-app.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/ebc93f475c.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/ebc93f475c.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/24/i-replaced-my.html",
+			
+			"content_text": "<p>I replaced my old, crumbling, extra- extra large Grifiti wrist rest with a new one, suitably sized for my tenkeyless keyboard. It was a good move.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/e92e4241dc.jpg\" width=\"600\" height=\"449\" /></p>\n",
+			"date_published": "2018-07-24T11:03:04-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/24/i-replaced-my.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/e92e4241dc.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/e92e4241dc.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/17/175357.html",
+			
+			"content_text": "<p>🎵 I’m back to my wired OPPO PM-3 &amp; HA-2 SE headphones stack today, listening to <a href=\"https://itunes.apple.com/us/album/foreverland-deluxe-version/1114549349\">Foreverland</a>, by The Divine Comedy. It’s an album that slipped by me in 2016. I used to love The Divine Comedy in the late 1990s, and still take <a href=\"https://itunes.apple.com/us/album/casanova/162993522\">Casanova</a> for a spin every six months or so.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/f957d41dd1.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-17T13:53:57-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/17/175357.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/f957d41dd1.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/f957d41dd1.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/17/oh-im-getting.html",
+			
+			"content_text": "<p>Oh! I’m getting a Microsoft Office update this morning. I wonder what office suites were like in the year 2016…</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/65aa61be86.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-07-17T09:04:43-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/17/oh-im-getting.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/65aa61be86.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/65aa61be86.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/16/im-super-pleased.html",
+			
+			"content_text": "<p>I’m super pleased listening to these V-Moda Crossfade 2 Codex Edition headphones all day at work, over Bluetooth. (Wireless use is pretty rare for me.) Great sound. Great isolation. The top of my head is a little sore from the headband, though. (They are kind of heavy.) 🎧</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/b65c367dc5.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-16T16:36:58-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/16/im-super-pleased.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/b65c367dc5.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/b65c367dc5.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/09/i-found-a.html",
+			
+			"content_text": "<p>I found a headphone case whose brand name really gets at my peculiar affliction.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/0450f2c4b9.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-08T23:19:54-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/08/i-found-a.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/0450f2c4b9.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/0450f2c4b9.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/06/i-love-assembly.html",
+			
+			"content_text": "<p>I love <a href=\"https://itunes.apple.com/us/app/assembly-art-and-design/id1024210402?mt=8\">Assembly by Pixite</a>. It’s an easy to use vector drawing app for iOS. Their new icon looks nice, but I will miss their cleverly designed bird icon. Luckily, it’s still on the app’s splash screen.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/028bf81d4b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-06T08:56:52-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/06/i-love-assembly.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/028bf81d4b.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/028bf81d4b.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/02/these-master-dynamic.html",
+			
+			"content_text": "<p>These Master &amp; Dynamic MH40 headphones are something special: premium materials, crystal clear sound, wide soundstage, and a unique bump in the bass range that I like more than I thought I would.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/c176169b6f.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-02T13:16:44-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/02/these-master-dynamic.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/c176169b6f.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/c176169b6f.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/01/i-was-finally.html",
+			
+			"content_text": "<p>I was finally smart enough today to bring the magnetic induction burner we never use <em>outside</em> to make pasta while I grilled ribeye and zucchini in the 95° heat.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/4fb59467b1.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-07-01T17:43:45-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/01/i-was-finally.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/4fb59467b1.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/4fb59467b1.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/07/01/140841.html",
+			
+			"content_text": "<p>I’m trying to get back on the MyFitnessPal horse today. I haven’t logged my food in six months and the results are really bad.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/059fb24fb5.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-01T10:08:41-04:00",
+			"url": "https://micro.mjdescy.me/2018/07/01/140841.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/059fb24fb5.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/059fb24fb5.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/28/the-mail-i.html",
+			
+			"content_text": "<p>The mail I <em>definitely</em> don’t need to open right away is always convening labeled for me. They could work on the wording, though.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/7e4b5b0d7c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-28T10:07:51-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/28/the-mail-i.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/7e4b5b0d7c.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/7e4b5b0d7c.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/28/this-inexpensive-little.html",
+			
+			"content_text": "<p>This inexpensive little device works <em>just fine</em> for microwave popcorn. It amazes me that we used that awful bagged stuff for years.</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/9670dd6bbf.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-06-27T22:01:00-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/27/this-inexpensive-little.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/9670dd6bbf.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/9670dd6bbf.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/18/my-app-sales.html",
+			
+			"content_text": "<p>My app sales went way up this weekend, and I have no idea why. 🤷‍♂️</p>\n\n<p><img src=\"http://micro.mjdescy.me/uploads/2018/595c9bfd59.jpg\" width=\"269\" height=\"417\" /></p>\n",
+			"date_published": "2018-06-17T22:26:10-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/17/my-app-sales.html",
+			"image": "http://micro.mjdescy.me/uploads/2018/595c9bfd59.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.mjdescy.me/uploads/2018/595c9bfd59.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/03/i-am-digging.html",
+			
+			"content_text": "<p>I am digging my old, blue, knockoff Apple Watch Sport Band again. I kind of wish I bought the real, fluoroelastomer band, though, because the silicone feels a little sticky and looks a little shiny.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d4b3df44f8.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-02T22:09:04-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/02/i-am-digging.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/d4b3df44f8.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/d4b3df44f8.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/06/01/224618.html",
+			
+			"content_text": "<p>My wife and I are <em>way</em> back in the auditorium, waiting for “An Evening with Stephen Sondheim” to begin.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/637b3aa3c2.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-01T18:46:18-04:00",
+			"url": "https://micro.mjdescy.me/2018/06/01/224618.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/637b3aa3c2.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/637b3aa3c2.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/23/im-pretty-proud.html",
+			
+			"content_text": "<p>I’m pretty proud of my Ulysses library setup—at least the top level folder structure. My subfolders need a bit more organization, though.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/1115f805e0.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-22T20:27:34-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/22/im-pretty-proud.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/1115f805e0.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/1115f805e0.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/18/while-i-think.html",
+			
+			"content_text": "<p>While I think I <em>want</em> a Nintendo Switch, I’m trying to make due for now with what I already have—an iPad Pro and a SteelSeries Nimbus controller. I’m not sure I even want to commit the <em>time</em> to gaming, but I am curious about the latest Mario and Zelda games.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/9800db785e.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-18T10:16:15-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/18/while-i-think.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/9800db785e.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/9800db785e.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/18/googles-attractive-by.html",
+			
+			"content_text": "<p>Google’s attractive but less information dense redesign of Google News may be the thing that finally breaks my addiction to it.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/c4fea0b7e1.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-17T22:00:27-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/17/googles-attractive-by.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/c4fea0b7e1.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/c4fea0b7e1.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/10/i-decided-to.html",
+			
+			"content_text": "<p>I decided to install some iOS games with MFi controller support on my iPad Pro. But…will I actually find time to play them? 🤷‍♂️</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/41dc26e584.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-05-10T15:48:22-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/10/i-decided-to.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/41dc26e584.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/41dc26e584.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/06/im-making-bean.html",
+			
+			"content_text": "<p>I’m making 12-bean soup today, in an effort to get back to eating home-cooked, wholesome foods. Every few months, as work and family commitments change, my family gets off track. Hopefully we can right the ship now that is is spring.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/e977b23e44.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-06T11:12:49-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/06/im-making-bean.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/e977b23e44.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/e977b23e44.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/05/01/the-best-part.html",
+			
+			"content_text": "<p>The best part of working from home is the ability to take a nice walk after lunch. Spring weather was finally here at lunchtime, and I thoroughly enjoyed it. Summer temperatures will follow by dinner time and last for the foreseeable future. So, that was spring!</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/0efce021cd.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-05-01T14:27:03-04:00",
+			"url": "https://micro.mjdescy.me/2018/05/01/the-best-part.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/0efce021cd.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/0efce021cd.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/29/i-started-using.html",
+			
+			"content_text": "<p>I started using the Activity Digital face today. I never liked it before, but I’m trying to exercise more and it has been useful.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/99a8238f7f.jpg\" width=\"312\" height=\"313\" /></p>\n",
+			"date_published": "2018-04-28T23:44:27-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/28/i-started-using.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/99a8238f7f.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/99a8238f7f.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/24/this-is-my.html",
+			
+			"content_text": "<p>This is my life now.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/81b387752b.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-04-24T14:52:03-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/24/this-is-my.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/81b387752b.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/81b387752b.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/22/i-had-a.html",
+			
+			"content_text": "<p>🎧 I had a lot of fun testing out the V-Moda Crossfade 2 headphones last night. <a href=\"https://www.amazon.com/gp/aw/review/B06XX2TJSD/R1ZK34Q1MXP0I8?ref_=glimp_1rv_cl\">My review is on Amazon</a>.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/b50778f79d.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-22T08:58:21-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/22/i-had-a.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/b50778f79d.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/b50778f79d.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/20/im-eagerly-awaiting.html",
+			
+			"content_text": "<p>I’m eagerly awaiting my new <a href=\"https://v-moda.com/products/crossfade2-wireless\">V-Moda Crossfade 2</a>’s to be shipped. I want something that folds up, is durable, and sounds really good. I plan to drive them wired for serious music listening, and wireless for podcasts.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/5a37ea34be.jpg\" width=\"300\" height=\"300\" /></p>\n",
+			"date_published": "2018-04-20T09:55:35-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/20/im-eagerly-awaiting.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/5a37ea34be.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/5a37ea34be.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/19/git-tower-vs.html",
+			
+			"title": "Git Tower vs. Atlassian SourceTree",
+			
+			"content_text": "<p>I am enjoying using <a href=\"https://www.git-tower.com/mac/\">Tower</a> over Atlassian SourceTree. <a href=\"https://www.sourcetreeapp.com\">SourceTree</a> has many, many features, and is free to use, but it has some puzzling bugs that never seem to get fixed. For example, it never deletes branches via Git Flow, no matter how many times I try to reconfigure it.</p>\n\n<p>Tower is faster, works better, and has a clean UI that fits in on the Mac very well. When I emailed Tower support about something, they responded almost instantly. That sold it for me. When the Tower 3 beta expires, I will be purchasing a license.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/108abb4d9a.jpg\" width=\"600\" height=\"339\" /></p>\n",
+			"date_published": "2018-04-18T21:54:47-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/18/git-tower-vs.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/108abb4d9a.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/108abb4d9a.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/16/145601.html",
+			
+			"content_text": "<p>This <a href=\"https://www.beoplay.com/en/landingpages/beoplaym3#introducing\">BeoPlay M3</a> speaker is a better fit in my kitchen than two feet away from me at my office desk. We got a lot of use out of it yesterday, Airplaying from iPhones and our Apple TV. It sounds better when played more loudly, in a larger room.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/06393dee79.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-04-16T10:56:01-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/16/145601.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/06393dee79.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/06393dee79.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/12/i-deactivated-by.html",
+			
+			"content_text": "<p>I deactivated by Facebook account today. I can’t muster up the gumption to delete it, and don’t know why. But it’s a start.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/5e23a06a8b.jpg\" width=\"600\" height=\"203\" /></p>\n",
+			"date_published": "2018-04-12T16:10:03-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/12/i-deactivated-by.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/5e23a06a8b.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/5e23a06a8b.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/04/10/my-current-background.html",
+			
+			"content_text": "<p>My current background task, while I work, is secure erasing a bunch of old, small, unneeded hard drives, to prepare them for recycling. I wish I had encrypted them, to avoid all the wait time ahead of me, but that wasn’t really an option back when I used them.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/2f3e68fc11.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-10T08:54:04-04:00",
+			"url": "https://micro.mjdescy.me/2018/04/10/my-current-background.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/2f3e68fc11.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/2f3e68fc11.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/30/my-mac-came.html",
+			
+			"content_text": "<p>My Mac came back from the stalled OS update, but I decided to nuke the hard drive and reinstall macOS anyway. Too many little things have been broken lately. It’s the first time I have done so on this machine ever. I’ve had it almost 5 years. 🤞</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/42e19f53ae.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-03-30T15:18:24-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/30/my-mac-came.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/42e19f53ae.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/42e19f53ae.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/11/my-son-has.html",
+			
+			"content_text": "<p>My son has figured out how to turn on the flashlight of my Apple Watch. No wonder battery life took a hit lately. 😀</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d20a816b7a.jpg\" width=\"579\" height=\"579\" /></p>\n",
+			"date_published": "2018-03-11T12:52:42-04:00",
+			"url": "https://micro.mjdescy.me/2018/03/11/my-son-has.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/d20a816b7a.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/d20a816b7a.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/07/thundersnow.html",
+			
+			"content_text": "<p>Thundersnow!</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/3c3309622a.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-07T14:33:53-05:00",
+			"url": "https://micro.mjdescy.me/2018/03/07/thundersnow.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/3c3309622a.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/3c3309622a.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/05/google-voices-voicemail.html",
+			
+			"content_text": "<p>Google Voice’s voicemail transcriptions can be chilling sometimes.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/1cb3be8d51.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-05T10:51:02-05:00",
+			"url": "https://micro.mjdescy.me/2018/03/05/google-voices-voicemail.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/1cb3be8d51.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/1cb3be8d51.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/03/01/i-actually-solved.html",
+			
+			"content_text": "<p>I actually solved a user’s problem with my iOS app today by asking “have you tried turning it off and on again?” 😅.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/8202915f7a.jpg\" width=\"500\" height=\"275\" /></p>\n",
+			"date_published": "2018-03-01T15:50:52-05:00",
+			"url": "https://micro.mjdescy.me/2018/03/01/i-actually-solved.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/8202915f7a.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/8202915f7a.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/28/the-lighttodark-progression.html",
+			
+			"content_text": "<p>The light-to-dark progression in my app screenshots is oddly satisfying to me tonight.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/9ba3260601.jpg\" width=\"600\" height=\"298\" /></p>\n",
+			"date_published": "2018-02-27T22:27:39-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/27/the-lighttodark-progression.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/9ba3260601.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/9ba3260601.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/26/here-we-go.html",
+			
+			"content_text": "<p>Here we go again!</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/e50732b571.jpg\" width=\"370\" height=\"160\" /></p>\n",
+			"date_published": "2018-02-25T23:11:50-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/25/here-we-go.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/e50732b571.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/e50732b571.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/24/today-i-am.html",
+			
+			"content_text": "<p>Today I am grateful for Spring Training and the return of Major League Baseball. ⚾️ I watched two exposition games, which was fun and relaxing.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/da896dc443.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-23T20:08:26-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/23/today-i-am.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/da896dc443.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/da896dc443.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/23/swiftodohttpsswiftodoappcom-is-now.html",
+			
+			"content_text": "<p><a href=\"https://swiftodoapp.com\">SwiftoDo</a> 2.8.1 is now <a href=\"https://itunes.apple.com/us/app/swiftodo-task-list-for-todo.txt/id1073798440?ls=1&amp;mt=8\">available in the App Store</a>. It adds a Solarized Light and Solarized Dark themes, fixes bugs, and changes opening the URL menu from a long press to a slide gesture.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/ed7fb344be.jpg\" width=\"337\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-23T09:07:14-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/23/swiftodohttpsswiftodoappcom-is-now.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/ed7fb344be.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/ed7fb344be.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/23/i-would-never.html",
+			
+			"content_text": "<p>I would never replace my AirPods with <a href=\"https://www.bloomberg.com/news/articles/2018-02-22/apple-is-said-to-plan-upgrades-to-popular-airpods-headphones\">the new ones rumored today</a> just to <em>upgrade</em> them, but if I broke or lost mine, I would buy them in a second.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d547e9d7ae.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-02-22T23:41:40-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/22/i-would-never.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/d547e9d7ae.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/d547e9d7ae.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/22/i-learned-of.html",
+			
+			"content_text": "<p>I learned of a service that makes RSS feeds out of Twitter users’ tweets: <a href=\"https://www.twitrss.me\">TwitRSS.me</a>. I added some noteworthy users to my feeds in <a href=\"http://reederapp.com\">Reeder</a>, so I don’t miss their tweets, but also don’t have to go to Twitter to get them. Does anyone know what <em>the best</em> Twitter/RSS service is?</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/17744f05b8.jpg\" width=\"600\" height=\"447\" /></p>\n",
+			"date_published": "2018-02-21T22:27:08-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/21/i-learned-of.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/17744f05b8.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/17744f05b8.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/21/the-weather-was.html",
+			
+			"content_text": "<p>The weather was unusually warm today. I spent some of my lunch break walking outside.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d5bfaa92e1.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-02-21T17:28:23-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/21/the-weather-was.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/d5bfaa92e1.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/d5bfaa92e1.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/21/current-mood.html",
+			
+			"content_text": "<p>Current mood.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/efdbd39fce.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-21T12:04:47-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/21/current-mood.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/efdbd39fce.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/efdbd39fce.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/21/im-coding-a.html",
+			
+			"content_text": "<p>I’m coding a nice new feature for <a href=\"https://swiftodoapp.com\">SwiftoDo</a> tonight. Hopefully it will be done tomorrow or Thursday, and I can get it in users hands by next weekend. Line 8 in the screenshot is new.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/2cd259489d.jpg\" width=\"600\" height=\"298\" /></p>\n",
+			"date_published": "2018-02-20T23:37:44-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/20/im-coding-a.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/2cd259489d.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/2cd259489d.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/19/this-weeks-episodehttpsovercastfmbncvjbhe.html",
+			
+			"content_text": "<p>🎙 <a href=\"https://overcast.fm/+B7NCVjBHE\">This week’s episode</a> had me Googling for ‘longest episode of “The Talk Show” with John Gruber ever’.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/b2c90c7922.jpg\" width=\"458\" height=\"458\" /></p>\n",
+			"date_published": "2018-02-19T13:53:56-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/19/this-weeks-episodehttpsovercastfmbncvjbhe.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/b2c90c7922.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/b2c90c7922.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/15/i-am-listening.html",
+			
+			"content_text": "<p>I am listening to music from my MacBook Pro today, via the <a href=\"https://www.oppodigital.com/headphone-amplifier-ha-2SE/\">Oppo HA-2SE</a>. One benefit is that it charges through its micro USB input, so playtime is unlimited. iTunes is slower and buggier than the iOS Music app, though.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/1cf4df3302.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-02-15T14:20:44-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/15/i-am-listening.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/1cf4df3302.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/1cf4df3302.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/15/adding-my-nest.html",
+			
+			"content_text": "<p>Adding my <a href=\"https://nest.com/thermostats/\">Nest thermostat</a> to <a href=\"https://www.apple.com/ios/home/\">HomeKit</a> via <a href=\"https://github.com/nfarina/homebridge\">HomeBridge</a> has made my life a little better. I do have a suggestion for Apple, though: “Hey Siri, set thermostat to 70º F and let no one in my family change it, <em>ever</em>, for any reason.” Maybe I don’t need a smart thermostat after all.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/1642f56be2.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-15T10:09:06-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/15/adding-my-nest.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/1642f56be2.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/1642f56be2.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/15/my-wife-baked.html",
+			
+			"content_text": "<p>My wife baked a delicious Valentine’s Day treat. ❤️😄</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/7c8bb906e5.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-14T19:44:07-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/14/my-wife-baked.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/7c8bb906e5.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/7c8bb906e5.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/12/its-monday-morning.html",
+			
+			"content_text": "<p>🎙 It’s Monday morning, so I am listening to “This Week in Tech”.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/1b771af0d7.jpg\" width=\"600\" height=\"598\" /></p>\n",
+			"date_published": "2018-02-12T09:49:21-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/12/its-monday-morning.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/1b771af0d7.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/1b771af0d7.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/09/replacing-keyboard-with.html",
+			
+			"content_text": "<p>Replacing “Keyboard-“ with the keyboard emoji (⌨️) solves a minor problem I have in the Drafts 5 beta: You can’t sort or hide action groups, and the keyboard-related groups, while useful, are not ones I open from the action groups menu. The ⌨️ emoji sorts them below normal letters.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/e40c5ec598.jpg\" width=\"504\" height=\"503\" /></p>\n",
+			"date_published": "2018-02-09T09:38:19-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/09/replacing-keyboard-with.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/e40c5ec598.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/e40c5ec598.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/08/my-wife-inspired.html",
+			
+			"content_text": "<p>My wife inspired me to cook apple &amp; sweet potato mash for my son this evening.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/f9d4f88773.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-02-08T18:00:54-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/08/my-wife-inspired.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/f9d4f88773.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/f9d4f88773.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/06/i-have-been.html",
+			
+			"content_text": "<p>I have been enjoying the <a href=\"https://itunes.apple.com/us/app/roughly-the-approximate-time-in-words/id1086283722?mt=8\">Roughly app</a>’s complication (on the bottom, in the picture) for the Apple Watch. It’s a little frivolous to display the approximate time in words, but it’s also a little frivolous to use analog watch faces on a digital device.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/3411540050.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-05T21:48:57-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/05/i-have-been.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/3411540050.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/3411540050.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/02/01/im-thoroughly-enjoying.html",
+			
+			"content_text": "<p>I’m thoroughly enjoying Matt Birchler’s <a href=\"https://itunes.apple.com/us/playlist/homepod-testing/pl.u-qpZDJs2RG247\">“HomePod Testing” playlist</a> on Apple Music 🎵. Each track is well produced and interesting. It’s great music to work to.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/390bb06eb4.jpg\" width=\"600\" height=\"462\" /></p>\n",
+			"date_published": "2018-02-01T11:04:52-05:00",
+			"url": "https://micro.mjdescy.me/2018/02/01/im-thoroughly-enjoying.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/390bb06eb4.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/390bb06eb4.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/24/we-had-a.html",
+			
+			"content_text": "<p>We had a nice team dinner at Aldo’s in Baltimore last night. They have the best limoncello I’ve ever had. And cannoli. And great entrées. 🍴</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/4d3e01d00c.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-24T08:17:50-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/24/we-had-a.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/4d3e01d00c.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/4d3e01d00c.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/24/i-was-not.html",
+			
+			"content_text": "<p>I was <em>not</em> thrilled that today’s <a href=\"https://www.nytimes.com/crosswords/game/mini\">New York Times mini crossword’s</a> first word contained numbers. I didn’t know crosswords puzzles <em>could</em> contain numbers. It bamboozled me completely! 😅</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/07c4709f14.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-23T21:51:52-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/23/i-was-not.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/07c4709f14.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/07c4709f14.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/24/people-on-reddit.html",
+			
+			"content_text": "<p>People on Reddit are bitching tonight about Apple’s “bug fixes and improvements” iOS and watchOS updates. I must be uncool or something because those kinds of updates are my favorite kind.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/1f9c065d4e.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-23T21:45:07-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/23/people-on-reddit.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/1f9c065d4e.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/1f9c065d4e.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/23/oh-thank-goodness.html",
+			
+			"content_text": "<p>Oh, thank goodness for ☕️. I’ve got 15 minutes to down another cup before I head over to the office. It is nice to have a later start than usual today.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/35cd4ac162.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-23T08:18:13-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/23/oh-thank-goodness.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/35cd4ac162.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/35cd4ac162.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/23/baltimores-inner-harbor.html",
+			
+			"content_text": "<p>Baltimore’s Inner Harbor is nice. I’m glad I recognize the area in which I’m staying. My morning destination is a short walk away.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/91610af115.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-22T23:12:45-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/22/baltimores-inner-harbor.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/91610af115.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/91610af115.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/20/i-drew-and.html",
+			
+			"content_text": "<p>I drew and colored this under the expert tutelage of my 5-year-old daughter, just before we played together with Wellie-Wishers. 🎨</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/ce86c63be4.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-01-20T14:52:17-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/20/i-drew-and.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/ce86c63be4.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/ce86c63be4.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/20/is-it-awful.html",
+			
+			"content_text": "<p>Is it awful that I kind of want a <a href=\"https://www.macrumors.com/2018/01/19/apple-homepod-fcc-approval/\">HomePod</a>? When I first watched the product announcement, my impression was “too expensive: hard pass” but now I kind of want something that sounds really good and <em>just works</em> with my iPhone.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/7eafcf55d3.jpg\" width=\"600\" height=\"338\" /></p>\n",
+			"date_published": "2018-01-20T00:11:11-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/20/is-it-awful.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/7eafcf55d3.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/7eafcf55d3.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/18/im-adding-some.html",
+			
+			"content_text": "<p>I’m adding some very basic URL handling support to <a href=\"http://swiftodoapp.com\">SwiftoDo</a> tonight, based on a user request. I almost never put URLs into my task list, so I never thought to add it, but of course it makes sense.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/50a95dbe70.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-17T22:45:46-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/17/im-adding-some.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/50a95dbe70.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/50a95dbe70.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/17/blog-post-eye.html",
+			
+			"content_text": "<p>Blog post: <a href=\"https://mjdescy.me/2018/01/17/eye-round-roast-recipe/\">Eye round roast recipe</a></p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/b03b63a254.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-16T23:14:15-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/16/blog-post-eye.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/b03b63a254.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/b03b63a254.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/16/blog-post-chicken.html",
+			
+			"content_text": "<p>Blog post: <a href=\"https://mjdescy.me/2018/01/16/chicken-sausage-and-escarole-soup-recipe/\">Chicken sausage and escarole soup recipe</a></p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/e69ffab93a.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-01-15T23:53:50-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/15/blog-post-chicken.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/e69ffab93a.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/e69ffab93a.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/16/my-wifes-and.html",
+			
+			"content_text": "<p>My wife’s and daughter’s strawberry swirl mini muffins turned out nicely, but bedtime had to be pushed back quite a bit. It’s a fair trade-off, I suppose.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/fea82b1239.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-01-15T21:32:43-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/15/my-wifes-and.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/fea82b1239.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/fea82b1239.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/15/this-eye-round.html",
+			
+			"content_text": "<p>This eye round roast came out magnificently, too. Am I starting a food blog now? (Is that annoying?)</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d406d39a03.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-14T19:58:17-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/14/this-eye-round.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/d406d39a03.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/d406d39a03.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/14/my-chicken-sausage.html",
+			
+			"content_text": "<p>My chicken sausage escarole soup came out so delicious that I’m thinking of posting my recipe. Do people still post recipes to their personal blogs? I originally did not want to start doing that again, but now I feel like I might as well.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/08c509965c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-14T14:11:58-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/14/my-chicken-sausage.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/08c509965c.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/08c509965c.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/14/the-crayola-experience.html",
+			
+			"content_text": "<p>The Crayola Experience was…OK, I guess. My daughter said she liked it. The rest of the day was a lot more fun, I think.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/7bfbf1a0e7.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-13T20:44:18-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/13/the-crayola-experience.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/7bfbf1a0e7.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/7bfbf1a0e7.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/13/its-a-road.html",
+			
+			"content_text": "<p>It’s a road trip day for me and my family. Picking the driving music 🎵 is the hardest part. We mostly stick to Laurie Berliner Band and Hamilton. I’d love it if we could branch out more from there.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/0ade6348ae.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-13T09:58:29-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/13/its-a-road.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/0ade6348ae.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/0ade6348ae.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/13/in-my-s.html",
+			
+			"content_text": "<p>In my 20s I only drank Manhattans straight up. Now, deep into my 30s, I prefer them on the rocks—but only when homemade. It’s been quite a week for me and now it is time to unwind. Cheers!</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/7b76a40bbf.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-12T21:09:38-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/12/in-my-s.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/7b76a40bbf.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/7b76a40bbf.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/12/every-few-days.html",
+			
+			"content_text": "<p>Every few days I have to talk myself out of buying another pair of headphones. I don’t need the HifiMan HE-400i, and their sound leakage probably wouldn’t suit my listening needs at all, but I can’t stop thinking about adding an open-backed headphone to my meager collection.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/6cc2d36edd.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-12T16:25:34-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/12/every-few-days.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/6cc2d36edd.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/6cc2d36edd.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/10/i-submitted-a.html",
+			
+			"content_text": "<p>I submitted a new <a href=\"http://swiftodoapp.com\">SwiftoDo</a> build to the App Store for a “Bug Fixes and Performance Improvements” update. Now I can move on to more important things.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/243371c849.jpg\" width=\"600\" height=\"47\" /></p>\n",
+			"date_published": "2018-01-10T17:06:11-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/10/i-submitted-a.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/243371c849.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/243371c849.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/09/ready-player-one.html",
+			
+			"title": "Ready Player One",
+			
+			"content_text": "<p>I just finished <em>Ready Player One</em> by Ernest Cline 📚 . It was light and enjoyable the whole way through. I’m not sure just how much I liked it, as reading it was a little like watching somebody else play video games, which is not really my thing, but I did like it. I’m glad the author addressed the isolation of all the main characters in real life, at least a little. It could have had more depth in that area, but that might have diminished its charm.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/94ab55d10a.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-09T18:42:37-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/09/ready-player-one.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/94ab55d10a.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/94ab55d10a.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/09/the-dining-room.html",
+			
+			"content_text": "<p>The dining room is looking better now, too. I can’t believe we didn’t put anything up on that wall for 7 years.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/809e854066.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-01-09T12:01:38-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/09/the-dining-room.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/809e854066.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/809e854066.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/08/i-posted-some.html",
+			
+			"content_text": "<p>I posted some photos I took in my son’s room. I hope he likes flowers. (He’s a baby.)</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/e7e3b446ac.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-01-08T17:34:52-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/08/i-posted-some.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/e7e3b446ac.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/e7e3b446ac.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/07/i-am-lazily.html",
+			
+			"content_text": "<p>I am lazily cooking salsa chicken thighs for either lunch or dinner.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/8d45cf5704.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-07T11:40:31-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/07/i-am-lazily.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/8d45cf5704.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/8d45cf5704.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/06/i-dont-even.html",
+			
+			"content_text": "<p>I don’t even wish I was actually this good at solving The New York Times Mini Crossword Puzzle.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d5a192e283.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-06T08:34:37-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/06/i-dont-even.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/d5a192e283.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/d5a192e283.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/05/my-prediction-for.html",
+			
+			"content_text": "<p>My prediction for “The Good Place” series finale (which hopefully will be several years from now): The <em>whole thing</em> is <em>Michael’s</em> “Bad Place”. <em>He’s</em> the one being tortured. Holy forking shirt balls!</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/5c584937a1.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-01-05T16:47:09-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/05/my-prediction-for.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/5c584937a1.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/5c584937a1.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/05/i-happened-slowly.html",
+			
+			"content_text": "<p>It happened slowly, but preferred music playback device size and wire count have gone up for me over time. 2010: iPod Shuffle. 2017: iPad Air 2 &amp; Oppo HA2-SE.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/8480213f4d.jpg\" width=\"600\" height=\"379\" /></p>\n",
+			"date_published": "2018-01-05T09:09:09-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/05/i-happened-slowly.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/8480213f4d.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/8480213f4d.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/04/dear-apple-music.html",
+			
+			"content_text": "<p>Dear Apple Music: Just because I listened to Sixpence Non The Richer’s cover of “There She Goes” (originally by the La’s, and arguably about <em>heroin</em>, for goodness sake), doesn’t mean I want to listen to Christian music in all my personalized mixes. 🙄</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/f15a2eda19.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-04T14:45:08-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/04/dear-apple-music.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/f15a2eda19.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/f15a2eda19.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/04/so-far-the.html",
+			
+			"content_text": "<p>So far the snowfall hasn’t been so bad—only a few inches so far. It is windy, though, and very cold. My daughter, home on a snow day, is watching “Frozen”, which is apt. I am turning my attention to hot tea and (less hot) database programming.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/f227df6316.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-04T10:16:32-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/04/so-far-the.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/f227df6316.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/f227df6316.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/04/we-are-bracing.html",
+			
+			"content_text": "<p>We are bracing for a blizzard tonight, which is expected to snow us in all day tomorrow. School is canceled already. (Work isn’t.) I feel like it is a metaphor for what’s going on in my life right now. (Photo is historical.)</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/65f94f6882.jpg\" width=\"600\" height=\"576\" /></p>\n",
+			"date_published": "2018-01-03T21:35:25-05:00",
+			"url": "https://micro.mjdescy.me/2018/01/03/we-are-bracing.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/65f94f6882.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/65f94f6882.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2018/01/01/we-are-at.html",
+			
+			"content_text": "<p>We are at my neighbors’ house for a simulated 7:30 PM ball drop. Fun NYE party!</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2018/d1c11909a1.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-31T19:04:56-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/31/we-are-at.html",
+			"image": "http://mjdescy.micro.blog/uploads/2018/d1c11909a1.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2018/d1c11909a1.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/31/my-daughters-cookie.html",
+			
+			"content_text": "<p>My daughter’s cookie decorating skills are advancing! I’m so proud of her. 😀🍪</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2017/c24da40ea9.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2017-12-31T11:56:28-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/31/my-daughters-cookie.html",
+			"image": "http://mjdescy.micro.blog/uploads/2017/c24da40ea9.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2017/c24da40ea9.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/30/it-was-a.html",
+			
+			"content_text": "<p>It was a <em>really</em> close game!</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2017/307c52335b.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2017-12-30T10:10:36-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/30/it-was-a.html",
+			"image": "http://mjdescy.micro.blog/uploads/2017/307c52335b.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2017/307c52335b.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/24/i-made-banana.html",
+			
+			"content_text": "<p>I made banana bread, too.</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2017/e4d0c59d19.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2017-12-23T19:50:40-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/23/i-made-banana.html",
+			"image": "http://mjdescy.micro.blog/uploads/2017/e4d0c59d19.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2017/e4d0c59d19.jpg"
+			}
+		},
+		{
+			"id": "http://mjdescy.micro.blog/2017/12/23/i-baked-snickerdoodles.html",
+			
+			"content_text": "<p>I baked Snickerdoodles for the family today. They are <em>really</em>, <em>really</em> good!</p>\n\n<p><img src=\"http://mjdescy.micro.blog/uploads/2017/fceeaa5b75.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-23T14:16:46-05:00",
+			"url": "https://micro.mjdescy.me/2017/12/23/i-baked-snickerdoodles.html",
+			"image": "http://mjdescy.micro.blog/uploads/2017/fceeaa5b75.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://mjdescy.micro.blog/uploads/2017/fceeaa5b75.jpg"
+			}
+		},
+		
+	]
+}
