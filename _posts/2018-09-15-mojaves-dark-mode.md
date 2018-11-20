@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-15 14:59:28 -0400
 guid: http://mjdescy.micro.blog/2018/09/15/mojaves-dark-mode.html
 ---
