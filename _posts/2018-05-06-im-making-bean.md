@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/e977b23e44.jpg
 date: 2018-05-06 11:12:49 -0400
 guid: http://mjdescy.micro.blog/2018/05/06/im-making-bean.html
 ---
