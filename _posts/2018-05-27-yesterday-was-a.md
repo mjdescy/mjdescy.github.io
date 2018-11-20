@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-27 11:31:49 -0400
 guid: http://mjdescy.micro.blog/2018/05/27/yesterday-was-a.html
 ---
