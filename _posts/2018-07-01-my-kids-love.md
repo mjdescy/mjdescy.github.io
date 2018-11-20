@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-30 20:18:54 -0400
 guid: http://mjdescy.micro.blog/2018/07/01/my-kids-love.html
 ---
