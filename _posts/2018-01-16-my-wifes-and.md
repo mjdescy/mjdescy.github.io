@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/fea82b1239.jpg
 date: 2018-01-15 22:32:43 -0400
 guid: http://mjdescy.micro.blog/2018/01/16/my-wifes-and.html
 ---
