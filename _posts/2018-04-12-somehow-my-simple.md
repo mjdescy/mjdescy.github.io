@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-11 20:53:42 -0400
 guid: http://mjdescy.micro.blog/2018/04/12/somehow-my-simple.html
 ---
