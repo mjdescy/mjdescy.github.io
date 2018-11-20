@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-07 08:47:26 -0400
 guid: http://mjdescy.micro.blog/2018/09/07/todays-listen-fine.html
 ---
