@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-02 09:25:35 -0400
 guid: http://mjdescy.micro.blog/2018/07/02/were-there-scads.html
 ---
