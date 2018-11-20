@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-14 23:35:51 -0400
 guid: http://mjdescy.micro.blog/2018/07/15/i-started-replaying.html
 ---
