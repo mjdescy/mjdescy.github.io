@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-21 10:17:45 -0400
 guid: http://mjdescy.micro.blog/2018/06/21/to-my-surprise.html
 ---
