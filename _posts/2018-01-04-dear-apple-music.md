@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/f15a2eda19.jpg
 date: 2018-01-04 15:45:08 -0400
 guid: http://mjdescy.micro.blog/2018/01/04/dear-apple-music.html
 ---
