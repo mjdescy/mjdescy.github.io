@@ -3,6 +3,7 @@ layout: post
 title: "As Kennedy Retires, the Supreme Court’s Attack on Labor Unions Is a Sign of Things to Come"
 microblog: false
 audio: 
+photo: 
 date: 2018-06-27 20:55:19 -0400
 guid: http://mjdescy.micro.blog/2018/06/28/as-kennedy-retires.html
 ---
