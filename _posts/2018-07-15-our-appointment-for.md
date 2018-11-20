@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-15 12:44:34 -0400
 guid: http://mjdescy.micro.blog/2018/07/15/our-appointment-for.html
 ---
