@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/65aa61be86.jpg
 date: 2018-07-17 09:04:43 -0400
 guid: http://mjdescy.micro.blog/2018/07/17/oh-im-getting.html
 ---
