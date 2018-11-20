@@ -3,6 +3,7 @@ layout: post
 title: "The Nest temperature sensor"
 microblog: false
 audio: 
+photo: 
 date: 2018-03-15 19:44:37 -0400
 guid: http://mjdescy.micro.blog/2018/03/15/the-nest-temperature.html
 ---
