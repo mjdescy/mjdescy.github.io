@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-20 23:06:57 -0400
 guid: http://mjdescy.micro.blog/2017/12/21/i-spent-some.html
 ---
