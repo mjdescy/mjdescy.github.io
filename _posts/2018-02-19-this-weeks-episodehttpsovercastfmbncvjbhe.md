@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/b2c90c7922.jpg
 date: 2018-02-19 14:53:56 -0400
 guid: http://mjdescy.micro.blog/2018/02/19/this-weeks-episodehttpsovercastfmbncvjbhe.html
 ---
