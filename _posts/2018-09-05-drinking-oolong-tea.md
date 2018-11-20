@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/042c947e61.jpg
 date: 2018-09-05 09:52:07 -0400
 guid: http://mjdescy.micro.blog/2018/09/05/drinking-oolong-tea.html
 ---
