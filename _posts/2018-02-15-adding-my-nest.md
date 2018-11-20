@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/1642f56be2.jpg
 date: 2018-02-15 11:09:06 -0400
 guid: http://mjdescy.micro.blog/2018/02/15/adding-my-nest.html
 ---
