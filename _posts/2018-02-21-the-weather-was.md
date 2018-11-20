@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/d5bfaa92e1.jpg
 date: 2018-02-21 18:28:23 -0400
 guid: http://mjdescy.micro.blog/2018/02/21/the-weather-was.html
 ---
