@@ -3,6 +3,7 @@ layout: post
 title: "Learning the Core Data Framework"
 microblog: false
 audio: 
+photo: 
 date: 2018-06-12 23:45:45 -0400
 guid: http://mjdescy.micro.blog/2018/06/13/learning-the-core.html
 ---
