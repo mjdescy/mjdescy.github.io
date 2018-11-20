@@ -3,6 +3,7 @@ layout: post
 title: "My speakers over the years"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-26 23:21:00 -0400
 guid: http://mjdescy.micro.blog/2018/08/27/my-speakers-over.html
 ---
