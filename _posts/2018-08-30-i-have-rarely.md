@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/747bd95116.jpg
 date: 2018-08-30 16:28:38 -0400
 guid: http://mjdescy.micro.blog/2018/08/30/i-have-rarely.html
 ---
