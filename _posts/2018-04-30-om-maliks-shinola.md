@@ -3,6 +3,7 @@ layout: post
 title: "Om Malik's Shinola Canfield headphone review"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-29 20:53:33 -0400
 guid: http://mjdescy.micro.blog/2018/04/30/om-maliks-shinola.html
 ---
