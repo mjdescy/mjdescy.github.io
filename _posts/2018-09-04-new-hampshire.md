@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/cfbd76e892.jpg
 date: 2018-09-04 08:13:49 -0400
 guid: http://mjdescy.micro.blog/2018/09/04/new-hampshire.html
 ---
