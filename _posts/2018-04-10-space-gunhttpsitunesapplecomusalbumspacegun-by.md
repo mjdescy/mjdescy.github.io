@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-10 15:40:24 -0400
 guid: http://mjdescy.micro.blog/2018/04/10/space-gunhttpsitunesapplecomusalbumspacegun-by.html
 ---
