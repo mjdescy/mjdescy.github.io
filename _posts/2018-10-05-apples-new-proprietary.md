@@ -3,6 +3,7 @@ layout: post
 title: "Apple's New Proprietary Software Locks Kill Independent Repair on New MacBook Pros"
 microblog: false
 audio: 
+photo: 
 date: 2018-10-05 10:23:54 -0400
 guid: http://mjdescy.micro.blog/2018/10/05/apples-new-proprietary.html
 ---
