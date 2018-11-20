@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-24 10:02:39 -0400
 guid: http://mjdescy.micro.blog/2018/03/24/last-night-my.html
 ---
