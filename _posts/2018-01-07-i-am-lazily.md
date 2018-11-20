@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/8d45cf5704.jpg
 date: 2018-01-07 12:40:31 -0400
 guid: http://mjdescy.micro.blog/2018/01/07/i-am-lazily.html
 ---
