@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/08c509965c.jpg
 date: 2018-01-14 15:11:58 -0400
 guid: http://mjdescy.micro.blog/2018/01/14/my-chicken-sausage.html
 ---
