@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-02 23:37:12 -0400
 guid: http://mjdescy.micro.blog/2018/10/03/the-past-couple.html
 ---
