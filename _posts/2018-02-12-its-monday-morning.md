@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/1b771af0d7.jpg
 date: 2018-02-12 10:49:21 -0400
 guid: http://mjdescy.micro.blog/2018/02/12/its-monday-morning.html
 ---
