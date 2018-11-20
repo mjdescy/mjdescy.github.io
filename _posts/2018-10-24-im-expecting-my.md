@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-24 08:19:52 -0400
 guid: http://mjdescy.micro.blog/2018/10/24/im-expecting-my.html
 ---
