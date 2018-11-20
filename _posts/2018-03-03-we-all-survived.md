@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-02 23:00:07 -0400
 guid: http://mjdescy.micro.blog/2018/03/03/we-all-survived.html
 ---
