@@ -3,6 +3,7 @@ layout: post
 title: "Google News is getting more video"
 microblog: false
 audio: 
+photo: 
 date: 2018-05-04 20:26:48 -0400
 guid: http://mjdescy.micro.blog/2018/05/05/google-news-is.html
 ---
