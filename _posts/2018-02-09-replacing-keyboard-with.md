@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/e40c5ec598.jpg
 date: 2018-02-09 10:38:19 -0400
 guid: http://mjdescy.micro.blog/2018/02/09/replacing-keyboard-with.html
 ---
