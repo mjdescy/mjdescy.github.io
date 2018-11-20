@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-31 14:10:02 -0400
 guid: http://mjdescy.micro.blog/2018/05/31/its-silly-but.html
 ---
