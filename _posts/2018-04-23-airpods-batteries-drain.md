@@ -3,6 +3,7 @@ layout: post
 title: "AirPods batteries drain much faster on phone calls"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-23 10:56:09 -0400
 guid: http://mjdescy.micro.blog/2018/04/23/airpods-batteries-drain.html
 ---
