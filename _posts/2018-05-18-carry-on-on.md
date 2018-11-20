@@ -3,6 +3,7 @@ layout: post
 title: "🎵 Carry On"
 microblog: false
 audio: 
+photo: 
 date: 2018-05-18 16:31:06 -0400
 guid: http://mjdescy.micro.blog/2018/05/18/carry-on-on.html
 ---
