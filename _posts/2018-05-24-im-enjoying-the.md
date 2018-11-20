@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-24 12:16:47 -0400
 guid: http://mjdescy.micro.blog/2018/05/24/im-enjoying-the.html
 ---
