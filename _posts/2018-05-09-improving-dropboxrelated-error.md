@@ -3,6 +3,7 @@ layout: post
 title: "Improving Dropbox-related error messages in SwiftoDo"
 microblog: false
 audio: 
+photo: 
 date: 2018-05-09 00:02:45 -0400
 guid: http://mjdescy.micro.blog/2018/05/09/improving-dropboxrelated-error.html
 ---
