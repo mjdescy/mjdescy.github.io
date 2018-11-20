@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-03 20:59:30 -0400
 guid: http://mjdescy.micro.blog/2018/05/04/note-to-past.html
 ---
