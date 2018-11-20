@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-19 09:59:00 -0400
 guid: http://mjdescy.micro.blog/2018/02/19/blog-post-abc.html
 ---
