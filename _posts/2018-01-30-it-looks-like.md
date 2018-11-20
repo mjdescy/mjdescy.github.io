@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-30 18:09:41 -0400
 guid: http://mjdescy.micro.blog/2018/01/30/it-looks-like.html
 ---
