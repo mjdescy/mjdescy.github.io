@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-09 20:49:52 -0400
 guid: http://mjdescy.micro.blog/2018/04/10/sometimes-you-can.html
 ---
