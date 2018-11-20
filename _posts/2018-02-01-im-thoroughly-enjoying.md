@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/390bb06eb4.jpg
 date: 2018-02-01 12:04:52 -0400
 guid: http://mjdescy.micro.blog/2018/02/01/im-thoroughly-enjoying.html
 ---
