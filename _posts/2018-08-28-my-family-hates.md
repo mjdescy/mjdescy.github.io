@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/457225073b.jpg
 date: 2018-08-27 22:14:17 -0400
 guid: http://mjdescy.micro.blog/2018/08/28/my-family-hates.html
 ---
