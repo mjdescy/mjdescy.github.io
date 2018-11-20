@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-02 11:11:32 -0400
 guid: http://mjdescy.micro.blog/2018/01/02/its-back-to.html
 ---
