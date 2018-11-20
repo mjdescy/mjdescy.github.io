@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-30 23:37:56 -0400
 guid: http://mjdescy.micro.blog/2017/12/31/i-dont-love.html
 ---
