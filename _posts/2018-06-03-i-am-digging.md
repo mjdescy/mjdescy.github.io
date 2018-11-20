@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/d4b3df44f8.jpg
 date: 2018-06-02 22:09:04 -0400
 guid: http://mjdescy.micro.blog/2018/06/03/i-am-digging.html
 ---
