@@ -3,6 +3,7 @@ layout: post
 title: "Joe Steel's Guide to Mastodon"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-21 19:54:06 -0400
 guid: http://mjdescy.micro.blog/2018/08/21/joe-steels-guide.html
 ---
