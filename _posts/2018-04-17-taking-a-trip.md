@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-16 22:22:09 -0400
 guid: http://mjdescy.micro.blog/2018/04/17/taking-a-trip.html
 ---
