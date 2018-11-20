@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2017/fceeaa5b75.jpg
 date: 2017-12-23 15:16:46 -0400
 guid: http://mjdescy.micro.blog/2017/12/23/i-baked-snickerdoodles.html
 ---
