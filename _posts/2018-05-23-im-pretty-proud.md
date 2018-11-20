@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/1115f805e0.jpg
 date: 2018-05-22 20:27:34 -0400
 guid: http://mjdescy.micro.blog/2018/05/23/im-pretty-proud.html
 ---
