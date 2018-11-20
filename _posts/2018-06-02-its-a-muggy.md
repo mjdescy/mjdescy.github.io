@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-02 10:57:11 -0400
 guid: http://mjdescy.micro.blog/2018/06/02/its-a-muggy.html
 ---
