@@ -3,6 +3,7 @@ layout: post
 title: "Introducing my latest iOS app: Simple Call Blocker"
 microblog: false
 audio: 
+photo: 
 date: 2018-07-24 23:25:43 -0400
 guid: http://mjdescy.micro.blog/2018/07/25/introducing-my-latest.html
 ---
