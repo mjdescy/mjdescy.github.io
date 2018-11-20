@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-09 20:02:02 -0400
 guid: http://mjdescy.micro.blog/2018/05/10/i-am-finding.html
 ---
