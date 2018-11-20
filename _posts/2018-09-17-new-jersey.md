@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/13f90befbb.jpg
 date: 2018-09-17 19:12:20 -0400
 guid: http://mjdescy.micro.blog/2018/09/17/new-jersey.html
 ---
