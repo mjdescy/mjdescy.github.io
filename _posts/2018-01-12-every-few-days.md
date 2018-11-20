@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/6cc2d36edd.jpg
 date: 2018-01-12 17:25:34 -0400
 guid: http://mjdescy.micro.blog/2018/01/12/every-few-days.html
 ---
