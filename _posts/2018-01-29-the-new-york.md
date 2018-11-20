@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-28 22:11:42 -0400
 guid: http://mjdescy.micro.blog/2018/01/29/the-new-york.html
 ---
