@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-25 23:41:09 -0400
 guid: http://mjdescy.micro.blog/2018/02/26/dear-apple-i.html
 ---
