@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-12 22:39:24 -0400
 guid: http://mjdescy.micro.blog/2018/04/13/i-excitedly-signed.html
 ---
