@@ -3,6 +3,7 @@ layout: post
 title: "🎮 Transistor"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-30 09:10:38 -0400
 guid: http://mjdescy.micro.blog/2018/08/30/transistor.html
 ---
