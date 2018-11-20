@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-10 22:46:03 -0400
 guid: http://mjdescy.micro.blog/2018/07/11/the-app-store.html
 ---
