@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-26 19:48:35 -0400
 guid: http://mjdescy.micro.blog/2018/04/26/i-would-pay.html
 ---
