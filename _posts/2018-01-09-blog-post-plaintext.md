@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-09 08:53:13 -0400
 guid: http://mjdescy.micro.blog/2018/01/09/blog-post-plaintext.html
 ---
