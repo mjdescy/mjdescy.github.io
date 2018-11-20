@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/d5a192e283.jpg
 date: 2018-01-06 09:34:37 -0400
 guid: http://mjdescy.micro.blog/2018/01/06/i-dont-even.html
 ---
