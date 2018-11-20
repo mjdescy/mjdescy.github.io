@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-03 17:04:25 -0400
 guid: http://mjdescy.micro.blog/2018/02/03/im-not-sure.html
 ---
