@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-24 19:47:35 -0400
 guid: http://mjdescy.micro.blog/2018/01/24/im-heading-home.html
 ---
