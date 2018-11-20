@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/5e23a06a8b.jpg
 date: 2018-04-12 16:10:03 -0400
 guid: http://mjdescy.micro.blog/2018/04/12/i-deactivated-by.html
 ---
