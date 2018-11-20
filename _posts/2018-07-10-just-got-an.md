@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-10 13:08:00 -0400
 guid: http://mjdescy.micro.blog/2018/07/10/just-got-an.html
 ---
