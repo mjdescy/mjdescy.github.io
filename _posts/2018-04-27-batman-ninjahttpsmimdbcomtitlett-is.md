@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-27 19:02:29 -0400
 guid: http://mjdescy.micro.blog/2018/04/27/batman-ninjahttpsmimdbcomtitlett-is.html
 ---
