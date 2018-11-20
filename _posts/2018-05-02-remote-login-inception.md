@@ -3,6 +3,7 @@ layout: post
 title: "Remote login Inception"
 microblog: false
 audio: 
+photo: 
 date: 2018-05-02 11:26:56 -0400
 guid: http://mjdescy.micro.blog/2018/05/02/remote-login-inception.html
 ---
