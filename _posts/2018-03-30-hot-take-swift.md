@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-29 21:06:13 -0400
 guid: http://mjdescy.micro.blog/2018/03/30/hot-take-swift.html
 ---
