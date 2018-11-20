@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-07 10:34:57 -0400
 guid: http://mjdescy.micro.blog/2018/03/07/judging-by-the.html
 ---
