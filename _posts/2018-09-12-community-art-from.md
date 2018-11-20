@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/dc81bee8f9.jpg
 date: 2018-09-12 09:23:06 -0400
 guid: http://mjdescy.micro.blog/2018/09/12/community-art-from.html
 ---
