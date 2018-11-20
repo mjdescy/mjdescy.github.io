@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/d547e9d7ae.jpg
 date: 2018-02-23 00:41:40 -0400
 guid: http://mjdescy.micro.blog/2018/02/23/i-would-never.html
 ---
