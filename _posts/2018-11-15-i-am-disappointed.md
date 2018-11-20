@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-15 10:21:37 -0400
 guid: http://mjdescy.micro.blog/2018/11/15/i-am-disappointed.html
 ---
