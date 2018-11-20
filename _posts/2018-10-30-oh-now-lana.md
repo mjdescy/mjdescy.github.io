@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-30 11:22:55 -0400
 guid: http://mjdescy.micro.blog/2018/10/30/oh-now-lana.html
 ---
