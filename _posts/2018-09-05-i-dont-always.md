@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/dcf2ccab08.jpg
 date: 2018-09-05 11:18:39 -0400
 guid: http://mjdescy.micro.blog/2018/09/05/i-dont-always.html
 ---
