@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/93808cdcee.jpg
 date: 2018-10-24 16:35:46 -0400
 guid: http://mjdescy.micro.blog/2018/10/24/my-switch-is.html
 ---
