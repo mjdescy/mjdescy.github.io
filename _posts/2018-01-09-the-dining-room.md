@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/809e854066.jpg
 date: 2018-01-09 13:01:38 -0400
 guid: http://mjdescy.micro.blog/2018/01/09/the-dining-room.html
 ---
