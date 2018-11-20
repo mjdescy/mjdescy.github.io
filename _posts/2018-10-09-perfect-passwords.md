@@ -3,6 +3,7 @@ layout: post
 title: "Perfect Passwords"
 microblog: false
 audio: 
+photo: 
 date: 2018-10-09 11:03:48 -0400
 guid: http://mjdescy.micro.blog/2018/10/09/perfect-passwords.html
 ---
