@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-26 21:38:01 -0400
 guid: http://mjdescy.micro.blog/2018/06/27/my-clever-wellwritten.html
 ---
