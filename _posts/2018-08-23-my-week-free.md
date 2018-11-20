@@ -3,6 +3,7 @@ layout: post
 title: "My 1-week free trial to Marvel Unlimited trial ends today"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-23 09:29:28 -0400
 guid: http://mjdescy.micro.blog/2018/08/23/my-week-free.html
 ---
