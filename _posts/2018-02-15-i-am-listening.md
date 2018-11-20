@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/1cf4df3302.jpg
 date: 2018-02-15 15:20:44 -0400
 guid: http://mjdescy.micro.blog/2018/02/15/i-am-listening.html
 ---
