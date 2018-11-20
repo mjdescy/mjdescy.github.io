@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-26 21:26:00 -0400
 guid: http://mjdescy.micro.blog/2018/09/27/swiftodo-desktops-macos.html
 ---
