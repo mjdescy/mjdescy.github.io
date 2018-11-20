@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-12 20:42:31 -0400
 guid: http://mjdescy.micro.blog/2018/09/13/i-have-unsubscribed.html
 ---
