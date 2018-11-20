@@ -3,6 +3,7 @@ layout: post
 title: "Mac apps are harder than iOS apps"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-26 13:42:22 -0400
 guid: http://mjdescy.micro.blog/2018/04/26/mac-apps-are.html
 ---
