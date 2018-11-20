@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/b65c367dc5.jpg
 date: 2018-07-16 16:36:58 -0400
 guid: http://mjdescy.micro.blog/2018/07/16/im-super-pleased.html
 ---
