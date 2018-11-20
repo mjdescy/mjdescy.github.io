@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/4fb59467b1.jpg
 date: 2018-07-01 17:43:45 -0400
 guid: http://mjdescy.micro.blog/2018/07/01/i-was-finally.html
 ---
