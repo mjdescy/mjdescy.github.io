@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-22 14:03:06 -0400
 guid: http://mjdescy.micro.blog/2018/03/22/i-missed-om.html
 ---
