@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-08 14:00:22 -0400
 guid: http://mjdescy.micro.blog/2018/09/08/i-actually-have.html
 ---
