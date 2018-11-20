@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-05 09:34:07 -0400
 guid: http://mjdescy.micro.blog/2018/10/05/i-wonder-just.html
 ---
