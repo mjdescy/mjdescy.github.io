@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-16 19:54:26 -0400
 guid: http://mjdescy.micro.blog/2018/03/16/i-kicked-my.html
 ---
