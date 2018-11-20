@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-06 21:10:11 -0400
 guid: http://mjdescy.micro.blog/2018/01/07/my-wife-and.html
 ---
