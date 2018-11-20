@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-22 09:03:10 -0400
 guid: http://mjdescy.micro.blog/2018/10/22/the-project-i.html
 ---
