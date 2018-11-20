@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-20 22:21:52 -0400
 guid: http://mjdescy.micro.blog/2018/08/21/im-debugging-ios.html
 ---
