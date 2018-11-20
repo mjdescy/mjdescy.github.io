@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-15 09:30:17 -0400
 guid: http://mjdescy.micro.blog/2018/10/15/without-really-planning.html
 ---
