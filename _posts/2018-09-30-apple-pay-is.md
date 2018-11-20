@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/665be9ba0f.jpg
 date: 2018-09-30 19:38:25 -0400
 guid: http://mjdescy.micro.blog/2018/09/30/apple-pay-is.html
 ---
