@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/5be6041926.jpg
 date: 2018-09-04 20:07:28 -0400
 guid: http://mjdescy.micro.blog/2018/09/05/bretton-woods-new.html
 ---
