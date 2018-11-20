@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/65f94f6882.jpg
 date: 2018-01-03 22:35:25 -0400
 guid: http://mjdescy.micro.blog/2018/01/04/we-are-bracing.html
 ---
