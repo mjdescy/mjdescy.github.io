@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-28 18:48:05 -0400
 guid: http://mjdescy.micro.blog/2018/06/28/i-would-subscribe.html
 ---
