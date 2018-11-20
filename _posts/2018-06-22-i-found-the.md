@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-22 09:17:55 -0400
 guid: http://mjdescy.micro.blog/2018/06/22/i-found-the.html
 ---
