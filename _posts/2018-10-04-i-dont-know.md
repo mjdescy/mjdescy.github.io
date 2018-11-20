@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-03 22:05:16 -0400
 guid: http://mjdescy.micro.blog/2018/10/04/i-dont-know.html
 ---
