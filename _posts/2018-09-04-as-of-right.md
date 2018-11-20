@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-04 15:43:56 -0400
 guid: http://mjdescy.micro.blog/2018/09/04/as-of-right.html
 ---
