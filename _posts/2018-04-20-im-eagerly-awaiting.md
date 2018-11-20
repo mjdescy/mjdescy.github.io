@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/5a37ea34be.jpg
 date: 2018-04-20 09:55:35 -0400
 guid: http://mjdescy.micro.blog/2018/04/20/im-eagerly-awaiting.html
 ---
