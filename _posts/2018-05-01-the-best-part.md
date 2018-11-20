@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/0efce021cd.jpg
 date: 2018-05-01 14:27:03 -0400
 guid: http://mjdescy.micro.blog/2018/05/01/the-best-part.html
 ---
