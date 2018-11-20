@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-16 22:35:39 -0400
 guid: http://mjdescy.micro.blog/2018/02/17/another-swiftodo-update.html
 ---
