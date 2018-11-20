@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-06 22:27:08 -0400
 guid: http://mjdescy.micro.blog/2018/07/07/apples-app-review.html
 ---
