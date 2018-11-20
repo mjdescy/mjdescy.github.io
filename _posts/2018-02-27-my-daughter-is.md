@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-27 12:07:35 -0400
 guid: http://mjdescy.micro.blog/2018/02/27/my-daughter-is.html
 ---
