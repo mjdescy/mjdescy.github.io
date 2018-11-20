@@ -3,6 +3,7 @@ layout: post
 title: "MacBook Pro 2013 Forever?"
 microblog: false
 audio: 
+photo: 
 date: 2018-06-05 12:29:28 -0400
 guid: http://mjdescy.micro.blog/2018/06/05/macbook-pro-forever.html
 ---
