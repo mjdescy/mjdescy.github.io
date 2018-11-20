@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/9800db785e.jpg
 date: 2018-05-18 10:16:15 -0400
 guid: http://mjdescy.micro.blog/2018/05/18/while-i-think.html
 ---
