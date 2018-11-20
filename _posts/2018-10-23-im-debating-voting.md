@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-23 17:12:11 -0400
 guid: http://mjdescy.micro.blog/2018/10/23/im-debating-voting.html
 ---
