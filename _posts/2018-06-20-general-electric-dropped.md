@@ -3,6 +3,7 @@ layout: post
 title: "General Electric Dropped from Dow"
 microblog: false
 audio: 
+photo: 
 date: 2018-06-19 21:51:24 -0400
 guid: http://mjdescy.micro.blog/2018/06/20/general-electric-dropped.html
 ---
