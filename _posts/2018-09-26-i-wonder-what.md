@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-25 22:27:15 -0400
 guid: http://mjdescy.micro.blog/2018/09/26/i-wonder-what.html
 ---
