@@ -3,6 +3,7 @@ layout: post
 title: "Finland Has Second Thoughts About Giving Free Money to Jobless People"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-27 09:08:31 -0400
 guid: http://mjdescy.micro.blog/2018/04/27/finland-has-second.html
 ---
