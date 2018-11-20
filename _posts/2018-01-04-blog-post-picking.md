@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-04 01:05:20 -0400
 guid: http://mjdescy.micro.blog/2018/01/04/blog-post-picking.html
 ---
