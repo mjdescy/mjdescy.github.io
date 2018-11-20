@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/7bfbf1a0e7.jpg
 date: 2018-01-13 21:44:18 -0400
 guid: http://mjdescy.micro.blog/2018/01/14/the-crayola-experience.html
 ---
