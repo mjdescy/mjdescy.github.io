@@ -3,6 +3,7 @@ layout: post
 title: "Amazon is increasing its Prime membership fee"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-26 22:23:08 -0400
 guid: http://mjdescy.micro.blog/2018/04/27/amazon-is-increasing.html
 ---
