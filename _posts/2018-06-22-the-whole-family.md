@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-21 20:09:25 -0400
 guid: http://mjdescy.micro.blog/2018/06/22/the-whole-family.html
 ---
