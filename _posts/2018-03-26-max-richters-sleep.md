@@ -3,6 +3,7 @@ layout: post
 title: "🎵 Max Richter's \"Sleep\""
 microblog: false
 audio: 
+photo: 
 date: 2018-03-25 21:11:03 -0400
 guid: http://mjdescy.micro.blog/2018/03/26/max-richters-sleep.html
 ---
