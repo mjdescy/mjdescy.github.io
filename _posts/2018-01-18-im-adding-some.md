@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/50a95dbe70.jpg
 date: 2018-01-17 23:45:46 -0400
 guid: http://mjdescy.micro.blog/2018/01/18/im-adding-some.html
 ---
