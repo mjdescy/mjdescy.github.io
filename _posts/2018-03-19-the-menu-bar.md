@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-19 08:51:10 -0400
 guid: http://mjdescy.micro.blog/2018/03/19/the-menu-bar.html
 ---
