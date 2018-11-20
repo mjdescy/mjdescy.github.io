@@ -3,6 +3,7 @@ layout: post
 title: "I find myself shifting my listening time away from podcasts and more toward music lately"
 microblog: false
 audio: 
+photo: 
 date: 2018-07-19 20:39:48 -0400
 guid: http://mjdescy.micro.blog/2018/07/20/i-find-myself.html
 ---
