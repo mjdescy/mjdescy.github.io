@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-17 23:51:49 -0400
 guid: http://mjdescy.micro.blog/2018/05/18/blog-post-the.html
 ---
