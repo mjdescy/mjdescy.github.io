@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/49d6177605.jpg
 date: 2018-09-19 12:09:34 -0400
 guid: http://mjdescy.micro.blog/2018/09/19/ocean-grove-new.html
 ---
