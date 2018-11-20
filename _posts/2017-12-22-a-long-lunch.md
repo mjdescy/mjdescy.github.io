@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-22 15:18:23 -0400
 guid: http://mjdescy.micro.blog/2017/12/22/a-long-lunch.html
 ---
