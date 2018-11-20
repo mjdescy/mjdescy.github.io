@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/9ba3260601.jpg
 date: 2018-02-27 23:27:39 -0400
 guid: http://mjdescy.micro.blog/2018/02/28/the-lighttodark-progression.html
 ---
