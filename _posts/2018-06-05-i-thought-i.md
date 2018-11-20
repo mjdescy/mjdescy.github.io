@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-05 00:45:23 -0400
 guid: http://mjdescy.micro.blog/2018/06/05/i-thought-i.html
 ---
