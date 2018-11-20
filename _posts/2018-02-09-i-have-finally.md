@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-08 21:54:57 -0400
 guid: http://mjdescy.micro.blog/2018/02/09/i-have-finally.html
 ---
