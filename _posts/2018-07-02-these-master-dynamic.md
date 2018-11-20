@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/c176169b6f.jpg
 date: 2018-07-02 13:16:44 -0400
 guid: http://mjdescy.micro.blog/2018/07/02/these-master-dynamic.html
 ---
