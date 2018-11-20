@@ -3,6 +3,7 @@ layout: post
 title: "Pure Gold from Pinboard's FAQ"
 microblog: false
 audio: 
+photo: 
 date: 2018-05-10 21:25:02 -0400
 guid: http://mjdescy.micro.blog/2018/05/11/pure-gold-from.html
 ---
