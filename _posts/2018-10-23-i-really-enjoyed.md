@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-23 11:09:44 -0400
 guid: http://mjdescy.micro.blog/2018/10/23/i-really-enjoyed.html
 ---
