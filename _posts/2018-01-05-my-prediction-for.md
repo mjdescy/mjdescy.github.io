@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/5c584937a1.jpg
 date: 2018-01-05 17:47:09 -0400
 guid: http://mjdescy.micro.blog/2018/01/05/my-prediction-for.html
 ---
