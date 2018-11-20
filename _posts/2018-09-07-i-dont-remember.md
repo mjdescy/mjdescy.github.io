@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/bef3d6ce01.jpg
 date: 2018-09-06 20:34:23 -0400
 guid: http://mjdescy.micro.blog/2018/09/07/i-dont-remember.html
 ---
