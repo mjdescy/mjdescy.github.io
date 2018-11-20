@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-30 08:56:52 -0400
 guid: http://mjdescy.micro.blog/2018/10/30/both-my-kids.html
 ---
