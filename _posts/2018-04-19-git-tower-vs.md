@@ -3,6 +3,7 @@ layout: post
 title: "Git Tower vs. Atlassian SourceTree"
 microblog: false
 audio: 
+photo: http://mjdescy.micro.blog/uploads/2018/108abb4d9a.jpg
 date: 2018-04-18 21:54:47 -0400
 guid: http://mjdescy.micro.blog/2018/04/19/git-tower-vs.html
 ---
