@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-14 16:31:25 -0400
 guid: http://mjdescy.micro.blog/2018/03/14/raspberry-pis-new.html
 ---
