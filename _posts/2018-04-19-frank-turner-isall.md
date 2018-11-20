@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-19 16:25:42 -0400
 guid: http://mjdescy.micro.blog/2018/04/19/frank-turner-isall.html
 ---
