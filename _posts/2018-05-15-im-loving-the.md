@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-15 00:59:17 -0400
 guid: http://mjdescy.micro.blog/2018/05/15/im-loving-the.html
 ---
