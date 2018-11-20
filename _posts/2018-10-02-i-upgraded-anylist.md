@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-01 21:07:18 -0400
 guid: http://mjdescy.micro.blog/2018/10/02/i-upgraded-anylist.html
 ---
