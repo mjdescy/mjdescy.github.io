@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-01 21:23:41 -0400
 guid: http://mjdescy.micro.blog/2018/04/02/someone-just-tried.html
 ---
