@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-09 10:40:10 -0400
 guid: http://mjdescy.micro.blog/2018/10/09/norah-jones-has.html
 ---
