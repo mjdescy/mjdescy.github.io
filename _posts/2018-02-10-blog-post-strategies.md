@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-09 22:20:08 -0400
 guid: http://mjdescy.micro.blog/2018/02/10/blog-post-strategies.html
 ---
