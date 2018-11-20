@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/59549c0aa7.jpg
 date: 2018-10-04 16:49:57 -0400
 guid: http://mjdescy.micro.blog/2018/10/04/the-orchard-called.html
 ---
