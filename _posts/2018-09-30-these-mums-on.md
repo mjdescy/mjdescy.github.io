@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.mjdescy.me/uploads/2018/6090d887e5.jpg
 date: 2018-09-30 15:58:56 -0400
 guid: http://mjdescy.micro.blog/2018/09/30/these-mums-on.html
 ---
