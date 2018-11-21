@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/11/21/134642.html",
+	      	
+			"content_html": "<p>I think I need Apple’s “Screen Time” feature only for <em>The Legend of Zelda: Breath of the Wild</em> (which of course runs on the Nintendo Switch).</p>\n",
+			"date_published": "2018-11-21T08:46:42-05:00",
+			"url": "https://micro.mjdescy.me/2018/11/21/134642.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/11/20/most-of-my.html",
 	      	
 			"content_html": "<p>Most of my cooking and cleaning plans today were derailed when my kitchen sink detached from the granite countertop. I was soaking oven racks in scalding hot water, which I do every year around this time, but this time the weight and the heat were too much. The sink’s seaI failed, and the sink dropped about an inch on one side. I had to bail gallons of hot water out with a bowl. Luckily, I was able to get it repaired about an hour later, but I can’t use the sink again until sometime tomorrow. At least this didn’t happen to me on Thanksgiving!</p>\n\n<p><img src=\"https://micro.mjdescy.me/uploads/2018/c80dc7fc6b.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p><a href=\"https://www.nytimes.com/2018/10/25/realestate/a-broadway-actor-has-a-heart-to-heart-about-life-and-laundry.html\">This article</a>, about an actor’s family finding an apartment as they move to NYC, is kind of depressing. It’s unreasonably expensive to live in the city. If I were in his position, I would probably try to live outside the city a little ways.</p>\n",
 			"date_published": "2018-10-30T19:43:40-04:00",
 			"url": "https://micro.mjdescy.me/2018/10/30/234340.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/30/oh-now-lana.html",
-	      	
-			"content_html": "<p>Oh, now Lana Del Ray and Jack Antonoff are on stage. This is the best Apple event in many years.</p>\n",
-			"date_published": "2018-10-30T11:22:55-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/30/oh-now-lana.html"
 		}
 		
 	]
