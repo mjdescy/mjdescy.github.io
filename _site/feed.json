@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/11/22/131246.html",
+	      	
+			"content_html": "<p>I just got up. Time to start cooking!</p>\n",
+			"date_published": "2018-11-22T08:12:46-05:00",
+			"url": "https://micro.mjdescy.me/2018/11/22/131246.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/11/22/the-ny-style.html",
+	      	
+			"content_html": "<p>The NY style crumb cake I baked this evening looks so amateurish that I dubbed it “baby’s first cake”. 😅</p>\n",
+			"date_published": "2018-11-21T22:29:41-05:00",
+			"url": "https://micro.mjdescy.me/2018/11/21/the-ny-style.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/11/21/134642.html",
 	      	
 			"content_html": "<p>I think I need Apple’s “Screen Time” feature only for <em>The Legend of Zelda: Breath of the Wild</em> (which of course runs on the Nintendo Switch).</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>I have not been looking at polls, because I don’t want to drive myself crazy, but I am really nervous about voter turnout for next week’s midterm election. I have a vague dread that Democrats will, once again, not vote in large enough numbers to help un-f*** this country.</p>\n",
 			"date_published": "2018-11-01T20:25:17-04:00",
 			"url": "https://micro.mjdescy.me/2018/11/01/002517.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/11/01/halloween-with-the.html",
-	      	
-			"content_html": "<p>Halloween with the wife and kids was fun. It was unusually warm and we didn’t have many trick-or-treaters in our neighborhood this year.</p>\n",
-			"date_published": "2018-10-31T20:16:50-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/31/halloween-with-the.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/10/30/234340.html",
-	      	
-			"content_html": "<p><a href=\"https://www.nytimes.com/2018/10/25/realestate/a-broadway-actor-has-a-heart-to-heart-about-life-and-laundry.html\">This article</a>, about an actor’s family finding an apartment as they move to NYC, is kind of depressing. It’s unreasonably expensive to live in the city. If I were in his position, I would probably try to live outside the city a little ways.</p>\n",
-			"date_published": "2018-10-30T19:43:40-04:00",
-			"url": "https://micro.mjdescy.me/2018/10/30/234340.html"
 		}
 		
 	]
