@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/11/23/there-are-actually.html",
+	      	
+			"content_html": "<p>There are actually some good Black Friday deals on Master &amp; Dynamics and Bose QC 35 headphones 🎧, and some KEF speakers 🔉🔉 I had my eye on. Of course, I already spent my “gifts to myself” money this year. <a href=\"https://thewirecutter.com/deals/black-friday/\">Wirecutter has a great list of deals</a>. 💸</p>\n",
+			"date_published": "2018-11-23T09:34:25-05:00",
+			"url": "https://micro.mjdescy.me/2018/11/23/there-are-actually.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/11/23/here-is-my.html",
 	      	
 			"content_html": "<p>Here is my obligatory Thanksgiving turkey photo.</p>\n\n<p><img src=\"https://micro.mjdescy.me/uploads/2018/34d644cc2d.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>No one told my kids that Daylight Saving Time has ended. 😴</p>\n",
 			"date_published": "2018-11-04T07:55:32-05:00",
 			"url": "https://micro.mjdescy.me/2018/11/04/no-one-told.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/11/02/votesaveamericas-voting-guide.html",
-	      	
-			"content_html": "<p><a href=\"https://votesaveamerica.com/ballot\">VoteSaveAmerica’s voting guide</a> is very well done. I was able to quickly learn about the candidates and the ballot measures that will be on my actual ballot on November 6.</p>\n",
-			"date_published": "2018-11-01T20:31:00-04:00",
-			"url": "https://micro.mjdescy.me/2018/11/01/votesaveamericas-voting-guide.html"
 		}
 		
 	]
