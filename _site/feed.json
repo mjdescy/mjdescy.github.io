@@ -7,6 +7,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/11/28/removing-dropbox-and.html",
+	      	
+			"title": "Removing Dropbox, and Finding a Replacement for Editorial on iOS",
+			
+			"content_html": "<p>I’m working on retiring Dropbox from all my systems. For personal files, I am all in on iCloud. For work files, which I want separate, I am going to use OneDrive (which is IT-supported). I am stuck, though, trying to figure out what text (and Markdown) editor I can use on iOS that will be acceptable to me. Pretext crashes on long files, but is otherwise OK. 1Writer is OK, but had trouble opening some of my files, and I don’t like its floating buttons. There are so many decent Dropbox-enabled text editors on iOS, but very few that integrate well with the Files app.</p>\n",
+			"date_published": "2018-11-28T13:31:53-05:00",
+			"url": "https://micro.mjdescy.me/2018/11/28/removing-dropbox-and.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/11/26/135745.html",
 	      	
 			"content_html": "<p>Am I the only one who thinks that Facebook’s commercials for its video chat gadget, the Portal, are in incredibly poor taste? Putting aside the obvious problem that putting a video camera controlled by Facebook in your home is a terrible idea on numerous levels, the jokey video calls they depict are so <em>mean spirited</em> that it actually makes me sad to see them.</p>\n",
@@ -196,14 +206,6 @@
 			"content_html": "<p>🕹 I have been playing a <em>lot</em> of Breath of the Wild and Super Mario Odyssey the past couple weeks. I am very glad I bought them. It’s good to have escapist fun for a change.</p>\n",
 			"date_published": "2018-11-05T15:17:23-05:00",
 			"url": "https://micro.mjdescy.me/2018/11/05/201723.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/11/05/i-bought-a.html",
-	      	
-			"content_html": "<p>I bought a “fast” lens for my micro 4/3 camera to take pictures of my kids indoors, where the light is not good. I have gotten some great shots, but I have concluded, after about a month of shooting, that what I really need is a TTL flash that I can bounce off the ceiling.</p>\n",
-			"date_published": "2018-11-05T08:56:41-05:00",
-			"url": "https://micro.mjdescy.me/2018/11/05/i-bought-a.html"
 		}
 		
 	]
