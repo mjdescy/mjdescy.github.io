@@ -4,8 +4,19 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://micro.mjdescy.me/</link>
-    <pubDate>Mon, 26 Nov 2018 08:58:09 -0500</pubDate>
-    <lastBuildDate>Mon, 26 Nov 2018 08:58:09 -0500</lastBuildDate>
+    <pubDate>Wed, 28 Nov 2018 13:32:21 -0500</pubDate>
+    <lastBuildDate>Wed, 28 Nov 2018 13:32:21 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <title>Removing Dropbox, and Finding a Replacement for Editorial on iOS</title>
+        
+        <description>&lt;p&gt;I’m working on retiring Dropbox from all my systems. For personal files, I am all in on iCloud. For work files, which I want separate, I am going to use OneDrive (which is IT-supported). I am stuck, though, trying to figure out what text (and Markdown) editor I can use on iOS that will be acceptable to me. Pretext crashes on long files, but is otherwise OK. 1Writer is OK, but had trouble opening some of my files, and I don’t like its floating buttons. There are so many decent Dropbox-enabled text editors on iOS, but very few that integrate well with the Files app.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Nov 2018 13:31:53 -0500</pubDate>
+        <link>https://micro.mjdescy.me/2018/11/28/removing-dropbox-and.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/11/28/removing-dropbox-and.html</guid>
+      </item>
     
       <item>
       	
@@ -460,15 +471,6 @@
         <pubDate>Mon, 22 Oct 2018 09:03:10 -0400</pubDate>
         <link>https://micro.mjdescy.me/2018/10/22/the-project-i.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/10/22/the-project-i.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I am thrilled that the Red Sox have made it to the World Series. I am a little dismayed, however, that I’m too tired late at night to watch the end of these slow-moving playoff games. (I guess I’m old now.)&lt;/p&gt;
-</description>
-        <pubDate>Fri, 19 Oct 2018 10:45:48 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/10/19/i-am-thrilled.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/10/19/i-am-thrilled.html</guid>
       </item>
     
   </channel>
