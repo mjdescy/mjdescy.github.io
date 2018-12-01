@@ -7,6 +7,34 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/12/01/my-micro-camera.html",
+	      	
+			"title": "My Micro 4/3 Camera is all kitted out",
+			
+			"content_text": "I have just about every accessory I would imagine I...",
+			"date_published": "2018-11-30T20:07:13-05:00",
+			"url": "https://micro.mjdescy.me/2018/11/30/my-micro-camera.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/11/30/kodex-an-ios.html",
+	      	
+			"title": "Kodex: An iOS code/text editor I just discovered",
+			
+			"content_text": "I just discovered a versatile code (and text) editor for...",
+			"date_published": "2018-11-29T21:22:24-05:00",
+			"url": "https://micro.mjdescy.me/2018/11/29/kodex-an-ios.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/11/30/im-fixing-minor.html",
+	      	
+			"content_text": "I’m fixing minor UI bugs in one of my apps...",
+			"date_published": "2018-11-29T21:13:42-05:00",
+			"url": "https://micro.mjdescy.me/2018/11/29/im-fixing-minor.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/11/28/removing-dropbox-and.html",
 	      	
 			"title": "Removing Dropbox, and Finding a Replacement for Editorial on iOS",
