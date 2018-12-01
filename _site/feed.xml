@@ -4,8 +4,63 @@
     <title>Michael Descy</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/mjdescy&quot;&gt;@mjdescy on Micro.blog&lt;/a&gt;.</description>
     <link>https://micro.mjdescy.me/</link>
-    <pubDate>Wed, 28 Nov 2018 13:32:21 -0500</pubDate>
-    <lastBuildDate>Wed, 28 Nov 2018 13:32:21 -0500</lastBuildDate>
+    <pubDate>Fri, 30 Nov 2018 20:07:28 -0500</pubDate>
+    <lastBuildDate>Fri, 30 Nov 2018 20:07:28 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <title>My Micro 4/3 Camera is all kitted out</title>
+        
+        <description>&lt;p&gt;I have just about every accessory I would imagine I would need for my (still) new Olympus OM-D EM10 Mark III camera, and all of them, except for the little carrying case it came with and my AmazonBasics tripod, fit into this little box. I never expected to buy so many lenses in such a short time (over a 4-month period). I was having so much fun shooting photos and expanding my camera’s versatility. I tracked lens prices closely for months and bought each lens on a price dip; all in all I saved hundreds of dollars, compared to what it would have cost if I bought everything up front. Still, I spent way too much money this year on the camera; but at least I’m almost done.&lt;/p&gt;
+
+&lt;p&gt;To keep everything neat and tidy, rather than lumped together in a little box, I think want some kind of padded, hardshell case for everything (such as a Pelican case). I’m not sure it’s worth the expense, though, because I don’t think I would ever take it out of the house. I would continue to use the little case that came with the camera, which I love for its small size. It easily fits the camera and an extra lens or an external flash unit.&lt;/p&gt;
+
+&lt;p&gt;Once I sort the case situation out, I will be done with camera spending…at least for a few years.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://micro.mjdescy.me/uploads/2018/742f860a2d.jpg&quot; width=&quot;600&quot; height=&quot;450&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Nov 2018 20:07:13 -0500</pubDate>
+        <link>https://micro.mjdescy.me/2018/11/30/my-micro-camera.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/12/01/my-micro-camera.html</guid>
+      </item>
+    
+      <item>
+      	
+        <title>Kodex: An iOS code/text editor I just discovered</title>
+        
+        <description>&lt;p&gt;I just discovered a versatile code (and text) editor for iOS called &lt;a href=&quot;https://kodex.app&quot;&gt;Kodex&lt;/a&gt;. It is a free app with some pretty cool features:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;tight integration with the Files app&lt;/li&gt;
+  &lt;li&gt;syntax highlighting for numerous languages (including Markdown)&lt;/li&gt;
+  &lt;li&gt;multiple tabbed interface&lt;/li&gt;
+  &lt;li&gt;a large assortment of hardware keyboard shortcuts, which you can customize the key bindings for&lt;/li&gt;
+  &lt;li&gt;multiple cursor support (it’s more rudimentary than Sublime Text’s, which works with “next word” selection and the mouse, but it’s a desktop-only app)&lt;/li&gt;
+  &lt;li&gt;find/replace&lt;/li&gt;
+  &lt;li&gt;find/replace with regEx&lt;/li&gt;
+  &lt;li&gt;document minimap&lt;/li&gt;
+  &lt;li&gt;a large assortment of themes and color schemes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As nice as iOS is for text editing, especially if you have a hardware keyboard, it is hard to not see just how rudimentary most of its text editors are. There certainly is nothing like BBEdit or Sublime Text available on the platform (though Kodex is definitely aiming at Sublime Text, in its functionality).&lt;/p&gt;
+
+&lt;p&gt;I can’t even think of any iOS text editor, other than Kodex (which I just discovered), that supports working with documents in multiple tabs.  (Apple should really just make a Safari-like tab bar controller a standard component. I know I would use it in my apps.) Even features that are common on the desktop, like find and replace, have only become common on iOS in the past year or so.&lt;/p&gt;
+
+&lt;p&gt;The best text editors on the platform (such as Drafts) are made with MarkDown and automation in mind, which is cool. But they are simplistic compared to what is available on the desktop. I would love it if something as fast and versatile as Sublime Text was released on iOS. I would probably pay a lot of money for it, too.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Nov 2018 21:22:24 -0500</pubDate>
+        <link>https://micro.mjdescy.me/2018/11/29/kodex-an-ios.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/11/30/kodex-an-ios.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’m fixing minor UI bugs in one of my apps this week. I’m doing necessary work, but the &lt;em&gt;big, bad bug&lt;/em&gt; that I rarely see, but know exists, is still out there, somewhere, &lt;em&gt;lurking&lt;/em&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Nov 2018 21:13:42 -0500</pubDate>
+        <link>https://micro.mjdescy.me/2018/11/29/im-fixing-minor.html</link>
+        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/11/30/im-fixing-minor.html</guid>
+      </item>
     
       <item>
       	
@@ -444,33 +499,6 @@
         <pubDate>Tue, 23 Oct 2018 17:12:11 -0400</pubDate>
         <link>https://micro.mjdescy.me/2018/10/23/im-debating-voting.html</link>
         <guid isPermaLink="true">http://mjdescy.micro.blog/2018/10/23/im-debating-voting.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I really enjoyed reading John Gruber’s &lt;a href=&quot;https://daringfireball.net/2018/10/the_iphone_xr&quot;&gt;iPhone XR review&lt;/a&gt; this morning. I am thinking of waiting for the initial buying rush to wear off, and taking my wife to the store to buy her one.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 23 Oct 2018 11:09:44 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/10/23/i-really-enjoyed.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/10/23/i-really-enjoyed.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I have been dithering on the issue for a couple weeks, I finally pulled the trigger and ordered a Nintendo Switch. I ordered Breath of the Wild as my initial game, and hope to have some escapist fun with it soon. I plan to use it almost entirely as a portable system.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 22 Oct 2018 16:27:56 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/10/22/202756.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/10/22/202756.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;The project I am working on right now is on the &lt;a href=&quot;https://www.avclub.com/the-good-place-annotated-jeremy-bearimy-1829851640&quot;&gt;“Jeremy Bearimy”&lt;/a&gt; timeline from “&lt;a href=&quot;https://www.nbc.com/the-good-place&quot;&gt;The Good Place&lt;/a&gt;”, I swear.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 22 Oct 2018 09:03:10 -0400</pubDate>
-        <link>https://micro.mjdescy.me/2018/10/22/the-project-i.html</link>
-        <guid isPermaLink="true">http://mjdescy.micro.blog/2018/10/22/the-project-i.html</guid>
       </item>
     
   </channel>
