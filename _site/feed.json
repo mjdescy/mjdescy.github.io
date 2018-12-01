@@ -7,6 +7,34 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/12/01/my-micro-camera.html",
+	      	
+			"title": "My Micro 4/3 Camera is all kitted out",
+			
+			"content_html": "<p>I have just about every accessory I would imagine I would need for my (still) new Olympus OM-D EM10 Mark III camera, and all of them, except for the little carrying case it came with and my AmazonBasics tripod, fit into this little box. I never expected to buy so many lenses in such a short time (over a 4-month period). I was having so much fun shooting photos and expanding my camera’s versatility. I tracked lens prices closely for months and bought each lens on a price dip; all in all I saved hundreds of dollars, compared to what it would have cost if I bought everything up front. Still, I spent way too much money this year on the camera; but at least I’m almost done.</p>\n\n<p>To keep everything neat and tidy, rather than lumped together in a little box, I think want some kind of padded, hardshell case for everything (such as a Pelican case). I’m not sure it’s worth the expense, though, because I don’t think I would ever take it out of the house. I would continue to use the little case that came with the camera, which I love for its small size. It easily fits the camera and an extra lens or an external flash unit.</p>\n\n<p>Once I sort the case situation out, I will be done with camera spending…at least for a few years.</p>\n\n<p><img src=\"https://micro.mjdescy.me/uploads/2018/742f860a2d.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-11-30T20:07:13-05:00",
+			"url": "https://micro.mjdescy.me/2018/11/30/my-micro-camera.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/11/30/kodex-an-ios.html",
+	      	
+			"title": "Kodex: An iOS code/text editor I just discovered",
+			
+			"content_html": "<p>I just discovered a versatile code (and text) editor for iOS called <a href=\"https://kodex.app\">Kodex</a>. It is a free app with some pretty cool features:</p>\n\n<ul>\n  <li>tight integration with the Files app</li>\n  <li>syntax highlighting for numerous languages (including Markdown)</li>\n  <li>multiple tabbed interface</li>\n  <li>a large assortment of hardware keyboard shortcuts, which you can customize the key bindings for</li>\n  <li>multiple cursor support (it’s more rudimentary than Sublime Text’s, which works with “next word” selection and the mouse, but it’s a desktop-only app)</li>\n  <li>find/replace</li>\n  <li>find/replace with regEx</li>\n  <li>document minimap</li>\n  <li>a large assortment of themes and color schemes</li>\n</ul>\n\n<p>As nice as iOS is for text editing, especially if you have a hardware keyboard, it is hard to not see just how rudimentary most of its text editors are. There certainly is nothing like BBEdit or Sublime Text available on the platform (though Kodex is definitely aiming at Sublime Text, in its functionality).</p>\n\n<p>I can’t even think of any iOS text editor, other than Kodex (which I just discovered), that supports working with documents in multiple tabs.  (Apple should really just make a Safari-like tab bar controller a standard component. I know I would use it in my apps.) Even features that are common on the desktop, like find and replace, have only become common on iOS in the past year or so.</p>\n\n<p>The best text editors on the platform (such as Drafts) are made with MarkDown and automation in mind, which is cool. But they are simplistic compared to what is available on the desktop. I would love it if something as fast and versatile as Sublime Text was released on iOS. I would probably pay a lot of money for it, too.</p>\n",
+			"date_published": "2018-11-29T21:22:24-05:00",
+			"url": "https://micro.mjdescy.me/2018/11/29/kodex-an-ios.html"
+		},
+		
+		{
+			"id": "http://mjdescy.micro.blog/2018/11/30/im-fixing-minor.html",
+	      	
+			"content_html": "<p>I’m fixing minor UI bugs in one of my apps this week. I’m doing necessary work, but the <em>big, bad bug</em> that I rarely see, but know exists, is still out there, somewhere, <em>lurking</em>.</p>\n",
+			"date_published": "2018-11-29T21:13:42-05:00",
+			"url": "https://micro.mjdescy.me/2018/11/29/im-fixing-minor.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/11/28/removing-dropbox-and.html",
 	      	
 			"title": "Removing Dropbox, and Finding a Replacement for Editorial on iOS",
@@ -182,30 +210,6 @@
 			"content_html": "<p>🎵 I thought to myself this morning: “Why don’t I just play <a href=\"https://youtu.be/0d8aVzQY4Zo\">all my songs on shuffle</a>?”</p>\n",
 			"date_published": "2018-11-06T09:47:28-05:00",
 			"url": "https://micro.mjdescy.me/2018/11/06/i-thought-to.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/11/06/my-employer-is.html",
-	      	
-			"content_html": "<p>My employer is changing its email retention policy to discourage employees from keeping email <em>forever</em>, and focusing on its use as a communication tool rather than an historical archive. I have been waiting for 20 years for such a thing to occur.</p>\n",
-			"date_published": "2018-11-06T08:43:37-05:00",
-			"url": "https://micro.mjdescy.me/2018/11/06/my-employer-is.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/11/06/122839.html",
-	      	
-			"content_html": "<p>I am excited to go vote today. My wife and I made a voting plan and everything. Thankfully it is not that hard for us to vote where we live.</p>\n",
-			"date_published": "2018-11-06T07:28:39-05:00",
-			"url": "https://micro.mjdescy.me/2018/11/06/122839.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/11/05/201723.html",
-	      	
-			"content_html": "<p>🕹 I have been playing a <em>lot</em> of Breath of the Wild and Super Mario Odyssey the past couple weeks. I am very glad I bought them. It’s good to have escapist fun for a change.</p>\n",
-			"date_published": "2018-11-05T15:17:23-05:00",
-			"url": "https://micro.mjdescy.me/2018/11/05/201723.html"
 		}
 		
 	]
