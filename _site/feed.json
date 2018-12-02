@@ -7,6 +7,16 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/12/02/my-home-cooking.html",
+	      	
+			"title": "My home cooking tip to add a vegetable and a sauce to stovetop chicken breasts",
+			
+			"content_html": "<p>One of my simple kitchen techniques to spruce up skinless, boneless chicken breasts is to throw a can of beans (cannellini or garbanzo) and some chicken broth on them, after searing the first side. I then cover them and simmer the chicken (typically in the oven) until it is done. I usually throw in some flour at the end, after taking the chicken out, to make a thick and creamy sauce.</p>\n\n<p><img src=\"https://micro.mjdescy.me/uploads/2018/d60e69ad5b.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-12-02T14:09:22-05:00",
+			"url": "https://micro.mjdescy.me/2018/12/02/my-home-cooking.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/12/02/i-bought-my.html",
 	      	
 			"content_html": "<p>I bought my wife the iPhone XR tonight at the Apple Store. She and I had fun setting it up. If it came out before the X, I think people would not have gone so crazy about the X.</p>\n",
@@ -202,14 +212,6 @@
 			"content_html": "<p>I voted!</p>\n",
 			"date_published": "2018-11-06T14:51:34-05:00",
 			"url": "https://micro.mjdescy.me/2018/11/06/i-voted.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/11/06/my-favorite-line.html",
-	      	
-			"content_html": "<p>My favorite line from <a href=\"https://micro.blog/gruber\">@gruber</a>’s <a href=\"https://daringfireball.net/2018/11/the_2018_retina_macbook_air\">2018 MacBook Air review</a>:</p>\n\n<blockquote>\n  <p>The Esc key works perfectly.</p>\n</blockquote>\n\n<p>I am so relieved.</p>\n",
-			"date_published": "2018-11-06T10:23:08-05:00",
-			"url": "https://micro.mjdescy.me/2018/11/06/my-favorite-line.html"
 		}
 		
 	]
