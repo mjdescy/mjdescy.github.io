@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/12/02/i-bought-my.html",
+	      	
+			"content_html": "<p>I bought my wife the iPhone XR tonight at the Apple Store. She and I had fun setting it up. If it came out before the X, I think people would not have gone so crazy about the X.</p>\n",
+			"date_published": "2018-12-01T21:56:10-05:00",
+			"url": "https://micro.mjdescy.me/2018/12/01/i-bought-my.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/12/01/my-micro-camera.html",
 	      	
 			"title": "My Micro 4/3 Camera is all kitted out",
@@ -202,14 +210,6 @@
 			"content_html": "<p>My favorite line from <a href=\"https://micro.blog/gruber\">@gruber</a>’s <a href=\"https://daringfireball.net/2018/11/the_2018_retina_macbook_air\">2018 MacBook Air review</a>:</p>\n\n<blockquote>\n  <p>The Esc key works perfectly.</p>\n</blockquote>\n\n<p>I am so relieved.</p>\n",
 			"date_published": "2018-11-06T10:23:08-05:00",
 			"url": "https://micro.mjdescy.me/2018/11/06/my-favorite-line.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/11/06/i-thought-to.html",
-	      	
-			"content_html": "<p>🎵 I thought to myself this morning: “Why don’t I just play <a href=\"https://youtu.be/0d8aVzQY4Zo\">all my songs on shuffle</a>?”</p>\n",
-			"date_published": "2018-11-06T09:47:28-05:00",
-			"url": "https://micro.mjdescy.me/2018/11/06/i-thought-to.html"
 		}
 		
 	]
