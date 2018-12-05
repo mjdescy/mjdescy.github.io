@@ -4,7 +4,7 @@ title: "Pure Gold from Pinboard's FAQ"
 microblog: false
 audio: 
 photo: 
-date: 2018-05-10 21:25:02 -0400
+date: 2018-05-10 20:25:02 -0500
 guid: http://mjdescy.micro.blog/2018/05/11/pure-gold-from.html
 ---
 I came across this tonight, as I was perusing [Pinboard's FAQ](https://pinboard.in/faq/#cjk_search), trying to learn something different about the service that I have been ignoring for the past year or so.
