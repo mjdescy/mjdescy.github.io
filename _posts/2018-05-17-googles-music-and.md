@@ -4,7 +4,7 @@ title: "Google's music and video streaming strategy is a mess"
 microblog: false
 audio: 
 photo: 
-date: 2018-05-17 12:28:39 -0400
+date: 2018-05-17 11:28:39 -0500
 guid: http://mjdescy.micro.blog/2018/05/17/googles-music-and.html
 ---
 [Engadget has it right](https://www.engadget.com/2018/05/17/google-play-youtube-music-premium-strategy/). I have no idea what Google audio/video service I should ever consider subscribing to, and because music is tied in there, they don't offer what I want (ad-free YouTube) at price that is reasonable to me. Maybe it doesn't matter, because Google will just fold it and create an alternative service, with a different name, price, and product mix, in a couple years anyway.
