@@ -4,7 +4,7 @@ title: "An update on the new Chromebook"
 microblog: false
 audio: 
 photo: 
-date: 2018-10-16 22:20:04 -0400
+date: 2018-10-16 21:20:04 -0500
 guid: http://mjdescy.micro.blog/2018/10/17/an-update-on.html
 ---
 I just finished setting up my daughter's new Chromebook. I bought her an Asus C302C. It's a nice machine—66% of a MacBook Air for 50% of the cost, plus a touchscreen and 180º hinge for tablet mode.
