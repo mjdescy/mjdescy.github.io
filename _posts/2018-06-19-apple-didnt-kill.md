@@ -4,7 +4,7 @@ title: "Apple Didn't Kill Appkit..."
 microblog: false
 audio: 
 photo: 
-date: 2018-06-19 17:02:43 -0400
+date: 2018-06-19 16:02:43 -0500
 guid: http://mjdescy.micro.blog/2018/06/19/apple-didnt-kill.html
 ---
 
