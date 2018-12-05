@@ -4,7 +4,7 @@ title: "Amazon is increasing its Prime membership fee"
 microblog: false
 audio: 
 photo: 
-date: 2018-04-26 22:23:08 -0400
+date: 2018-04-26 21:23:08 -0500
 guid: http://mjdescy.micro.blog/2018/04/27/amazon-is-increasing.html
 ---
 [Amazon is increasing the price of Prime membership](https://www.washingtonpost.com/business/economy/amazon-doubles-its-profit---and-hikes-prime-membership-by-20/2018/04/26/31f5a14c-489a-11e8-827e-190efaf1f1ee_story.html?utm_term=.ff2227bbf7cb):
