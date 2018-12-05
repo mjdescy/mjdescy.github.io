@@ -4,7 +4,7 @@ title: "From Spotify to Indie and Beyond: A Top Dev Interview With John Sundell"
 microblog: false
 audio: 
 photo: 
-date: 2018-05-11 13:16:51 -0400
+date: 2018-05-11 12:16:51 -0500
 guid: http://mjdescy.micro.blog/2018/05/11/from-spotify-to.html
 ---
 
