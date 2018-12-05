@@ -4,7 +4,7 @@ title: "🎵 First listen: Mean Girls (Original Broadway Cast)"
 microblog: false
 audio: 
 photo: 
-date: 2018-05-22 16:08:22 -0400
+date: 2018-05-22 15:08:22 -0500
 guid: http://mjdescy.micro.blog/2018/05/22/first-listen-mean.html
 ---
 [Mean Girls (Original Broadway Cast)](https://itunes.apple.com/us/album/mean-girls-original-broadway-cast-recording/1372106911) is up for the Tony for best musical this year, and I think it has a legitimate shot. While this _is_ a weak year for the American musical, the music of "Mean Girls" is fun and catchy, and the lyrics are funny and full of wordplay. The singing and production of the cast album are top notch, too.
