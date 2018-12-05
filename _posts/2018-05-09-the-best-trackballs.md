@@ -4,7 +4,7 @@ title: "The Best Trackballs according to Wirecutter"
 microblog: false
 audio: 
 photo: 
-date: 2018-05-09 13:50:14 -0400
+date: 2018-05-09 12:50:14 -0500
 guid: http://mjdescy.micro.blog/2018/05/09/the-best-trackballs.html
 ---
 Wirecutter updated its [trackballs review](https://thewirecutter.com/reviews/best-trackballs/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed) today. Their recommendations are basically unchanged, which is no surprise, because the entire trackball market has been stagnant for years. 
