@@ -4,7 +4,7 @@ title: "Om Malik's Shinola Canfield headphone review"
 microblog: false
 audio: 
 photo: 
-date: 2018-04-29 20:53:33 -0400
+date: 2018-04-29 19:53:33 -0500
 guid: http://mjdescy.micro.blog/2018/04/30/om-maliks-shinola.html
 ---
 Om Malik wrote [a thoughtful review](https://om.co/2018/04/29/shinolas-canfield-headphones/) of a rather high end headphone, the Shinola Canfield. He includes his philosophy on what makes good headphones, and states that you can find really good headphones between $200 and $500, which I wholeheartedly agree with. I especially enjoyed learning about which headphones he keeps around:
