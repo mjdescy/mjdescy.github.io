@@ -4,7 +4,7 @@ title: "The 2017 Panic Report"
 microblog: false
 audio: 
 photo: 
-date: 2018-05-03 23:40:14 -0400
+date: 2018-05-03 22:40:14 -0500
 guid: http://mjdescy.micro.blog/2018/05/04/the-panic-report.html
 ---
 
