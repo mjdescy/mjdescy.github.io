@@ -4,7 +4,7 @@ title: "Is the Aeneid a Celebration of Empire—or a Critique?"
 microblog: false
 audio: 
 photo: 
-date: 2018-10-12 20:29:53 -0400
+date: 2018-10-12 19:29:53 -0500
 guid: http://mjdescy.micro.blog/2018/10/13/is-the-aeneid.html
 ---
 
