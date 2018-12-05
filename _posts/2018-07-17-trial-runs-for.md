@@ -4,7 +4,7 @@ title: "Trial runs for fascism are in full flow"
 microblog: false
 audio: 
 photo: 
-date: 2018-07-17 11:18:08 -0400
+date: 2018-07-17 10:18:08 -0500
 guid: http://mjdescy.micro.blog/2018/07/17/trial-runs-for.html
 ---
 
