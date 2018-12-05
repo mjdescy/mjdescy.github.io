@@ -4,7 +4,7 @@ title: "I miss Apple's Aperture"
 microblog: false
 audio: 
 photo: 
-date: 2018-08-26 15:12:37 -0400
+date: 2018-08-26 14:12:37 -0500
 guid: http://mjdescy.micro.blog/2018/08/26/i-miss-apples.html
 ---
 
