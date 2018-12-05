@@ -4,7 +4,7 @@ title: "🎵 Frightened Rabbit singer commits suicide 😥"
 microblog: false
 audio: 
 photo: 
-date: 2018-05-11 09:49:38 -0400
+date: 2018-05-11 08:49:38 -0500
 guid: http://mjdescy.micro.blog/2018/05/11/frightened-rabbit-singer.html
 ---
 (My original title was just an expletive.)
