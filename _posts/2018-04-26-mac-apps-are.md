@@ -4,7 +4,7 @@ title: "Mac apps are harder than iOS apps"
 microblog: false
 audio: 
 photo: 
-date: 2018-04-26 13:42:22 -0400
+date: 2018-04-26 12:42:22 -0500
 guid: http://mjdescy.micro.blog/2018/04/26/mac-apps-are.html
 ---
 I agree with Matt Ronge's article “[Mac apps are harder than iOS apps](https://medium.com/astro-hq/mac-apps-are-harder-than-ios-apps-614338e2e470)”.
