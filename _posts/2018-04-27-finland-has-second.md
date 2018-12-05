@@ -4,7 +4,7 @@ title: "Finland Has Second Thoughts About Giving Free Money to Jobless People"
 microblog: false
 audio: 
 photo: 
-date: 2018-04-27 09:08:31 -0400
+date: 2018-04-27 08:08:31 -0500
 guid: http://mjdescy.micro.blog/2018/04/27/finland-has-second.html
 ---
 [Finland is letting its yearlong experiment with Universal Basic Income expire](https://nyti.ms/2HpHmQE). It turns out giving out tax money to people with no strings attached isn't widely popular. What is interesting to me, a US citizen, is this:
