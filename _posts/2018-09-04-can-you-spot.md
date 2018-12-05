@@ -4,7 +4,7 @@ title: "Can You Spot the Deceptive Facebook Post?"
 microblog: false
 audio: 
 photo: 
-date: 2018-09-04 15:21:35 -0400
+date: 2018-09-04 14:21:35 -0500
 guid: http://mjdescy.micro.blog/2018/09/04/can-you-spot.html
 ---
 
