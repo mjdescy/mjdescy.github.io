@@ -4,7 +4,7 @@ title: "As Kennedy Retires, the Supreme Court’s Attack on Labor Unions Is a Si
 microblog: false
 audio: 
 photo: 
-date: 2018-06-27 20:55:19 -0400
+date: 2018-06-27 19:55:19 -0500
 guid: http://mjdescy.micro.blog/2018/06/28/as-kennedy-retires.html
 ---
 
