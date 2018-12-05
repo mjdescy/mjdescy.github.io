@@ -4,7 +4,7 @@ title: "Introducing The New Yorker Crossword Puzzle"
 microblog: false
 audio: 
 photo: 
-date: 2018-04-30 11:43:23 -0400
+date: 2018-04-30 10:43:23 -0500
 guid: http://mjdescy.micro.blog/2018/04/30/introducing-the-new.html
 ---
 [The New Yorker just launched a crossword puzzle](https://www.newyorker.com/crossword/puzzles-dept/2018/04/30).
