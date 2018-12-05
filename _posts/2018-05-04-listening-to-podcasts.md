@@ -4,7 +4,7 @@ title: "Listening to Podcasts without Voice Boost"
 microblog: false
 audio: 
 photo: 
-date: 2018-05-04 09:14:54 -0400
+date: 2018-05-04 08:14:54 -0500
 guid: http://mjdescy.micro.blog/2018/05/04/listening-to-podcasts.html
 ---
 
