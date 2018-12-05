@@ -4,7 +4,7 @@ title: "Prolific Apple supply chain analyst Ming-Chi Kuo departs KGI Securities,
 microblog: false
 audio: 
 photo: 
-date: 2018-04-30 09:49:29 -0400
+date: 2018-04-30 08:49:29 -0500
 guid: http://mjdescy.micro.blog/2018/04/30/prolific-apple-supply.html
 ---
 [Kuo’s departure](https://9to5mac.com/2018/04/30/prolific-apple-supply-chain-analyst-ming-chi-kuo-departs-kgi/) comes hot off the heels of [Apple’s recent “leaked” memo](https://9to5mac.com/2018/04/13/apple-memo-on-leaks-leaks/) about leaking that threatened the leaky leaders who leak. 
