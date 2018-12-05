@@ -4,7 +4,7 @@ title: "Learning the Core Data Framework"
 microblog: false
 audio: 
 photo: 
-date: 2018-06-12 23:45:45 -0400
+date: 2018-06-12 22:45:45 -0500
 guid: http://mjdescy.micro.blog/2018/06/13/learning-the-core.html
 ---
 Lately I have taken it upon myself to finally teach myself [Core Data](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreData/index.html?utm_source=iosstash.io). I had avoided it for years, due to its complexity and because it was _too much_ for my projects. I decided to learn it to challenge myself and to level up a bit as an iOS developer.
