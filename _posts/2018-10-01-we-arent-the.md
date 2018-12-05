@@ -4,7 +4,7 @@ title: "We Aren’t The Only Ones Who Like Apples"
 microblog: false
 audio: 
 photo: http://micro.mjdescy.me/uploads/2018/062a478c68.jpg
-date: 2018-10-01 08:00:34 -0400
+date: 2018-10-01 07:00:34 -0500
 guid: http://mjdescy.micro.blog/2018/10/01/we-arent-the.html
 ---
 
