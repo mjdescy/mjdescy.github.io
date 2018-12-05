@@ -3,7 +3,7 @@ layout: post
 microblog: true
 audio: 
 photo: 
-date: 2018-09-13 09:20:43 -0400
+date: 2018-09-13 08:20:43 -0500
 guid: http://mjdescy.micro.blog/2018/09/13/sigh-no-stainless.html
 ---
 
