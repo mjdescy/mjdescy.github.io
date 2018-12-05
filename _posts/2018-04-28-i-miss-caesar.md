@@ -4,7 +4,7 @@ title: "I miss Caesar salad"
 microblog: false
 audio: 
 photo: 
-date: 2018-04-27 21:35:39 -0400
+date: 2018-04-27 20:35:39 -0500
 guid: http://mjdescy.micro.blog/2018/04/28/i-miss-caesar.html
 ---
 It seems to me that massive outbreaks of food borne illness are becoming more and more common. That [our current, worsening outbreak](https://www.nbcnews.com/health/health-news/romaine-lettuce-e-coli-outbreak-worsens-98-people-now-sick-n869681) is the _second_ E. Coli outbreak tied to my favorite type of lettuce in the past six months or so, and it is so virulent, is making me feel worried about our food system, and pessimistic about my country’s will to improve it.
