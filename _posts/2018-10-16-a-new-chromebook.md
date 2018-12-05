@@ -4,7 +4,7 @@ title: "A new Chromebook"
 microblog: false
 audio: 
 photo: 
-date: 2018-10-16 14:43:39 -0400
+date: 2018-10-16 13:43:39 -0500
 guid: http://mjdescy.micro.blog/2018/10/16/a-new-chromebook.html
 ---
 
