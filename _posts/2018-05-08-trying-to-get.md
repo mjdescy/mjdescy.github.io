@@ -4,7 +4,7 @@ title: "Trying to get back into Pinboard, or, maybe I am over-complicating thing
 microblog: false
 audio: 
 photo: 
-date: 2018-05-08 10:44:53 -0400
+date: 2018-05-08 09:44:53 -0500
 guid: http://mjdescy.micro.blog/2018/05/08/trying-to-get.html
 ---
 
