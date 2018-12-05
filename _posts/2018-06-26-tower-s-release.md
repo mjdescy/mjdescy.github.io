@@ -4,7 +4,7 @@ title: "Tower 3.0's release and new pricing model"
 microblog: false
 audio: 
 photo: 
-date: 2018-06-26 09:37:40 -0400
+date: 2018-06-26 08:37:40 -0500
 guid: http://mjdescy.micro.blog/2018/06/26/tower-s-release.html
 ---
 
