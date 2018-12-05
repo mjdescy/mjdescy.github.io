@@ -4,7 +4,7 @@ title: "The New Dark Sky App"
 microblog: false
 audio: 
 photo: 
-date: 2018-08-20 12:30:44 -0400
+date: 2018-08-20 11:30:44 -0500
 guid: http://mjdescy.micro.blog/2018/08/20/the-new-dark.html
 ---
 
