@@ -4,7 +4,7 @@ title: "Apple's New Proprietary Software Locks Kill Independent Repair on New Ma
 microblog: false
 audio: 
 photo: 
-date: 2018-10-05 10:23:54 -0400
+date: 2018-10-05 09:23:54 -0500
 guid: http://mjdescy.micro.blog/2018/10/05/apples-new-proprietary.html
 ---
 
