@@ -4,7 +4,7 @@ title: "🎵 Okkervil River's back catalog"
 microblog: false
 audio: 
 photo: 
-date: 2018-05-08 17:01:35 -0400
+date: 2018-05-08 16:01:35 -0500
 guid: http://mjdescy.micro.blog/2018/05/08/okkervil-rivers-back.html
 ---
 Listening to Okkervil River's new album, _[In the Rainbow Rain](https://itunes.apple.com/us/album/in-the-rainbow-rain/1342462882)_, today gave me an excuse to dive, once again, into their back catalog. I am a huge fan of the band's 2005-2008 work, a trifecta of literate rock albums: _[Black Sheep Boy](https://itunes.apple.com/us/album/black-sheep-boy-10th-anniversary-edition/1036936862)_, _[The Stand Ins](https://itunes.apple.com/us/album/the-stand-ins/543561172)_, and _[The Stage Names](https://itunes.apple.com/us/album/the-stage-names-bonus-track-version/453256340)_. Each of these albums is a staggering artistic achievement; each song on them is an evocative short story with enough weight, depth, and maturity to reward repeated listenings. 
