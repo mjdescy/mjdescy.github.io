@@ -4,7 +4,7 @@ title: "Joe Steel's Guide to Mastodon"
 microblog: false
 audio: 
 photo: 
-date: 2018-08-21 19:54:06 -0400
+date: 2018-08-21 18:54:06 -0500
 guid: http://mjdescy.micro.blog/2018/08/21/joe-steels-guide.html
 ---
 [This blog post](http://joe-steel.com/2018-08-20-First-Time-Tooter-Long-Time-Tweeter.html) is a great overview of Mastodon.
