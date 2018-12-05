@@ -4,7 +4,7 @@ title: "My speakers over the years"
 microblog: false
 audio: 
 photo: 
-date: 2018-08-26 23:21:00 -0400
+date: 2018-08-26 22:21:00 -0500
 guid: http://mjdescy.micro.blog/2018/08/27/my-speakers-over.html
 ---
 While I was on vacation, I wrote a series of blog posts about all my old speaker systems. My goal was to trace my journey from a normal person to an audiophile, as I upgrade my gear up over the years.
