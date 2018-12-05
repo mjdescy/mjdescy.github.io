@@ -3,7 +3,7 @@ layout: post
 microblog: true
 audio: 
 photo: 
-date: 2018-07-08 18:26:01 -0400
+date: 2018-07-08 17:26:01 -0500
 guid: http://mjdescy.micro.blog/2018/07/08/salsas-at-my.html
 ---
 Salsas at my family's favorite Mexican restaurant:
