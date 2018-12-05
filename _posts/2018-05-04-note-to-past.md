@@ -3,7 +3,7 @@ layout: post
 microblog: true
 audio: 
 photo: 
-date: 2018-05-03 20:59:30 -0400
+date: 2018-05-03 19:59:30 -0500
 guid: http://mjdescy.micro.blog/2018/05/04/note-to-past.html
 ---
 Note to past self:
