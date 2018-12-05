@@ -4,7 +4,7 @@ title: "Alas, no SwiftoDo update submission to the App Store today"
 microblog: false
 audio: 
 photo: 
-date: 2018-08-23 14:08:20 -0400
+date: 2018-08-23 13:08:20 -0500
 guid: http://mjdescy.micro.blog/2018/08/23/alas-no-swiftodo.html
 ---
 
