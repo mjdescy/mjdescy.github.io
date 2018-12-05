@@ -4,7 +4,7 @@ title: "Edit for iOS"
 microblog: false
 audio: 
 photo: 
-date: 2018-06-06 14:37:47 -0400
+date: 2018-06-06 13:37:47 -0500
 guid: http://mjdescy.micro.blog/2018/06/06/edit-for-ios.html
 ---
 
