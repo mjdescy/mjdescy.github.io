@@ -4,7 +4,7 @@ title: "Too many, and too few emoji"
 microblog: false
 audio: 
 photo: 
-date: 2018-10-03 19:31:28 -0400
+date: 2018-10-03 18:31:28 -0500
 guid: http://mjdescy.micro.blog/2018/10/03/too-many-and.html
 ---
 
