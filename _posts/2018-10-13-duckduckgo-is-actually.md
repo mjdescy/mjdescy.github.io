@@ -4,7 +4,7 @@ title: "DuckDuckGo is actually pretty great"
 microblog: false
 audio: 
 photo: 
-date: 2018-10-12 20:46:29 -0400
+date: 2018-10-12 19:46:29 -0500
 guid: http://mjdescy.micro.blog/2018/10/13/duckduckgo-is-actually.html
 ---
 
