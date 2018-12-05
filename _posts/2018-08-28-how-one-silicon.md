@@ -4,7 +4,7 @@ title: "How One Silicon Valley C.E.O. Masters Work-Life Balance  "
 microblog: false
 audio: 
 photo: 
-date: 2018-08-27 22:06:00 -0400
+date: 2018-08-27 21:06:00 -0500
 guid: http://mjdescy.micro.blog/2018/08/28/how-one-silicon.html
 ---
 
