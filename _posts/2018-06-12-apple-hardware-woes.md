@@ -4,7 +4,7 @@ title: "Apple hardware woes"
 microblog: false
 audio: 
 photo: 
-date: 2018-06-12 17:08:31 -0400
+date: 2018-06-12 16:08:31 -0500
 guid: http://mjdescy.micro.blog/2018/06/12/apple-hardware-woes.html
 ---
 
