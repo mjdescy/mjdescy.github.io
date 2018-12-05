@@ -4,7 +4,7 @@ title: "Introducing my latest iOS app: Simple Call Blocker"
 microblog: false
 audio: 
 photo: 
-date: 2018-07-24 23:25:43 -0400
+date: 2018-07-24 22:25:43 -0500
 guid: http://mjdescy.micro.blog/2018/07/25/introducing-my-latest.html
 ---
 [Simple Call Blocker](https://simplecallblockerapp.com) is a [free app](https://itunes.apple.com/us/app/simple-call-blocker/id1409872025?ls=1&mt=8) for blocking unwanted calls on iOS. 
