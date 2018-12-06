@@ -4,7 +4,7 @@ title: "Kodex: An iOS code/text editor I just discovered"
 microblog: false
 audio: 
 photo: 
-date: 2018-11-29 22:22:24 -0400
+date: 2018-11-29 21:22:24 -0500
 guid: http://mjdescy.micro.blog/2018/11/30/kodex-an-ios.html
 ---
 
