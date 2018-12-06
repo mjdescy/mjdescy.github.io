@@ -4,7 +4,7 @@ title: "Removing Dropbox, and Finding a Replacement for Editorial on iOS"
 microblog: false
 audio: 
 photo: 
-date: 2018-11-28 14:31:53 -0400
+date: 2018-11-28 13:31:53 -0500
 guid: http://mjdescy.micro.blog/2018/11/28/removing-dropbox-and.html
 ---
 
