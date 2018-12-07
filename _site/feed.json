@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://mjdescy.micro.blog/2018/12/07/the-grammy-awards.html",
+	      	
+			"content_html": "<p>🎵 The Grammy Awards are really, really stupid. Still, you should <a href=\"https://itunes.apple.com/us/album/by-the-way-i-forgive-you/1310052885\">listen to some Brandi Carlile</a>, who <a href=\"https://www.npr.org/2018/12/07/674493226/kendrick-lamar-female-nominees-lead-major-grammy-nominations\">was nominated for a bunch of them today</a>.</p>\n",
+			"date_published": "2018-12-07T15:03:10-05:00",
+			"url": "https://micro.mjdescy.me/2018/12/07/the-grammy-awards.html"
+		},
+		
+		{
 			"id": "http://mjdescy.micro.blog/2018/12/06/cool-the-new.html",
 	      	
 			"content_html": "<p>Cool. <a href=\"https://www.macstories.net/news/electrocardiogram-app-and-irregular-heart-rhythm-notifications-available-today/\">The new heart monitoring and ECG features are hitting the Apple Watch Series 4 today.</a></p>\n\n",
@@ -206,14 +214,6 @@
 			"content_html": "<p>I am happy that I was able to cook homemade chicken soup for my family this evening.</p>\n",
 			"date_published": "2018-11-15T18:52:55-05:00",
 			"url": "https://micro.mjdescy.me/2018/11/15/235255.html"
-		},
-		
-		{
-			"id": "http://mjdescy.micro.blog/2018/11/15/i-cant-believe.html",
-	      	
-			"content_html": "<p>I can’t believe we got a couple inches of snow on the ground today.</p>\n",
-			"date_published": "2018-11-15T18:09:19-05:00",
-			"url": "https://micro.mjdescy.me/2018/11/15/i-cant-believe.html"
 		}
 		
 	]
